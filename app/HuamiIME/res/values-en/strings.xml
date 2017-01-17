@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HuamiIME</string>
+    <string name="connect_phone">请连接Amazfit手助</string>
+    <string name="input_by_phone">请在Amazfit手助中输入</string>
+</resources>

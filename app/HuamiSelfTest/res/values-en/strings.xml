@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">手表自检</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">OK</string>
+    <string name="prev_item">上一项</string>
+    <string name="next_item">下一项</string>
+    <string name="retest">重测</string>
+    <string name="start_ppg">开始整机</string>
+    <string name="start_all">开始全部</string>
+    <string name="mic">MIC</string>
+    <string name="start">开始</string>
+    <string name="start_gps_test">开始Gps测试</string>
+    <string name="test_vibrator">马达震动(再次点击取消)</string>
+    <string name="test_tp">触摸屏测试</string>
+</resources>
