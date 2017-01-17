@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:layout_width="@dimen/sport_width" android:layout_height="wrap_content" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.sport.ui.view.NumberTextView android:gravity="center_vertical" android:id="@id/sport_head_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/running_head_big_margin" android:text="@string/default_double_value" android:layout_marginStart="@dimen/sport_info_item_padding_start" style="@style/sport_distance_text_style" />
+    <com.huami.watch.sport.ui.view.NumberTextView android:textSize="20.0sp" android:id="@id/sport_info_top_value" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_alignTop="@id/sport_head_value" android:layout_marginStart="4.0dip" android:layout_toEndOf="@id/sport_head_value" style="@style/sport_info_item_value" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:textColor="@color/default_background_white" android:id="@id/sport_head_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="11.0dip" android:layout_alignParentBottom="true" android:layout_marginStart="4.0dip" android:layout_toEndOf="@id/sport_head_value" style="@style/sport_num_text_style" />
+    <include android:id="@id/split_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/split_line" />
+</com.huami.watch.common.widget.HmRelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom" android:id="@id/background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="center" android:contentDescription="@null" />
+    <RelativeLayout android:layout_gravity="center|top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size_badge_image_offset">
+        <ImageView android:id="@id/medal_icon1" android:layout_width="@dimen/size_badge_in_list" android:layout_height="@dimen/size_badge_in_list" android:scaleType="center" android:contentDescription="@null" android:layout_marginEnd="@dimen/size_item_space" />
+        <ImageView android:id="@id/medal_icon2" android:layout_width="@dimen/size_badge_in_list" android:layout_height="@dimen/size_badge_in_list" android:scaleType="center" android:contentDescription="@null" android:layout_marginStart="@dimen/size_item_space" android:layout_toEndOf="@id/medal_icon1" />
+    </RelativeLayout>
+</FrameLayout>

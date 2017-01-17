@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.hmwatchmanager" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <permission android:description="@string/permission_read_user_info" android:label="permission_read_user_info" android:name="com.huami.watch.permission.READ_USER_SETTINGS" android:protectionLevel="signature"/>
+    <permission android:description="@string/permission_write_user_info" android:label="permission_write_user_info" android:name="com.huami.watch.permission.WRITE_USER_SETTINGS" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SET_TIME"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <uses-permission android:name="android.permission.MASTER_CLEAR"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.huami.watch.manager_client.WatchApplication" android:theme="@style/AppTheme">
+        <receiver android:name="com.huami.watch.manager_client.startReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_TICK"/>
+                <action android:name="com.huami.watch.datasend"/>
+                <action android:name="com.huami.watch.datasend_file"/>
+                <action android:name="com.huami.watch.datasend_ios_mywatch"/>
+                <action android:name="com.huami.watch.action.DEVICE_CONNECTION_CHANGED"/>
+                <action android:name="com.huami.watch.action.DEVICE_CONNECTION_CHANGED_IOS"/>
+                <action android:name="com.huami.watch.action.token_query"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.huami.watch.manager_client.BGService_msg">
+            <intent-filter>
+                <action android:name="cn.com.huami_service.action"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.manager_client.BGService_file">
+            <intent-filter>
+                <action android:name="cn.com.huami_service_file.action"/>
+            </intent-filter>
+        </service>
+        <activity android:label="VoiceRecTest" android:name="com.huami.watch.manager_client.voicerec.VoiceRecTest"/>
+        <activity android:label="@string/app_name" android:name="com.huami.watch.manager_client.FindPhoneActivity"/>
+        <activity android:name="com.huami.watch.manager_client.MainActivity">
+            <intent-filter>
+                <action android:name="com.huami.watch.companion.START"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.huami.watch.companion.initial.InitialLanguageActivity"/>
+        <activity android:name="com.huami.watch.companion.initial.InitialCompanionTipActivity"/>
+        <activity android:name="com.huami.watch.companion.initial.InitialLowBatteryTipActivity"/>
+        <activity android:name="com.huami.watch.companion.initial.InitialPairActivity"/>
+        <activity android:name="com.huami.watch.companion.initial.InitialUnpairTipActivity"/>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.uniconnect.ConnectionService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.uniconnect.ConnectionService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.smartsense.SensorService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.smartsense.SensorService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.smartsense.RemoteSensorService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.smartsense.RemoteSensorService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.remotedevice.RemoteDeviceService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.remotedevice.RemoteDeviceService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.IwdsService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.IwdsService"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.huami.watch.setup.usersettings" android:exported="true" android:name="com.huami.watch.companion.userinfo.UserInfoContentProvider" android:readPermission="com.huami.watch.permission.READ_USER_SETTINGS" android:writePermission="com.huami.watch.permission.WRITE_USER_SETTINGS"/>
+        <provider android:authorities="com.huami.watch.companion.settings" android:exported="true" android:name="com.huami.watch.companion.settings.SettingsProvider"/>
+    </application>
+</manifest>

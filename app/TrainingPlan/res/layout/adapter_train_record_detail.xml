@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginRight="8.5dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon_day_train_status" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@mipmap/day_train_right_selected" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <TextView android:textSize="16.0dip" android:textColor="@color/white" android:gravity="center|right" android:id="@id/txt_weekly_number" android:layout_width="80.0dip" android:layout_height="fill_parent" android:layout_marginLeft="26.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <ImageView android:background="@mipmap/current_weekly_mark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_toLeftOf="@id/txt_weekly_number" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+</RelativeLayout>

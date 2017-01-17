@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="42.69998dip" android:layout_marginTop="17.699982dip" />
+    <TextView android:textSize="12.0sp" android:id="@id/sleep_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="9.299988dip" android:layout_toRightOf="@id/icon" />
+    <TextView android:textSize="16.0sp" android:id="@id/duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.699982dip" android:layout_marginTop="0.70000005dip" android:layout_marginBottom="16.0dip" android:layout_toRightOf="@id/icon" android:layout_below="@id/sleep_mode" />
+</RelativeLayout>

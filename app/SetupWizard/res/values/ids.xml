@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="main_face">false</item>
+    <item type="id" name="touch">false</item>
+    <item type="id" name="layout_qr_code">false</item>
+    <item type="id" name="qr_code">false</item>
+    <item type="id" name="dark_background">false</item>
+    <item type="id" name="loading_view">false</item>
+    <item type="id" name="dlg_container_id">false</item>
+    <item type="id" name="dlg_container">false</item>
+    <item type="id" name="opt_btn">false</item>
+    <item type="id" name="dlg_left_btn">false</item>
+    <item type="id" name="dlg_stub">false</item>
+    <item type="id" name="dlg_right_btn">false</item>
+    <item type="id" name="dlg_hint_container">false</item>
+    <item type="id" name="dlg_hint">false</item>
+    <item type="id" name="dlg_note">false</item>
+    <item type="id" name="btn_return">false</item>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.compass" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <application android:allowBackup="true" android:icon="@mipmap/app_icon_compass" android:label="@string/app_name" android:name=".CompassApplication" android:theme="@style/AppTheme">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name=".GeographicInfoActivity" android:screenOrientation="landscape" android:theme="@style/AppTheme.NoAnimation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

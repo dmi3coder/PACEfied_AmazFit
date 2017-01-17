@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.setupwizard" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.permission.WRITE_USER_SETTINGS"/>
+    <application android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name=".SetupWizardApp" android:theme="@style/AppTheme">
+        <activity android:excludeFromRecents="true" android:name=".InitialPairActivity">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".InitialCompanionTipActivity"/>
+        <activity android:name=".InitialLowBatteryTipActivity"/>
+        <activity android:name=".InitialUnpairTipActivity"/>
+        <activity android:name=".InitialWearHandActivity"/>
+    </application>
+</manifest>

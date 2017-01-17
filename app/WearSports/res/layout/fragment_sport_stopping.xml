@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="@color/white" android:id="@id/progress_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_saving_record" android:layout_below="@id/progress_bar" android:layout_centerHorizontal="true" />
+</com.huami.watch.common.widget.HmRelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>跑步</runType>
+            <trainContent>慢跑</trainContent>
+            <copyWrite>以慢跑800m，步行200m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>跑步</runType>
+            <trainContent>恢复跑</trainContent>
+            <copyWrite>以轻松的慢跑完成训练。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>跑步</runType>
+            <trainContent>基础跑</trainContent>
+            <copyWrite>以仍能交谈的速度进行跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>跑步</runType>
+            <trainContent>进阶跑</trainContent>
+            <copyWrite>跑到习惯的速度后再进行加速。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>跑步</runType>
+            <trainContent>法特莱克跑</trainContent>
+            <copyWrite>可随意切换强度的间歇跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>跑步</runType>
+            <trainContent>山坡跑</trainContent>
+            <copyWrite>请选择在有坡度的路段训练。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>跑步</runType>
+            <trainContent>节奏跑</trainContent>
+            <copyWrite>维持均匀的速度进行跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>跑步</runType>
+            <trainContent>间歇跑（短周期)</trainContent>
+            <copyWrite>以快跑800m，步行800m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>跑步</runType>
+            <trainContent>间歇跑（长周期)</trainContent>
+            <copyWrite>以快跑2.4km，步行800m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>休息</runType>
+            <trainContent></trainContent>
+            <copyWrite>休息一下，今天无需进行训练。距训练开始还有%1$d天</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>游泳</runType>
+            <trainContent></trainContent>
+            <copyWrite>游泳可以帮助恢复体能，完成训练后点击此处标记为完成</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>骑行</runType>
+            <trainContent></trainContent>
+            <copyWrite>交叉训练可以提高水平和恢复精力。推荐心率%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

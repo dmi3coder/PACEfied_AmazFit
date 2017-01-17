@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="day_of_weak">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="alarm_set">
+        <item>闹钟时间已设为不到1分钟后。</item>
+        <item>闹钟时间已设为%1$s后。</item>
+        <item>闹钟时间已设为%2$s后。</item>
+        <item>闹钟时间已设为%1$s%2$s后。</item>
+        <item>闹钟时间已设为%3$s后。</item>
+        <item>闹钟时间已设为%1$s%3$s后。</item>
+        <item>闹钟时间已设为%2$s%3$s后。</item>
+        <item>闹钟时间已设为%1$s%2$s%3$s后。</item>
+    </string-array>
+    <string-array name="repeat_description">
+        <item>仅一次</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+    <string-array name="short_week_days">
+        <item></item>
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+    <string-array name="stopwatch_format_set">
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
+    </string-array>
+</resources>

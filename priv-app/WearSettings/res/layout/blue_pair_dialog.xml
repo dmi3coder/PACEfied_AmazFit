@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dialog" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:gravity="bottom|center" android:id="@id/pair_title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="12.0dip" style="@style/HmDialogText" />
+    <TextView android:textSize="28.0sp" android:gravity="bottom|center" android:id="@id/pair_key" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="6.0dip" style="@style/HmDialogText" />
+</LinearLayout>

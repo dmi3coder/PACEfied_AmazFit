@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.view.NonOverlappingRelativeLayout android:id="@id/clock_bar" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/status_bar_icons" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/home_view_default_top_margin" android:layout_centerHorizontal="true" android:animateLayoutChanges="true">
+            <ImageView android:id="@id/media_status_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_status_theater_mode" />
+            <ImageView android:id="@id/blt_ear_pod_connect_state_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/lau_status_icon_headset" />
+            <ImageView android:id="@id/gps_active_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_now_place_white" />
+            <ImageView android:id="@id/zen_mode_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_sys_zen" />
+            <ImageView android:id="@id/priority_mode_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_status_priority" />
+            <ImageView android:id="@id/dnd_mode_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_status_dnd" />
+            <ImageView android:id="@id/no_phone_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_sys_nophone" />
+            <ImageView android:id="@id/charging_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/charging_level_icon" android:scaleType="fitXY" />
+            <ImageView android:id="@id/theater_mode_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_status_theater_mode" />
+            <ImageView android:id="@id/flight_mode_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/lau_status_icon_plane" />
+        </LinearLayout>
+    </com.huami.watch.view.NonOverlappingRelativeLayout>
+</merge>

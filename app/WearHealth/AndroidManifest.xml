@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-feature android:name="android.hardware.type.watch"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.permission.WRITE_USER_SETTINGS"/>
+    <uses-permission android:name="android.permission.BODY_SENSORS"/>
+    <application android:allowBackup="true" android:icon="@drawable/icon_app_health" android:label="@string/app_name" android:name=".widget.HealthApplication" android:theme="@style/HealthMainTheme">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <activity android:exported="true" android:label="@string/app_name" android:launchMode="singleInstance" android:name=".SubjectActivity" android:theme="@style/HealthMainTheme.NoAnimation"/>
+        <activity android:name=".SettingStepTargetActivity"/>
+        <receiver android:enabled="true" android:exported="true" android:name=".NotificationReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.action.SENSOR_WAKEUP"/>
+                <action android:name="com.huami.watch.health.LONG_SIT"/>
+                <action android:name="com.huami.watch.health.BADGE_ACTIVATED"/>
+                <action android:name="com.huami.watch.health.BADGE_DUMPED"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+                <action android:name="com.huami.watch.health.DOWNLOAD_HEALTH"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.huami.watch.companion.action.DataSyncRequestApps"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name=".HealthDataService">
+            <intent-filter>
+                <action android:name="com.huami.watch.health.READ_HISTORY_DATA"/>
+            </intent-filter>
+        </service>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="HeartrateAnalysisActivity"/>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="LineChartActivity" android:theme="@style/HealthMainTheme.NoAnimation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.huami.watch.health.heartdata" android:exported="true" android:name=".utils.HeartProvider"/>
+        <provider android:authorities="com.huami.watch.health.historydata" android:exported="true" android:name=".utils.HealthHistoryProvider"/>
+        <receiver android:enabled="true" android:exported="true" android:name=".utils.Reaper">
+            <intent-filter>
+                <action android:name="com.huami.watch.httpsupport.COLLECT_DATA"/>
+            </intent-filter>
+        </receiver>
+        <activity android:launchMode="singleInstance" android:name=".sleepanalysis.SleepStatusActiviy" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+        <activity android:launchMode="singleInstance" android:name=".sleepanalysis.HistoryDetailActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+        <provider android:authorities="com.huami.watch.health" android:exported="true" android:name="com.huami.watch.health.utils.DailyMotionProvider"/>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.heartrate.MeasureHeartRateActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.heartrate.AllRateListActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.heartrate.TodayHeartRateInforActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+        <provider android:authorities="com.huami.watch.health.heartrate" android:exported="true" android:name="com.huami.watch.heartrate.database.AllDayHeartRatProvider"/>
+        <receiver android:name="com.huami.watch.heartrate.HeartRateBroadcastRecevicer">
+            <intent-filter>
+                <action android:name="com.huami.watch.health.action.restoredata.success"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/new_alarm" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/bottom_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/new_alarm_text_size" android:gravity="center" android:layout_gravity="center" android:id="@id/add_clock_description" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/new_alarm" />
+        <Button android:textSize="@dimen/more_text_size" android:layout_gravity="center" android:id="@id/more_alrams" android:background="@drawable/button_background" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="0.0dip" android:text="@string/more" />
+    </FrameLayout>
+    <ImageView android:gravity="center_horizontal" android:id="@id/add_deskclock" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:src="@drawable/alarm_widget_icon_clock" android:scaleType="centerInside" android:layout_above="@id/bottom_container" />
+</RelativeLayout>

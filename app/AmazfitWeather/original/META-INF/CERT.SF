@@ -1,0 +1,214 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: TyWMW3WZXpw51T8AvvBbV3OcssI=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_quality_2.png
+SHA1-Digest-Manifest: Y+lexoTLSJlRh4Aja0WpU0gFsN0=
+
+Name: res/drawable-hdpi-v4/lan_weather_sleet.png
+SHA1-Digest-Manifest: j/qqRYKVsIELhqQ6BdeCt6T7R0Y=
+
+Name: res/drawable-hdpi-v4/lan_weather_smog.png
+SHA1-Digest-Manifest: PiEFJNowazQDKwTLmNKVBzK8T+U=
+
+Name: res/drawable-hdpi-v4/lan_weather_fog.png
+SHA1-Digest-Manifest: nfbGzR+OOtLeSl6iIi64mf2GmT0=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_hail.png
+SHA1-Digest-Manifest: qFBISjNfWIt8VqOxP/a5wswd+Dw=
+
+Name: res/layout/widget_weather_forecast_week.xml
+SHA1-Digest-Manifest: yircIZboSZVPctVKlSU3dHEs2N0=
+
+Name: res/drawable-hdpi-v4/lan_weather_hail.png
+SHA1-Digest-Manifest: w+ujvFfauD5Q1tU6XSV6uVtpKLk=
+
+Name: res/drawable/lau_notify_icon_weather_line.png
+SHA1-Digest-Manifest: XwD+nQzcXj+yUuet9LKqfM4TWXw=
+
+Name: res/layout/fragment_detailed_weather_pg1.xml
+SHA1-Digest-Manifest: AyYcjAt/obRLQYeDr/GHL3FppVc=
+
+Name: res/layout/weather_forecast_item.xml
+SHA1-Digest-Manifest: yfE/BjAhZ5rF786v0iH2PkWohJk=
+
+Name: res/drawable-hdpi-v4/lan_weather_celsius.png
+SHA1-Digest-Manifest: Rx3zbTRqowxilyGhjJL8qye4Wzk=
+
+Name: res/drawable-hdpi-v4/lan_weather_rainstorm.png
+SHA1-Digest-Manifest: PikzofE8hSIIx6YE5nfZVdYnO3M=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_cold.png
+SHA1-Digest-Manifest: l6nojvWn5qtB7sZvtTGeWqYyD9k=
+
+Name: res/drawable-hdpi-v4/lan_weather_sunny.png
+SHA1-Digest-Manifest: 1k7M8LYF1QDz34tR0sPfG0dj5Kw=
+
+Name: res/layout/weather_no_data_alert_dialog.xml
+SHA1-Digest-Manifest: nhe8Wowk6z8rI+YvlKIOcu2NHxE=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_typhoon.png
+SHA1-Digest-Manifest: gE2omgwZI0cXvgQy8iljTXKqpvA=
+
+Name: res/drawable-hdpi-v4/lan_weather_cloudy.png
+SHA1-Digest-Manifest: qKJN+lvBY9K0R5frIp2mxzKGNlw=
+
+Name: res/drawable-hdpi-v4/lan_weather_dust.png
+SHA1-Digest-Manifest: 3hy0aNnUqAuXNCwx+BsOjNGkyOI=
+
+Name: res/drawable/main_bg.png
+SHA1-Digest-Manifest: JKMLoKE55kWLFy15FnoNjjegMnc=
+
+Name: res/drawable-hdpi-v4/ic_ok.png
+SHA1-Digest-Manifest: pNLf5KIibuCexWvbPyqikX81fMY=
+
+Name: res/drawable-hdpi-v4/lan_weather_thunder_shower.png
+SHA1-Digest-Manifest: Gu19oMdzSvwa8g9m6fdBSuKTHoU=
+
+Name: res/drawable-hdpi-v4/lan_weather_freezing_rain.png
+SHA1-Digest-Manifest: H1ud6ilBsBaxhqiv/XarXpjSRE0=
+
+Name: res/layout/fragment_detailed_weather_pg2.xml
+SHA1-Digest-Manifest: llLvfml1Hu1+H7tHmRMwKjyPyxg=
+
+Name: res/drawable-hdpi-v4/lan_warning_red.png
+SHA1-Digest-Manifest: RzEr1Yw300sHpedqrdIB1AWfnK0=
+
+Name: res/drawable-hdpi-v4/lan_weather_sand_storm.png
+SHA1-Digest-Manifest: CZ3XdML4cVPXxJX+EXhpsX34Oqk=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_ultraviolet.png
+SHA1-Digest-Manifest: SiXXQnxEJXOaiENE4j0tdQtFqKg=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_drought.png
+SHA1-Digest-Manifest: 8b2QMl+S9doVlspt9PBsju42rAA=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_wind.png
+SHA1-Digest-Manifest: CRGa3sx+3GQvfky3E0f3fSS8p1g=
+
+Name: res/drawable-hdpi-v4/lan_weather_fahrenheit.png
+SHA1-Digest-Manifest: xO7Ac0usgS2tb+gC3eDinV3XpQI=
+
+Name: res/drawable-hdpi-v4/lan_weather_moderate_rain.png
+SHA1-Digest-Manifest: bZezGCMjCI/WAuVj0u9Q6+REPSY=
+
+Name: assets/fonts/weatherSlash.ttf
+SHA1-Digest-Manifest: oGL/efBZMeeyagH9tkFGkYz/Pgk=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_gale.png
+SHA1-Digest-Manifest: tLYxh4AfDRk1+jFbqyofoqDgrZo=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_thunder.png
+SHA1-Digest-Manifest: ZVxyZFF+0J+5l5URjqL3UgCDMdA=
+
+Name: res/drawable-hdpi-v4/lan_warning_orange.png
+SHA1-Digest-Manifest: yyOStq5Lsjgp0XYBH0xgDE2pHIc=
+
+Name: res/anim/no_anim_out.xml
+SHA1-Digest-Manifest: Hmm4dl8IIWjFa1EW/8t/yYSzPPo=
+
+Name: res/drawable-hdpi-v4/lan_weather_heavy_rain.png
+SHA1-Digest-Manifest: dLr0rrAei0cYO+wRPiqYq7+HM1w=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_rainstorm.png
+SHA1-Digest-Manifest: obG7nuMcyTOyfIedLS9f/nRv3Bo=
+
+Name: res/drawable-hdpi-v4/lan_weather_blowing_sand.png
+SHA1-Digest-Manifest: 0Y51ugfQsKbpktekF0aBY2zaf9A=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: r92NivTrcqDDl61s/G0nRfSLIi4=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_quality_1.png
+SHA1-Digest-Manifest: hSYS2RUuGbeLVJmshEyq3Ke/ev8=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_city.png
+SHA1-Digest-Manifest: j4tixtcU1w0nWme9p9IZHbKlO48=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: ubtsNkF6aA6NQ/qc/9eA4JP6fnc=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_smog.png
+SHA1-Digest-Manifest: 1XWjnUxa4cEmyZEf2TuUpBQ93BQ=
+
+Name: res/drawable-hdpi-v4/weather_details_line.png
+SHA1-Digest-Manifest: UnLSCUxZV5ILUwIOD4NQwucF/T0=
+
+Name: res/drawable-hdpi-v4/lan_warning_yellow.png
+SHA1-Digest-Manifest: XQKLmlUTA9hwCHtQPPeCO3dEXWw=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_frost.png
+SHA1-Digest-Manifest: U8MX54PCloKWZkH+QKH35ooXd3w=
+
+Name: res/drawable-hdpi-v4/lan_weather_moderate_snow.png
+SHA1-Digest-Manifest: nU9+jsoBT9zcnBQPPyr7IE99fQw=
+
+Name: res/drawable-hdpi-v4/lan_weather_torrential_rain.png
+SHA1-Digest-Manifest: 9qNVHD4lq6mae84bGdIusTjyxCo=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_sand_storm.png
+SHA1-Digest-Manifest: OgWFWWc4llX/vrTlmFDUvxAyZvU=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_fog.png
+SHA1-Digest-Manifest: w3QLhg1HqOLeaCQrbD85+AHvdPc=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_humidity.png
+SHA1-Digest-Manifest: gTVE7bXS9KRNGuFCzn/yXh5aeTk=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_snowstorm.png
+SHA1-Digest-Manifest: HALgX/abzxLlJpt6BVX96EpSxTM=
+
+Name: res/drawable-hdpi-v4/lan_warning_white.png
+SHA1-Digest-Manifest: vljwYJwTIreDJIbPUtgzvT006ag=
+
+Name: res/drawable-hdpi-v4/lan_weather_snowstorm.png
+SHA1-Digest-Manifest: 8Xy0SebHt9ebvRTngF3It7wF9hs=
+
+Name: res/drawable-hdpi-v4/lan_weather_shower.png
+SHA1-Digest-Manifest: rd3wVsH3daCzygXZamipPbiMkjw=
+
+Name: res/mipmap-hdpi-v4/app_icon_future_weather.png
+SHA1-Digest-Manifest: dxMVxfKPLxKhUC5nNlEa2tcKdz4=
+
+Name: res/drawable-hdpi-v4/lan_warning_blue.png
+SHA1-Digest-Manifest: 2vWwCCtSnk85ewvPAmJDZBAve18=
+
+Name: res/drawable-hdpi-v4/lan_weather_light_snow.png
+SHA1-Digest-Manifest: lsARVWOAFhzyGpv0NhQUsw7E4ig=
+
+Name: res/drawable-hdpi-v4/lan_weather_unknown.png
+SHA1-Digest-Manifest: 7zPtgXWZLwffDjL9SZ87mAvYVr0=
+
+Name: classes.dex
+SHA1-Digest-Manifest: XwNMt5xILHV1Y12E14DIz/fOkGY=
+
+Name: res/anim/no_anim_in.xml
+SHA1-Digest-Manifest: lJv522UZbH967mNpW7iEFISYu9E=
+
+Name: res/drawable-hdpi-v4/lan_weather_light_rain.png
+SHA1-Digest-Manifest: CQlJxgWYFXn+iANSELWMZQ2YLdo=
+
+Name: res/layout/activity_detailed_weather.xml
+SHA1-Digest-Manifest: naFWz60fPqFsO7qneKzC18Esewc=
+
+Name: res/drawable-hdpi-v4/lan_warning_default.png
+SHA1-Digest-Manifest: m5Fkx4dmJpBU0bl89PgqGV1Q7mw=
+
+Name: res/drawable-hdpi-v4/lan_warning_black.png
+SHA1-Digest-Manifest: ya7n5Cg6oZ+CjLMGmHHqHOiRYyE=
+
+Name: res/drawable-hdpi-v4/weather_details_icon_quality_3.png
+SHA1-Digest-Manifest: bZC6pSGxjZ7E44FY36MLgns2ucw=
+
+Name: res/drawable-hdpi-v4/lan_weather_heavy_snow.png
+SHA1-Digest-Manifest: wtWZb1fnAMc2YgPPAy0EPPjfEo0=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_ice.png
+SHA1-Digest-Manifest: OUHB4zPkLTUa2vx8ylwJx2oQHXQ=
+
+Name: res/drawable-hdpi-v4/lan_weather_warning_temperature.png
+SHA1-Digest-Manifest: Jx95KR/pLRzxUFNkU1jUhuINgBI=
+
+Name: res/drawable-hdpi-v4/lan_weather_overcast.png
+SHA1-Digest-Manifest: EjOkP+ykx3T0X+yaJSFsSv/ocDk=
+

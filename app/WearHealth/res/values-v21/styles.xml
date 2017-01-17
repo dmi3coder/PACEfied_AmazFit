@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.NoActionBar.Fullscreen" />
+    <style name="VendorTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/color_white</item>
+        <item name="android:shadowColor">@color/color_shadow</item>
+    </style>
+    <style name="HealthMainTheme" parent="@style/AppBaseTheme">
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:textViewStyle">@style/VendorTextViewStyle</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">false</item>
+        <item name="android:colorEdgeEffect">@android:color/white</item>
+    </style>
+    <style name="HealthMainTheme.NoAnimation" parent="@style/HealthMainTheme">
+        <item name="android:windowAnimationStyle">@style/Animation.NoAnimation</item>
+    </style>
+    <style name="Animation.NoAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@anim/no_anim_out</item>
+        <item name="android:taskOpenEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperCloseEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperIntraCloseEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+        <item name="android:colorEdgeEffect">@android:color/white</item>
+    </style>
+</resources>

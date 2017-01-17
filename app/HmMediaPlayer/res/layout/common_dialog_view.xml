@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.launcher.wearthephone.WearableDialogView android:theme="@android:style/Theme.Wallpaper.NoTitleBar.Fullscreen" android:id="@id/dlg_container_id" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/dlg_container" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <RelativeLayout android:gravity="bottom" android:id="@id/opt_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <Button android:id="@id/dlg_left_btn" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" />
+            <View android:gravity="bottom" android:id="@id/dlg_stub" android:layout_width="14.0dip" android:layout_height="1.0px" android:layout_toEndOf="@id/dlg_left_btn" />
+            <Button android:id="@id/dlg_right_btn" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="32.0dip" android:layout_toEndOf="@id/dlg_stub" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/dlg_hint_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:layout_above="@id/opt_btn">
+            <TextView android:textSize="@dimen/header_title_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/dlg_hint" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawablePadding="8.0dip" />
+            <TextView android:textSize="@dimen/header_hint_size" android:textColor="#ff00ff00" android:gravity="center_horizontal" android:id="@id/dlg_note" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/dlg_hint" />
+        </RelativeLayout>
+    </RelativeLayout>
+</com.huami.watch.launcher.wearthephone.WearableDialogView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.deskclock.AlarmDeskClockView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/label_text_size" android:gravity="center" android:id="@id/header" android:layout_width="fill_parent" android:layout_height="@dimen/desk_clock_header_height" android:layout_marginTop="@dimen/add_desk_cloc_header_margintop" android:text="@string/default_label" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <include android:id="@id/add_alarmclock" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/add_alarm" />
+            <include android:id="@id/recent_alarmclock" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/next_alarm" />
+        </FrameLayout>
+    </LinearLayout>
+</com.huami.watch.deskclock.AlarmDeskClockView>

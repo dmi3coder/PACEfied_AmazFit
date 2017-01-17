@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmFrameLayout android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmFrameLayout android:id="@id/sport_info_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmImageView android:id="@id/sport_info_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/sport_running_bg" />
+        <com.huami.watch.common.widget.HmImageView android:id="@id/sport_control_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@color/default_background_black" />
+        <include layout="@layout/round_activity_running" />
+    </com.huami.watch.common.widget.HmFrameLayout>
+    <com.huami.watch.common.widget.HmFrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.sport.ui.view.PopLockFrameLayout android:id="@id/pop_lock_window" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.huami.watch.common.widget.HmFrameLayout>

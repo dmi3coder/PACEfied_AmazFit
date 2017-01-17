@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/empty_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="27.299988dip" android:layout_height="27.299988dip" android:layout_marginTop="24.0dip" android:src="@drawable/sleep_list_icon_empty" android:scaleType="centerInside" />
+    <TextView android:textSize="16.0sp" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.699982dip" android:layout_marginBottom="73.29999dip" android:text="@string/no_sleep_info" />
+</LinearLayout>

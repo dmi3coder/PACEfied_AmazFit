@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:duration="260" android:repeatCount="infinite" android:repeatMode="reverse" android:valueFrom="M64,0v256c0,0 0,256.23 0,256c-17.67,0 -32,-114.61 -32,-256S46.33,0 64,0z" android:valueTo="M64,64m-64,0a64,64 0,1 1,128 0a64,64 0,1 1,-128 0" android:valueType="pathType" android:propertyName="pathData"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

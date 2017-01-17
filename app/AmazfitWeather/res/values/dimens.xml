@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="quicksettings_temptext_size_big">62.19998sp</dimen>
+    <dimen name="quicksettings_temptext_size_small">48.899994sp</dimen>
+    <dimen name="quicksettings_tempimgunit_big_marginleft">6.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_big_margintop">6.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_big_marginright">0.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_big_marginbottom">0.0dip</dimen>
+    <dimen name="quicksettings_imgweather_big_width">54.0dip</dimen>
+    <dimen name="quicksettings_imgweather_big_height">54.0dip</dimen>
+    <dimen name="quicksettings_imgweather_big_marginleft">3.2999878dip</dimen>
+    <dimen name="quicksettings_imgweather_big_margintop">1.2999878dip</dimen>
+    <dimen name="quicksettings_imgweather_big_marginright">0.0dip</dimen>
+    <dimen name="quicksettings_imgweather_big_marginbottom">0.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_small_marginleft">6.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_small_margintop">14.699982dip</dimen>
+    <dimen name="quicksettings_tempimgunit_small_marginright">0.0dip</dimen>
+    <dimen name="quicksettings_tempimgunit_small_marginbottom">0.0dip</dimen>
+    <dimen name="quicksettings_imgweather_small_width">42.69998dip</dimen>
+    <dimen name="quicksettings_imgweather_small_height">42.69998dip</dimen>
+    <dimen name="quicksettings_imgweather_small_marginleft">3.2999878dip</dimen>
+    <dimen name="quicksettings_imgweather_small_margintop">-2.0dip</dimen>
+    <dimen name="quicksettings_imgweather_small_marginright">0.0dip</dimen>
+    <dimen name="quicksettings_imgweather_small_marginbottom">0.0dip</dimen>
+    <dimen name="outdoor_tip_tsize">10.0sp</dimen>
+    <dimen name="aqi_tsize">14.0sp</dimen>
+    <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
+    <dimen name="dialog_weahter_no_data_title">14.0sp</dimen>
+    <dimen name="dialog_weahter_no_data_msg">12.0sp</dimen>
+</resources>

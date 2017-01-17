@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg_color">#ffffffff</color>
+    <color name="blt_setting_bg_color">#ffffffff</color>
+    <color name="loading_txt_color">#ff000000</color>
+</resources>

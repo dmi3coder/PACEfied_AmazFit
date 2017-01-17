@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="160.0dip" android:layout_height="84.0dip" android:layout_marginTop="29.0dip" android:text="@string/has_log_file_message" android:lineSpacingExtra="8.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="0.30000007dip">
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/recollect" android:background="@drawable/lan_btn_quicksettings_icon_regrab" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="32.69998dip" />
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/continue_upload" android:background="@drawable/lan_btn_stay_upload" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="12.0dip" />
+    </LinearLayout>
+</LinearLayout>

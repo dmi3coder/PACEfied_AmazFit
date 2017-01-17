@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmHaloImageView android:id="@id/icon" android:layout_width="@dimen/quicksettings_disturb_img" android:layout_height="@dimen/quicksettings_disturb_img" android:layout_marginTop="45.0dip" />
+    <TextView android:textSize="@dimen/quicksettings_disturb_text" android:textColor="@color/quicksettings_text_color_white" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/quicksettings_disturb_text_top" android:fontFamily="sans-serif-condensed-light" />
+</LinearLayout>

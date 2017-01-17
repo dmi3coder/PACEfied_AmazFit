@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/rl_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon_train_plan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/training_widget_icon" android:layout_centerInParent="true" />
+    <TextView android:gravity="center_horizontal" android:id="@id/train_center_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="@string/train_center" android:layout_alignParentTop="true" android:textAlignment="center" style="@style/train_init_title" />
+    <TextView android:textSize="13.0sp" android:gravity="center_horizontal" android:id="@id/train_center_init_remind" android:background="@drawable/train_detail" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/train_detail" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:textAlignment="center" style="@style/mytrain_trainplan_list_item" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/start_new_train" android:layout_below="@id/icon_train_plan" android:textAlignment="center" android:layout_alignParentStart="true" style="@style/train_small_remide_green" />
+</RelativeLayout>

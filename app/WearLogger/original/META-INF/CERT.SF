@@ -1,0 +1,244 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: Q1pnLunr4qdDmNJ6+Z/SYpatvf4=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_1.png
+SHA1-Digest-Manifest: nTpZLUinVcq7DNI0ZXRklmH/4Tw=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA1-Digest-Manifest: lVEFsPzAFvp6xcfwtRMjgAO1oDI=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade.png
+SHA1-Digest-Manifest: mPkqNHlhoQud/fNMsw6LW4hBvPA=
+
+Name: res/layout/wifi_item.xml
+SHA1-Digest-Manifest: gGeG6W7h6TGohLw2J0LQPzetQAs=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA1-Digest-Manifest: sWxEvU6necNOr4gWSNSIOb0E6Og=
+
+Name: res/drawable-hdpi-v4/lan_upload_success_bg.png
+SHA1-Digest-Manifest: vWyC++ISzIZV7QURRYWxAm8VcCI=
+
+Name: res/layout/activity_upload.xml
+SHA1-Digest-Manifest: iqJcOeDj/YO3zbAoHU+N2LTRLx0=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA1-Digest-Manifest: 8sGylTsPnz4Fvq3fzj2dXn61ToQ=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_0.png
+SHA1-Digest-Manifest: WtnXS0YOalMOd3mZWKjYe4wnb80=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA1-Digest-Manifest: WGonA8gnUFb2JeGy9bXuUwOMi84=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA1-Digest-Manifest: 81+1Rajacfj99OobXkqPL8s3pm8=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_2.png
+SHA1-Digest-Manifest: IJJvqkyBG4B8OS0SXloKK9yWVz0=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA1-Digest-Manifest: qmdhaFNrPC6ZDAHv7Iw1rAdTxW8=
+
+Name: res/drawable/lan_download_icon_arrow.png
+SHA1-Digest-Manifest: W/f6jpZrRr7YMNGGCI6XrWqHOUU=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button1.png
+SHA1-Digest-Manifest: 7bnUCBJeQgWKJ4n43D8krjllJak=
+
+Name: res/layout/activity_alllog.xml
+SHA1-Digest-Manifest: +Y418k4wMq1ojdAkJG88L27Z5ZA=
+
+Name: res/layout/activity_dumpsys.xml
+SHA1-Digest-Manifest: IPsftsWu/xAxnEkYYilLudwbr/Q=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA1-Digest-Manifest: 1VX+fOjBeL84Hu9PjCV7Vbv+EMU=
+
+Name: res/drawable-hdpi-v4/lan_upload_wave1.png
+SHA1-Digest-Manifest: uWTfVSCk4zTvZSIGyGQiuq7+dTg=
+
+Name: res/drawable/lau_notify_call_buttom_reply_96.png
+SHA1-Digest-Manifest: 3RcfYzQU+Y8QWlAhZcjSDsJnIqk=
+
+Name: res/drawable/settings_common_buttom_confirm_96.png
+SHA1-Digest-Manifest: N0FnWkEXS4xjZG1dNRnJYTRQRnA=
+
+Name: res/layout/confirm_layout.xml
+SHA1-Digest-Manifest: eK78HUv5TOKs9eG58FpUtYYHObE=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA1-Digest-Manifest: q+9UkqhtbRTTdkiP4PlU9QDRSUc=
+
+Name: res/layout/activity_dump.xml
+SHA1-Digest-Manifest: rTC6br0YoIrHiamOIsZadLjvfHI=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA1-Digest-Manifest: Tv6m4Aa8uZM8Vb20CHD5Ukxq274=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA1-Digest-Manifest: d281hCe5NQEYI0D4S3pcWmLEfnM=
+
+Name: res/drawable-hdpi-v4/lan_menu_loading.png
+SHA1-Digest-Manifest: QtcQdAL3FJOy9sVjuugoWr/62bA=
+
+Name: res/drawable/lan_download_wave1.png
+SHA1-Digest-Manifest: uiDmw8cHJttQQcxOE9mWRdF9hvM=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button3.png
+SHA1-Digest-Manifest: GOdYPTVEyFqjvHJra+PpX5jkZqs=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_2.png
+SHA1-Digest-Manifest: 3xblHecyQsNmiDg0TxEWSDOOB5I=
+
+Name: res/drawable/lan_download_bg.png
+SHA1-Digest-Manifest: /JMvz+DKWL64vbZcsCqMk3T0Xgc=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA1-Digest-Manifest: LIyQ35x9gfPoegi11/8/KSpjqZI=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_signal.png
+SHA1-Digest-Manifest: 8R8dOJLhh+Yr685lDJ6/usBKTUQ=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_0.png
+SHA1-Digest-Manifest: ww0IacCb+Q11FlbBWsujocHU0vo=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA1-Digest-Manifest: lZZc2nCbBWy2D7DEx50RdAvSqA8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: MAPazo+7Mkt3aOUPi4Mhvs5OlTk=
+
+Name: res/drawable-hdpi-v4/lan_upload_success.png
+SHA1-Digest-Manifest: 0p412sh7+eoShgItVvBJQjAejr8=
+
+Name: res/drawable/settings_common_buttom_cancel_96.png
+SHA1-Digest-Manifest: HH1v0NQEEyfxOngktFRmV+kQOSE=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA1-Digest-Manifest: eG6YS8Kzs/Nvup6kfbmrRsDBfvI=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA1-Digest-Manifest: 6hsKBs4tY2Xdv+BvOS9arYYMVQE=
+
+Name: res/drawable-hdpi-v4/lan_btn_stay_upload.png
+SHA1-Digest-Manifest: l7hBbBFyoSXRDX+d0NMJRNYjdTk=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_3.png
+SHA1-Digest-Manifest: 4R3vWgLcZxowvO0EWE/3iL7rmTQ=
+
+Name: res/drawable-hdpi-v4/lan_bg.png
+SHA1-Digest-Manifest: usUYnUC1D87r34qv7c6nPWXB+oo=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_1.png
+SHA1-Digest-Manifest: Jau0+W7GpcD2EANJehAwJYatajg=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA1-Digest-Manifest: reJTF0TcxRgTH6M/fDpi3TOs6Bs=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA1-Digest-Manifest: y1H0o4hWhTLo8NGvxHtk+4LX1qc=
+
+Name: res/drawable/lan_loading.png
+SHA1-Digest-Manifest: r1phAcZhjFgXU6gbmWt8m7KeHuo=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
+
+Name: res/drawable-hdpi-v4/lan_upload_wave2.png
+SHA1-Digest-Manifest: is5LRGjKU+I200hpIBdvPjfTSow=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA1-Digest-Manifest: EeBrsmGiYjJgOswBYr00N4ce6Cw=
+
+Name: res/drawable-hdpi-v4/lau_icon_upload.png
+SHA1-Digest-Manifest: 2qpwj/FEQvU5zlCPunSZGgqqMfw=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA1-Digest-Manifest: OuIGhQcQc96HS9UqHcG8V5GSDcY=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA1-Digest-Manifest: EkaoSJpuy49+RccgvwZ6RlPWSkY=
+
+Name: res/layout/next_operation_layout.xml
+SHA1-Digest-Manifest: xuDEwXveybAeligHF9JpBesq8/8=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: rUbShxu1w+A0LyvzSsWa72jLVKQ=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/anim/tips.xml
+SHA1-Digest-Manifest: CJ5sxR0okllcIM0ZYLeAuXy0lEY=
+
+Name: res/drawable-hdpi-v4/lan_upload_success_btn.png
+SHA1-Digest-Manifest: ZC+IZexCL4FT6c0x5J2txXlxKTo=
+
+Name: res/layout/wifi_scan.xml
+SHA1-Digest-Manifest: vKFHpLMrBmn6+BAbBxQhSW8AKKQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: L0602ML0ytySEUI9vOxNFZwswYI=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: VqbA5WicHYy3a6vK67ZdvWdz074=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_3.png
+SHA1-Digest-Manifest: X3jZui6zPA2/azYqxenNRA1YcAQ=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_small.png
+SHA1-Digest-Manifest: kriamAd+YXnaebI3ZG/1Nm/GYBE=
+
+Name: res/drawable-hdpi-v4/lan_btn_quicksettings_icon_regrab.png
+SHA1-Digest-Manifest: XxBgIvGHrGsq5mAcMTwjzX2tqOU=
+
+Name: res/layout/activity_alllog_lab.xml
+SHA1-Digest-Manifest: zkzWLkzV67YFhjQIhOl7SvCvJfM=
+
+Name: classes.dex
+SHA1-Digest-Manifest: oqDmYPOjqVyLUGOR11uy40R9h3I=
+
+Name: res/drawable/lan_download_wave2.png
+SHA1-Digest-Manifest: tylesJM4hWWJbSqwkKP10LDPhsg=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade_bg.png
+SHA1-Digest-Manifest: DvbozkwPWvWRSsY6Y6sMmdLedcg=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi.png
+SHA1-Digest-Manifest: 0t+8U87rwqfCAYXjVN6Stq2+HcI=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: bMuQkur13DptJBw5kSgLDXl92V8=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: xfzhvMFlpLNFnP3JDmGacITvTTs=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA1-Digest-Manifest: hULMgPvhUM8X9LCEPXMY0rlUKoo=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA1-Digest-Manifest: tFN38qLNi6RM2LTrBsjtcnKc7O4=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA1-Digest-Manifest: LbxypWx+3Onse/BKm6majBwaXls=
+
+Name: res/layout/token_expire_tip.xml
+SHA1-Digest-Manifest: aN86B6fu9cVDrOs0TO6STUPskU8=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA1-Digest-Manifest: Fax4bszjqRoxbmCze/vI5y3H3OE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest-Manifest: 1hzrcfBNfNHGnjTlMpjkIQ0ky+E=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA1-Digest-Manifest: 2VJE/owFPIRQUgnbWhIhCoQwtak=
+
+Name: res/layout/hm_dialog.xml
+SHA1-Digest-Manifest: o2HX1LLjZtP+Yg5vDC865J8dybE=
+

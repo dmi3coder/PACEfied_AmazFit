@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/main_background_light_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmPickerView android:id="@id/picker" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.indicator.ViewPagerPageIndicator android:layout_gravity="center|top" android:id="@id/indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" />
+</FrameLayout>

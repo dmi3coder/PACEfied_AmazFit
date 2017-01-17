@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.699982sp" android:textColor="@android:color/white" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:text="@string/tip_binding_failed" />
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:text="@string/tip_binding_failed_restart" />
+    <ImageButton android:layout_gravity="center_horizontal" android:id="@id/btn_return" android:background="@null" android:layout_width="78.0dip" android:layout_height="78.0dip" android:layout_marginTop="12.0dip" android:src="@drawable/ic_return" />
+</LinearLayout>

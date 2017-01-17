@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">暂停%d分钟。</item>
+        <item quantity="one">暂停1分钟。</item>
+    </plurals>
+</resources>

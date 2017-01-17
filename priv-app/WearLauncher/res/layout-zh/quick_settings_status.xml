@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/quciksettings_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center" android:id="@id/status_text_date" android:layout_width="wrap_content" android:layout_height="26.0dip" android:layout_marginTop="12.0dip" android:includeFontPadding="false" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="16.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_text_weather" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="39.299988dip" android:text="@string/weather" android:includeFontPadding="false" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true">
+        <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/fetch_successful" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="60.69998dip">
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+                <RelativeLayout android:gravity="center" android:id="@id/status_temp_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true">
+                    <TextView android:textSize="84.0sp" android:textColor="#ffffffff" android:gravity="top" android:id="@id/status_text_temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+                    <ImageView android:id="@id/status_img_unit" android:paddingTop="4.0dip" android:layout_width="17.299988dip" android:layout_height="16.699982dip" android:layout_toEndOf="@id/status_text_temp" />
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="8.0dip" android:layout_toEndOf="@id/status_temp_view">
+                    <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/city" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="70.0dip" android:text="@string/friday" android:maxLines="2" android:layout_centerHorizontal="true" />
+                    <ImageView android:id="@id/status_img_weather" android:layout_width="53.299988dip" android:layout_height="53.299988dip" android:layout_below="@id/city" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="72.69998dip" android:layout_centerHorizontal="true">
+                <View android:id="@id/aqi_icon" android:background="@drawable/weather_details_icon_quality_1" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+                <TextView android:textSize="@dimen/quicksettings_aqitext_size" android:textColor="@color/green" android:gravity="center" android:id="@id/aqi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fetch_failed" android:layout_centerVertical="true" android:paddingStart="7.299988dip" android:layout_toEndOf="@id/aqi_icon" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/can_not_fetch" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/weather_unknown_icon" android:background="@drawable/lan_weather_unknown" android:layout_width="54.0dip" android:layout_height="54.0dip" android:layout_marginTop="64.69998dip" android:layout_centerHorizontal="true" />
+            <TextView android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fetch_failed" android:layout_below="@id/weather_unknown_icon" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </FrameLayout>
+    <RelativeLayout android:background="@color/quciksettings_bottom_connect" android:layout_width="fill_parent" android:layout_height="37.299988dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="14.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <include android:id="@id/weather_no_data_dialog" android:visibility="gone" layout="@layout/weather_no_data_alert_dialog" />
+</RelativeLayout>

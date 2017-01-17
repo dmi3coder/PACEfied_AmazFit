@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/detail_container" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/sport_history_root_style"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/history_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.common.widget.HmEdgeHorizontalViewPager android:id="@id/history_viewpager_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/sport_control_container" layout="@layout/alert_dialog" />
+    <include android:id="@id/train_container" android:visibility="gone" layout="@layout/alert_dialog" />
+</RelativeLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.launcher" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.MANAGE_ACTIVITY_STACKS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.permission.WRITE_USER_SETTINGS"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER_COMPONENT"/>
+    <uses-permission android:name="android.permission.BIND_WALLPAPER"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <permission android:label="@string/launcher_app_name" android:name="com.huami.watch.launcher.permission.WEAR_LAUNCHER_OPT" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.BODY_SENSORS"/>
+    <application android:icon="@drawable/ic_launcher" android:label="@string/launcher_app_name" android:name="com.huami.watch.launcher.LauncherApplication" android:theme="@android:style/Theme.Wallpaper.NoTitleBar.Fullscreen">
+        <activity android:clearTaskOnLaunch="true" android:configChanges="locale|layoutDirection" android:label="@string/launcher_app_name" android:launchMode="singleInstance" android:name=".Launcher" android:screenOrientation="nosensor" android:stateNotNeeded="true" android:theme="@style/LauncherMainTheme" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <category android:name="android.intent.category.HOME"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="HIDE_ENTRY" android:value="true"/>
+        </activity>
+        <activity android:allowEmbedded="true" android:exported="true" android:launchMode="singleInstance" android:name="com.huami.watch.launcher.streamcard.overlay.NotificationOverlayActivity" android:taskAffinity="" android:theme="@android:style/Theme.Translucent"/>
+        <service android:name="com.huami.watch.launcher.streamcard.overlay.NotificationOverlayService"/>
+        <service android:enabled="false" android:exported="false" android:name="com.huami.watch.launcher.streamcard.overlay.DummyService"/>
+        <receiver android:label="@string/launcher_app_name" android:name=".LauncherReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.huami.watch.launcher.watchstatusbar.AutoNodisturbBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.huami.moblie.watchsettings.action.autonodisturb.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autonodisturb.end"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.huami.watch.launcher.ReplyActivity" android:theme="@android:style/Theme.Wallpaper.NoTitleBar.Fullscreen"/>
+        <service android:enabled="true" android:exported="true" android:name="com.ingenic.iwds.slpt.WatchFaceService">
+            <intent-filter>
+                <action android:name="com.ingenic.iwds.slpt.WatchFaceService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="false" android:name="com.huami.watch.streammanager.WearNotificationListenerService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.notification.stream.StreamItemManagerService">
+            <intent-filter>
+                <action android:name="com.huami.watch.notification.stream.StreamItemManagerService"/>
+                <action android:name="com.huami.watch.notification.stream.UpdateService"/>
+            </intent-filter>
+        </service>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.launcher.wearthephone.WearCallingActivity" android:theme="@style/CallingToWearTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.launcher.watchstatusbar.WeatherForecastActivity"/>
+        <receiver android:exported="true" android:name="com.huami.watch.launcher.ExternalCommand" android:permission="com.huami.watch.launcher.permission.WEAR_LAUNCHER_OPT">
+            <intent-filter android:priority="1">
+                <action android:name="com.huami.watch.launcher.EXTERNAL_COMMAND.TO_WATCHFACE"/>
+            </intent-filter>
+            <intent-filter android:priority="0">
+                <action android:name="com.huami.watch.launcher.EXTERNAL_COMMAND.TO_APPLIST"/>
+                <action android:name="com.huami.watch.launcher.EXTERNAL_COMMAND.WATCH_STATUS"/>
+                <action android:name="com.huami.watch.launcher.EXTERNAL_COMMAND.QUICKLAUNCH"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name=".faces.leftlayer.watchfacepicker.WatchFaceGalleryActivity" android:theme="@style/WatchFacePickerStyle"/>
+        <receiver android:name=".faces.leftlayer.watchfacepicker.WallReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.WallReceiver"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.huami.watch.launcher.springboard.DataExchangeService">
+            <intent-filter>
+                <action android:name="com.huami.watch.launcher.springboard.SPRING_BOARD_HOST"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name=".watchstatusbar.GearedStateReceiver">
+            <intent-filter>
+                <action android:name="android.bluetooth.a2dp.profile.action.CONNECTION_STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.launcher.BootCompleteReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.sport/com.huami.watch.sport.ui.view.SportLauncherView</item>
+    </string-array>
+</resources>

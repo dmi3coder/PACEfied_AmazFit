@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.huami.watch.deskclock.HmDeskClockApplication">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <provider android:authorities="com.huami.watch.deskclock" android:exported="true" android:name="com.huami.watch.deskclock.provider.ClockProvider"/>
+        <provider android:authorities="com.huami.watch.deskclock.stopwatch" android:exported="true" android:name="com.huami.watch.deskclock.stopwatch.provider.StopWatchProvider"/>
+        <activity android:label="@string/app_name" android:name=".AlarmClockActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".AlarmClockListActivity"/>
+        <activity android:name="com.huami.watch.deskclock.alarms.AlarmActivity" android:theme="@style/AlarmActivityTheme"/>
+        <activity android:name=".AlarmClockEditActivity"/>
+        <activity android:name=".AlarmClockRepeatActivity"/>
+        <activity android:name=".AlarmClockTimePickerActivity"/>
+        <receiver android:exported="false" android:name="com.huami.watch.deskclock.alarms.AlarmStateManager">
+            <intent-filter>
+                <action android:name="change_state"/>
+                <action android:name="show_and_dismiss_alarm"/>
+                <action android:name="indicator"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.huami.watch.deskclock.alarms.AlarmService"/>
+        <service android:exported="true" android:name="com.huami.watch.deskclock.ClockService"/>
+        <service android:exported="true" android:name=".stopwatch.StopwatchService"/>
+        <receiver android:name="com.huami.watch.deskclock.AlarmInitReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/title_activity_stopwatch" android:name=".stopwatch.StopwatchActivity"/>
+        <activity android:label="@string/title_activity_stop_watch_lap_list" android:name="com.huami.watch.deskclock.stopwatch.StopWatchLapListActivity"/>
+    </application>
+</manifest>

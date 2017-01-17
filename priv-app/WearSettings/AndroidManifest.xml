@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.READ_USER_DICTIONARY"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <permission android:name="android.permission.SHUTDOWN"/>
+    <permission android:name="android.permission.MASTER_CLEAR"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <permission android:name="android.permission.CLEAR_APP_USER_DATA"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTING"/>
+    <application android:allowBackup="true" android:label="@string/app_name" android:name=".SettingApplication" android:theme="@style/AppTheme">
+        <activity android:exported="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:launchMode="singleInstance" android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.watchsettings.ACTION_MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.huami.moblie.watchsettings.actions.bluetooth.BluetoothReceiver">
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.PAIRING_REQUEST"/>
+                <action android:name="android.bluetooth.device.action.BOND_STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.huami.moblie.watchsettings.actions.lightchange.LightChangeActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autonodisturb.AutoNodisturbActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autonodisturb.AutoNodisturbTimePickerActivity"/>
+        <activity android:launchMode="singleTask" android:name="com.huami.moblie.watchsettings.actions.bluetooth.DoubleSelectionDiablog" android:theme="@android:style/Theme.Material.Dialog.Alert"/>
+        <activity android:label="title_activity_blue_pass" android:name="com.huami.moblie.watchsettings.actions.bluetooth.BluePassActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.wearhabit.WearHabitActivity"/>
+        <activity android:label="@string/title_activity_long_sitting_time" android:name="com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity">
+            <intent-filter>
+                <action android:name="com.huami.watchsettings.actions.test.WearSit"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="true" android:name="com.huami.moblie.watchsettings.actions.autonodisturb.AutoNodisturbBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.huami.moblie.watchsettings.action.autonodisturb.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autonodisturb.end"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name=".BootActionNotifier">
+            <intent-filter>
+                <action android:name="com.huami.watch.Launcher.BOOT_NOW"/>
+            </intent-filter>
+        </receiver>
+        <activity android:launchMode="singleTask" android:name="com.huami.moblie.watchsettings.actions.bluetooth.DevicePickerActivity">
+            <intent-filter>
+                <action android:name="com.huami.moblie.watchsettings.actions.bluetooth.DevicePicker"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity"/>
+    </application>
+</manifest>

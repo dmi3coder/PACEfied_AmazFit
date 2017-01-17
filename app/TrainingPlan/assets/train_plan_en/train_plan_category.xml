@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>新手上路</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>适于从步行到慢跑的初跑者。此训练可以帮助你循序渐进的适应跑步运动。</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5公里</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>适于入门跑者。此训练可以帮助你获得更佳的运动状态。</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10公里</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>适于进阶跑者 。此训练有助于提升你的有氧适能和肌肉力量。</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>半程马拉松</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>适于半马备赛者 。此训练有助于提高你长时间不间断跑的能力。</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>全程马拉松</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>适于全马备赛者 。此训练可以辅助你预测参赛表现，并帮助你规划自己的配速和比赛策略。</copyWrite>
+        </trainplan>
+</trainplans>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/notification_first_row" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/notification_margintop">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_right_icon">
+            <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_horizontal" android:id="@id/notification_first_view" android:visibility="gone" android:layout_width="@dimen/notification_icon_width" android:layout_height="@dimen/notification_icon_height" />
+            <TextView android:gravity="center" android:id="@id/notification_first" android:padding="0.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Launcher.Widget.TextView" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_horizontal" android:id="@id/notification_second_view" android:visibility="gone" android:layout_width="@dimen/notification_icon_width" android:layout_height="@dimen/notification_icon_height" />
+            <TextView android:gravity="center" android:id="@id/notification_second" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Launcher.Widget.TextView" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/notification_sencond_row" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_right_icon">
+            <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_horizontal" android:id="@id/notification_thrid_view" android:visibility="gone" android:layout_width="@dimen/notification_icon_width" android:layout_height="@dimen/notification_icon_height" />
+            <TextView android:gravity="center" android:id="@id/notification_thrid" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Launcher.Widget.TextView" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_horizontal" android:id="@id/notification_forth_view" android:layout_width="@dimen/notification_icon_width" android:layout_height="@dimen/notification_icon_height" />
+            <TextView android:gravity="center" android:id="@id/notification_forth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Launcher.Widget.TextView" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

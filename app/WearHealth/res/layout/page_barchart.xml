@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/size_small_title_font" android:id="@id/subjectnfreq" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size_title_margin_top" android:shadowColor="@color/color_shadow" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/subjectnfreq" android:layout_centerHorizontal="true">
+        <TextView android:textSize="@dimen/size_quantity_font" android:id="@id/quantity" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="@color/color_shadow" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:fontFamily="lato" />
+        <TextView android:textSize="@dimen/size_small_title_font" android:id="@id/unit" android:paddingLeft="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="@color/color_shadow" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" />
+    </LinearLayout>
+    <com.huami.watch.common.widget.BarChart android:id="@id/chart" android:paddingLeft="@dimen/size_chart_padding_stend" android:paddingRight="@dimen/size_chart_padding_stend" android:layout_width="fill_parent" android:layout_height="@dimen/size_barchart_height" android:layout_marginTop="@dimen/size_barchart_margin_top" />
+</RelativeLayout>

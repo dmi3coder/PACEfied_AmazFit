@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/watchface_content" android:background="@drawable/watchface_switch_main_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Gallery android:id="@id/gallery" android:layout_width="fill_parent" android:layout_height="147.0dip" android:layout_marginTop="20.0dip" android:spacing="5.0dip" />
+    <TextView android:textSize="12.0sp" android:textColor="@android:color/white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/watchface_title" android:layout_width="120.0dip" android:layout_height="wrap_content" android:layout_marginTop="167.0dip" android:singleLine="true" />
+</FrameLayout>

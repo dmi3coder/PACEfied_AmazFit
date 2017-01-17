@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/size_badge_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/size_badge_title_font" android:textColor="@color/white" android:gravity="bottom|center" android:id="@id/medal_title" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/sport_text_style" />
+</FrameLayout>

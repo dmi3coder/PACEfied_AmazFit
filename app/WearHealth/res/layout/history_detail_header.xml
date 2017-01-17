@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/history_sleep_info_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="18.699982sp" android:id="@id/history_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="26.699982dip" android:layout_centerHorizontal="true" />
+    <com.huami.watch.health.ui.SleepBarChartView android:id="@id/history_sleep_chart" android:layout_width="180.69998dip" android:layout_height="42.0dip" android:layout_marginTop="66.0dip" android:layout_centerHorizontal="true" app:deepSleepDrawable="@drawable/status_sleep_deep_shape" app:lightSleepDrawable="@drawable/status_sleep_light_shape" app:awakeDrawable="@drawable/status_sleep_awake_shape" app:deepSleepHeight="22.699982dip" app:lightSleepHeight="33.299988dip" app:awakeHeight="41.299988dip" />
+    <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:id="@id/history_sleep_start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_marginBottom="13.399994dip" android:layout_below="@id/history_sleep_chart" android:layout_alignLeft="@id/history_sleep_chart" />
+    <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:id="@id/history_sleep_stop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_below="@id/history_sleep_chart" android:layout_alignRight="@id/history_sleep_chart" />
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="AlarmActivityTheme">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="SecondaryLabelTextAppearance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_num_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="StopWatchLapListHeaderTimeTextAppearance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_header_time_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="StopWatchLapListHeaderNumTextAppearance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_header_num_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="PrimaryLabelTextAppearance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_time_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="LapListItemTimeApperance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_time_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+    </style>
+    <style name="LapListItemHundredthsTimeApperance">
+        <item name="android:textSize">@dimen/stop_watch_lap_list_hundredths_time_text_size</item>
+        <item name="android:textColor">@color/time_text_color</item>
+    </style>
+    <style name="PromptDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowMinWidthMajor">100.0%</item>
+        <item name="android:windowMinWidthMinor">100.0%</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="HMProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium_material</item>
+    </style>
+    <style name="HMProgressBar.Large" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/progress_large_material</item>
+    </style>
+    <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="watch.huami.com.mediaplayer" platformBuildVersionCode="22" platformBuildVersionName="5.1-82">
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name=".ui.MediaPlayerApplication" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <activity android:name=".ui.NowPlayingActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <service android:enabled="true" android:exported="true" android:name=".MusicService">
+            <intent-filter>
+                <action android:name="com.huami.watch.MUSIC"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.humi.watch.amazfitmusic.MUSIC_SOURCE" android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.global.MusicProvider"/>
+        <activity android:exported="true" android:icon="@drawable/ic_launcher_white" android:launchMode="singleTask" android:name=".ui.MusicDownloadExActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.mediaplayer.DOWNLOAD_MUSIC"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name=".widget.MusicSettingActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.mediaplayer.MUSIC_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name=".widget.MusicSourceActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.mediaplayer.MUSIC_SOURCE_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name=".widget.VolumnActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.mediaplayer.MUSIC_SOURCE_VOLUMN_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.global.CoreSyncService">
+            <intent-filter>
+                <action android:name="com.huami.watch.amazfitmusic.CORE_SYNC_SERVICE"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.utils.ConnectivityMonitor">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.ChargingMonitor">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+                <action android:name="com.huami.watch.amazfitmusic.CORE_SYNC_SERVICE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.localMedia.UsbStateMonitor">
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_STATE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="test.action"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.huami.watch.amazfitmusic.mediasync.localMedia.ScannerService"/>
+    </application>
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_top_margin_circular">14.0dip</dimen>
+    <dimen name="cw_circular_card_content_padding_bottom">26.0dip</dimen>
+    <dimen name="cw_circular_card_content_padding_right">32.0dip</dimen>
+    <dimen name="cw_circular_short_peek_height">64.0dip</dimen>
+    <dimen name="action_icon_margin">6.0dip</dimen>
+    <dimen name="system_clock_font_size_circular">32.0sp</dimen>
+    <dimen name="hotword_indicator_text_size_circular">10.0sp</dimen>
+    <dimen name="status_bar_indicator_icon_size">14.0dip</dimen>
+    <dimen name="cw_circular_action_text_side_margin">30.0dip</dimen>
+    <dimen name="amazing_seekbar_maxheight">10.0dip</dimen>
+    <dimen name="amazing_seekbar_progress_radius">10.0dip</dimen>
+    <dimen name="amazing_dialog_size">320.0px</dimen>
+    <dimen name="amazing_dialog_button_size">160.0px</dimen>
+    <dimen name="cw_circular_incoming_call_title_vertical_padding">24.0dip</dimen>
+    <dimen name="confirmation_body_font_size_circular">16.0sp</dimen>
+</resources>

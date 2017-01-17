@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/sport_start_title" android:id="@id/start_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/title_sport_list" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" style="@style/sport_main_text_style" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/gps_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/start_title" android:layout_marginStart="70.0dip" android:layout_alignParentStart="true" />
+    <TextView android:textSize="@dimen/sport_start_subtitle" android:textColor="#ffffffff" android:id="@id/gps_indication" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/title_sport_gps_available" android:includeFontPadding="false" android:layout_below="@id/start_title" android:layout_toEndOf="@id/gps_icon" />
+</RelativeLayout>

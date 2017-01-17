@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="outdoor_tip_tsize">12.0sp</dimen>
+    <dimen name="aqi_tsize">16.0sp</dimen>
+    <dimen name="dialog_weahter_no_data_title">18.0sp</dimen>
+    <dimen name="dialog_weahter_no_data_msg">16.0sp</dimen>
+</resources>
