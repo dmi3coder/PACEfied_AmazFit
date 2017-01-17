@@ -21,7 +21,7 @@
     <string name="train_record_complete_percent">Completed</string>
     <string name="day_train_record_status_finish">Completed</string>
     <string name="day_train_record_statis_un_finish">Not Completed</string>
-    <string name="dialog_day_train_plan_is_complete">Mark today's training as complete?</string>
+    <string name="dialog_day_train_plan_is_complete">Mark today\'s training as complete?</string>
     <string name="dialog_train_plan_is_complete">Terminating training program will no longer record the progress, End program?</string>
     <string name="last_day_rest_remind">Training complete! Take a day off!</string>
     <string name="cancel">Cancel</string>
@@ -36,7 +36,7 @@
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Assigned</string>
     <string name="notification_title">Training Central</string>
-    <string name="notificaiton_train_content">Today's training has not been completed!</string>
+    <string name="notificaiton_train_content">Today\'s training has not been completed!</string>
     <string name="this_train_record_finish">Training Program has Ended</string>
     <string name="train_finish_reason">End Reason</string>
     <string name="average_text">Avg</string>
