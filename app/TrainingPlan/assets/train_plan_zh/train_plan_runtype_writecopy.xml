@@ -1,65 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <runreminds>
         <runremind id="0">
-            <runType>跑步</runType>
-            <trainContent>慢跑</trainContent>
-            <copyWrite>以慢跑800m，步行200m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Jog</trainContent>
+            <copyWrite>Jog 800m/Walk 200m interval. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="1">
-            <runType>跑步</runType>
-            <trainContent>恢复跑</trainContent>
-            <copyWrite>以轻松的慢跑完成训练。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Recovery Run</trainContent>
+            <copyWrite>Easy Jog. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
-            <runType>跑步</runType>
-            <trainContent>基础跑</trainContent>
-            <copyWrite>以仍能交谈的速度进行跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Foundation Run</trainContent>
+            <copyWrite>Run at conversational pace.  Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
-            <runType>跑步</runType>
-            <trainContent>进阶跑</trainContent>
-            <copyWrite>跑到习惯的速度后再进行加速。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Technical Run</trainContent>
+            <copyWrite>Little faster than normal pace. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
-            <runType>跑步</runType>
-            <trainContent>法特莱克跑</trainContent>
-            <copyWrite>可随意切换强度的间歇跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Fartlek Run</trainContent>
+            <copyWrite>Free run - mix of fast and slow pace. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
-            <runType>跑步</runType>
-            <trainContent>山坡跑</trainContent>
-            <copyWrite>请选择在有坡度的路段训练。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Hill Run</trainContent>
+            <copyWrite>Select a section with hilly terrain. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
-            <runType>跑步</runType>
-            <trainContent>节奏跑</trainContent>
-            <copyWrite>维持均匀的速度进行跑步训练。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Tempo Run</trainContent>
+            <copyWrite>Mantain at a constant speed. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="7">
-            <runType>跑步</runType>
-            <trainContent>间歇跑（短周期)</trainContent>
-            <copyWrite>以快跑800m，步行800m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Intervals（Short)</trainContent>
+            <copyWrite>Fast 800m/Walk 800m inerval. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="8">
-            <runType>跑步</runType>
-            <trainContent>间歇跑（长周期)</trainContent>
-            <copyWrite>以快跑2.4km，步行800m为周期完成。推荐心率%1$d-%2$dbpm</copyWrite>
+            <runType>Run</runType>
+            <trainContent>Intervals（Long)</trainContent>
+            <copyWrite>Fast 2.4km/Walk 800m interval. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="9">
-            <runType>休息</runType>
+            <runType>Rest</runType>
             <trainContent></trainContent>
-            <copyWrite>休息一下，今天无需进行训练。距训练开始还有%1$d天</copyWrite>
+            <copyWrite>Take a break, No training today. %1$d day from start of training</copyWrite>
         </runremind>
         <runremind id="10">
-            <runType>游泳</runType>
+            <runType>Swim</runType>
             <trainContent></trainContent>
-            <copyWrite>游泳可以帮助恢复体能，完成训练后点击此处标记为完成</copyWrite>
+            <copyWrite>Swimming can help recovery.  Mark here when finished.</copyWrite>
         </runremind>
         <runremind id="11">
-            <runType>骑行</runType>
+            <runType>Bike</runType>
             <trainContent></trainContent>
-            <copyWrite>交叉训练可以提高水平和恢复精力。推荐心率%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Cross training can increase energy and sped recovery. Target HR%1$d-%2$dbpm</copyWrite>
         </runremind>
 </runreminds>
-
-
