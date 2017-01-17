@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" style="@style/HmDialogTopHalfBackground">
+        <TextView android:textSize="20.0sp" android:gravity="bottom|center" android:id="@id/message" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="15.0dip" style="@style/HmDialogText" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center|top" android:orientation="horizontal" android:id="@id/footer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" style="@style/HmDialogBottomHalfBackground">
+        <com.huami.watch.common.widget.HmHaloButton android:textSize="21.0sp" android:id="@id/negativeButton" android:background="@xml/button_sharp" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="25.0dip" android:singleLine="true" />
+        <com.huami.watch.common.widget.HmHaloButton android:textSize="19.0sp" android:id="@id/positiveButton" android:background="@xml/button_sharp" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="20.0dip" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="unbond">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button5">false</item>
+    <item type="id" name="button4">false</item>
+    <item type="id" name="noti_test">false</item>
+    <item type="id" name="noti_test2">false</item>
+    <item type="id" name="txtlabel">false</item>
+    <item type="id" name="txtcontent">false</item>
+    <item type="id" name="btndel">false</item>
+    <item type="id" name="btnblock">false</item>
+    <item type="id" name="btnok">false</item>
+    <item type="id" name="btncancel">false</item>
+    <item type="id" name="qr_layout">false</item>
+    <item type="id" name="qrView">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="118.0px" android:paddingStart="43.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0sp" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/deep_sleep_item" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.399994dip" android:layout_below="@id/date">
+        <ImageView android:id="@id/deep_sleep_icon" android:background="@color/deep_sleep_color" android:layout_width="@dimen/size_sleep_sign" android:layout_height="@dimen/size_sleep_sign" />
+        <TextView android:textSize="12.0sp" android:id="@id/deep_sleep_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.2999878dip" android:text="@string/whole_day_deep_sleep" />
+        <TextView android:textSize="12.0sp" android:id="@id/deep_sleep_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.6999817dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/light_sleep_item" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:layout_marginBottom="9.0dip" android:layout_below="@id/deep_sleep_item">
+        <ImageView android:id="@id/light_sleep_icon" android:background="@color/light_sleep_color" android:layout_width="@dimen/size_sleep_sign" android:layout_height="@dimen/size_sleep_sign" />
+        <TextView android:textSize="12.0sp" android:id="@id/light_sleep_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.2999878dip" android:text="@string/whole_day_light_sleep" />
+        <TextView android:textSize="12.0sp" android:id="@id/light_sleep_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.6999817dip" />
+    </LinearLayout>
+    <ImageView android:background="@drawable/sleep_history_right" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_centerVertical="true" android:layout_marginEnd="21.299988dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>

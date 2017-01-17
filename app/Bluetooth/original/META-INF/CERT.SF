@@ -1,0 +1,79 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: K/TaxmySB/o58Yc4tHD1F/CJKgg=
+
+Name: res/layout/no_transfers.xml
+SHA1-Digest-Manifest: WXWzdM3ODC0dKxPqsGS6kX5h47c=
+
+Name: res/drawable-hdpi-v4/ic_launcher_folder_bluetooth.png
+SHA1-Digest-Manifest: lDsIusQSdt4Tc9dUVSiYJMLQAYA=
+
+Name: res/layout/bluetooth_transfers_page.xml
+SHA1-Digest-Manifest: qKtJyI+KNH30O/mzEIhhp4vcPiU=
+
+Name: res/layout/auth.xml
+SHA1-Digest-Manifest: bYUq+tQ0HjjvOrxZrODUtVJy5tM=
+
+Name: res/drawable-mdpi-v4/bt_share.png
+SHA1-Digest-Manifest: Nk5BxhgX0DVXf29P9F6EXb0RGbk=
+
+Name: res/layout/bluetooth_map_email_settings.xml
+SHA1-Digest-Manifest: poLrxdYnT0TBsuP+8I4Yil9vo1w=
+
+Name: res/drawable-hdpi-v4/bt_share.png
+SHA1-Digest-Manifest: AVId4wbf0OclSzpNzCYRTXYAtdA=
+
+Name: res/layout/file_transfer.xml
+SHA1-Digest-Manifest: sVVBOu2AjFMpRRc9w+vVGrUCv28=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: CbmKcdpXoAtMCEkdZ3MusoYDj6E=
+
+Name: classes.dex
+SHA1-Digest-Manifest: V6jLObO9tayG4CCs/QLEeMp3qIU=
+
+Name: res/drawable-xhdpi-v4/bt_incomming_file_notification.png
+SHA1-Digest-Manifest: QuBUYUkJI1+zcEywUIyYdp1DFbE=
+
+Name: res/layout/bluetooth_map_email_settings_account_item.xml
+SHA1-Digest-Manifest: r0G9xTMuXDBYfDfqNwu8nfzz6o0=
+
+Name: res/menu/transferhistorycontextfinished.xml
+SHA1-Digest-Manifest: mtldH8y9JKvFtWGPZr4vYVR+aLU=
+
+Name: res/layout/testactivity_main.xml
+SHA1-Digest-Manifest: 22skJDYbmvtjOu7NhID7YBqY1Hg=
+
+Name: res/drawable-hdpi-v4/bt_incomming_file_notification.png
+SHA1-Digest-Manifest: Bb44l4EgJOogJ8DzK0dclc8i8EI=
+
+Name: res/layout/bluetooth_transfer_item.xml
+SHA1-Digest-Manifest: +jVFu3Bt5nZTBTdPorn7birTn8c=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: IJDF91Zbb6TTWjRjbNw+be9Wjrk=
+
+Name: res/layout/confirm_dialog.xml
+SHA1-Digest-Manifest: 9aMsrXuO3iW1W9k/Ye0p/0Uux2U=
+
+Name: res/drawable-mdpi-v4/ic_launcher_folder_bluetooth.png
+SHA1-Digest-Manifest: HktFUxm6c7P9YsE8KhlMnDR/N8w=
+
+Name: res/layout/bluetooth_map_email_settings_account_group.xml
+SHA1-Digest-Manifest: eQa8mutmOFU8B9EtZdHOYyJPKrk=
+
+Name: res/menu/receivedfilescontextfinished.xml
+SHA1-Digest-Manifest: 2Aow7mrKSnr8Mj2ES2su4Yhawks=
+
+Name: res/menu/transferhistory.xml
+SHA1-Digest-Manifest: ICOvfhMQvRil0rubWe7R6tuaKDU=
+
+Name: res/layout/incoming_dialog.xml
+SHA1-Digest-Manifest: uCwPUJE6G25LFDkx4ECWCDG4jNQ=
+
+Name: res/layout/bt_enabling_progress.xml
+SHA1-Digest-Manifest: zs6fg86DBrEJHi9RB31bfHoAUk4=
+
+Name: res/drawable-mdpi-v4/bt_incomming_file_notification.png
+SHA1-Digest-Manifest: YevqvknGUQ447OmrcsJM6FM3oUs=
+

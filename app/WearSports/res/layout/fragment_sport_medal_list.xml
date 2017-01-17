@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.huami.watch.common.widget.VerticalViewPager android:id="@id/medal_list" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.sport.ui.view.HmSportLayout android:id="@id/medal_detail_container" android:background="@color/black" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmRelativeLayout android:id="@id/medal_detail" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmImageView android:id="@id/medal_icon" android:layout_width="@dimen/size_detail_badge_in_list" android:layout_height="@dimen/size_detail_badge_in_list" android:layout_centerInParent="true" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="23.0sp" android:textColor="@color/white" android:id="@id/medal_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/medal_icon" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="18.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/medal_illustration" android:paddingLeft="@dimen/medal_padding_left_right" android:paddingRight="@dimen/medal_padding_left_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" android:layout_below="@id/medal_icon" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.sport.ui.view.HmSportLayout>
+</FrameLayout>

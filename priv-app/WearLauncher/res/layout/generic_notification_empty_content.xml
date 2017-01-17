@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/lau_notify_card_min_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/card_frame_icon" android:layout_width="@dimen/notification_peek_icon_size" android:layout_height="@dimen/notification_peek_icon_size" android:src="@drawable/lau_notify_icon_message" />
+        <TextView android:id="@id/empty_notification" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/notificaton_empty_message" style="@style/Launcher.Widget.TextView" />
+    </LinearLayout>
+</FrameLayout>

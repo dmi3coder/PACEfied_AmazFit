@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/lau_notify_card_min_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="100.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center|top" android:orientation="horizontal" android:paddingTop="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/notification_peek_icon" android:layout_width="@dimen/notification_peek_icon_size" android:layout_height="@dimen/notification_peek_icon_size" android:layout_marginRight="3.0dip" />
+        <TextView android:textSize="@dimen/notification_peek_text_size" android:id="@id/sport_notification_peek_distance" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxEms="5" android:singleLine="true" style="@style/Launcher.Widget.TextView" />
+        <TextView android:textSize="@dimen/notification_peek_text_size" android:id="@id/km" android:paddingLeft="2.0dip" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hm_watch_sports_notification_km" android:singleLine="true" style="@style/Launcher.Widget.TextView" />
+    </LinearLayout>
+</FrameLayout>

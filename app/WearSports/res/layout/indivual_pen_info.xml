@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:paddingBottom="@dimen/sport_info_container_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingEnd="@dimen/sport_info_container_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/item_container_two" android:layout_width="fill_parent" android:layout_height="@dimen/sport_sport_info_item_height" android:layout_centerInParent="true" layout="@layout/list_item_sport_info" />
+    <include android:id="@id/item_container_one" android:layout_width="fill_parent" android:layout_height="@dimen/sport_sport_info_item_height" android:layout_above="@id/item_container_two" layout="@layout/list_item_sport_info" />
+    <include android:id="@id/item_container_three" android:layout_width="fill_parent" android:layout_height="@dimen/sport_sport_info_item_height" android:layout_below="@id/item_container_two" layout="@layout/list_item_sport_info" />
+</com.huami.watch.common.widget.HmRelativeLayout>

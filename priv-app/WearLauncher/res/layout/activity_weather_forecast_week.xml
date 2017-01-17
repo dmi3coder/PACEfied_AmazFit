@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/forecast_container" android:background="@color/quciksettings_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:paddingTop="56.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+        <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+        <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+        <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <TextView android:textSize="18.699982sp" android:textColor="#ffffffff" android:gravity="center_horizontal" android:paddingTop="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/forecast" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip">
+        <View android:background="@drawable/weather_details_icon_city" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+        <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/city" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fetching" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/fetch_failed_dialog" android:background="@color/quciksettings_background" android:paddingTop="30.0dip" android:paddingBottom="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="24.0dip" android:paddingEnd="24.0dip">
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fetch_failed_title" />
+        <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/fetch_failed_msg" />
+        <View android:id="@id/dialog_confirm" android:background="@drawable/ic_ok" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginTop="2.0dip" />
+    </LinearLayout>
+</FrameLayout>

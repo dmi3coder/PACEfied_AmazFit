@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:layout_width="@dimen/sport_width" android:layout_height="@dimen/sport_sport_info_footer_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="19.0sp" android:textColor="@color/default_font_color_white" android:layout_gravity="center_horizontal" android:id="@id/sport_info_trail_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sport_trail_split_margin" android:text="@string/running_realtime_trail_desc" style="@style/sport_text_style" />
+    <com.huami.watch.sport.ui.view.NoTrailView android:layout_gravity="center_horizontal" android:id="@id/sport_info_no_trail" android:layout_width="@dimen/sport_trail_width" android:layout_height="@dimen/sport_trail_height" android:layout_marginTop="5.0dip" android:layout_marginBottom="15.0dip" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/sport_info_trail" android:layout_width="@dimen/sport_trail_width" android:layout_height="@dimen/sport_trail_height" android:layout_marginTop="5.0dip" android:layout_marginBottom="15.0dip" />
+</com.huami.watch.common.widget.HmLinearLayout>

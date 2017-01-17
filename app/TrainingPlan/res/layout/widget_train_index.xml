@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:orientation="vertical" android:id="@id/init_ll_train_center_init" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/train_center_loading" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@mipmap/training_widget_icon" android:layout_centerInParent="true" />
+            <TextView android:gravity="center_horizontal" android:id="@id/init_train_center_init_remind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="30.0dip" android:text="@string/remind_train_first_text" android:layout_alignParentBottom="true" android:textAlignment="center" style="@style/remind_fist_time_text" />
+            <TextView android:gravity="center_horizontal" android:id="@id/init_train_center_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="24.0dip" android:text="@string/train_center" android:layout_above="@id/train_center_loading" android:textAlignment="center" android:layout_alignParentStart="true" style="@style/train_init_title" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="vertical" android:id="@id/task_un_ing_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:gravity="center_horizontal" android:id="@id/train_center_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="28.0dip" android:text="@string/train_center" android:layout_alignParentTop="true" android:textAlignment="center" style="@style/train_init_title" />
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_start_new_train_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <ImageView android:layout_gravity="center_horizontal" android:id="@id/icon_train_plan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/training_widget_icon" />
+                <TextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/txt_start_new_train" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/start_new_train" android:textAlignment="center" android:layout_alignParentStart="true" style="@style/train_small_remide_green" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:id="@id/task_un_ing_train_detail_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                <TextView android:gravity="center" android:id="@id/train_center_init_remind" android:background="@drawable/train_detail" android:layout_width="100.0dip" android:layout_height="32.0dip" android:text="@string/train_detail" android:textAlignment="center" style="@style/train_detail_bottom" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:orientation="vertical" android:id="@id/tasking_ll_train_center_init" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:view="http://schemas.android.com/apk/res-auto">
+            <TextView android:id="@id/train_record_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:textAlignment="center" style="@style/train_status_detail_title" />
+            <TextView android:textSize="12.0sp" android:id="@id/day_train_record_stag" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/train_record_title" android:textAlignment="center" style="@style/train_status_detail_stag" />
+            <LinearLayout android:gravity="center_horizontal" android:id="@id/task_ing_train_detail_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/txt_train_center_detail" android:background="@drawable/train_detail" android:layout_width="100.0dip" android:layout_height="32.0dip" android:text="@string/train_detail" android:textAlignment="center" style="@style/train_detail_bottom" />
+            </LinearLayout>
+            <RelativeLayout android:id="@id/rl_middle_container" android:background="@mipmap/training_widget_bg" android:layout_width="192.0dip" android:layout_height="77.0dip" android:layout_marginTop="9.0dip" android:layout_below="@id/day_train_record_stag" android:layout_centerHorizontal="true">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+                    <TextView android:textColor="#ffffffff" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/day_train_record_rich_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="3.0dip" android:textAlignment="center" style="@style/train_detail_rich_text_title" />
+                    <TextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/day_train_record_copywrite" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:singleLine="false" android:layout_centerHorizontal="true" android:textAlignment="center" style="@style/train_small_remide_green" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/layer_master_container" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/layer_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:textAlignment="center" style="@style/train_status_detail_title" />
+            <View android:layout_gravity="center" android:id="@id/loading_red_dot" android:background="@drawable/red_dot" android:layout_width="16.0dip" android:layout_height="16.0dip" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <include android:id="@id/dialog_container" layout="@layout/alert_dialog" />
+    </FrameLayout>
+</LinearLayout>

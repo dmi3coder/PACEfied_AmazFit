@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+        <item>第五周</item>
+        <item>第六周</item>
+        <item>第七周</item>
+        <item>第八周</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>无法按预期调整</item>
+        <item>时间过久难以坚持</item>
+        <item>身体状态不佳</item>
+        <item>难度大</item>
+        <item>难度小</item>
+        <item>比赛取消</item>
+        <item>不适合我</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>

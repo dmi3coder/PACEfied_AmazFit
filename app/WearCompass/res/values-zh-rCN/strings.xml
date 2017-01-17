@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">指南针</string>
+    <string name="action_settings">Settings</string>
+    <string name="north_latitude">北纬</string>
+    <string name="south_latitude">南纬</string>
+    <string name="east_longitude">东经</string>
+    <string name="west_longitude">西经</string>
+    <string name="altitude">海拔(m)</string>
+    <string name="atmospheric_pressure">气压(hPa)</string>
+    <string name="ori_north">北</string>
+    <string name="ori_northeast">东北</string>
+    <string name="ori_east">东</string>
+    <string name="ori_southeast">东南</string>
+    <string name="ori_south">南</string>
+    <string name="ori_southwest">西南</string>
+    <string name="ori_west">西</string>
+    <string name="ori_northwest">西北</string>
+    <string name="correcting">校准</string>
+    <string name="correcting_line1">转动手腕以使</string>
+    <string name="correcting_line2">圆球滚动</string>
+    <string name="value_default">-</string>
+    <string name="loading">加载中</string>
+    <string name="degree">°</string>
+    <string name="zero">0.00</string>
+    <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
+    <string name="gps_tip">数据加载失败，请到室外开阔场地重试</string>
+    <string name="confirm">确定</string>
+    <string name="unknown">--</string>
+    <string name="compass_roll_tip">"请将手表正面朝上
+调整至水平方向"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/ll_lock_screen" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/lock_container" android:background="#52000000" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/sport_start_sport_item_title" android:textColor="@color/white" android:id="@id/txt_lock_remide" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:text="@string/txt_unlock_screen" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/sport_start_sport_item_title" android:textColor="@color/white" android:id="@id/txt_lock_status" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="@string/lock_screen" android:layout_above="@id/txt_lock_remide" android:layout_centerHorizontal="true" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:src="@drawable/ic_ui_lib_lock_screen" android:layout_below="@id/txt_lock_remide" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/unlock_container" android:background="#52000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/sport_start_sport_item_title" android:textColor="@color/white" android:id="@id/txt_unlock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/lock_margin" android:text="@string/sport_screen_un_lock" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/lock_margin" android:src="@drawable/sport_icon_unlock_screen" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <com.huami.watch.common.widget.HmUnlockView android:id="@id/hm_unlock_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

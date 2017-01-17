@@ -1,0 +1,60 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: TrainingPlan.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '22'
+sharedLibrary: false
+unknownFiles:
+  com/huami/watch/train/ui/activity/FinishTrainReasonActivity$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/activity/TrainWidgetRemindActivity$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainPlanAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainRecordDetailAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainSelectDetailAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainWeeklyRecordDetailAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/fragment/TrainPlanInitSelectFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/fragment/TrainPlanSelectDetailFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/fragment/TrainRecordDetailFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/fragment/TrainWeeklyRecordDetailFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/listviewadapter/TrainPlanListAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/test/TestProvider$$ViewBinder.java: '8'
+  com/ingenic/iwds/DeviceDescriptor.aidl: '8'
+  com/ingenic/iwds/app/INotificationProxyService.aidl: '8'
+  com/ingenic/iwds/app/INotificationServiceBackend.aidl: '8'
+  com/ingenic/iwds/app/Note.aidl: '8'
+  com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl: '8'
+  com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl: '8'
+  com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl: '8'
+  com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl: '8'
+  com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl: '8'
+  com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl: '8'
+  com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl: '8'
+  com/ingenic/iwds/remotedevice/RemotePackageStats.aidl: '8'
+  com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl: '8'
+  com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl: '8'
+  com/ingenic/iwds/slpt/IWatchFaceService.aidl: '8'
+  com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl: '8'
+  com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl: '8'
+  com/ingenic/iwds/smartsense/IRemoteSensorService.aidl: '8'
+  com/ingenic/iwds/smartsense/ISensorEventCallback.aidl: '8'
+  com/ingenic/iwds/smartsense/ISensorService.aidl: '8'
+  com/ingenic/iwds/smartsense/Sensor.aidl: '8'
+  com/ingenic/iwds/smartsense/SensorEvent.aidl: '8'
+  com/ingenic/iwds/smartvibrate/IVibrateService.aidl: '8'
+  com/ingenic/iwds/uniconnect/IConnection.aidl.bak: '8'
+  com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak: '8'
+  com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.1
+versionInfo:
+  versionCode: '22'
+  versionName: 5.1-82

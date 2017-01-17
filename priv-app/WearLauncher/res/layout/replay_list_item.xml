@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0sp" android:ellipsize="end" android:gravity="left" android:id="@id/reply_title" android:background="@drawable/lau_notify_card_reply_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:maxLength="10" android:drawablePadding="5.0dip" />
+</FrameLayout>

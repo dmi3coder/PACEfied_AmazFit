@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim0" android:maxLevel="0" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim1" android:maxLevel="1" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim2" android:maxLevel="2" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim3" android:maxLevel="3" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim4" android:maxLevel="4" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim5" android:maxLevel="5" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim6" android:maxLevel="6" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim7" android:maxLevel="7" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim8" android:maxLevel="8" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim9" android:maxLevel="9" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim10" android:maxLevel="10" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim11" android:maxLevel="11" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim12" android:maxLevel="12" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim13" android:maxLevel="13" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim14" android:maxLevel="14" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim15" android:maxLevel="15" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim16" android:maxLevel="16" />
+    <item android:drawable="@drawable/digital_sport_seven_step_level_anim17" android:maxLevel="17" />
+</level-list>

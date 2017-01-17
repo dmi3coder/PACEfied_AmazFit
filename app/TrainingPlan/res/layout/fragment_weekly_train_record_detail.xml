@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.train.ui.widget.FullScrollView android:id="@id/fullScrollView" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/train_record_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.699982dip" android:textAlignment="center" style="@style/train_record_detail_title" />
+        <TextView android:id="@id/current_week_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="center" />
+        <View android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="6.0dip" />
+        <android.support.v7.widget.RecyclerView android:id="@id/recyclear_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginBottom="20.0dip" />
+    </LinearLayout>
+</com.huami.watch.train.ui.widget.FullScrollView>

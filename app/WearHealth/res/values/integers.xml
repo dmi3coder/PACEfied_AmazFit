@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="size_shadow_dy0">4.0</item>
+    <item type="integer" name="size_shadow_radius0">6.0</item>
+    <item type="integer" name="size_shadow_dy1">3.0</item>
+    <item type="integer" name="size_shadow_radius1">3.0</item>
+    <item type="integer" name="widget_size_shadow_dy0">4.0</item>
+    <item type="integer" name="widget_size_shadow_radius0">6.0</item>
+    <item type="integer" name="widget_size_shadow_dy1">3.0</item>
+    <item type="integer" name="widget_size_shadow_radius1">3.0</item>
+</resources>

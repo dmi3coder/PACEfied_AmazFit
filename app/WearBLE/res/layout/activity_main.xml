@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="bind_unbind" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button android:id="@id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="qrcode" android:layout_weight="1.0" android:onClick="onClick" />
+        <Button android:id="@id/unbond" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="unbond" android:layout_weight="1.0" android:onClick="onClick" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button android:id="@id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="adv tx" android:layout_weight="1.0" android:onClick="onClick" />
+        <Button android:id="@id/button5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="adv inter" android:layout_weight="1.0" android:onClick="onClick" />
+    </LinearLayout>
+    <Button android:id="@id/button4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="status" android:onClick="onClick" />
+    <Button android:id="@id/noti_test" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="noti_test1" android:onClick="onClick" />
+    <Button android:id="@id/noti_test2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="noti_test2" android:onClick="onClick" />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/view" android:background="@drawable/main_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center_vertical" android:background="@drawable/divider_a" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <View android:layout_gravity="center_horizontal" android:background="@drawable/divider_b" android:layout_width="1.0px" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="vertical" android:layout_width="90.0dip" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="107.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ffff0000" android:layout_gravity="center_horizontal" android:id="@id/latitude_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="42.0dip" android:text="@string/north_latitude" />
+                <TextView android:textSize="14.0sp" android:textColor="#88ffffff" android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="@id/north_latitude_text" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/loading" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="107.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ffff0000" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/altitude" />
+                <TextView android:textSize="14.0sp" android:textColor="#88ffffff" android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="@id/altitude_text" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/loading" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="90.0dip" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="107.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ffff0000" android:layout_gravity="center_horizontal" android:id="@id/longitude_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="42.0dip" android:text="@string/east_longitude" />
+                <TextView android:textSize="14.0sp" android:textColor="#88ffffff" android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="@id/east_longitude_text" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/loading" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="107.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ffff0000" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/atmospheric_pressure" />
+                <TextView android:textSize="14.0sp" android:textColor="#88ffffff" android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="@id/atmospheric_pressure_text" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/loading" />
+            </LinearLayout>
+        </LinearLayout>
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/sport_history_root_style"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmListView android:id="@id/list_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" />
+</FrameLayout>

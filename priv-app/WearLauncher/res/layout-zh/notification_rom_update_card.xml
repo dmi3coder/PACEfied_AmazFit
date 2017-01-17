@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/notification_card_frame_content_minHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/card_frame_icon" android:visibility="gone" android:layout_width="@dimen/notification_icon_size" android:layout_height="@dimen/notification_icon_size" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <RelativeLayout android:id="@id/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.299988dip" android:layout_marginBottom="6.299988dip">
+        <TextView android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/notification_content_title_marginLeft" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/LauncherCardTitle" />
+        <TextView android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/notification_content_time_marginRight" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/LauncherCardTime" />
+    </RelativeLayout>
+    <include android:id="@id/notification_update_click" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="6.299988dip" android:layout_below="@id/line" android:layout_centerHorizontal="true" layout="@layout/notification_rom_update_click_view" />
+    <TextView android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/notification_content_text_marginLeft" android:layout_marginRight="@dimen/notification_content_text_marginRight" android:layout_marginBottom="12.0dip" android:text="@string/hm_generic_notification_iconified_content_line" android:maxEms="@integer/notification_content_max_num" android:layout_below="@id/notification_update_click" style="@style/LauncherCardText" />
+</RelativeLayout>

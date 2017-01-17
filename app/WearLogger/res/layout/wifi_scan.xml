@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/background" android:background="@drawable/lan_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_wifi" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.wearlogger.ui.LoadingDotView android:layout_gravity="center" android:id="@id/loading_view" android:layout_width="120.0dip" android:layout_height="120.0dip" android:layout_marginTop="15.0dip" />
+        <TextView android:textSize="19.0sp" android:textColor="@color/white" android:gravity="bottom|center" android:id="@id/textview_tips" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="38.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <com.huami.watch.wearlogger.loggerservice.wifi.newwifilist.WifiWheelListView android:id="@id/wifi_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

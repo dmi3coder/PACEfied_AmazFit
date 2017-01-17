@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.train.ui.widget.FullScrollView android:id="@id/ll_scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/txt_my_train" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_margin_top" android:text="@string/my_train" style="@style/mytrain_trainplan_title" />
+        <TextView android:gravity="center_horizontal" android:id="@id/txt_select_train_plan" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/please_select_train_plan" style="@style/mytrain_trainplan_stage" />
+        <View android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="6.0dip" />
+        <com.huami.watch.train.ui.widget.FullListView android:id="@id/recyclearView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@color/white_alpha_66" android:dividerHeight="0.6dip" />
+        <View android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginBottom="6.0dip" />
+    </LinearLayout>
+</com.huami.watch.train.ui.widget.FullScrollView>

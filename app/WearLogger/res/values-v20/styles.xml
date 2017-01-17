@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="confirmDialogStyle">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="ProgressDialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="SwipeToDismiss">
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="DisableSwipeToDismiss">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+</resources>

@@ -1,0 +1,2335 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00174.png
+SHA1-Digest: X/AU8nxZdkrhNVtB5w7uC1Rk8dY=
+
+Name: res/drawable-hdpi-v4/sport_notice_start.png
+SHA1-Digest: BhISMnrvMo99CRLwb5Z2kZxVWdo=
+
+Name: res/layout/list_item_medal.xml
+SHA1-Digest: x4YJXZO2xzYjYOBSU1sgUTnHnD8=
+
+Name: assets/voice/96.mp3
+SHA1-Digest: HcMsMEY+23yyaF6+6gneYJRmfKU=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00192.png
+SHA1-Digest: ZXKHBbmlHOilfT5X/UBpBLuDsIs=
+
+Name: res/anim/gps_available.xml
+SHA1-Digest: rY+IMJdTqQ+Pws4RvK1HkfVf/uQ=
+
+Name: assets/voice/75.mp3
+SHA1-Digest: uPfQb3HZ1Mbhoj88tNuK1hdClDY=
+
+Name: res/drawable-hdpi-v4/menu_runing.png
+SHA1-Digest: +nhfUPON0NE7M8SQExlE8o0Z5JE=
+
+Name: res/drawable-hdpi-v4/sport_list_auto_pause_2.png
+SHA1-Digest: M9kzxrCZD4nh02TAbN9J/vt9BO8=
+
+Name: assets/voice/8.mp3
+SHA1-Digest: 1wEg/Av/AjdbbReg51WQSUMauW0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate013.png
+SHA1-Digest: Svmqv9hRcFL+lSzkYHXaT91Lqp8=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00174.png
+SHA1-Digest: S2KUAJTtdbGq4yetGAaNePVD3ck=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00171.png
+SHA1-Digest: DXb+nnyG2Jn/XfmWM8W3FBIxvZ8=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00212.png
+SHA1-Digest: YZCSbepsVg8w0IA6gAX9SZgPIxc=
+
+Name: res/layout-v20/dismiss_overlay.xml
+SHA1-Digest: vGfP/eHf5riR/l5HnAz6wuc7dH4=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00164.png
+SHA1-Digest: 3mhdwDxdrAoMRCk/no91egu/uVM=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00199.png
+SHA1-Digest: Nr6oEbufG4jQAI0JIoGaHw0a+ZQ=
+
+Name: res/layout/fragment_start_sport.xml
+SHA1-Digest: PThkM+yb7+TpzeTqTuPCs1RMllw=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_indoor_riding.png
+SHA1-Digest: rKd35lU3PiEJVGBVVkTaImjumpk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate015.png
+SHA1-Digest: /72jP7siFSEJ9tXo9f7YZf7+P/0=
+
+Name: assets/voice/38.mp3
+SHA1-Digest: VjrAoPfeqYSsH0zJrNAK3fG3eDw=
+
+Name: res/drawable-hdpi-v4/sport_gps_signal_poor.png
+SHA1-Digest: 3Ow76VXtRJYXJ3BGMYh7eKOM+dM=
+
+Name: res/drawable-hdpi-v4/sport_music_bg.png
+SHA1-Digest: iq0WEdhsX8L/X1/6MTKJMgSUmxI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate020.png
+SHA1-Digest: RASOvSRW2pu1ixWkGOw0eZpVDiY=
+
+Name: res/drawable-hdpi-v4/sport_medal_06_grey.png
+SHA1-Digest: Kb2aYrAPwFS7y8vza54uvd7Dw58=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate058.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/layout/round_activity_running.xml
+SHA1-Digest: JF9/5gBBP3CKyDCacx4yAIeuASw=
+
+Name: res/drawable-hdpi-v4/health_heart_medal_04.png
+SHA1-Digest: oVD41Bd2Rb/LK0eqx04XNi1Efig=
+
+Name: res/drawable/button_ground_half_transparent.xml
+SHA1-Digest: uytvU1f6wYk4/jVF2StznkaqXZs=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate031.png
+SHA1-Digest: IwSOY+r01bGZYaaG9ToQ4KQUzzk=
+
+Name: res/drawable-hdpi-v4/sport_list_heart_rate.png
+SHA1-Digest: oIOF1iz4oLCUI1AG1d2XsgtOg68=
+
+Name: assets/voice/10000.mp3
+SHA1-Digest: fTM/SjeDV9B/9IdnkC4fZEFe4qE=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00168.png
+SHA1-Digest: 4/FJmlyoiLWAPpaAhuBlG0Ize/I=
+
+Name: res/drawable-hdpi-v4/sport_list_heart_rate_off.png
+SHA1-Digest: O3AR2Kty72Sgn+cGEaS66jNpuU0=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_continue_96.png
+SHA1-Digest: vJdivZxoGTIK/to7Q1Br6/PXfw4=
+
+Name: res/drawable-hdpi-v4/sport_medal_02.png
+SHA1-Digest: kxa37/OOqgHmy7TQOclQzrQOy+c=
+
+Name: res/animator/time_picker_ok_vector_alpha.xml
+SHA1-Digest: USj5fxSv2NfPRuiEI40pqMT2LWc=
+
+Name: res/layout/fragment_indoor_riding_history_detail.xml
+SHA1-Digest: HkQvZ1/BdgVpNxVCwbP4pJDJIxA=
+
+Name: res/layout/remind_trainning_pace_content_custom_view.xml
+SHA1-Digest: GedP5rXmrVZMiq8pgBARjT+elx4=
+
+Name: assets/voice/46.mp3
+SHA1-Digest: 19DuCNr4aCoPKbdiUoBMbIhxMsY=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00172.png
+SHA1-Digest: Jsnhqk+64kl25o4lqEFyN2NmvFU=
+
+Name: res/drawable-hdpi-v4/sport_medal_09_grey.png
+SHA1-Digest: cQzaX3XD00lEHo88C5I3yI3UlwQ=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00214.png
+SHA1-Digest: KlzAOHMb8cDZk7oCLxKdheZ13P4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00191.png
+SHA1-Digest: njRX7W4YFVXiCt4VGEF1/7qdDjk=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00169.png
+SHA1-Digest: l/Wtqa3LPEoI1TzQk24Pfo/5Kz4=
+
+Name: res/drawable-hdpi-v4/sport_alert_mileage.png
+SHA1-Digest: mqua5HRl3v+/N6F0eh6aze05qGg=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00189.png
+SHA1-Digest: 8Z/XXOOlBr7T8+nJKcR7cT+Ggws=
+
+Name: res/drawable-hdpi-v4/sport_medal_08.png
+SHA1-Digest: fo3ocVYQTlBymjr/c/rGwgQoCXQ=
+
+Name: res/drawable-hdpi-v4/sport_list_circle_distance.png
+SHA1-Digest: yhW1tZ77REUen5oNdnLYgAkG5RI=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00189.png
+SHA1-Digest: y9ajqb5yASLtBZWbln5rgpaxinY=
+
+Name: res/drawable-hdpi-v4/sport_button_end_normal.png
+SHA1-Digest: H5NkjXDzk3q3UfO1JsmfvGH6hwo=
+
+Name: res/layout/test_list_item.xml
+SHA1-Digest: 47q6Ja7B2dFBiG148YKY/AOzIZA=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00216.png
+SHA1-Digest: aOJ793+eWcqkOvSMLhMRXq+CCgk=
+
+Name: res/drawable/settings_icon_background.xml
+SHA1-Digest: H7tOdyaSV7VXWkMjkTWcbdfQ2Ms=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00165.png
+SHA1-Digest: AbJ7pr2jxNqLtICe7vSQHkq5x+0=
+
+Name: assets/voice/28.mp3
+SHA1-Digest: 3jYIKM73SJnQyE1viVLQmRTWZAc=
+
+Name: res/drawable/waiting_gps_search.xml
+SHA1-Digest: Cn4CjiH5TJr9aA2b3qcnoQqRNoY=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate049.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00163.png
+SHA1-Digest: 1O3iQZY2VKktdQdXfFmgL0vyG9s=
+
+Name: assets/voice/70.mp3
+SHA1-Digest: HFwwUfsapHNmEXozmQMGpXf1kEU=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate033.png
+SHA1-Digest: wVGdkgSUdWfARp78X17oL4UzBBA=
+
+Name: assets/voice/h_13.mp3
+SHA1-Digest: jUfSIkvDrBjo/hp5ljGQ8cgcgEA=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_healthy_sit_remind_6
+ 4.png
+SHA1-Digest: xsS6mrw8aH267IFLrNtAbo2qE40=
+
+Name: assets/voice/kilometer.mp3
+SHA1-Digest: ALIYEiLwEDhpo0vyobkVHXokUR0=
+
+Name: assets/DINCondensed-Bold.ttf
+SHA1-Digest: Hv7aVxkPtpNttTuOA8BwXRtqz60=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00185.png
+SHA1-Digest: TgpA2Wl3CSbfwLwTY2o0LT+GJYg=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00163.png
+SHA1-Digest: HQ1GrKpWRfe2+NxqG2oBOUAfgH0=
+
+Name: res/layout/activity_sport_medal_list.xml
+SHA1-Digest: 9MjbIigdzlhDeVLraXZC/OL+hd8=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00193.png
+SHA1-Digest: 5w6kP4BllqlBFlrcY7EaMoZePdo=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00160.png
+SHA1-Digest: CUtYj1Z8TEnhp5i5VbwmK/dKtOE=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00175.png
+SHA1-Digest: TgpA2Wl3CSbfwLwTY2o0LT+GJYg=
+
+Name: res/drawable-hdpi-v4/sport_icon_unlock_screen.png
+SHA1-Digest: zWsjq2Rg1GPkuaL+Cx6aC0DltDU=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00187.png
+SHA1-Digest: H/7cSnSrKvofeMyi/O/Y5d6b6j0=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: WB+tjM6r5T8qYjx2JdPi3dBon0w=
+
+Name: res/drawable-hdpi-v4/sport_running_end_route.png
+SHA1-Digest: MTrG9KnprdZgnEhhKZWWJV0zAkY=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00195.png
+SHA1-Digest: 7keZNUDvtoigGryrx+lxu8juhYw=
+
+Name: assets/voice/6.mp3
+SHA1-Digest: VrNsmonK+gjg5agxUNF/WBRjmnw=
+
+Name: res/drawable-hdpi-v4/sport_gps_signal_good.png
+SHA1-Digest: kMOcZPwjNLRA4RAqwJaVMt07x1E=
+
+Name: res/drawable-hdpi-v4/sport_medal_07.png
+SHA1-Digest: 0MpcN8qa1D+xtLCp/pFX5vOv/Ss=
+
+Name: assets/voice/31.mp3
+SHA1-Digest: ZOxrH0D3QZoMvSpw4qrjUk9RhBM=
+
+Name: assets/voice/42.mp3
+SHA1-Digest: VZ4uCswN/yT4MWfkKEjZxx67FL0=
+
+Name: res/drawable-hdpi-v4/health_heart_medal_01.png
+SHA1-Digest: KC2CJBgldLXFlqc1LpNbPGrZF9Q=
+
+Name: assets/voice/already_walk.mp3
+SHA1-Digest: nIQBTFFL8IgOPBd+hJPh10eTY6o=
+
+Name: res/drawable/loading_progress.xml
+SHA1-Digest: fV5xNNhZ7+CikreJ4iD7ljtfC6g=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00174.png
+SHA1-Digest: tk425mOASx2a84rTICmQo1yQmN4=
+
+Name: res/drawable/button_backgroud_selector.xml
+SHA1-Digest: +PJSjR8CBTNFX6ORmwR6OZ8c5DI=
+
+Name: res/drawable-hdpi-v4/sport_process_page_4.png
+SHA1-Digest: ltzk9bgZYEGzNMqnk2ZmbOZ6L/I=
+
+Name: res/layout/activity_selector.xml
+SHA1-Digest: pLz0zR/Zn4dxDuzYoNyxRtIEsGQ=
+
+Name: assets/voice/47.mp3
+SHA1-Digest: p1AE4eiOltA4sOHrqqs3NLuLbMk=
+
+Name: res/drawable-hdpi-v4/sport_music_btn_end.png
+SHA1-Digest: OQa2sAO7hPzELVK9FlKJDTZGnyI=
+
+Name: assets/voice/h_17.mp3
+SHA1-Digest: +hzvRI4WSVHFF+JtYoI8zmXfkRY=
+
+Name: res/drawable-hdpi-v4/sport_list_auto_pause_off.png
+SHA1-Digest: U6QbDS3Aj9/GrVZ4HUJUIbVWbHk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate046.png
+SHA1-Digest: stPG4XAFK++2e6kVYsLhkcfTwJw=
+
+Name: assets/voice/h_15.mp3
+SHA1-Digest: GbSI4HB+/a0CTN7JtbtOQjQEPHg=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00187.png
+SHA1-Digest: oXiMdYZXlLYVIwVrGMsmptF5W7I=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00174.png
+SHA1-Digest: SqpN/+mvPa+fPBp9CSCAPRvHAXs=
+
+Name: res/drawable/button_ground.xml
+SHA1-Digest: +/rtBEKLGzBsh+SplkRqsDovyh4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00156.png
+SHA1-Digest: 0Vj/2Bo8PjKhCCbIKclCzaTkGxU=
+
+Name: res/drawable-hdpi-v4/sport_menu_trail_running.png
+SHA1-Digest: Lbs9IUgib/EUhONBG2HA9iJ/o0o=
+
+Name: res/drawable-hdpi-v4/sport_notify_icon_medal.png
+SHA1-Digest: RWUco01kdwwF9J41eksaoDYrzBk=
+
+Name: res/layout/music_not_found_alert_dialog.xml
+SHA1-Digest: /D/DQghTFDWN9HBgoN5Gn2N01X4=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00185.png
+SHA1-Digest: XY/EMkXetiTQ2nPzcLbRV4ak2tc=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00172.png
+SHA1-Digest: 4IR4L8C9Wy/a6YM7rYga3dotlio=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00211.png
+SHA1-Digest: qZhrGJxczQ7bef8JAM2Wc/ODqEw=
+
+Name: res/drawable-xhdpi-v4/ic_full_sad.png
+SHA1-Digest: CpNrE53/OjKkKXAzPNRiABCYqjg=
+
+Name: res/layout/fragment_outdoor_riding_history_detail.xml
+SHA1-Digest: cWXLEBT0Gn5RW+qvCUHGFm1wjRw=
+
+Name: res/layout/fragment_sport_info.xml
+SHA1-Digest: rQ8w8nwpY5XMdFxnY/DSCLiplZI=
+
+Name: assets/voice/64.mp3
+SHA1-Digest: Zy9ryAwc8HQy/JY4UvaossWdsjM=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00161.png
+SHA1-Digest: te7T8a4FrFjDvFkDFC/xHQM5v8c=
+
+Name: res/drawable-hdpi-v4/lau_icon_retry.png
+SHA1-Digest: 5BeKtq0Gns8qiVhFb+TdFGEYlpw=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00166.png
+SHA1-Digest: 0ZohsL/ijKaKthEeep8pIx7ylXc=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_cancel_96.png
+SHA1-Digest: Aa748oSpr3U+BWIDnVmKp1xxhpQ=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00172.png
+SHA1-Digest: 41g4oE5y/jjtM0Scp+hVaVbc0rU=
+
+Name: res/layout/fragment_outdoor_riding_history_detail_container.xml
+SHA1-Digest: Ob3hqGxPVWZul0n+4jXbyYOH7L8=
+
+Name: assets/voice/66.mp3
+SHA1-Digest: riyNalwIz7UP9xoQZyrZ41QQO6Q=
+
+Name: res/drawable/progress_medium_material.xml
+SHA1-Digest: rMiY83ocHhhPaL8ynIoxc4khYA8=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00167.png
+SHA1-Digest: dXJfqm3qI8lOi130aKDc9+9I8Cc=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00215.png
+SHA1-Digest: gDKfQI6PWHHjPKvxwPJWRp9+rBA=
+
+Name: res/drawable-hdpi-v4/health_heart_medal_02.png
+SHA1-Digest: 4voL0RRr2KVlS1TVAPAOqw/hAd0=
+
+Name: assets/voice/21.mp3
+SHA1-Digest: VslNZWMwpG5wc4/EtoGda5aiMPk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate019.png
+SHA1-Digest: QI4BM/1cwXaz8H/0qOKUmwfb034=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00171.png
+SHA1-Digest: UyjpdFnyVMrU1lyrhxZzx7H/lok=
+
+Name: res/drawable/progress_small_material.xml
+SHA1-Digest: 8pl+ya299sj9FqW7WB1W/NXgPX4=
+
+Name: assets/voice/16.mp3
+SHA1-Digest: aKcTzcKM4tY200eXrmIZPxb363A=
+
+Name: res/layout/list_header_sport_info.xml
+SHA1-Digest: 3iCCmBEEzxPKZMbuIfQmCw7JMco=
+
+Name: res/drawable-hdpi-v4/sport_tips_arrow1.png
+SHA1-Digest: tePPhcHynqY7CImjrZ/QhZm6/Gc=
+
+Name: res/animator/time_picker_ok_vector_path.xml
+SHA1-Digest: 1DJy9ab9Ys2GnLPQpdX3hBTWbmM=
+
+Name: res/drawable-hdpi-v4/sport_medal_04_bg.png
+SHA1-Digest: 8Gh3o8iTtGEJ7FnH3XDdByyRBG4=
+
+Name: res/drawable-hdpi-v4/gps_signal_poor.png
+SHA1-Digest: Uj3/Y4dYojEBtqS6geawv31DKYw=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00164.png
+SHA1-Digest: SMOCPKzMS+55MXfvNYdaozGDqYk=
+
+Name: assets/voice/54.mp3
+SHA1-Digest: 7+K87xuGlJdV5RyAU5HsMKzC8Vk=
+
+Name: assets/voice/20.mp3
+SHA1-Digest: 97CExlJgxYzLlgutrCjSq7Kgy6c=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate005.png
+SHA1-Digest: u2OvH3rF/QDZTduLaAhX5H5lCX8=
+
+Name: assets/voice/82.mp3
+SHA1-Digest: 9zmMJoBdO88L0YgGsnu8wZU0GIo=
+
+Name: res/anim/alpha_in.xml
+SHA1-Digest: kLJAlz05HPCSCqLqRN3do1ObU7M=
+
+Name: res/drawable-hdpi-v4/sport_menu_bg.png
+SHA1-Digest: kduK++p8VeNaaKQKydOfgKX2ATQ=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00169.png
+SHA1-Digest: z9QrrOHAOEPwIaX8LClV2C7f/1Y=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00192.png
+SHA1-Digest: LddVmILy5AWM/8GcxcWbeImH9yo=
+
+Name: res/anim/scale_in.xml
+SHA1-Digest: iVfmesT2Z+X29n9pCr5BVCkRdxo=
+
+Name: res/drawable-hdpi-v4/sport_history_heart_null.png
+SHA1-Digest: DORZF9Xvrm/maw51MO8GZAEfzAw=
+
+Name: assets/voice/80.mp3
+SHA1-Digest: x6ZQT1GhoJG5vmDGgRY5wlfJd64=
+
+Name: res/drawable-hdpi-v4/sport_medal_04_grey.png
+SHA1-Digest: Z0ZFLjh25bgl2oJQJ2T7Gr/hpJc=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00185.png
+SHA1-Digest: zY0B5twhF33vaviwwfAlq05AE0M=
+
+Name: assets/voice/51.mp3
+SHA1-Digest: vXIKwUiXqw99n7M01AuZU29wCO4=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate044.png
+SHA1-Digest: tvhoX9oM9p5ouQHS01jrioNw40k=
+
+Name: assets/voice/65.mp3
+SHA1-Digest: olQBBNMns+BWLs3xAHgshnhC5Fg=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00171.png
+SHA1-Digest: a+eMFLqYuaW3QA+DFpv1h8s4PXY=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00219.png
+SHA1-Digest: 9bmTFt2v1zIA4gVfu1B7zgcBb8E=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_6.png
+SHA1-Digest: 8V4aD3wdWUr4S9eAcThoim20M/o=
+
+Name: res/drawable-hdpi-v4/sport_running_calorie.png
+SHA1-Digest: 2juuGG+za7zuRBwX2tcSKnxnxME=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00165.png
+SHA1-Digest: hkSTf5AK7xp81baIFz3GQVwnkMw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate018.png
+SHA1-Digest: 7VAR1ME10ooAiFCPOw4WPQasQCE=
+
+Name: assets/huamifont.ttf
+SHA1-Digest: gXXjqYq0LClH/gevviAs2OcCF40=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_pause_96.png
+SHA1-Digest: EhkUc+MiNLYS22A+QAsdopOngsk=
+
+Name: res/drawable-hdpi-v4/sport_menu_walk.png
+SHA1-Digest: aHiABWibQytdk5Sk8YwgswIk5mc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate011.png
+SHA1-Digest: kaTttHArC/fvfUaKWxfatHnd5hk=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_2.png
+SHA1-Digest: nU46e9wYoQVUIaQm/G6NKijsapo=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00162.png
+SHA1-Digest: E53a60P0k7CWOSn45dCE2sBwCqE=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00186.png
+SHA1-Digest: Qya9CYaTC1LZE1vibgIT2xKNmxY=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00159.png
+SHA1-Digest: jui7HyjJf4X7iok0qLsmOO9UOxQ=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate007.png
+SHA1-Digest: xCWF9RRRs7QuxXuaDVhcYUUmCO0=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00178.png
+SHA1-Digest: 0eplSFFkcRNlxkJiTCqplKXs1pQ=
+
+Name: assets/voice/62.mp3
+SHA1-Digest: D2MDQq21vTpLPOEte/GQUgobYBg=
+
+Name: res/layout/list_header_sport_start.xml
+SHA1-Digest: /Ga09DWAsjPPo0EfeWVRbHA3RbI=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00213.png
+SHA1-Digest: i0Auj1iMpz4hOa7I3adjnHOl7RA=
+
+Name: res/drawable-hdpi-v4/ic_full_sad.png
+SHA1-Digest: j3DNoduBEpYgla2pjmLZbfbkNIE=
+
+Name: assets/voice/24.mp3
+SHA1-Digest: nFpRitwaEz6Zg/RZQBlIhiaR8JU=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_music_sound.png
+SHA1-Digest: NQqCvCDluHyMZISLQY2ULfz++iw=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00158.png
+SHA1-Digest: cu046OnjaIKO4tE0pEnZIkNG8eE=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00177.png
+SHA1-Digest: csOYprAMpiZVR6+MDTZzlDH2x5U=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate025.png
+SHA1-Digest: DHryJl2mOl4AWlFN5etPZyeNlbY=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00168.png
+SHA1-Digest: UKDIon5cyHAJ6O47IXGj3BzzRUQ=
+
+Name: assets/voice/39.mp3
+SHA1-Digest: uTYJbNYDHczes6COO/gG5zgzpLo=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00223.png
+SHA1-Digest: Pm9x1MyVhKEtH363fFRHfOu2pZI=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00167.png
+SHA1-Digest: pyj0jBCf1j2o/Qc6E8RxoGaa+fE=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00173.png
+SHA1-Digest: po3Df2PCA/ATW3Y/9kZAo3O+e3k=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00190.png
+SHA1-Digest: DKn/KTGYLjqZZAAKxyTAHbbP3h0=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00158.png
+SHA1-Digest: AvuW8oP5PNpZENlCLULFgHQag9g=
+
+Name: res/layout/fragment_running_history_detail_container.xml
+SHA1-Digest: D23lr6msE12kKpcj69oyIavYTFw=
+
+Name: res/drawable-hdpi-v4/sport_medal_01.png
+SHA1-Digest: /ZhTvkkq7UEmUjBcSpAk4o/X3ck=
+
+Name: res/layout/launcher_widget_view.xml
+SHA1-Digest: ldteieukg8u+wPiodyTSntiwY/w=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_4.png
+SHA1-Digest: XQxBeP/N0Ep7LWdLAjIVOjEfbiQ=
+
+Name: res/drawable-hdpi-v4/sport_medal_07_bg.png
+SHA1-Digest: dl2ZC9o2dRbcAJvEWMoJZQ4n3WE=
+
+Name: res/layout/fragment_crossing_individual_history_detail.xml
+SHA1-Digest: 3QY9Qask6Phxm1vUEexb9M9NQlg=
+
+Name: res/anim/slide_out_to_bottom.xml
+SHA1-Digest: sUXtASrayPfFcjiYUxugtpvG/WY=
+
+Name: res/drawable-hdpi-v4/sport_music_btn_close.png
+SHA1-Digest: 1kcWd81RR+tO+5KHdeBBF1VrG4I=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00164.png
+SHA1-Digest: zEwt7TR8UAPGXyfj1Wd4TxanqII=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00213.png
+SHA1-Digest: /LPzFPsy3452NfWGy7tMcQ4oZyY=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00173.png
+SHA1-Digest: ThAN+Yfm+CLHj7SxCp+SmW29Tqk=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_trail_running.png
+SHA1-Digest: S1YxZsIkoXKcOR+bPPvOdG8gTsI=
+
+Name: res/drawable-hdpi-v4/sport_running_stride.png
+SHA1-Digest: DnoEHfS0Ogz+8naFlSUM0Hg2x10=
+
+Name: res/drawable-hdpi-v4/card_frame_pressed.9.png
+SHA1-Digest: mSL4gDuCWlKxpjHsW7/bL2/WYzI=
+
+Name: res/drawable-hdpi-v4/sport_running_heart_remind_h.png
+SHA1-Digest: 2lPMeadacOVPLLrKtIAGpnnlMOM=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_poweroff_64.png
+SHA1-Digest: EiGi6Two/9Hb74BuDSaCVaQIfEs=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00188.png
+SHA1-Digest: X5Z7i/aZgLJJQi5qiuKBiwC/fdM=
+
+Name: res/drawable-hdpi-v4/sport_history_right.png
+SHA1-Digest: +4xyOghohO2mpENPH3eYUwsGwDI=
+
+Name: res/drawable-hdpi-v4/sport_medal_08_bg.png
+SHA1-Digest: 8Gh3o8iTtGEJ7FnH3XDdByyRBG4=
+
+Name: assets/voice/23.mp3
+SHA1-Digest: juw1d8Upz6NURotVhlTtqEeSwzM=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00217.png
+SHA1-Digest: xY+DZrnWTH2acFfBYAClTVmJ2xE=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_music_bg.png
+SHA1-Digest: fZcSrXbzRLLODn4hG1mvqT/879Q=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00191.png
+SHA1-Digest: pQtTAATYNROrhJGGefdxpwZr0ZA=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00165.png
+SHA1-Digest: XAsOsmWt0l/VFHCZjOpaowYtHkQ=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate016.png
+SHA1-Digest: 1S8v3/jIzijj0V90sSU2qrc+7bg=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00172.png
+SHA1-Digest: LeLOCvpuZhZiI5tGma+ETOwHLaE=
+
+Name: res/drawable-hdpi-v4/sport_medal_08_grey.png
+SHA1-Digest: vbR1TzaJFdX1ffzWYDI31hcH03I=
+
+Name: res/drawable-hdpi-v4/sport_running_time.png
+SHA1-Digest: 4acOVYCXUEN5IAwwyMZN0S2tJQc=
+
+Name: res/drawable/confirmation_animation.xml
+SHA1-Digest: kwBzSwJC9P1Bm4bxzLsWKbEvh4Y=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate024.png
+SHA1-Digest: Viy9n9ymEobNWio2+mYd7zlYfqI=
+
+Name: res/drawable-hdpi-v4/training_notify_completed_trainning.png
+SHA1-Digest: hVHtsFbFhfH6glGgsRJhEKad7bw=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00177.png
+SHA1-Digest: 7OECZFtaJOePDRPT6bHRxeRDCLo=
+
+Name: assets/Lato-Reg.ttf
+SHA1-Digest: En8kGHGp/kLNjQc6CDVBDzgk1Xw=
+
+Name: assets/voice/2.mp3
+SHA1-Digest: 3aBiImdcjLe2UVTBvaKtyYLPn7A=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00168.png
+SHA1-Digest: Qx1Yu4m+Csrj8b7AEsw53Rd+hb0=
+
+Name: res/drawable-hdpi-v4/ic_ui_lib_lock_screen.png
+SHA1-Digest: 260qJABVRFldtvgcfNTkNuAEDWk=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00218.png
+SHA1-Digest: kvsHGcws0lUIX7mQr3POccQaUfA=
+
+Name: res/layout/sport_notification_content.xml
+SHA1-Digest: 8HWpzb7xYVRsNd3wUsNMEhPsOVw=
+
+Name: assets/voice/12.mp3
+SHA1-Digest: 4QmGALDPi8mowiaOKvbtvZGvMPw=
+
+Name: res/drawable-hdpi-v4/sport_heart_min.png
+SHA1-Digest: zi2isClVJmztuWp7bA6a0dq6O3s=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00196.png
+SHA1-Digest: vTvIkhRrOfvpnSjFP0WghOKjMcw=
+
+Name: res/drawable-hdpi-v4/sport_list_auto_pause_open.png
+SHA1-Digest: sUAUkxbabVXIpQ3HKAaLqDy11Xk=
+
+Name: res/drawable-hdpi-v4/widget_music_icon_setting.png
+SHA1-Digest: FLAt1nkMt/K/L1XYKBfhWlw1V+c=
+
+Name: assets/voice/56.mp3
+SHA1-Digest: VLfp4wS6K+vUWeBz9l5BaLub3tQ=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00221.png
+SHA1-Digest: Lbvt92bTYrKcultuJ2Krzh8nGC4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00210.png
+SHA1-Digest: rNjsKHrLpD4LsqU8A7M2KF0tmpY=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00194.png
+SHA1-Digest: fHrd3i3dYfG3TSFj57TibXHeK/4=
+
+Name: res/drawable-hdpi-v4/sport_gps_top_bg.png
+SHA1-Digest: xPShnfs3qpg0ii5LbejpcdYYeS8=
+
+Name: res/drawable-hdpi-v4/sport_alert_target_trainning.png
+SHA1-Digest: TT4q4SnqQ6OlUURh86IYWuOGNA0=
+
+Name: res/drawable-hdpi-v4/sport_notice_start_s.png
+SHA1-Digest: bnhVxaCuaZuZ0nZqX5chxpps7AI=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00177.png
+SHA1-Digest: Lhf89y+/Igo/piq3xm5v/XJdSCk=
+
+Name: assets/voice/hour.mp3
+SHA1-Digest: mnHX3KYFIwHCbOGW4OL/7bP+AgY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: CXgHMYp+O+r2QmsgmAHFVb9pn84=
+
+Name: res/drawable-hdpi-v4/sport_running_trajectory_bg.png
+SHA1-Digest: JKhQqZrQRNmRHZgeKc23uPjK6Oo=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00224.png
+SHA1-Digest: wlKFuZigVGelWpBuMqI7i0LSD+o=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00173.png
+SHA1-Digest: 3zFypO6FDqJQeyzCeOXWCjLu1Q4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00172.png
+SHA1-Digest: dz/VBOqtsLriQzOmLLQuaUhyAeA=
+
+Name: res/drawable-hdpi-v4/widget_music_btn_stop.png
+SHA1-Digest: gDPwHBDJr+ST1GJKpc/cgzu1MS0=
+
+Name: assets/voice/recent_kilo_time.mp3
+SHA1-Digest: oqhUhzD0MLLpfZNJMJUxlzzxiFY=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_outdoor_riding.png
+SHA1-Digest: 7ZSO0Di6MNYSNMZgjowtYIlnWu8=
+
+Name: res/drawable-hdpi-v4/route.png
+SHA1-Digest: nLnWREpYLsDleTRRtOetYOkdd3A=
+
+Name: res/drawable-hdpi-v4/sport_process_page_1.png
+SHA1-Digest: Iv90RdpDSeE5xRkVH6St0Z7tIxw=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00157.png
+SHA1-Digest: foyi7dQvfsV5f1sDDg85liA1a6g=
+
+Name: assets/voice/90.mp3
+SHA1-Digest: PbNo18uqT1k7kJFpv9MvAZLfFbE=
+
+Name: res/drawable/vector_drawable_progress_bar_medium.xml
+SHA1-Digest: Ru6y4EzF+lcjm2Ia1fMWyREj7Xg=
+
+Name: res/drawable-hdpi-v4/sport_list_target_km.png
+SHA1-Digest: uqFwxqFuhaogpjLZVTpJS06q/G4=
+
+Name: res/drawable-hdpi-v4/sport_process_connection_4.png
+SHA1-Digest: zTLz9LNOqEcdyC9O1ZYZ7YJy4f0=
+
+Name: res/layout/activity_gps_waiting.xml
+SHA1-Digest: FR+04mkEGEo7h4e5MxOEKkKSpPQ=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00168.png
+SHA1-Digest: WKQY4ZUa0UUGwicE68sNJ3Q5KQQ=
+
+Name: res/anim/anim_exit.xml
+SHA1-Digest: vtFL4yMOXVx1Y2clomCP6rZyR9w=
+
+Name: res/drawable-hdpi-v4/sport_running_pace.png
+SHA1-Digest: JPbDkNRjQgYTlKNRoLg3aDw7buI=
+
+Name: res/drawable-hdpi-v4/lau_icon_star.png
+SHA1-Digest: x/i9JoUfw1vi0gR7wh584jgvq8U=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00193.png
+SHA1-Digest: xR4C/RXEWcpBbeUZSUzBLtNK3Zk=
+
+Name: res/drawable-hdpi-v4/sport_menu_history.png
+SHA1-Digest: wIHfJ+Dn037S3TtmJx+bClGY0M8=
+
+Name: res/drawable-hdpi-v4/sport_alert_circle.png
+SHA1-Digest: EFDg3SRttHmUqUTaLCxoQzucEzA=
+
+Name: res/drawable-hdpi-v4/sport_music_btn_enter.png
+SHA1-Digest: ute0Lp4k+YMnRN6i1UemWgroN88=
+
+Name: res/drawable-hdpi-v4/sport_process_page_2.png
+SHA1-Digest: aDWIcBp1bwjUXWFUcnHjaayAEgE=
+
+Name: res/drawable-hdpi-v4/sport_runing_arrow_down.png
+SHA1-Digest: gVTwiPGSIl6rnlaMqIUAxqB6wB8=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00191.png
+SHA1-Digest: +5CgvUQ+2/H4OdwhFNeY520+RFk=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00171.png
+SHA1-Digest: 5TNlGFwq54VY0BAxcotG1Aem10E=
+
+Name: res/layout/fragment_indoor_history_detail_container.xml
+SHA1-Digest: O5+sV3cKLMQELThqsA0HD8EIR2o=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00192.png
+SHA1-Digest: rd4R/xpU8d97SE+QMSOtgIez//c=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate040.png
+SHA1-Digest: F4zgLd3gIILrLcS8s8crlWVKCek=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00176.png
+SHA1-Digest: uOOB3PlU+v1eUzbfXm0GnvGN4pc=
+
+Name: res/layout/activity_test_active_medal.xml
+SHA1-Digest: CuEJU59u1NZ+fTDeSbZz0p0jEew=
+
+Name: assets/voice/88.mp3
+SHA1-Digest: M+n1FMUe+iQFPn373YL6zW4bSkM=
+
+Name: assets/voice/18.mp3
+SHA1-Digest: 995IWEzdld7hDPMVobu1TYBjg6I=
+
+Name: res/drawable-hdpi-v4/sport_runing_arrow_up.png
+SHA1-Digest: w/99edZhw2ReBcjTpd0mZa4QFvw=
+
+Name: res/drawable-hdpi-v4/sport_running_pace_remind_h.png
+SHA1-Digest: PFdp+FwJccJ83wItwfkyRnpnZJE=
+
+Name: res/drawable/sport_info_icon_background.xml
+SHA1-Digest: nlXUNq6UliXnItRNGBBfJV6Dq+8=
+
+Name: res/drawable-hdpi-v4/sport_list_target_time.png
+SHA1-Digest: JHbdGV3j8b0Ku+XiFS8kMMgv+dA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate004.png
+SHA1-Digest: Pwqn6PSXXYTmfSW2E4ZWzPFLg7A=
+
+Name: res/drawable-hdpi-v4/sport_notice_pause_s.png
+SHA1-Digest: xEwISfKUhP0jnCJUqRzYp/DGdqM=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_confirm_96.png
+SHA1-Digest: 6JBHDTHESeSnbnCSrRGAFWL59JA=
+
+Name: res/drawable/go_to_phone_animation.xml
+SHA1-Digest: leawCEU8iZpZ5C8uq1jZ80OIiGs=
+
+Name: res/drawable-hdpi-v4/sport_buttom_enter.png
+SHA1-Digest: 4Z0DYBniyvyNhk3ldku33B5BNI4=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00173.png
+SHA1-Digest: D6GaHsiGaEjb2Dqo+HjLAofyYMo=
+
+Name: assets/voice/h_11.mp3
+SHA1-Digest: Tzfp1X/e5NFFl9ZFmwzNwV+ts5w=
+
+Name: res/drawable-hdpi-v4/sport_menu_medal.png
+SHA1-Digest: m2nuTRTikvxTPz0kI893HONOLMQ=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00175.png
+SHA1-Digest: XY/EMkXetiTQ2nPzcLbRV4ak2tc=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00189.png
+SHA1-Digest: PbawnSAfGplLUkkCP/Df2PyS+Os=
+
+Name: assets/voice/27.mp3
+SHA1-Digest: eavL5SHkPKxCdFD/uK36mjFeuXQ=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00175.png
+SHA1-Digest: FTLz8EVmPGKT4fmwfBsQd6zkAGk=
+
+Name: res/drawable-hdpi-v4/sport_alert_heart.png
+SHA1-Digest: 8DOB352kc4+p45C0WFrqs+eO/bQ=
+
+Name: assets/DINCond-Bold.otf
+SHA1-Digest: qdrn/rZcllRe1+/3a14YUZyvHxc=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_treadmill.png
+SHA1-Digest: ezvJNIThw2tYT0tasLVfxQ7dNG0=
+
+Name: res/drawable-hdpi-v4/sport_process_connection_1.png
+SHA1-Digest: 0pjXgkfryisS0sscCZcBkJVjAso=
+
+Name: res/drawable-hdpi-v4/sport_notify_run_bg.png
+SHA1-Digest: 3eTp1BY5SupsF2xfcwKfeWlPNnQ=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate056.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/layout/fragment_crossing_view_pager.xml
+SHA1-Digest: i5YkAq0/ZtTccRFxTTIg0lz4Jwc=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00158.png
+SHA1-Digest: KasYWegNxgRe04GLSc5q60YrPOE=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button1.png
+SHA1-Digest: 4Z0DYBniyvyNhk3ldku33B5BNI4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00221.png
+SHA1-Digest: XPP+i7XZ5AFMaDBK2ktipP7UTPM=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00168.png
+SHA1-Digest: GTyJDaNruCkrhkRUC0H97eO22/s=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00219.png
+SHA1-Digest: l0e6RP6AyUYRuTqS2fpVh1ndSNE=
+
+Name: assets/voice/0.mp3
+SHA1-Digest: 6eurGSa34pUPRfPJTbfjYsxHhbg=
+
+Name: assets/voice/86.mp3
+SHA1-Digest: /nN80dxzrjagR0JbNQT6IPum3rs=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00167.png
+SHA1-Digest: sF/khra/aFRW86dsk1oDXPME2UI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate003.png
+SHA1-Digest: LBKfFJ7DGZzLeb4KZzsBLmOIzAY=
+
+Name: res/drawable-hdpi-v4/sport_alert_time.png
+SHA1-Digest: +NafJB/19TjmtLaRqHeFgU/DwuE=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00156.png
+SHA1-Digest: +9bProl/nHTRImAi0x+osnsawi8=
+
+Name: assets/voice/35.mp3
+SHA1-Digest: ohXlk37veP0IdR7u/y3dIOOQGVE=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00200.png
+SHA1-Digest: X8L+BnFsjd7nNEvpjMtc5lqC2Vc=
+
+Name: res/layout/activity_launcher_sport.xml
+SHA1-Digest: NwoZyW86RuWCRm9HoPU5+U/Twk8=
+
+Name: assets/voice/97.mp3
+SHA1-Digest: 3b5aI4pnyuu40e0Xzjg2Ph5ecR4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00218.png
+SHA1-Digest: wBY0NUPzc7mhVkwzlQDFfbUwP8E=
+
+Name: assets/voice/hundred.mp3
+SHA1-Digest: 5i9UyAn+57+EFDmJnrTvv7ZsrSg=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00212.png
+SHA1-Digest: 2ttiTnIN3VdlHH+8dnfTnQsU/mk=
+
+Name: res/layout/remind_custom_view.xml
+SHA1-Digest: dp81VVO34AH6vlgW5GfUchpZoGU=
+
+Name: res/drawable-xhdpi-v4/ic_full_cancel.png
+SHA1-Digest: jaAGEuz9Ok+ge9IJtj+ZLeRx3mA=
+
+Name: res/drawable-hdpi-v4/sport_start_running.png
+SHA1-Digest: +nAFqReCck1wrRQkPWbE/9C+hl0=
+
+Name: assets/voice/37.mp3
+SHA1-Digest: 4YIkH5xYkL7CH0VRMC61HFuD9Cc=
+
+Name: res/drawable-hdpi-v4/sport_buttom_continue.png
+SHA1-Digest: D+/dDntFT5aVtlKS1LKWvY5nC9U=
+
+Name: res/layout/fragment_sport_stopping.xml
+SHA1-Digest: 8EsOHBCoGrHgGVX98sXb93MKP9k=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00193.png
+SHA1-Digest: AE40fZapIJmYUGKXsDp6mChA4Lk=
+
+Name: assets/voice/1000.mp3
+SHA1-Digest: 8UJAlVZgc5vpJBo0xkcjmn3WHSk=
+
+Name: res/drawable-hdpi-v4/sport_medal_06.png
+SHA1-Digest: J2dazLozKSwvuH3xUYjScZOlgdE=
+
+Name: res/drawable-hdpi-v4/card_frame.9.png
+SHA1-Digest: pt8YLRnYvCaHlQNe/fnZk9kFOo0=
+
+Name: res/drawable-hdpi-v4/ic_full_cancel.png
+SHA1-Digest: WvvFF+GHu9Kl+kNzduL3G+PX92g=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00223.png
+SHA1-Digest: +9SiFnb745Xdlvj7rE31gB/ttUM=
+
+Name: res/layout/fragment_history_stub.xml
+SHA1-Digest: NLowxnk4EgbebZgR3C2Pu1RtStY=
+
+Name: assets/voice/29.mp3
+SHA1-Digest: n+HCpCqd2n+DF+nfxg3W3Ba+H9E=
+
+Name: res/drawable/button_modify_ground.xml
+SHA1-Digest: dU/LDD3XR0QqXB3A8NeuwpRwuhQ=
+
+Name: res/drawable-hdpi-v4/sport_menu_outdoor_riding.png
+SHA1-Digest: Pn0iKLoDCpIbQ9JyRDzb7JTC98Y=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_healthy_target_64.pn
+ g
+SHA1-Digest: Qw6T9H8rsbkDZW5WgtCe43Iurq8=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00185.png
+SHA1-Digest: rZTIp4JSWAcbcHN9qpDhMgxfTN8=
+
+Name: res/layout/fragment_music_update_layout.xml
+SHA1-Digest: 6OILhyRWTjrdXSI7Gw/O3+Q+rLw=
+
+Name: res/drawable-hdpi-v4/sport_medal_03_grey.png
+SHA1-Digest: tTnUcbPGoi44WTM8W50YUM4Eags=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00188.png
+SHA1-Digest: zOCjVkDcITSqIVIHMOWywGAmUJ0=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00187.png
+SHA1-Digest: +M1LBAIOlKA9GikLDHQqFc6IU0Q=
+
+Name: assets/voice/77.mp3
+SHA1-Digest: CywnOeOxDVTRjEEUXf4bous8His=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_walk.png
+SHA1-Digest: V9w7o1/DhCz+ebkq7ZPYlXDkYNg=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00186.png
+SHA1-Digest: 9N7yYIIbwZjM+DhOJlw99UHvifE=
+
+Name: assets/voice/100.mp3
+SHA1-Digest: 5i9UyAn+57+EFDmJnrTvv7ZsrSg=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00161.png
+SHA1-Digest: 2AbeYLMinXdbtnJpWc4w2bponIA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate037.png
+SHA1-Digest: 1hBRZ98U910GF8owv54dCEbU1+E=
+
+Name: res/layout/pop_window_lockscreen.xml
+SHA1-Digest: p9wh3Mf4C3wKGfnCCWBEo9dFJKk=
+
+Name: assets/voice/85.mp3
+SHA1-Digest: 6C2kjINabCAlhZlhwC5WtHz3H/4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00199.png
+SHA1-Digest: BFPsDr677me1SgVrYJLuYB4q5bk=
+
+Name: res/drawable-hdpi-v4/sport_icon_lock_screen.png
+SHA1-Digest: 260qJABVRFldtvgcfNTkNuAEDWk=
+
+Name: res/drawable-hdpi-v4/gps_signal_good.png
+SHA1-Digest: hXAOxxeXXl96kFqGUGHXCfqzFwQ=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate055.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00160.png
+SHA1-Digest: boAy4stIJdN1LKS7FgOH/NLHEQE=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00190.png
+SHA1-Digest: /QqA+tkKwrTo5IVDQSz/CfyEdJk=
+
+Name: res/drawable-hdpi-v4/sport_menu_treadmill.png
+SHA1-Digest: zBgbn3F4jblIDVDkTcte5wK0pB8=
+
+Name: res/layout/fragment_list_items_sport_info.xml
+SHA1-Digest: RD33SshIqS7uS8cX2CrjMYFZyKg=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate009.png
+SHA1-Digest: KSpkvVd2eZnIFPFTuSCKNwVPGPA=
+
+Name: assets/voice/13.mp3
+SHA1-Digest: EXT5QDAPaU/NMx5K3HHNoYcO4AM=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00193.png
+SHA1-Digest: YK2PvAkWfvkCw9e5ojvHigOFg7A=
+
+Name: res/drawable/waiting_gps_button_bg.xml
+SHA1-Digest: 4A1zsbtMiaMys0U0OoijOdn+w/8=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button3.png
+SHA1-Digest: Rsp8uFxHzx1Tn7mS4aiyQ0zQFRg=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00170.png
+SHA1-Digest: LfxnopFz+eNjYW4tlU7U2N3MH9Y=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate006.png
+SHA1-Digest: kaBWjs52NmVbPf9+7nCfeYES1pk=
+
+Name: res/drawable-hdpi-v4/sport_history_icon_running.png
+SHA1-Digest: eXWdTdvGjNvyB4r1/GR/YZVLS+8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate034.png
+SHA1-Digest: UrhRu8INXLyDRCngkQzP6NiBLCg=
+
+Name: res/layout/fragment_sport_history.xml
+SHA1-Digest: abGhd0009WWdbzBf+Z/jl8jsLL4=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00221.png
+SHA1-Digest: xsdyWtIEG+Dd/kLX0pLlgB88Xgw=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00188.png
+SHA1-Digest: Ppy86JrnYjTB7P9M7KS5navP0kA=
+
+Name: res/layout/fragment_walking_history_detail_container.xml
+SHA1-Digest: 2HqYFIdeUYMZLzSy1VTHAp+GblQ=
+
+Name: res/drawable-hdpi-v4/sport_start_loading.png
+SHA1-Digest: JvYvT6DosZH5s50W9QroZeD4Ej0=
+
+Name: res/layout/activity_test_tools.xml
+SHA1-Digest: +ObYr5JpDi4KoZp8djQWmX8GsW0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate028.png
+SHA1-Digest: JaOejQ63/tbCWuitX8iiw2oisXE=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00168.png
+SHA1-Digest: VmKojhYEGlxGfHBJ4L+fKCB6Ljc=
+
+Name: res/drawable-hdpi-v4/widget_music_btn_prev.png
+SHA1-Digest: RGh6Ksu868nmHUPK7BnFyS3LwZY=
+
+Name: res/layout/fragment_crossing_individual_history_detail_adapter_v
+ iew.xml
+SHA1-Digest: SlkaXUyLNz+ggYx6mCONyFVfQLQ=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_bluetooth_64.png
+SHA1-Digest: yh6zv6/n+8IaTWdlZOD94udPFtQ=
+
+Name: res/drawable-hdpi-v4/sport_button_details.png
+SHA1-Digest: Y3Ao998bNqfMXH/G95ovpTE+I3E=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00198.png
+SHA1-Digest: QY6ME0YNyhaKjVyUXoKutuNOpKQ=
+
+Name: assets/voice/10.mp3
+SHA1-Digest: R6UXOL8Lj8yF1KOZSvm2zPv/rpw=
+
+Name: assets/voice/h_18.mp3
+SHA1-Digest: 1yXxi1w9pe8mju94xlXF/7aflV8=
+
+Name: res/drawable-hdpi-v4/sport_button_end_pressed.png
+SHA1-Digest: hYS7NKD/hiRwvanyctEVmc5PzJg=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_phone_off_96.png
+SHA1-Digest: 9jsCwYyuRUaVziAykfQP4N5ll0w=
+
+Name: assets/voice/minute.mp3
+SHA1-Digest: o99O9Nqz5NzE+byQy0mBsXL2QWc=
+
+Name: assets/voice/41.mp3
+SHA1-Digest: hjkUQ0ssQE4TQKe/O01sXPY+7yY=
+
+Name: res/drawable-hdpi-v4/sport_alert_target.png
+SHA1-Digest: /7YO5M5+jZlHahOEccAdhetf+Ag=
+
+Name: res/layout/picker_column.xml
+SHA1-Digest: LqYDu18mwzm3VIaQJ2Gt9MWpLvQ=
+
+Name: res/drawable-hdpi-v4/sport_menu_music.png
+SHA1-Digest: 6E3DmtDYX9DInBQjASIg/sG82OU=
+
+Name: res/drawable-hdpi-v4/sport_tips_watch1.png
+SHA1-Digest: 0CDBWT3lNbBh6uuEcx4sOHeM6jE=
+
+Name: res/drawable-mdpi-v4/card_frame_pressed.9.png
+SHA1-Digest: U+NGuq2xCzipAh5AidE0n7kblZo=
+
+Name: res/drawable-hdpi-v4/widget_music_btn_play.png
+SHA1-Digest: GLF5TLOPkJ9E+iqIFiSBQQnKvMM=
+
+Name: res/interpolator/decelerate_cubic.xml
+SHA1-Digest: fQa9/yALDdJbfZ6GvAbcOF31aLs=
+
+Name: res/drawable-hdpi-v4/widget_music_bg.png
+SHA1-Digest: lH03CUgYDPjg7h59w0jKnI3W5js=
+
+Name: assets/voice/93.mp3
+SHA1-Digest: CuNkgnKqvwVc/gG5CBDrK8FXFt0=
+
+Name: res/drawable-hdpi-v4/sport_running_pace_remind.png
+SHA1-Digest: BbL+NWTt7M6u/JTdpMucUiGDlTk=
+
+Name: res/drawable-hdpi-v4/sport_medal_09_bg.png
+SHA1-Digest: 3jZCQMKMsCzTNxfjY9cLZlTVJuk=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00186.png
+SHA1-Digest: FuVdXEEA6XzkMlDdAtPuqtlLXdo=
+
+Name: res/layout/list_header_medal_list.xml
+SHA1-Digest: MiIOtEO5SnlAk1rR/HJUwIbH4r8=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00194.png
+SHA1-Digest: ZdJQiBjFyQCIxCQgnzAb28UxIAw=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00187.png
+SHA1-Digest: zCaH2oYQWLxRs2cfPxj4hlov7i4=
+
+Name: res/drawable-hdpi-v4/sport_medal_01_bg.png
+SHA1-Digest: 8Gh3o8iTtGEJ7FnH3XDdByyRBG4=
+
+Name: res/drawable-hdpi-v4/sport_medal_01_grey.png
+SHA1-Digest: F7/GlvMd/JopijxJdjgYpqZWQqE=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00166.png
+SHA1-Digest: reOZ115jBaxLuz4ZzOpYDarkXbE=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00166.png
+SHA1-Digest: ARDSFr6SXGeAfrCEWLRt6NUYCo0=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00186.png
+SHA1-Digest: vaRLQ/I41aykTTIW2fPfu5mCerE=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate041.png
+SHA1-Digest: XDHiIfnyG/9FRAc9H8qHXixfyvI=
+
+Name: assets/voice/44.mp3
+SHA1-Digest: w3yWx8HT12G55aRbQRei1+izIrI=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00162.png
+SHA1-Digest: 2ssyFphgGE09fpPr9U8guWYWATg=
+
+Name: res/drawable-hdpi-v4/sport_menu_runing.png
+SHA1-Digest: S4N2iDiPYw+kY1d/uu3wgKiJcYE=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00199.png
+SHA1-Digest: 0p1MGLz2A5ZmlLYRm+weFp/VaF8=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00160.png
+SHA1-Digest: /XswaGfXzQd0KPW95wSbWLNuPK4=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00192.png
+SHA1-Digest: o2BLNRQdTRcntrsDVAQixpoKXMI=
+
+Name: assets/voice/58.mp3
+SHA1-Digest: 7Yd39Ws4B+oFyggRPpFevY/5W7w=
+
+Name: res/drawable-hdpi-v4/sport_music_icon_douban_90.png
+SHA1-Digest: OHSCzTFsCm7v+w7h2SfErfPSMYE=
+
+Name: res/drawable-hdpi-v4/menu_walk.png
+SHA1-Digest: PZ5/+UMFeQO3gBxzOb/M2RsKJB0=
+
+Name: assets/voice/59.mp3
+SHA1-Digest: nvGXSdkUEoiwKuxbrI1kQq9JsHo=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00165.png
+SHA1-Digest: FpUGgKYhqH13vScsKUYCBxqdhvc=
+
+Name: res/layout/music_not_connect_ble_alert_dialog.xml
+SHA1-Digest: JBTgLHp0OcBWiV5q6DQFuzc0hc4=
+
+Name: res/drawable-hdpi-v4/sport_list_km_remind_off.png
+SHA1-Digest: ytYoXeHJ6BvT2jtsUjusEhd0V94=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00210.png
+SHA1-Digest: Wxmxt/3ldVg/bIcPhAqixjGsOJU=
+
+Name: assets/voice/61.mp3
+SHA1-Digest: iTBkt7LeuvcDRcmd0vGaOjp8PwY=
+
+Name: assets/voice/81.mp3
+SHA1-Digest: uh4d78p7B6HI4r2c4Jwq8PSadA0=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00216.png
+SHA1-Digest: UUCpUZ2srlyLTcFkb0vdPAIgrnY=
+
+Name: res/drawable/card_background.xml
+SHA1-Digest: PFKi0yQZjfLHbSaayG405W3o4wY=
+
+Name: res/anim/slide_in_from_right.xml
+SHA1-Digest: 7OkLQExY/OzT4emyRYohD5uWgUY=
+
+Name: assets/voice/33.mp3
+SHA1-Digest: 3M8QDPIxBPVgvkk6KktsDM92YYQ=
+
+Name: res/anim/white_dot_scale.xml
+SHA1-Digest: wAUlRA/53E4/LCiK8Rwxqo8ZkMY=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00178.png
+SHA1-Digest: WTdlSe5/v7lFYFNaCnu1fs6tc1E=
+
+Name: res/layout/fragment_indoor_history_detail.xml
+SHA1-Digest: pJ4BceYLho98bI435H+zbOWoy1o=
+
+Name: res/drawable-hdpi-v4/sport_process_page_7.png
+SHA1-Digest: mx/EnbDa1kH0s2OtA7d49oowtbE=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00222.png
+SHA1-Digest: U6Tmr/eESGa3fOcr7BxoH/DTr+g=
+
+Name: res/drawable-hdpi-v4/sport_music_icon_douban_48.png
+SHA1-Digest: R4ESky7UcaTeqrLON8RzWxTxvqU=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00190.png
+SHA1-Digest: weRqRlU4AFJPhB4HpP1qDSVPMsw=
+
+Name: res/drawable-hdpi-v4/sport_menu_indoor_riding.png
+SHA1-Digest: U9IZi1X8r3Mj7HYiU+Gx7HRWkmQ=
+
+Name: assets/voice/63.mp3
+SHA1-Digest: CT4Imq5WKQYeF4hTJD/nsAIOtUY=
+
+Name: assets/voice/h_12.mp3
+SHA1-Digest: oyWZGM+M7ehquMR6GE2+boMFW7s=
+
+Name: assets/voice/95.mp3
+SHA1-Digest: 1gG5NdJxMFYu2/aQFc5MKsGdhcM=
+
+Name: res/layout/remind_speed_content_custom_view.xml
+SHA1-Digest: UCTafFdFTWCRktbnkYlyptbThHk=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00216.png
+SHA1-Digest: 2sOkIi3wZfrJuax7E6GyVFXjBjE=
+
+Name: assets/voice/78.mp3
+SHA1-Digest: SPk1yccWGjefJnEyjwYCA4cRxCk=
+
+Name: res/drawable-hdpi-v4/sport_running_heart.png
+SHA1-Digest: 6BH0cGnKE9W9NkOd0z43YM2Bycc=
+
+Name: res/drawable-hdpi-v4/sport_music_btn_next.png
+SHA1-Digest: egtyJtHrB5RKmWP3IvXvGJ+AlZQ=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00163.png
+SHA1-Digest: cTbO1LrSmI9zfJqF+LlRWDBoFIU=
+
+Name: assets/voice/30.mp3
+SHA1-Digest: mbvxObMQob2Djd2PsUcJ4vX2XKQ=
+
+Name: res/drawable/sport_history_list_item_bg.xml
+SHA1-Digest: 7QgcPVM4I0j1p58dapOYcsQ5dT8=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00190.png
+SHA1-Digest: 5VRrNMft0bam5oWRVzK/btfon8Q=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00169.png
+SHA1-Digest: jXIBr8pqV6z7J8qb9dY3kfsRFZY=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00174.png
+SHA1-Digest: wFeRYnyIYtJp/ZTlJmMKPb8NS1Y=
+
+Name: res/layout/fragment_running_history_detail.xml
+SHA1-Digest: HYZoOqn8lJ8AKhoZ/8uKYafbqAk=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00164.png
+SHA1-Digest: LnXGUuI0DB/Oif5DDH3NXfrtAsk=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00195.png
+SHA1-Digest: z0Ws+uI8WPwGFCeKt940k7vU9gs=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00190.png
+SHA1-Digest: MzwJa3nh56N+ywgvHv39J6zfWYM=
+
+Name: assets/voice/34.mp3
+SHA1-Digest: /hO/MZME4ef1+2emgiSmgRDtw1c=
+
+Name: res/drawable-mdpi-v4/card_frame.9.png
+SHA1-Digest: 0sQlkCyPRo8JWhGZUrql+xnwNsg=
+
+Name: res/layout/fragment_indoor_riding_history_detail_container.xml
+SHA1-Digest: /Q7nb9B1CaKbCtOQ0z3lMR8QhHU=
+
+Name: res/drawable-hdpi-v4/sport_medal_03_bg.png
+SHA1-Digest: 3jZCQMKMsCzTNxfjY9cLZlTVJuk=
+
+Name: res/drawable-hdpi-v4/sport_list_voice_on.png
+SHA1-Digest: 4b8MBrNcVZgNEM27MGps9KJtT3A=
+
+Name: assets/voice/92.mp3
+SHA1-Digest: S1+0+JKSW43tRJZTPvi76M80DoI=
+
+Name: assets/voice/49.mp3
+SHA1-Digest: jzHhvqdYdtf7ELO+jxyM9H+GeYc=
+
+Name: res/anim/slide_out_to_left.xml
+SHA1-Digest: Q/H68eLUzOv2Vd7breS9letdTOc=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00189.png
+SHA1-Digest: 5rN5gkh/eAvcTwIZZFxS0AtPfss=
+
+Name: res/layout/indivual_pen_info.xml
+SHA1-Digest: RD33SshIqS7uS8cX2CrjMYFZyKg=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00197.png
+SHA1-Digest: 4Jh/gl3M7BpMRvRBnaDG8jjgGaA=
+
+Name: res/drawable-hdpi-v4/sport_notice_pause.png
+SHA1-Digest: XK/M8xu6Qo86FmFDDDnmZbmYY/o=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00191.png
+SHA1-Digest: v7JcaULkfVyI59VtKNi2ges7gPc=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00161.png
+SHA1-Digest: gx0DaoBHEeU0XhWrXdU40CXdCYA=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00196.png
+SHA1-Digest: ypXeGSDNmAyFtL0w5q2hYQ1ma48=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00190.png
+SHA1-Digest: UNyqHYWKOq/Fi2vMACuCmGyD/no=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00170.png
+SHA1-Digest: FZbU1PGBmgto4Xl/Tr41vBqyH9s=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate023.png
+SHA1-Digest: rfhKsUHddTXvucqHPM58ka4FsPc=
+
+Name: res/drawable-hdpi-v4/sport_start_walking.png
+SHA1-Digest: aHiABWibQytdk5Sk8YwgswIk5mc=
+
+Name: res/drawable-hdpi-v4/sport_tips_watch2.png
+SHA1-Digest: Nc2Wff1gGz4srB5uVIzlwciS5w0=
+
+Name: assets/voice/7.mp3
+SHA1-Digest: eXBhFYYOnZNW6/C8SezXbgL4eqA=
+
+Name: res/layout/list_item_medal_bottom.xml
+SHA1-Digest: FkeLt2KcYDCVUjYRPyFUEtUPsWA=
+
+Name: assets/voice/h_10.mp3
+SHA1-Digest: idjMds9zdOWYY+dB9IytytqVQXI=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00191.png
+SHA1-Digest: PwW7rGNl7gHwxbSYrcOsFMxD+MQ=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_list_close.png
+SHA1-Digest: 0XygAUZGX59U3yOvq/KK4wRTCZo=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00170.png
+SHA1-Digest: ZXsTexvkIiVHgnD7r5EQnl6oW8U=
+
+Name: res/drawable-hdpi-v4/swipe_menu_bg.png
+SHA1-Digest: kduK++p8VeNaaKQKydOfgKX2ATQ=
+
+Name: res/layout/settings_item.xml
+SHA1-Digest: //vWsjli2+lgPWE859Lqul+t6mY=
+
+Name: res/drawable-xhdpi-v4/card_frame_pressed.9.png
+SHA1-Digest: wUSzgsDA2WW1ghh+y0Nelb0WHqE=
+
+Name: res/drawable-hdpi-v4/sport_process_page_3.png
+SHA1-Digest: l9f7txzm4KBfGDO25wL9n3QFztQ=
+
+Name: res/drawable/white_dot.xml
+SHA1-Digest: 1lAptDS6Kw/1lYwcHJBpzZ9p2rw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate038.png
+SHA1-Digest: LpQK66siYkvTXUXIU1UMHq0SdX0=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00195.png
+SHA1-Digest: Qh9j51wUqgaY7qQvDtQZjvRpWco=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00214.png
+SHA1-Digest: +5KtMFxore6v1XUPPQWSW1YezS4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00197.png
+SHA1-Digest: F2ESrrtn6D2jyb85XRn8dgOSZH4=
+
+Name: res/layout/fragment_sport_count_down.xml
+SHA1-Digest: Akf9/mtNeGkkZJKpAcm7K7SHitY=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_1.png
+SHA1-Digest: R/Bf58H/etjZM/2AaKKdtrXTHjc=
+
+Name: res/layout/activity_running.xml
+SHA1-Digest: ZSJAK+MZTWpx7huXUTuIgbgjGt0=
+
+Name: res/drawable-hdpi-v4/sport_list_km_remind.png
+SHA1-Digest: SCjkMEoJAVfL7dGlumshGa8nX3A=
+
+Name: res/drawable-hdpi-v4/sport_alert_time_trainning.png
+SHA1-Digest: W4kcYG1coMxWvVwzYTgyNJZa60w=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate051.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: assets/voice/h_16.mp3
+SHA1-Digest: E5qW/4TDDXm29muPzZOc6HCq13g=
+
+Name: res/drawable-hdpi-v4/sport_process_page_5.png
+SHA1-Digest: e66OQ+VF+fZ2FB0hkVkbTc8bU1s=
+
+Name: res/layout/fragment_sport_music.xml
+SHA1-Digest: 550WO2odi8wTDbqNO8UcKM872fw=
+
+Name: assets/voice/h_14.mp3
+SHA1-Digest: Di6DuS1EVXqCvGN6g6kkwuPagmE=
+
+Name: res/layout/activity_sport_switch_view.xml
+SHA1-Digest: ybaKIxOUjz1OUXM/cWFbaOHijjQ=
+
+Name: assets/voice/already_run.mp3
+SHA1-Digest: +8cHY3hEe1FP5qmp3hWmaFaXkms=
+
+Name: res/layout/fragment_sport_music_layout.xml
+SHA1-Digest: Eg8QjXns3vd2obQo1IHFGc6Tsd8=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_3.png
+SHA1-Digest: iwC935i5he00roCT3jBca81H7ZI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate026.png
+SHA1-Digest: c1AT7kglVYtIoCPU3IZfd/UBcl8=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00192.png
+SHA1-Digest: cPCDizrr1CCVZcwJNJAFl8Terk0=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00217.png
+SHA1-Digest: Y8oahwIBB7HfSjW+5Qr8ltWmP0M=
+
+Name: res/drawable-hdpi-v4/sport_map_loading.png
+SHA1-Digest: NFkPPdtOm9Tx2iu/VSjGshbSogk=
+
+Name: res/drawable-hdpi-v4/lau_icon_skip.png
+SHA1-Digest: XlGhIXYfOs/hkS7HL2X4GjHebE4=
+
+Name: res/layout/remind_trainning_custom_view.xml
+SHA1-Digest: JrIPn0nuUTkCPWX70rMY+WXolUI=
+
+Name: res/layout/remind_heart_content_custom_view.xml
+SHA1-Digest: EmHgNDlkJhBrXWL7W4DXzNiibA8=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00188.png
+SHA1-Digest: zw+Bdh5HqzzEat3CaZpt8dhh9+k=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00171.png
+SHA1-Digest: AoqrFa0oDU8QBUrFAdW727Pf0cU=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00172.png
+SHA1-Digest: pYHDdUsWHcm522faC9G7Vwp3QmE=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00194.png
+SHA1-Digest: wArLOuU3l/T1DUJmcZvExpubEXw=
+
+Name: res/drawable-hdpi-v4/sport_running_line_top.png
+SHA1-Digest: +FM4tQPtQsZS1vL2iqmbxXgcz+A=
+
+Name: res/layout/activity_sport_history_detail.xml
+SHA1-Digest: Hh9CoJXKUMtmUBn3DPa+J1+0gO4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00171.png
+SHA1-Digest: FoGjAynne+eNJ73X75Lm/LqrN3s=
+
+Name: res/layout/common_dialog_view.xml
+SHA1-Digest: 8ya9sKaGIQwKv/QOGYLF5YYiH/g=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_resets_64.png
+SHA1-Digest: /SfKEkoD6RvxSn8A1OXz9mnLoWU=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00196.png
+SHA1-Digest: 1IasZwgLimX8AfDY7w3DFUHSrYA=
+
+Name: res/layout/round_activity_sport_history_detail.xml
+SHA1-Digest: 3hzHPHR5E/OP3zUEoHOckJg4ueY=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_list_details.png
+SHA1-Digest: scP11F35sBNmtyKwyhWK3MbSzis=
+
+Name: res/layout/remind_custom_trainning_complete_view.xml
+SHA1-Digest: 79PfcOI2KJYccirTGSZItlE1BWc=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00186.png
+SHA1-Digest: AKeQ1CeJmRkDt79Knj/nMEqZNg8=
+
+Name: res/drawable/sport_button_end.xml
+SHA1-Digest: zt4GwoYgnM2iBIj4ZoyBqzLejPo=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00220.png
+SHA1-Digest: P8Qeb79PLWlfkDOL8FqgJjXwIsI=
+
+Name: res/layout/list_header_sport_history.xml
+SHA1-Digest: yEXCjfAZTMg8se6j8BApeISG7FU=
+
+Name: res/drawable-hdpi-v4/sport_heart_max.png
+SHA1-Digest: ocrkkyFaNftd4g4UHCVjW3t9o58=
+
+Name: res/drawable-hdpi-v4/sport_list_lock_screen.png
+SHA1-Digest: 81gUUL9Hr76Pjp0zEFFVwah4aDU=
+
+Name: assets/voice/69.mp3
+SHA1-Digest: I1RGPZYTMvmXJ9ChZNohZnWYV/4=
+
+Name: assets/voice/36.mp3
+SHA1-Digest: MMY4Md2ClzxsOk0u0RxL9x9+kew=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00169.png
+SHA1-Digest: p6KYzIVv7qBDwZYGMjc4KAX/VOg=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00170.png
+SHA1-Digest: 2lrKDvM1VnQZNc5XzGFgdmIpbf4=
+
+Name: assets/voice/57.mp3
+SHA1-Digest: SlRpoEJD2vR+q+cYdf9IYYdarUY=
+
+Name: res/drawable-hdpi-v4/sport_medal_10_bg.png
+SHA1-Digest: dl2ZC9o2dRbcAJvEWMoJZQ4n3WE=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00188.png
+SHA1-Digest: TbLjn48+nF0ffUIUfWPVXeQ7EGo=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_5.png
+SHA1-Digest: TJkB1vrW+8VREE8u8urbrDDZx0A=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
+SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9euShq5297gY1LVpmsaYoPTa2Fo=
+
+Name: assets/voice/87.mp3
+SHA1-Digest: CFJKhlg5OodX0rayYA8TcxvnZjE=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
+SHA1-Digest: NSER6tk49pR0d2q5XZsuTAmAFfc=
+
+Name: res/drawable-hdpi-v4/sport_list_table.png
+SHA1-Digest: SAQMKHxGnanQsIFIKNaapYNzN+0=
+
+Name: res/layout/fragment_sport_picker.xml
+SHA1-Digest: 6yyBJqv+B2GBz9QV/ByXa6G58hQ=
+
+Name: assets/voice/99.mp3
+SHA1-Digest: KVCf142NRHAKiBtugVE0XiqD+Ck=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00170.png
+SHA1-Digest: gk2RLqnSGIeyOMBdB+6IdH6WAPA=
+
+Name: res/drawable/ybar.xml
+SHA1-Digest: AT20MrCZONXdboF2RX1QeN1eGKg=
+
+Name: assets/voice/74.mp3
+SHA1-Digest: lzcskYmD4A1emWNcYRcZSdPyjFw=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00163.png
+SHA1-Digest: cIj/9UyW2I54SQWF0yQYmhkT5Ek=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate010.png
+SHA1-Digest: MXINLAJya6dgKDkA2iI19oMMFYI=
+
+Name: assets/voice/71.mp3
+SHA1-Digest: XSq6zgTEw86Q8rekb9HwltqmeJk=
+
+Name: res/drawable-hdpi-v4/sport_alert_pace_trainning.png
+SHA1-Digest: zlHjs03ez4te8Kbw4lc2rrA+KAs=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_healthy_standard_64.
+ png
+SHA1-Digest: EdlJ/qyK2XKVoI9pwCMS7c+xBAE=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00192.png
+SHA1-Digest: BuycgQA6lCB+2XU+Nn0KmkvGRG0=
+
+Name: assets/voice/50.mp3
+SHA1-Digest: gI1Sjj0v37gtJt1Mzpdz9ES1nY4=
+
+Name: classes.dex
+SHA1-Digest: +GajBzNsmtG8FsF5r/BJSjvbJ/0=
+
+Name: res/xml/medals.xml
+SHA1-Digest: BjP1MfTblHoA/dFLfxGw8AQ+i6o=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate021.png
+SHA1-Digest: p/FlwKsRSr+a0WwjtBD4UWxS/RI=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00215.png
+SHA1-Digest: RoRr1zKYrV5p8u61vQZ9JUx9zsk=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00198.png
+SHA1-Digest: e36J9wKr+UcTt/wpv6VOJmpqgjk=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00166.png
+SHA1-Digest: oHX6hneq+zwuVWLhzzpZSVG0upg=
+
+Name: res/layout/fragment_crossing_history_detail_container.xml
+SHA1-Digest: P+uh2bidk4TjWzJOp0NuYWWOYYw=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00191.png
+SHA1-Digest: Ud/+ZYI/aa3J/5mlXpYQoRo7Hn0=
+
+Name: res/drawable-hdpi-v4/sport_alert_pace.png
+SHA1-Digest: F+kyA85vv6jM4YjEUbHmkVFkN3k=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00166.png
+SHA1-Digest: JC/khdModMMrMpyXmcC6Mq7kXd8=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00157.png
+SHA1-Digest: eRjCJ3kL6d6MAQZaF1N1C6KL9O0=
+
+Name: res/drawable-xhdpi-v4/card_frame.9.png
+SHA1-Digest: Pg1i5Z94EMtVOfGixb1LMLa2B9o=
+
+Name: res/drawable-hdpi-v4/sport_list_power.png
+SHA1-Digest: edgEnV8+2CcK3/vNyuz/moK+NlQ=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_about_64.png
+SHA1-Digest: z/HiTTu8GJRCkC9JcF86ACal4z0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate029.png
+SHA1-Digest: IpXLlIjI8tG5rnUIzG4aG49XHcg=
+
+Name: res/drawable-hdpi-v4/sport_running_line.png
+SHA1-Digest: rwE/C4CKviGrsUqaaTIxNBNQHlk=
+
+Name: res/drawable/progress_large_material.xml
+SHA1-Digest: 3LelfAcVJq1daWDdGNW2bTN3dzU=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_btn_volume_reduce.png
+SHA1-Digest: gX4hJET1TH2/fbv0Pwy09G176D4=
+
+Name: res/drawable-hdpi-v4/health_heart_medal_03.png
+SHA1-Digest: hBmzgUpyUoAnhwdCa10NAh5Qr6w=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate002.png
+SHA1-Digest: udrTHfZP1d1oMTfSueb5pW7hNb4=
+
+Name: res/interpolator/decelerate_quint.xml
+SHA1-Digest: Wgr57MFq+AQ+nnmEr/Vj7SEz7EY=
+
+Name: res/drawable/time_picker_ok_vector.xml
+SHA1-Digest: To7ZtQ2ycQLyNp2ImQXdwNm1yJ8=
+
+Name: res/drawable-hdpi-v4/widget_music_icon_douban_32.png
+SHA1-Digest: sVm+qtcEJpWVs0TWocVaFw7ZSKY=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00220.png
+SHA1-Digest: /HTNpjryWckiGfEQmxe3WsNmbcY=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00175.png
+SHA1-Digest: QEBh6KDzXLTy9lQJ/eh69WzVMDw=
+
+Name: res/layout/rect_activity_main.xml
+SHA1-Digest: 63p3z7L6i0RLz8HcD+uB22Tt9HY=
+
+Name: assets/voice/4.mp3
+SHA1-Digest: +l7e9bJOkUJ822+7vLmwueIJCz0=
+
+Name: assets/voice/91.mp3
+SHA1-Digest: cmEZ+cCse1eKIZ/uZ2IHQk001YA=
+
+Name: res/animator/progress_indeterminate_scale_material.xml
+SHA1-Digest: IqBv0TpobRdTAfgerNyStdHkFiQ=
+
+Name: res/drawable-hdpi-v4/sport_medal_04.png
+SHA1-Digest: Q8AoQBVjf1cdBNhnp41crfN3Sec=
+
+Name: res/layout/fragment_walking_history_detail.xml
+SHA1-Digest: S9a66DSWyViFysLmmdE6lKKgWAY=
+
+Name: assets/voice/79.mp3
+SHA1-Digest: 3SXvyGNxtBbPOvf2snafUI0d/wQ=
+
+Name: res/layout/round_activity_main.xml
+SHA1-Digest: Sz/suA8n947pXCo0rFCM15NDf1s=
+
+Name: res/drawable-hdpi-v4/sport_process_connection_3.png
+SHA1-Digest: KoutIZyP670O31ClVxcw5oOleiM=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate032.png
+SHA1-Digest: 2yNwiNnYwBSNLEs+QOVZwIwqVbM=
+
+Name: res/drawable-hdpi-v4/sport_medal_10_grey.png
+SHA1-Digest: y9QGE7tkXNfxu7JCStOPMZRGDLA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate022.png
+SHA1-Digest: xZKLzPtkIRI1xZH5lPuB4PF9DgM=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate017.png
+SHA1-Digest: M+EVzGvZbQUcalCriy5UnhTCLkM=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00186.png
+SHA1-Digest: gpR8BUJtFk0YemnfIklso97NJM8=
+
+Name: assets/voice/60.mp3
+SHA1-Digest: BSlgyzGGfdmo4mDhiu7BlCeKo0M=
+
+Name: assets/voice/25.mp3
+SHA1-Digest: mWNuyc/i3ws9cb0bwm2We8hdZ8A=
+
+Name: res/drawable-hdpi-v4/item_background_line_1.png
+SHA1-Digest: aWkWNwzBtJIRfAUqHwxcJwpC1VA=
+
+Name: res/drawable/vector_drawable_progress_bar_large.xml
+SHA1-Digest: 0j/7GEgNdV0m3qSxFYrBXu6SURc=
+
+Name: assets/voice/11.mp3
+SHA1-Digest: AUnREPqbiFSpnoMv8ycnFr8MlBU=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00159.png
+SHA1-Digest: /ff2TeoQkoHLZbMq9J3r/EaxJdA=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00173.png
+SHA1-Digest: YGhA7t8Atm+EtiUVo1TsuZDaOsw=
+
+Name: res/drawable-hdpi-v4/sport_running_heart_remind.png
+SHA1-Digest: jQnS+yDXUT09QRAfKyU1Vd2EzVg=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00187.png
+SHA1-Digest: D3v9KnIxemLGlrE+cFz6d0X6tTo=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00223.png
+SHA1-Digest: dr6QJNfslEAk30SFiwSMb+kCM2E=
+
+Name: res/animator/time_picker_ok_vector_scalex.xml
+SHA1-Digest: vV8gB3N1Ie8voXBHqvyEbNMIKd8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate047.png
+SHA1-Digest: aUIzp8s5T3yDmA81ldSfzPsoYro=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate030.png
+SHA1-Digest: zMllQIpFiN0/D6QvVjqywBzXzAY=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00164.png
+SHA1-Digest: 4OmiCOfzsKnLwh87DxvLm6JTZls=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00214.png
+SHA1-Digest: l2BxQYCboPpP6pCMmHYmQ9gCU/Y=
+
+Name: res/drawable/running_start_bg.xml
+SHA1-Digest: MCQlYywjT5O0chiLl4GThT11Kq4=
+
+Name: assets/voice/67.mp3
+SHA1-Digest: uFPVeQeEabtxLATOFmlPbbmmjMQ=
+
+Name: res/drawable-hdpi-v4/sport_tips_bg.png
+SHA1-Digest: gUs74tK9sZR0qd6I/Kgc/FnmVyc=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00165.png
+SHA1-Digest: qsLr4QInqxwcZq8y15zaELPMhE8=
+
+Name: res/drawable-hdpi-v4/sport_start_route.png
+SHA1-Digest: Fs9NBpRZN1tXAbbIFsBUKAYcSmk=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00211.png
+SHA1-Digest: /tBP3ntkvRpTBfkAWe+HfqR/Cas=
+
+Name: res/layout/split_line.xml
+SHA1-Digest: 8g6YxpXmzLxxRfGLYEAEiwFHqNw=
+
+Name: res/drawable-hdpi-v4/sport_medal_05.png
+SHA1-Digest: xoRyq0V0dMGvw2xtYsogu0hTrJw=
+
+Name: res/layout/test_medal_item.xml
+SHA1-Digest: kVxKko3LSKe6kxf2NyYQ/UxySXE=
+
+Name: res/layout/fragment_list_header_sport_info.xml
+SHA1-Digest: acV4CxUaaV9+H1JqoAVvHKUKvGg=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00163.png
+SHA1-Digest: ZzhbF7OHzI67NEgBYr5ZkVqqiqQ=
+
+Name: assets/voice/68.mp3
+SHA1-Digest: WWfzaKh3Q6xIKNdJAmRyHPYbud4=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate052.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate027.png
+SHA1-Digest: zzJ9a/EhcVpz5vV2ISDV3xyROmM=
+
+Name: res/drawable/close_button.xml
+SHA1-Digest: HETktcRmGAJx4Ubg0OReTxvvnVs=
+
+Name: res/animator/time_picker_ok_vector_scaley.xml
+SHA1-Digest: tUUVYGH+ZaOnwRaNc1DfD4W5UrM=
+
+Name: res/anim/shrink_fade_out_center.xml
+SHA1-Digest: s0eHCbS9YJ9g0Gp2iumaOwU2tE8=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00198.png
+SHA1-Digest: mEXHkuEJpj0VnvJSRwXMHDa9Py4=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00189.png
+SHA1-Digest: i5/aDxWXzQZcVm1KDEr9WzaUtyA=
+
+Name: res/layout/activity_trail_test.xml
+SHA1-Digest: noluSQF3r4YdykkPq/h98KvO1Ck=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00222.png
+SHA1-Digest: cDzqOisfy5r9D9nHq4LkcUqZU8Y=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00215.png
+SHA1-Digest: +upJNeXt8sybX+IKgVrBJ5rTLJA=
+
+Name: res/layout-v20/confirmation_activity_layout.xml
+SHA1-Digest: KjYIYVp7k3fGSvL2FVc0BG0v2/k=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate048.png
+SHA1-Digest: vH1evjtIXVRGAVsMs8Py5daoNzo=
+
+Name: res/drawable-hdpi-v4/sport_process_low.png
+SHA1-Digest: 6ve1vXoKoZRhpY7n/wgSpqoDq4M=
+
+Name: res/drawable-hdpi-v4/sport_menu_running.png
+SHA1-Digest: +nAFqReCck1wrRQkPWbE/9C+hl0=
+
+Name: res/drawable-hdpi-v4/sport_button_play.png
+SHA1-Digest: W4to+rwdzX6hfBPL9eZnEx4hgpw=
+
+Name: res/drawable-hdpi-v4/sport_medal_05_bg.png
+SHA1-Digest: GjEQtyp13MH7fdFVvdK2/13nUpA=
+
+Name: assets/voice/3.mp3
+SHA1-Digest: hSYyaXpLPjAvElfcXJtXwtpjwjo=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00193.png
+SHA1-Digest: kEwxr6/1KqYGuJFE77MToVyG/Bg=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_btn_volume_plus.png
+SHA1-Digest: HKYKU4L9YxBaD5I5PpukXVbXwOk=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00176.png
+SHA1-Digest: DBBaWwIfpxcII52NN0ehjDymZjs=
+
+Name: res/drawable-hdpi-v4/sport_alert_mileage_trainning.png
+SHA1-Digest: 5JERUN+x73nM5IX4Yuv5WXk01JY=
+
+Name: res/drawable-hdpi-v4/sport_process_page_6.png
+SHA1-Digest: iDuCbVeuYuLXnihFE6dSafvDupg=
+
+Name: res/drawable/button_ripple.xml
+SHA1-Digest: FaHR9u/AIvTyPaaVb1cxHxgukcE=
+
+Name: res/layout/fragment_sport_medal_list.xml
+SHA1-Digest: 0uhwaj9rTZXglZocvKxW3yRxlSs=
+
+Name: res/layout/list_item_sport_start.xml
+SHA1-Digest: 8VHnXJmYlAQkC5BeBgFh/gn3U1M=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00167.png
+SHA1-Digest: M+vEV58UjkN/jihIyy+edAFNamQ=
+
+Name: res/drawable-hdpi-v4/sport_notify_icon_medal_bg.png
+SHA1-Digest: eLeHqbGichPX0XMh+GZVTGjUO04=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00178.png
+SHA1-Digest: tKrniErjn33xURtep8YIzbqL9j4=
+
+Name: res/drawable-hdpi-v4/sport_process_connection_5.png
+SHA1-Digest: Mqktmy6ETf4MWzQhuwwnLdvX0Js=
+
+Name: assets/voice/9.mp3
+SHA1-Digest: wu90Jz9gg9R/Kx5Wphjyaij/VMc=
+
+Name: res/layout/list_footer_sport_history.xml
+SHA1-Digest: yRxoDmuji4Tn4LqosfRXmV26yFw=
+
+Name: res/layout/fragment_crossing_history_detail.xml
+SHA1-Digest: ewyaNuTRZVTshDA2Cd4UY9Ykcgw=
+
+Name: assets/voice/53.mp3
+SHA1-Digest: tkcgbmhsILZ3h5LvyF5ICPeWJXQ=
+
+Name: assets/voice/recent_kilo_pace.mp3
+SHA1-Digest: BwG+Zfx1K6ul4b4K7c429PVasbA=
+
+Name: res/layout/remind_pace_content_custom_view.xml
+SHA1-Digest: ZcVg6z9wG2tNyiHM2IwR7hUdoOo=
+
+Name: res/drawable-hdpi-v4/sport_medal_02_grey.png
+SHA1-Digest: LXN7rt7sWgz8YLyjvLiMDKCvqcc=
+
+Name: assets/voice/5.mp3
+SHA1-Digest: C1+wkRe5s/vO4o13kUFCIYWZEsg=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00224.png
+SHA1-Digest: blMskq5vGM4x4M1WSmsE+AKIQa8=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00210.png
+SHA1-Digest: iMBU1jqMQqeGCBu8cfOziAiVmZw=
+
+Name: res/drawable-mdpi-v4/ic_full_cancel.png
+SHA1-Digest: WFXG5JYg0plKbjc/5OsH7Ta2VvM=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00176.png
+SHA1-Digest: FgL3PA4JirL11zfWrsc9WS1UAi4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00175.png
+SHA1-Digest: Seb0sEFe+3x6VcpbdMp1XeYZnYc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate035.png
+SHA1-Digest: VnzjdULZXX7OfmGTjGZxefolWBU=
+
+Name: res/drawable-hdpi-v4/sport_medal_09.png
+SHA1-Digest: uFcY+LFfMOanTo4Pyb2vf+7CGJ0=
+
+Name: res/drawable-hdpi-v4/item_background_line_other.png
+SHA1-Digest: RWebL/1pBbdhkPxuyFExmeJTXZY=
+
+Name: res/menu/menu_sport_medal_detail.xml
+SHA1-Digest: r0s2opIuRGb1s5ufd/QxZsIu9/4=
+
+Name: res/layout/rect_activity_running.xml
+SHA1-Digest: PzEgO280Ie+N0bVy4mLcexhwpuA=
+
+Name: assets/voice/19.mp3
+SHA1-Digest: YSs9HoIs6aDDFBnThEpsOdBo274=
+
+Name: res/drawable-hdpi-v4/sport_gps_search_icon_7.png
+SHA1-Digest: 096yMc13CgsZ9khoFpXKW+FtKtA=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_music_download.png
+SHA1-Digest: ZIgmQ0gXLmirMm84031HZBrWTOk=
+
+Name: res/drawable-hdpi-v4/sport_list_pace_remind.png
+SHA1-Digest: 0Fu7Yqy3tf9w5pzZCP98rg4MxA8=
+
+Name: res/layout/fragment_sport_control.xml
+SHA1-Digest: g2VtprIisr/Od8tgcUVuB4Tk+oI=
+
+Name: assets/voice/second.mp3
+SHA1-Digest: jgqp4Gq5bTYjZ9ndsrgI2X9xas0=
+
+Name: assets/voice/89.mp3
+SHA1-Digest: AbLrIkGx/RGx6MIEgT5zG1Mv0Jg=
+
+Name: assets/voice/32.mp3
+SHA1-Digest: 7MaofNfI5abEP/C8OthIvj25xiE=
+
+Name: assets/voice/17.mp3
+SHA1-Digest: mMIhcDZy78QSe7oU4B2iZmSKoyo=
+
+Name: res/layout/list_item_sport_history.xml
+SHA1-Digest: TtORngLTfQo8GJuNKSnF/VSXluM=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00212.png
+SHA1-Digest: GiohuRMTM2rS8bPdBdgHsI+vcpE=
+
+Name: res/layout/list_item_sport_info.xml
+SHA1-Digest: U9sUM+SU1/R+3lt7zB/tR7xf2b4=
+
+Name: res/drawable-hdpi-v4/sport_medal_05_grey.png
+SHA1-Digest: JBB6gvor+LG/UPNNIL+oVfFkY7I=
+
+Name: res/layout/rect_activity_sport_history_detail.xml
+SHA1-Digest: m6f4DSZLUaOHU71/uL8tjQk+AGo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate008.png
+SHA1-Digest: fm7nAy0nk0zllE8RU3KKe0Up9rE=
+
+Name: assets/voice/73.mp3
+SHA1-Digest: FhV9MJ8PhWaTlk60g2m93aV3oZo=
+
+Name: res/layout/alert_dialog.xml
+SHA1-Digest: 0uRf9lZ7UonNt5ie7ge7X23u/+M=
+
+Name: assets/voice/40.mp3
+SHA1-Digest: k1w5Ir1oI0njGxcuKgWS2vveRlo=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00156.png
+SHA1-Digest: 2E3VQNMrAYrM/rplPcsaQrP3Sy4=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00217.png
+SHA1-Digest: 9ECdv+z+siPHctAk5qZyeP8PTN4=
+
+Name: res/layout/list_footer_sport_info.xml
+SHA1-Digest: Eft1RYl/InfMK8V1TBXwICnZKqI=
+
+Name: res/drawable-hdpi-v4/lau_icon_continue.png
+SHA1-Digest: g7eVK4u2cQxSxJvmXuVunaINPjk=
+
+Name: res/drawable/sport_confirm_button_bg.xml
+SHA1-Digest: 85Xsx0gwtijBztnrrEcgGtk0L5k=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00166.png
+SHA1-Digest: FccVxb5Emg2bM5Fbgmz+DMUaapQ=
+
+Name: res/layout-v20/watch_card_content.xml
+SHA1-Digest: sXdJj436b+4X/ZzQ/7ycyE0TCiw=
+
+Name: assets/voice/52.mp3
+SHA1-Digest: b92xyktRlar3AZNxu5fNdqbhPs4=
+
+Name: res/layout/fragment_sport_medal_list_groups.xml
+SHA1-Digest: ImFpCqZ+W6DqB3KiSwtM8mPbfwk=
+
+Name: res/drawable-hdpi-v4/sport_music_icon_douban_32.png
+SHA1-Digest: sVm+qtcEJpWVs0TWocVaFw7ZSKY=
+
+Name: res/drawable-hdpi-v4/sport_process_connection_2.png
+SHA1-Digest: CdIffMO5YROC+syENOGk9wEi/wY=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00219.png
+SHA1-Digest: jnOV+VjZWY5pMOMPiovms9H8/F8=
+
+Name: res/drawable-hdpi-v4/sport_process_good.png
+SHA1-Digest: bt5E00bKa9f2OGhCWJxD7vpvbtg=
+
+Name: res/drawable-hdpi-v4/sport_menu_set.png
+SHA1-Digest: fFsnypHOlxxlDfMQhhNw3p7IXM4=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate039.png
+SHA1-Digest: t8x2ZEFTcrf0arQ6QhKY7Ih6Mnc=
+
+Name: assets/voice/26.mp3
+SHA1-Digest: MD+raJT5EJa/7oUy3ZZW0qXdois=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00193.png
+SHA1-Digest: YaSYXesqp1tW1+2mVY5Lehuxjoc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate043.png
+SHA1-Digest: CkyBpQ76U6+G29esRAe7ilSDHgA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate057.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-hdpi-v4/sport_tips_arrow2.png
+SHA1-Digest: drhwZ+zJKhNXsTE0VGr0X3Hr9/g=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00170.png
+SHA1-Digest: 0kF2ZIP8JKUbz3fpnHkWEfw5BSo=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00162.png
+SHA1-Digest: r/wgD6O0VyAqFc1Kz25MLBIeAYM=
+
+Name: res/drawable-hdpi-v4/sport_medal_06_bg.png
+SHA1-Digest: 3jZCQMKMsCzTNxfjY9cLZlTVJuk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate053.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-hdpi-v4/widget_music_btn_next.png
+SHA1-Digest: z1H0emeW1H4lgtiquUoow3BNQtM=
+
+Name: res/drawable-hdpi-v4/sport_list_auto_pause.png
+SHA1-Digest: 4dJDqJ27um+UZgBVK7KEecorS+w=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00173.png
+SHA1-Digest: chiafbZmD9r8189ZtLpbcAZe7H4=
+
+Name: res/layout/picker_positive_button.xml
+SHA1-Digest: sST35Bl4FCYD8kMVzJNGM6h9/yo=
+
+Name: res/drawable-hdpi-v4/sport_medal_03.png
+SHA1-Digest: LsMB6SmKMN3A2PmFCsoeLXGGCZo=
+
+Name: res/drawable/vector_drawable_progress_bar_small.xml
+SHA1-Digest: FkHx2QXfd/roWDgKBQ+/IxUmW38=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate014.png
+SHA1-Digest: yPQQVYWBtHfYI1CZOXLczEPCANk=
+
+Name: assets/voice/15.mp3
+SHA1-Digest: eFgJQxnDd7SmUYUDMvKjhxX0Ti0=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00175.png
+SHA1-Digest: 3QousEpSv4Q1x3BkrqMSSLQMVdA=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00167.png
+SHA1-Digest: uwmq8BNJOd5N8q5oh7BakzUdxrU=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_find_phone_64.png
+SHA1-Digest: IOe/uF7fSDsgEocLp3p8Z7/sJ6U=
+
+Name: res/anim/gps_searching.xml
+SHA1-Digest: hKz802e6YadHn0a0mP3LT3hpD4k=
+
+Name: res/layout/fragment_waiting_gps.xml
+SHA1-Digest: otkxqfRXKhYRe6NtVd7ezNv9vKg=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00200.png
+SHA1-Digest: mCnRm508cgJfqxC1e7SlyfK6GEg=
+
+Name: res/drawable-hdpi-v4/sport_process_connection.png
+SHA1-Digest: 6bNsZ96rtzF9KE536AAqJmoAdiY=
+
+Name: res/drawable-hdpi-v4/sport_running_bg.png
+SHA1-Digest: kduK++p8VeNaaKQKydOfgKX2ATQ=
+
+Name: assets/voice/98.mp3
+SHA1-Digest: pbf+vn9zRZr6Y6gBDBjL8iFWCdE=
+
+Name: res/layout/remind_individual_content_custom_view.xml
+SHA1-Digest: HxtVs1BI22dqvSzpvuQ30AsD0G4=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate012.png
+SHA1-Digest: PN8zr8bF6BrRIvzjfJ8B5tB29dg=
+
+Name: res/drawable-hdpi-v4/sport_alert_heart_trainning.png
+SHA1-Digest: myR/wWSzsGKR5+MGcEX/9GLNEFg=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate054.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-hdpi-v4/sport_tips_arrow3.png
+SHA1-Digest: F7jRdRlT5FYf/FXaiLRhjA6PfJ8=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00185.png
+SHA1-Digest: 3QousEpSv4Q1x3BkrqMSSLQMVdA=
+
+Name: res/drawable/waiting_gps_animation.xml
+SHA1-Digest: 0TKy1ddr3FYGGTJgYAEemONI1lw=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00213.png
+SHA1-Digest: jrmNNEHayvYS8jwR5sC1fBAI7eM=
+
+Name: assets/voice/22.mp3
+SHA1-Digest: 4C70Yvzz49YKNHUxlcAtTfRRWlg=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate036.png
+SHA1-Digest: K57AFYY/Z5XjkpZ6CeXIEr3Y3a8=
+
+Name: res/drawable-hdpi-v4/sport_button_end.png
+SHA1-Digest: aGvVzxK4zsC7KAZc/G8y+1uj33A=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00188.png
+SHA1-Digest: fHHCDVEHihUfRVCdKUiGiHhR7+s=
+
+Name: res/layout/activity_sport_history.xml
+SHA1-Digest: QAMhuRzA/nM/GSx1PVZRbIjQft4=
+
+Name: resources.arsc
+SHA1-Digest: DQqgWXP02a84r+B15EY1XL5AoW4=
+
+Name: res/drawable-hdpi-v4/go_to_phone_00167.png
+SHA1-Digest: NJfqWKN4M1TXOWxJjuHzwuDk90E=
+
+Name: res/drawable-hdpi-v4/sport_button_end2.png
+SHA1-Digest: T4DpmHmITv6SA1PxErVfbH4KrRk=
+
+Name: assets/voice/72.mp3
+SHA1-Digest: eoi7Rs48BjTqcU4TJbx4cSs3PG4=
+
+Name: res/drawable-hdpi-v4/sport_history_end_route.png
+SHA1-Digest: zr8qEAWKSTt9ggLektRqOLu+j7Q=
+
+Name: res/drawable-hdpi-v4/health_all_heart_date_line.png
+SHA1-Digest: nj32jxTRWKLXVj+Vlbo5VLZFcOY=
+
+Name: res/drawable-hdpi-v4/sport_medal_10.png
+SHA1-Digest: xhemkI7BHNPkiWm6T0eUJrfxO7s=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00159.png
+SHA1-Digest: uz0uk5YhB8uF0SG+snvJQqZUCtI=
+
+Name: res/drawable-hdpi-v4/sport_process_good_sucess.png
+SHA1-Digest: gIeLpFRV/xwVcLXoZ1R0U+EAUww=
+
+Name: res/drawable-hdpi-v4/sport_medal_07_grey.png
+SHA1-Digest: yc4mSVx0ADtH/6J0vDPFiLAC9dQ=
+
+Name: assets/voice/1.mp3
+SHA1-Digest: OX+Aui7pDr0zytNH88Z7mmMm/qs=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate042.png
+SHA1-Digest: B9E35au/NS3YwDdHJVGJQYrYE5o=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_sport.png
+SHA1-Digest: wKxzMSHyb55cvZsdF8ZC2xkfDVU=
+
+Name: assets/voice/84.mp3
+SHA1-Digest: k1AZr1CtZbTbD3WfshgAmn5isO4=
+
+Name: res/drawable-mdpi-v4/generic_confirmation_00174.png
+SHA1-Digest: gWaSDyXtgyGyP0DXx4dZcQr29+A=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00224.png
+SHA1-Digest: M4sTx/o/i3C1TArGxDY0UfVccRU=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00197.png
+SHA1-Digest: QUwYw8hCzQprqrtrnR8xjZsa8Fs=
+
+Name: assets/voice/14.mp3
+SHA1-Digest: GlIF0fpSkVO5G+tY7kGsaZxFbkY=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00164.png
+SHA1-Digest: GB6e9VogyH4l5nfTv5vRUbeB3Gs=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00185.png
+SHA1-Digest: tmYurY6KUlMXYIb4niyh2cNX858=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00200.png
+SHA1-Digest: DZMkOKzg1xzX6hk6UHRne8uBu1Y=
+
+Name: assets/voice/48.mp3
+SHA1-Digest: WLMz/7dcskY+kFXNtMOcCnJ3/Fg=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00211.png
+SHA1-Digest: OdhG3glJOVYOtJnxCTO2ewEoGEg=
+
+Name: res/drawable-hdpi-v4/sport_music_icon_note.png
+SHA1-Digest: la56/lJADP19F+VWybmt42zRJOI=
+
+Name: res/drawable-hdpi-v4/sport_medal_02_bg.png
+SHA1-Digest: /4P71VScWvjAP/IZpzw+QdZjN0A=
+
+Name: res/drawable-hdpi-v4/sport_music_btn_play.png
+SHA1-Digest: MLkdcFT4IwHB+biHRLizlC1y06s=
+
+Name: assets/voice/43.mp3
+SHA1-Digest: IpL4UCDBS7wS/OX6SCIoi8D1j4A=
+
+Name: assets/voice/h_19.mp3
+SHA1-Digest: QpwD63WJXJzLib7gKpMlEZjK3+4=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00189.png
+SHA1-Digest: ofwkOdGRVpBdSrpaj9FV4BRySgo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate045.png
+SHA1-Digest: yE8w2fSENJvJCxX4LNCdD1v+MYI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate050.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: assets/voice/94.mp3
+SHA1-Digest: LjAX7xCAocOFjeBPsJmVl3Jy18k=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_music_selectlist.png
+SHA1-Digest: jLmfrtgaaZjiUCBXTREFR7UrRlo=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00218.png
+SHA1-Digest: KFwyn+52o7M4Iz+D/jXaXhhrwOM=
+
+Name: res/drawable-hdpi-v4/sport_list_voice_off.png
+SHA1-Digest: zell4fONv85qLNUvV+NseRpy5Fk=
+
+Name: res/drawable-hdpi-v4/generic_confirmation_00165.png
+SHA1-Digest: wJK69SFPfMUNrRRkAtDz+Lsn+ZA=
+
+Name: assets/voice/55.mp3
+SHA1-Digest: jx1eqK14w+A2LXdUL0IzOhhOctc=
+
+Name: res/drawable/sport_logo_background.xml
+SHA1-Digest: C3860UUs1I9klBEnbYoSU3aQZl0=
+
+Name: res/drawable-mdpi-v4/ic_full_sad.png
+SHA1-Digest: 2/pmo0n6PyRjgMcVZJ/AIEpmDW8=
+
+Name: res/drawable-hdpi-v4/gps_search_failed.png
+SHA1-Digest: gEufMQdlb8F0kl2aSR5gLr/CxZ0=
+
+Name: res/anim/grow_fade_in_center.xml
+SHA1-Digest: C11TX1hpnYl59jdYyhysSnkU4LA=
+
+Name: assets/voice/76.mp3
+SHA1-Digest: 4B6LTs5V8U7azyUtliSFB1/Bfg0=
+
+Name: res/drawable/button_font_selector.xml
+SHA1-Digest: kblauj5jWNbD7KREuiXG3J2RA2U=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00222.png
+SHA1-Digest: OzfEvCL8SBgqvWr82wl+lXmyJzM=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_music_list.png
+SHA1-Digest: YEuuB9nTfVHT5CuzjEVi0FBV2wg=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00169.png
+SHA1-Digest: gfwiOy7itOCjLeBaHYjjDt1M/Wk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate001.png
+SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
+
+Name: res/drawable-mdpi-v4/go_to_phone_00157.png
+SHA1-Digest: OLms9D8dKTcu1Vx9rFt24Y69h1M=
+
+Name: assets/voice/83.mp3
+SHA1-Digest: EQfnAdcZNvfeEmkeUKhd7TMaO6g=
+
+Name: res/drawable-xhdpi-v4/go_to_phone_00220.png
+SHA1-Digest: 3ekdpUF/bKzc/Gbb7uFLVKfMKcE=
+
+Name: res/drawable-xhdpi-v4/generic_confirmation_00187.png
+SHA1-Digest: L6X5kGIDIFZN4VYfY7k9Xg73gQQ=
+
+Name: assets/voice/45.mp3
+SHA1-Digest: WmkZ6xuYmFjiJEutejGFiIeOP08=
+

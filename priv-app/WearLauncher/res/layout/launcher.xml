@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.launcher.faces.HomeView android:id="@id/home_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/stream_topbar" />
+    <com.huami.watch.launcher.streamcard.BackgroundCrossfader android:id="@id/background_crossfader" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.launcher.streamcard.StreamLayout android:layout_gravity="center_horizontal" android:id="@id/strame_layout" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.launcher.faces.GradientCrossfaddingViewPager android:layout_gravity="center" android:id="@id/horizonal_slider" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto" />
+    <com.huami.watch.indicator.ViewPagerPageIndicator android:layout_gravity="center|top" android:id="@id/streamlet_indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" />
+    <com.huami.watch.indicator.ViewPagerPageIndicator android:layout_gravity="center|top" android:id="@id/page_indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" />
+</com.huami.watch.launcher.faces.HomeView>

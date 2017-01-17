@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/main_background_light_dark" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/size_big_title_font" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size_title_margin_top" android:text="@string/label_heartrate_today" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <com.huami.watch.common.widget.LineChart android:id="@id/chart" android:paddingLeft="@dimen/size_chart_padding_stend" android:paddingRight="@dimen/size_chart_padding_stend_right" android:layout_width="fill_parent" android:layout_height="@dimen/size_linechart_height" android:layout_marginTop="@dimen/size_linechart_margin_top" android:layout_alignParentTop="true" />
+</RelativeLayout>

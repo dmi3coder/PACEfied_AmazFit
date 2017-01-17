@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/secondary_status_bar" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.view.ViewPager android:layout_gravity="center" android:id="@id/quick_settings_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.indicator.ViewPagerPageIndicator android:layout_gravity="center|top" android:id="@id/page_indicator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" />
+</FrameLayout>

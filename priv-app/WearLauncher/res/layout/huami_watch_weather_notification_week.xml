@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="60.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+    <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+    <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+    <com.huami.watch.launcher.streamcard.pages.WeatherItemLayout android:id="@id/weatherlayout5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.299988dip" />
+</LinearLayout>

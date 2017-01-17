@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.health.ui.RelativeLayout2 android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.huami.watch.health">
+    <TextView android:textSize="@dimen/size_big_title_font" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size_title_margin_top2" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/size_ratio_image_height" android:layout_below="@id/title" android:layout_marginStart="@dimen/size_ratio_margin" android:layout_marginEnd="@dimen/size_ratio_margin">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ratio_normal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmProgressDrawableView android:id="@id/progress" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/size_small_title_font" android:gravity="center" android:id="@id/ratio_notworn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/ratio_notworn" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/size_small_title_font" android:id="@id/subjectA" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/size_subject_margin_bottom" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:layout_alignParentBottom="true" android:layout_marginStart="@dimen/size_subject_margin_stend" android:layout_alignParentStart="true" />
+    <TextView android:textSize="@dimen/size_ratio_font" android:id="@id/ratioA" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:layout_above="@id/subjectA" android:fontFamily="lato" custom:layout_aboveCenter="@id/subjectA" />
+    <TextView android:textSize="@dimen/size_small_title_font" android:id="@id/subjectB" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/size_subject_margin_bottom" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:layout_alignParentBottom="true" android:layout_marginEnd="@dimen/size_subject_margin_stend" android:layout_alignParentEnd="true" />
+    <TextView android:textSize="@dimen/size_ratio_font" android:id="@id/ratioB" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:shadowDy="@integer/size_shadow_dy1" android:shadowRadius="@integer/size_shadow_radius1" android:layout_above="@id/subjectB" android:fontFamily="lato" custom:layout_aboveCenter="@id/subjectB" />
+</com.huami.watch.health.ui.RelativeLayout2>

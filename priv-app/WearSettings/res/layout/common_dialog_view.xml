@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clc.utils.venus.widgets.senior.WearableDialogView android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/dlg_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:gravity="center_horizontal" android:id="@id/relativelayout_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:layout_alignParentBottom="true">
+            <com.huami.watch.common.widget.HmHaloButton android:id="@id/dlg_left_btn" android:background="@drawable/lau_icon_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" />
+            <com.huami.watch.common.widget.HmHaloButton android:id="@id/dlg_right_btn" android:background="@drawable/lau_icon_enter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:layout_toRightOf="@id/dlg_left_btn" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/dlg_hint_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:layout_above="@id/relativelayout_button">
+            <TextView android:textSize="@dimen/dlg_header_txt_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/dlg_hint" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawablePadding="8.0dip" />
+        </RelativeLayout>
+    </RelativeLayout>
+</clc.utils.venus.widgets.senior.WearableDialogView>

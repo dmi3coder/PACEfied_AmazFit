@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/tips_container" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/music_update_tips_text_size" android:textColor="@color/music_content_color" android:gravity="center_horizontal" android:id="@id/tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="38.0dip" android:layout_marginRight="24.0dip" android:text="@string/music_update_tips_content" android:lineSpacingExtra="10.0dip" />
+        <com.huami.watch.common.widget.HmLinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/tips">
+            <com.huami.watch.common.widget.HmHaloImageView android:id="@id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/alter_dialog_button3" />
+            <com.huami.watch.common.widget.HmHaloImageView android:id="@id/confirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:src="@drawable/alter_dialog_button1" />
+        </com.huami.watch.common.widget.HmLinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

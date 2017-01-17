@@ -1,0 +1,151 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: qsXWC9Z23nCBpnmTNeUJMhuj1kI=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/drawable/ic_circle.xml
+SHA1-Digest-Manifest: E40J4Hk089P1zQORzM8aK4jPgV4=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA1-Digest-Manifest: lVEFsPzAFvp6xcfwtRMjgAO1oDI=
+
+Name: res/layout/activity_initial_low_battery_tip.xml
+SHA1-Digest-Manifest: efn189rsxIp81FD+ZwvgIOnDnHY=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA1-Digest-Manifest: EeBrsmGiYjJgOswBYr00N4ce6Cw=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA1-Digest-Manifest: sWxEvU6necNOr4gWSNSIOb0E6Og=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA1-Digest-Manifest: OuIGhQcQc96HS9UqHcG8V5GSDcY=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA1-Digest-Manifest: 8sGylTsPnz4Fvq3fzj2dXn61ToQ=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA1-Digest-Manifest: EkaoSJpuy49+RccgvwZ6RlPWSkY=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: GaL7i/0z4Aa2n5pctqnpnOYtBQI=
+
+Name: res/layout/voice_rec_test.xml
+SHA1-Digest-Manifest: eNK4ev22F3EgNzY2w7YAqcrQLHE=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA1-Digest-Manifest: WGonA8gnUFb2JeGy9bXuUwOMi84=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA1-Digest-Manifest: 81+1Rajacfj99OobXkqPL8s3pm8=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA1-Digest-Manifest: qmdhaFNrPC6ZDAHv7Iw1rAdTxW8=
+
+Name: res/drawable-xxhdpi-v4/noti_icon_get_medal.png
+SHA1-Digest-Manifest: fyeFx//YYceTaQxrCxP8Ci/XliA=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: vIgXr2a2IHu/Qeuw8A9WJtU7nYU=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
+
+Name: res/layout/activity_initial_language.xml
+SHA1-Digest-Manifest: 1eDio3oIi79ORldPb7uHNUTXT2I=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA1-Digest-Manifest: 1VX+fOjBeL84Hu9PjCV7Vbv+EMU=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_power_less_bg.png
+SHA1-Digest-Manifest: /RwHB5vN4ZvXlUKXAJheuyZ6BN0=
+
+Name: res/layout/activity_initial_unpair_tip.xml
+SHA1-Digest-Manifest: v7s/OV/Fm+2HRsCm+114Zb81KrM=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA1-Digest-Manifest: q+9UkqhtbRTTdkiP4PlU9QDRSUc=
+
+Name: res/layout/activity_initial_companion_tip.xml
+SHA1-Digest-Manifest: PY8cGLg5S+jOpm8r9Hfp+v+tOKc=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA1-Digest-Manifest: d281hCe5NQEYI0D4S3pcWmLEfnM=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA1-Digest-Manifest: Tv6m4Aa8uZM8Vb20CHD5Ukxq274=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_medal_bg.png
+SHA1-Digest-Manifest: SybyhgnDf8sQBykbnR+oY7sUugA=
+
+Name: res/drawable-xxhdpi-v4/lan_weather_cloudy.png
+SHA1-Digest-Manifest: 1EQ71ajgWBvazpHPQVXh9qUbo1I=
+
+Name: classes.dex
+SHA1-Digest-Manifest: XCEJBghc3wOZQSlH+B4qU5ekJNE=
+
+Name: res/drawable-xxhdpi-v4/notif_icon_long_sit.png
+SHA1-Digest-Manifest: uDkV3Oh3+WNjwmaVBd1SCD6Z/D8=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_treat_bg.png
+SHA1-Digest-Manifest: JpuOVZy7eXgy4cmMqR9GtzfUv04=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA1-Digest-Manifest: LIyQ35x9gfPoegi11/8/KSpjqZI=
+
+Name: res/drawable-xxhdpi-v4/notif_icon_target_reach.png
+SHA1-Digest-Manifest: wfnCLeY51vJPh3kmDYSCw+CwVVY=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA1-Digest-Manifest: lZZc2nCbBWy2D7DEx50RdAvSqA8=
+
+Name: res/layout/activity_initial_pair.xml
+SHA1-Digest-Manifest: Ik4AWQ7brYCrPGlLPTaHuGXH9tE=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA1-Digest-Manifest: hULMgPvhUM8X9LCEPXMY0rlUKoo=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA1-Digest-Manifest: tFN38qLNi6RM2LTrBsjtcnKc7O4=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA1-Digest-Manifest: LbxypWx+3Onse/BKm6majBwaXls=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA1-Digest-Manifest: eG6YS8Kzs/Nvup6kfbmrRsDBfvI=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA1-Digest-Manifest: 6hsKBs4tY2Xdv+BvOS9arYYMVQE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest-Manifest: n+6i2TvSAMpX/AKScAKdmEI23sw=
+
+Name: res/drawable/ic_ring.xml
+SHA1-Digest-Manifest: WhwP92AeK8PhW57QhNNm2+m22Dg=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_rest_bg.png
+SHA1-Digest-Manifest: avhqXnUm4+fDF6GNuOEcxI5Gj6o=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA1-Digest-Manifest: Fax4bszjqRoxbmCze/vI5y3H3OE=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA1-Digest-Manifest: 2VJE/owFPIRQUgnbWhIhCoQwtak=
+
+Name: res/drawable-xxhdpi-v4/lan_weather_cloudy_bg.png
+SHA1-Digest-Manifest: OukaZCN/qxg7Q2LHPE7xDtzlMbU=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_power_less.png
+SHA1-Digest-Manifest: nRrWje3io39JafGeF99qJ8AbIpQ=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA1-Digest-Manifest: reJTF0TcxRgTH6M/fDpi3TOs6Bs=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA1-Digest-Manifest: y1H0o4hWhTLo8NGvxHtk+4LX1qc=
+

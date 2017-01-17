@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/selector_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/sport_running_bg" />
+    <ImageView android:id="@id/history_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/sport_running_bg" />
+    <ViewPager android:id="@id/sport_main_view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewPagerPageIndicator android:id="@id/indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_centerHorizontal="true" />
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:gravity="center_horizontal" android:id="@id/sport_music_container" android:background="@drawable/sport_music_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+        <com.huami.watch.common.widget.HmImageView android:id="@id/music_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.2999878dip" android:src="@drawable/sport_music_icon_douban_32" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/music_open_explain_dimens" android:textColor="@color/music_title_color" android:id="@id/music_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_title" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:id="@id/music_container" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <com.huami.watch.common.widget.HmLinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.299988dip" android:src="@drawable/sport_music_icon_note" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/music_song_name_text_size" android:textColor="@color/music_title_color" android:id="@id/song_name" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_not_known" android:maxLines="2" />
+        </com.huami.watch.common.widget.HmLinearLayout>
+        <com.huami.watch.common.widget.HmRelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="26.699982dip">
+            <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/music_singer_name_text_size" android:textColor="@color/music_content_color" android:id="@id/song_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_not_known" android:layout_alignParentEnd="true" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/music_singer_name_text_size" android:textColor="@color/music_content_color" android:gravity="center|left" android:id="@id/singer_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="26.0dip" android:text="@string/music_not_known" android:singleLine="true" android:layout_toLeftOf="@id/song_time" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+    <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:textColor="@color/music_content_color" android:gravity="center" android:id="@id/music_content" android:paddingLeft="22.699982dip" android:paddingRight="22.699982dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_open_fm" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/music_btn_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="144.0dip" android:layout_centerHorizontal="true">
+        <com.huami.watch.common.widget.HmImageView android:id="@id/music_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/sport_music_btn_play" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/music_open_container" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="144.0dip">
+        <RelativeLayout android:id="@id/stop_container" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.huami.watch.common.widget.HmImageView android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sport_music_btn_end" android:scaleType="centerCrop" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/next_container" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.huami.watch.common.widget.HmImageView android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sport_music_btn_next" android:scaleType="centerCrop" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <include android:id="@id/dialog_no_music_and_connect_ble_container" android:visibility="gone" layout="@layout/music_not_connect_ble_alert_dialog" />
+    <include android:id="@id/dialog_not_complete_music_container" android:visibility="gone" layout="@layout/music_not_found_alert_dialog" />
+</com.huami.watch.common.widget.HmRelativeLayout>

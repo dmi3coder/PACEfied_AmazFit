@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/txtlabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="txtlabel" />
+    <TextView android:id="@id/txtcontent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="txtcontent" />
+    <Button android:id="@id/btndel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="btndel" android:onClick="onClick" />
+    <Button android:id="@id/btnblock" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="btnblock" android:onClick="onClick" />
+    <Button android:id="@id/btnok" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="btnok" android:onClick="onClick" />
+    <Button android:id="@id/btncancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="btncancel" android:onClick="onClick" />
+</LinearLayout>

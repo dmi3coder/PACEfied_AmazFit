@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.699982sp" android:textColor="@color/main_bg_color" android:gravity="center" android:id="@id/volumn_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="27.0dip" android:text="@string/music_volumn_control" />
+    <watch.huami.com.mediaplayer.widget.view.VolumnView android:id="@id/volumn_progress" android:paddingLeft="29.0dip" android:paddingRight="29.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginTop="18.0dip" android:layout_below="@id/volumn_title" />
+    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="33.0dip" android:layout_below="@id/volumn_progress">
+        <ImageView android:id="@id/volumn_reduce" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/lan_quicksettings_btn_volume_reduce" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/volumn_plus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/lan_quicksettings_btn_volume_plus" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/initial" android:onClick="onInitial" />
+            <Button android:id="@id/qr_code" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/qr_code" android:onClick="qr_code" />
+            <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wp_query" android:onClick="wp_query" />
+            <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wp_set0" android:onClick="wp_set0" />
+            <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wp_set_nm" android:onClick="wp_set_nm" />
+            <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wp_sel" android:onClick="wp_sel" />
+            <Button android:id="@id/get_storeage_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/storage" />
+            <Button android:id="@id/get_locale_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/locale" />
+            <Button android:id="@id/get_battery_level_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery" />
+            <Button android:id="@id/quit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/quit" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

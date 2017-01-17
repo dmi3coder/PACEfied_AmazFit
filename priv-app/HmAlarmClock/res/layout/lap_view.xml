@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="53.299988dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/SecondaryLabelTextAppearance" android:gravity="center" android:id="@id/lap_number" android:background="@drawable/stop_watch_lap_list_lap_num_bg" android:layout_width="25.0dip" android:layout_height="25.0dip" android:textAllCaps="false" android:layout_marginEnd="14.0dip" />
+    <TextView android:textAppearance="@style/PrimaryLabelTextAppearance" android:textSize="28.0sp" android:gravity="center" android:id="@id/lap_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="false" />
+    <TextView android:textAppearance="@style/PrimaryLabelTextAppearance" android:gravity="center" android:id="@id/lap_total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="false" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<medals>
+    <medal>
+        <id>1</id>
+        <icon>health_heart_medal_01</icon>
+        <description>sport_medal_desc_first_sport</description>
+        <priority>1</priority>
+    </medal>
+</medals>

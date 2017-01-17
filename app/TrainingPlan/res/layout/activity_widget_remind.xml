@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/rl_widget_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/train_record_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.699982dip" android:textAlignment="center" style="@style/train_status_detail_title" />
+    <TextView android:id="@id/train_plan_remind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_centerInParent="true" android:textAlignment="center" style="@style/train_widget_remind_text" />
+    <RelativeLayout android:orientation="vertical" android:id="@id/ll_train_start_container" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginBottom="20.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="14.0sp" android:textColor="@color/default_background_black" android:gravity="center" android:layout_gravity="center" android:id="@id/txt_start_train" android:background="@drawable/train_start_green" android:layout_width="100.0dip" android:layout_height="32.0dip" android:text="@string/train_start" android:layout_centerInParent="true" android:textAlignment="center" />
+    </RelativeLayout>
+</RelativeLayout>

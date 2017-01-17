@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.train.ui.widget.FullScrollView android:id="@id/ll_scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/txt_my_train" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.5dip" android:text="@string/my_train" style="@style/mytrain_trainplan_title" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="23.0dip" android:weightSum="2.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textColor="@color/white_alpha_cc" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/train_days" android:textAlignment="center" style="@style/train_plan_detail_train_title" />
+                <com.huami.watch.train.ui.widget.NumberTextView android:layout_gravity="center_horizontal" android:id="@id/number_train_days" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center" style="@style/train_plan_detail_train_number" />
+            </LinearLayout>
+            <View android:background="@color/white_alpha_66" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="7.0dip" style="@style/base_gray_line" />
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textColor="@color/white_alpha_cc" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/train_mileage" android:textAlignment="center" style="@style/train_plan_detail_train_title" />
+                <com.huami.watch.train.ui.widget.NumberTextView android:layout_gravity="center_horizontal" android:id="@id/number_train_mils" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center" style="@style/train_plan_detail_train_number" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:textSize="14.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/start_new_train_plan" android:background="@drawable/train_detail" android:paddingLeft="22.0dip" android:paddingTop="7.0dip" android:layout_width="144.0dip" android:layout_height="32.0dip" android:layout_marginTop="20.0dip" android:text="@string/start_new_train" android:drawableRight="@mipmap/training_list_new" android:drawablePadding="5.0dip" />
+        <View android:id="@id/recyclearView_up_line" android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="33.299988dip" />
+        <android.support.v7.widget.RecyclerView android:id="@id/list_history_records" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:id="@id/recyclearView_down_line" android:background="@color/white_alpha_66" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginBottom="20.0dip" />
+    </LinearLayout>
+</com.huami.watch.train.ui.widget.FullScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/main_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="13.299988dip" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="60.69998dip">
+        <View android:id="@id/wind_icon" android:background="@drawable/weather_details_icon_wind" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_centerVertical="true" android:layout_marginStart="42.69998dip" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/wind_icon">
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="bottom" android:id="@id/wind_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wind_strength" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/white" android:gravity="top" android:id="@id/detailed_wind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.6999817dip" android:text="@string/fetching" android:layout_below="@id/wind_tip" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="0.70000005dip" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="60.69998dip">
+        <View android:id="@id/humidity_icon" android:background="@drawable/weather_details_icon_humidity" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_centerVertical="true" android:layout_marginStart="42.69998dip" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/humidity_icon">
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="bottom" android:id="@id/humidity_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/moisture" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/white" android:gravity="top" android:id="@id/detailed_moisture" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.6999817dip" android:text="@string/fetching" android:layout_below="@id/humidity_tip" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="0.70000005dip" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="60.69998dip">
+        <View android:id="@id/uv_icon" android:background="@drawable/weather_details_icon_ultraviolet" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_centerVertical="true" android:layout_marginStart="42.69998dip" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/uv_icon">
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="bottom" android:id="@id/uv_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/uv" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/white" android:gravity="top" android:id="@id/detailed_uv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.6999817dip" android:text="@string/fetching" android:layout_below="@id/uv_tip" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

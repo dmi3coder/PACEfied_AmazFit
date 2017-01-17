@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.mobile.watchsettings.widget.DoubleButtonContentView android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/btn_panel" android:layout_width="157.0dip" android:layout_height="wrap_content">
+        <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_vertical" android:id="@id/left_btn" android:background="@null" android:layout_width="70.0dip" android:layout_height="70.0dip" android:layout_marginLeft="7.0dip" android:layout_marginTop="30.0dip" android:layout_alignParentStart="true" />
+        <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="center_vertical" android:id="@id/right_btn" android:background="@null" android:layout_width="70.0dip" android:layout_height="70.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="5.0dip" android:layout_alignParentEnd="true" />
+        <TextView android:gravity="center_horizontal" android:id="@id/leftTextView" android:layout_width="65.0dip" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:layout_below="@id/left_btn" android:layout_alignParentStart="true" />
+        <TextView android:gravity="center_horizontal" android:id="@id/rightTextView" android:layout_width="65.0dip" android:layout_height="wrap_content" android:layout_marginRight="7.0dip" android:layout_below="@id/right_btn" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</com.huami.mobile.watchsettings.widget.DoubleButtonContentView>
