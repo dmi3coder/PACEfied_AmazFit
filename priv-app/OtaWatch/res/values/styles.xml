@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="HmDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.NoActionBar" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="SwipeToDismiss">
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="DisableSwipeToDismiss">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="NoSwipeDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+</resources>

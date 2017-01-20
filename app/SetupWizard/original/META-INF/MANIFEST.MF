@@ -17,7 +17,7 @@ Name: resources.arsc
 SHA1-Digest: 8+Dn2qX9H78+G54jOg8FDnhrCrc=
 
 Name: AndroidManifest.xml
-SHA1-Digest: o/sy/dlNOOkGMIsRmr9gFJtCNNw=
+SHA1-Digest: rkCTUE2e49fUmllghBiQDrUCkJA=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest: KhYs3OgngrsQpHbyXG/jm5H+8wU=
@@ -50,7 +50,7 @@ Name: res/anim/alpha_in.xml
 SHA1-Digest: OqTeOi0Y+T3pYljQud3FnT+PcU4=
 
 Name: classes.dex
-SHA1-Digest: NnCJFI+a8WFf6simZj8TBnzP+sU=
+SHA1-Digest: VGhtSJis/7nZvEa0HCTiztwaQ7I=
 
 Name: res/drawable-hdpi-v4/ic_progress_bg.png
 SHA1-Digest: NaDju7AQIGpERF82pN+pGfVMmFM=

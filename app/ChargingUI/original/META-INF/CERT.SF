@@ -1,0 +1,52 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 9XnK+CBZtYDhyThMk/t90oTR3dU=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/anim/shrink_fade_out_center.xml
+SHA1-Digest-Manifest: h3kRToZACZ0SQRFzY9lAyosAGf4=
+
+Name: res/drawable-hdpi-v4/lan_power_up_icon_light.png
+SHA1-Digest-Manifest: zWtomhp9r68uoUbri8e6fiuMkuU=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: pdiYppJkLhnrvYosB4LuABByCRI=
+
+Name: classes.dex
+SHA1-Digest-Manifest: gpG15e1o7CDhqORWR3U3xrlXT9w=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: res/drawable-hdpi-v4/lan_power_up_bg.png
+SHA1-Digest-Manifest: bY4y1LqBLDQzHAe0sNQvAaaelD4=
+
+Name: res/layout/activity_charging_ui.xml
+SHA1-Digest-Manifest: Q40k3C92k7OSwglDs1t5+yqukto=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: wfZNnA2BHQWBMUCEoqLs0hDiUxk=
+
+Name: res/interpolator/decelerate_cubic.xml
+SHA1-Digest-Manifest: H6+IX4VGTav9nN+YpJF6D30uG2g=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: assets/Lato-Reg.ttf
+SHA1-Digest-Manifest: n63O7nlDNwPisdCCaeaNEbHbVOY=
+
+Name: res/menu/charging_ui.xml
+SHA1-Digest-Manifest: ehOOlyHjy4DSM2m7l2XXNR8NYzk=
+
+Name: res/interpolator/decelerate_quint.xml
+SHA1-Digest-Manifest: xpr/pPVk0/kGt7N9DH8zLIw/HJo=
+
+Name: res/anim/grow_fade_in_center.xml
+SHA1-Digest-Manifest: ypPM53tmg7IoRfOCnZR0zAHUCB4=
+

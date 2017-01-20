@@ -16,7 +16,7 @@
     <dimen name="wire_padding_top">100.0dip</dimen>
     <dimen name="wire_padding_right">27.0dip</dimen>
     <dimen name="center_margin_top">14.0dip</dimen>
-    <dimen name="top_bottom_center_margin_top">5.6999817dip</dimen>
+    <dimen name="top_bottom_center_margin_top">0.0dip</dimen>
     <dimen name="custom_widget_icon_top">14.0px</dimen>
     <dimen name="custom_widget_text_padding_to_drawable">4.0px</dimen>
     <dimen name="cube_rect_width">13.299988dip</dimen>

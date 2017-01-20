@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: SY+P2IQNPasG3OPXIa+bv4u1o/Q=
+SHA1-Digest-Manifest: Tkip+HOnj8JbfNJEt+joUwGjtD8=
 
 Name: res/anim/correct_content_appear.xml
 SHA1-Digest-Manifest: iV2+zFWDPEPxsYCe7obP7cbOvHU=
@@ -18,7 +18,7 @@ Name: res/layout/fragment_geographic_info.xml
 SHA1-Digest-Manifest: kr3msnxBsJxwzeCtpvKVbewZvUQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: 8pZqjjlyKsTflDdYQh1v/UnJrMQ=
+SHA1-Digest-Manifest: B/xoKdYaW1BzWMAocDIaH46Z7n0=
 
 Name: res/anim/correct_title_disappear.xml
 SHA1-Digest-Manifest: NYZvYTQoSk6EFxnMkecQwskMAu0=
@@ -54,7 +54,7 @@ Name: res/drawable/compass_direction.png
 SHA1-Digest-Manifest: IhFpgY4Qz8XRI7KdUSqPo3QRkk0=
 
 Name: classes.dex
-SHA1-Digest-Manifest: nTrgNNql11HH43CbOhzzC7ZI4f8=
+SHA1-Digest-Manifest: 4LqH38aaNWOekrI98S/W/odDVOE=
 
 Name: res/drawable/small_dot.xml
 SHA1-Digest-Manifest: wBVHPKWT8V5QeQiuLnzay8mr13Y=

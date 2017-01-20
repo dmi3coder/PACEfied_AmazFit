@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/alert_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.699982sp" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@id/unbind_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.699982dip" android:text="@string/confirm_unbind_title" />
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@id/alert_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="17.0dip" android:layout_marginTop="9.299988dip" android:layout_marginRight="17.0dip" android:text="@string/unbind_alert_message" android:layout_below="@id/unbind_title" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="112.29999dip" android:layout_alignParentTop="true">
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/cancle" android:background="@drawable/lau_icon_cancel" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="30.0dip" android:layout_marginRight="5.0dip" android:layout_weight="1.0" />
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/unbind" android:background="@drawable/lau_icon_unbundling" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="30.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

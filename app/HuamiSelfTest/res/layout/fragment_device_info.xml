@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/activity_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/device_info_model_num" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_build_num" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_battery" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_sensor_light" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_sensor_pressure" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_sensor_acc" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+        <TextView android:id="@id/device_info_sensor_linear_acc" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View style="@style/Divider" />
+    </LinearLayout>
+</ScrollView>

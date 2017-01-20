@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: J6UtN8LXK4OUDjiL0XLIqHL3xF8=
+SHA1-Digest-Manifest: I5DNnU6ZWoX77U9Dku9pwLjP0M0=
 
 Name: res/layout/activity_heart_rate.xml
 SHA1-Digest-Manifest: M+sMhFe5/giC3quFcRjwAIHcfYw=
@@ -442,7 +442,7 @@ Name: res/layout/heart_widget_view.xml
 SHA1-Digest-Manifest: PVUnP5EXq1jdU1LgD6yx4rwVZfc=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: MlNlBbcyWXD+2wze0ZW/BF6tYek=
+SHA1-Digest-Manifest: x9uB/HqSNIOVEs8drjaqz6u3VHo=
 
 Name: res/drawable/progress_small_material.xml
 SHA1-Digest-Manifest: bd4TIUCzKkllrp+EKKaZtdyk+aU=
@@ -478,7 +478,7 @@ Name: res/anim/alpha_in.xml
 SHA1-Digest-Manifest: SjFDsFiu6dVTI0xxmBwvhNBzeAg=
 
 Name: classes.dex
-SHA1-Digest-Manifest: immTnLl7Xmq8A4UJi/jQnYdWky8=
+SHA1-Digest-Manifest: Mc2gO7aAI07bZKr15UJnsdKUxhw=
 
 Name: res/anim/no_anim_in.xml
 SHA1-Digest-Manifest: lJv522UZbH967mNpW7iEFISYu9E=
