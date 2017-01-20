@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/DialogFragmentTextContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/ScrollView">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/learn_more_text1" style="@style/MainText" />
+            <TextView android:id="@id/learn_more_text2" android:text="@string/contact_your_admin_for_more_info" style="@style/MainText" />
+            <TextView android:textColor="@color/colored_button" android:id="@id/learn_more_link" android:text="@string/learn_more_link" style="@style/MainText" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:paddingTop="@dimen/row_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/row_height">
+        <Button android:textColor="@color/colored_button" android:id="@id/positive_button" android:text="@string/ok_setup" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/TransparentButton" />
+        <Button android:id="@id/negative_button" android:text="@string/cancel_setup" android:layout_toLeftOf="@id/positive_button" android:layout_alignParentBottom="true" style="@style/TransparentButton" />
+    </RelativeLayout>
+</LinearLayout>

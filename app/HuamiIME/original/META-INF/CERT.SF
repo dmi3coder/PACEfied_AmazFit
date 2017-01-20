@@ -1,0 +1,118 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: a+DKRK8PEzZ+aKfVtks82mPDR0Q=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA1-Digest-Manifest: lVEFsPzAFvp6xcfwtRMjgAO1oDI=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA1-Digest-Manifest: EeBrsmGiYjJgOswBYr00N4ce6Cw=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA1-Digest-Manifest: sWxEvU6necNOr4gWSNSIOb0E6Og=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA1-Digest-Manifest: 8sGylTsPnz4Fvq3fzj2dXn61ToQ=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA1-Digest-Manifest: OuIGhQcQc96HS9UqHcG8V5GSDcY=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA1-Digest-Manifest: EkaoSJpuy49+RccgvwZ6RlPWSkY=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: sm12ZHiM7UvyRqxoys8PtDfCcWI=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA1-Digest-Manifest: WGonA8gnUFb2JeGy9bXuUwOMi84=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA1-Digest-Manifest: 81+1Rajacfj99OobXkqPL8s3pm8=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA1-Digest-Manifest: qmdhaFNrPC6ZDAHv7Iw1rAdTxW8=
+
+Name: res/layout/wifi_protal_view.xml
+SHA1-Digest-Manifest: M+jBE+0SAMuai8zLqw5uliEITWU=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: k/lUrj8dPF1wEBMmQCAjpxW0xlA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: eAe4aQ3DNPRP6pSEW0HgZPPU5nE=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA1-Digest-Manifest: 1VX+fOjBeL84Hu9PjCV7Vbv+EMU=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: iLOKwoF385humB5kq5Bq46YZBTo=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA1-Digest-Manifest: q+9UkqhtbRTTdkiP4PlU9QDRSUc=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA1-Digest-Manifest: d281hCe5NQEYI0D4S3pcWmLEfnM=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA1-Digest-Manifest: Tv6m4Aa8uZM8Vb20CHD5Ukxq274=
+
+Name: res/xml/method.xml
+SHA1-Digest-Manifest: 6/RIPgcCbfSWOUuJvuF+45wdCbA=
+
+Name: classes.dex
+SHA1-Digest-Manifest: Sb2y9Io/9lFpjr5ZzPH1f82L6OM=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA1-Digest-Manifest: LIyQ35x9gfPoegi11/8/KSpjqZI=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA1-Digest-Manifest: lZZc2nCbBWy2D7DEx50RdAvSqA8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: 7rQl6EYeTTp31EHiQqxTWNvHumI=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: he0u+MMYOPtjL0qaRCkw275Ntw0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: w8zlhwlle2aoufXsl5l6tyaB0OQ=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA1-Digest-Manifest: tFN38qLNi6RM2LTrBsjtcnKc7O4=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA1-Digest-Manifest: hULMgPvhUM8X9LCEPXMY0rlUKoo=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA1-Digest-Manifest: LbxypWx+3Onse/BKm6majBwaXls=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA1-Digest-Manifest: eG6YS8Kzs/Nvup6kfbmrRsDBfvI=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA1-Digest-Manifest: 6hsKBs4tY2Xdv+BvOS9arYYMVQE=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA1-Digest-Manifest: Fax4bszjqRoxbmCze/vI5y3H3OE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest-Manifest: wCfq52d12EBNOlwDr+B+ZO098QY=
+
+Name: res/layout/input_layout.xml
+SHA1-Digest-Manifest: ODe/NmHaYjW0JREmYk470Omxkmw=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA1-Digest-Manifest: 2VJE/owFPIRQUgnbWhIhCoQwtak=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA1-Digest-Manifest: reJTF0TcxRgTH6M/fDpi3TOs6Bs=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA1-Digest-Manifest: y1H0o4hWhTLo8NGvxHtk+4LX1qc=
+

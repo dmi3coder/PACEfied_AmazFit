@@ -1,0 +1,698 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: bQOx58+8HqCq71eBZZjvqE53jqk=
+
+Name: res/layout/activity_heart_rate.xml
+SHA1-Digest-Manifest: 4aqYoao8uZOW+0AMm0F4mO+JFkk=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA1-Digest-Manifest: lVEFsPzAFvp6xcfwtRMjgAO1oDI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate041.png
+SHA1-Digest-Manifest: YD7oGZcs+UOptflYP8r/AHZg1YI=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0018.png
+SHA1-Digest-Manifest: HcDP6VD+d8unimsDEgtc5AsZCsM=
+
+Name: res/drawable/widget_no_sleep_info.xml
+SHA1-Digest-Manifest: ZrK8rAWozSV9t+1jFaAoBpJqF1k=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate052.png
+SHA1-Digest-Manifest: wgcYW5JPnP8+JmeoFVz3De4aod4=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA1-Digest-Manifest: 1VX+fOjBeL84Hu9PjCV7Vbv+EMU=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate027.png
+SHA1-Digest-Manifest: gCRze8mvjhi6cQ++iyA5LGJM10E=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate016.png
+SHA1-Digest-Manifest: 64/c/eEB4QcgcDNBejlsyUX8Tso=
+
+Name: res/animator/time_picker_ok_vector_scaley.xml
+SHA1-Digest-Manifest: 54H9xt0nt9Ecx43k325MIIuBVtA=
+
+Name: assets/fonts/HUAMI8CSPORT.ttf
+SHA1-Digest-Manifest: jLCHzF925jDF5HKnThMtIqDarhQ=
+
+Name: res/drawable-hdpi-v4/health_heart_setting_target_meet_reminder_o
+ n.png
+SHA1-Digest-Manifest: jnvd+m/wX2U2yjY8IYsDyKVjTig=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA1-Digest-Manifest: q+9UkqhtbRTTdkiP4PlU9QDRSUc=
+
+Name: res/drawable-hdpi-v4/health_mood_good.png
+SHA1-Digest-Manifest: mh73M+1e6Ws8AWBCRZXsWrSm4sg=
+
+Name: res/drawable-hdpi-v4/health_heart_refresh.png
+SHA1-Digest-Manifest: xdp4mcckGq1q5Y6q/jzLXBHynFM=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate013.png
+SHA1-Digest-Manifest: n4jtzAA7rqhydzqtkOCgtSzRgVc=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA1-Digest-Manifest: d281hCe5NQEYI0D4S3pcWmLEfnM=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA1-Digest-Manifest: Tv6m4Aa8uZM8Vb20CHD5Ukxq274=
+
+Name: res/drawable-hdpi-v4/sleep_list_icon_sober.png
+SHA1-Digest-Manifest: T0WOP+BbJhYeOOHnTKYcrQypmg8=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0000.png
+SHA1-Digest-Manifest: RIctF8BmdN5qKcnGNXM3eaaOaZE=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate048.png
+SHA1-Digest-Manifest: JhRvJ2qtv0VvReRQXIijzP4h880=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate024.png
+SHA1-Digest-Manifest: QHvOGg0m8419xezoedBRck8DxQM=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA1-Digest-Manifest: LIyQ35x9gfPoegi11/8/KSpjqZI=
+
+Name: res/drawable-hdpi-v4/main_background_light_dark.png
+SHA1-Digest-Manifest: dhfarH3Vw2b6IMmpApp4SzrE1u0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: 7rQl6EYeTTp31EHiQqxTWNvHumI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate015.png
+SHA1-Digest-Manifest: yo/OW8NftU3JnSGgnIph66zNhks=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA1-Digest-Manifest: eG6YS8Kzs/Nvup6kfbmrRsDBfvI=
+
+Name: res/drawable-hdpi-v4/ic_ui_lib_lock_screen.png
+SHA1-Digest-Manifest: UfAXo1J00Sk5zepnd/hQPFpzHGw=
+
+Name: res/drawable-hdpi-v4/health_condition_sick.png
+SHA1-Digest-Manifest: hRg/ZV2ux4zA9nnvaHXaaDYvRp0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate020.png
+SHA1-Digest-Manifest: F4cBm3xYIumOiYyavhGwbcVr2nA=
+
+Name: res/layout/group_result.xml
+SHA1-Digest-Manifest: oxG73CG9l6Cmg5PUMTOYaOYvtzw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate058.png
+SHA1-Digest-Manifest: 4HCx9pZG4NC4T1G8CopmYvyzkSM=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0005.png
+SHA1-Digest-Manifest: BTkLk3bkUgMaw+/hbHN6UjzkRlE=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate031.png
+SHA1-Digest-Manifest: ELazrrP16fmZAvlPs1ZXKZXomZw=
+
+Name: res/drawable-hdpi-v4/health_all_heart_btn_off.png
+SHA1-Digest-Manifest: 8GV2sVyKrJIMzBMvsXjXxnaa4rU=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0006.png
+SHA1-Digest-Manifest: NwpLC20bn/e2fvVlLxJGByYuzdU=
+
+Name: res/drawable-hdpi-v4/health_condition_well.png
+SHA1-Digest-Manifest: a7IecBOF+A18SQoA8/0HTG3IVB4=
+
+Name: res/layout/activity_measure_heart_rate.xml
+SHA1-Digest-Manifest: PwMrLauB2vjOWtVCnepfXXRziYM=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_continue_96.png
+SHA1-Digest-Manifest: 4teb3kSxUfyHJ86XJZMDoPFzZrs=
+
+Name: res/animator/time_picker_ok_vector_alpha.xml
+SHA1-Digest-Manifest: rMtKyhwnL/fzGxN5EgKZEgpf+xU=
+
+Name: res/layout/activity_heartrate_analysis.xml
+SHA1-Digest-Manifest: q3ge2Mks3Yp8LIMD7YZFVsY+cYs=
+
+Name: res/layout/heart_rate_list_item_layout.xml
+SHA1-Digest-Manifest: MqdAU+s0DEuwMTTf2X3OzdDLoIU=
+
+Name: res/drawable-hdpi-v4/health_heart_setting_target_meet_reminder_o
+ ff.png
+SHA1-Digest-Manifest: +o6ZIeBhaGP6qT1TSlIpMEqD6h8=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
+
+Name: res/drawable-hdpi-v4/sport_heart_min.png
+SHA1-Digest-Manifest: E4FcdpkGRHHJGH6px4quCwpFTgQ=
+
+Name: res/drawable/health_result_sport.xml
+SHA1-Digest-Manifest: GETKQERZPoov9t1yBO15tztVGlE=
+
+Name: res/drawable-hdpi-v4/health_result_sport_super.png
+SHA1-Digest-Manifest: WBkJGx7dy8vC7gTh/3lM6ye72WA=
+
+Name: res/layout/activity_all_rate_list.xml
+SHA1-Digest-Manifest: H4pm44wTmrpzvIMxSolpF5+iIjQ=
+
+Name: res/drawable-hdpi-v4/health_heart_setting_longsit_reminder_on.pn
+ g
+SHA1-Digest-Manifest: L5A5GeLesi/KdYOLOOoFv71jxpI=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0020.png
+SHA1-Digest-Manifest: CFFbiYBliYXHDMkr82+qTOCSGAE=
+
+Name: res/drawable-hdpi-v4/sleep_animate_icon.png
+SHA1-Digest-Manifest: c7Ag7ifot4egyZKELmmSojfqhJk=
+
+Name: res/drawable-hdpi-v4/sleep_animate_icon_z.png
+SHA1-Digest-Manifest: FE5iyNRB+64fUk3ZQ3JP9wy4RgQ=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: w8zlhwlle2aoufXsl5l6tyaB0OQ=
+
+Name: res/animator/alpha_in.xml
+SHA1-Digest-Manifest: 5A4dhQ9um5kcyrx5oGAI+A2+Vvc=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0021.png
+SHA1-Digest-Manifest: Y6FLuJDyLq9x0WNRXKa/as6tvtw=
+
+Name: res/drawable-hdpi-v4/health_result_normal.png
+SHA1-Digest-Manifest: KiJKiGsXZYs0AR/kfckN9Ek7wTw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate035.png
+SHA1-Digest-Manifest: GgMcoMd4sjbnmRQh56fmQD3VHmk=
+
+Name: res/drawable-hdpi-v4/health_mood_medium.png
+SHA1-Digest-Manifest: O/4duRHNiW8RB9C/9oEnLIQ7tHg=
+
+Name: res/drawable-hdpi-v4/health_condition_tired.png
+SHA1-Digest-Manifest: VfC05CygC0hdvK+X1mF07COaOC4=
+
+Name: res/drawable-hdpi-v4/health_all_heart_btn_on.png
+SHA1-Digest-Manifest: k8b5cx0uSJAyWqFLTZivZgwPujI=
+
+Name: res/drawable/vector_drawable_progress_bar_medium.xml
+SHA1-Digest-Manifest: V0k4hLxlwHcTRXC5tz/KGuArifA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate049.png
+SHA1-Digest-Manifest: 7zS5qLeTUZ25V2XRLsLXCO6eT9Q=
+
+Name: res/drawable/status_sleep_awake_shape.xml
+SHA1-Digest-Manifest: ZK2eICsW3Hrd+ZzMNcxUO9UTzY8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate033.png
+SHA1-Digest-Manifest: RL4iEKovcg0bJqjF8V5CA0lIf7U=
+
+Name: res/drawable/heart_view_mesure_button_style.xml
+SHA1-Digest-Manifest: nW9lASemC3aeCQaESiIX4bnE3h4=
+
+Name: res/drawable-hdpi-v4/notif_icon_target_half_reach.png
+SHA1-Digest-Manifest: Jc2j7JCojhYqg3O8p769dytVfvk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate040.png
+SHA1-Digest-Manifest: T/0DH7TzAH4X5pgt/438FyBk4Wk=
+
+Name: res/drawable-hdpi-v4/sleep_list_icon_shallow.png
+SHA1-Digest-Manifest: 5K+IsgnNQhQe+sVLb1UTY2wpl+g=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0022.png
+SHA1-Digest-Manifest: 0LjOVgikiXXWl1ksT/Y7noxP1ew=
+
+Name: assets/fonts/huamifont.ttf
+SHA1-Digest-Manifest: zmvgovWRgmB9vY3zz+IJjZW5LYk=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0011.png
+SHA1-Digest-Manifest: wevEuC0OR5imJVGiRCyg9KiOwFo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate004.png
+SHA1-Digest-Manifest: ZmgNh67tg/Hww9+9Nbuukg60STc=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA1-Digest-Manifest: EeBrsmGiYjJgOswBYr00N4ce6Cw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate008.png
+SHA1-Digest-Manifest: 4LdgyDnGYCleujZWf5OvjRe615M=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate023.png
+SHA1-Digest-Manifest: 4z3vhkxAsdv6uyhep7r/pUgjqOE=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_confirm_96.png
+SHA1-Digest-Manifest: a91ET2ePsZ7Rz3k/jq/s0txAQAM=
+
+Name: res/drawable-hdpi-v4/sleep_list_icon_all.png
+SHA1-Digest-Manifest: Fdsj8XEQl18018a1l9PfaebjBpg=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: eAe4aQ3DNPRP6pSEW0HgZPPU5nE=
+
+Name: res/drawable-hdpi-v4/swipe_menu_bg.png
+SHA1-Digest-Manifest: l4oKAkr2GAou9RBboEoyTSWdMdg=
+
+Name: res/drawable-hdpi-v4/health_when_quiet.png
+SHA1-Digest-Manifest: 5LDrozsEO6pIh9gtFdQNEkOWE7k=
+
+Name: res/drawable/loading_progress.xml
+SHA1-Digest-Manifest: un8b8lrdlP0QfL66rdo0D/OF5Dc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate038.png
+SHA1-Digest-Manifest: sHZjs3OhRjNpRsDNysVvJrmOu30=
+
+Name: res/layout/group_phase.xml
+SHA1-Digest-Manifest: A8yTdVOtmw++393x9xQNXJ1piu0=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0009.png
+SHA1-Digest-Manifest: Y1W2oVT2ZQ30ap7fIGkV0VO2Gb0=
+
+Name: res/drawable-hdpi-v4/health_mood_bad.png
+SHA1-Digest-Manifest: 5f3vlO52B5uuocixv6yWOc7rnSI=
+
+Name: res/drawable-hdpi-v4/notif_background_target_half_reach.png
+SHA1-Digest-Manifest: ZddJJLM/+wc+ptlWJfOExIhZ+rI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate039.png
+SHA1-Digest-Manifest: 9PotSH0t8++x2jLHmzzqIAKRcis=
+
+Name: res/layout/activity_today_heart_rate_infor.xml
+SHA1-Digest-Manifest: ri5QRkS10+fcEJfTIyMgfWv0VGc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate051.png
+SHA1-Digest-Manifest: hEn4YrxF6KHRwIGPPVWCXK+Vem8=
+
+Name: res/drawable-hdpi-v4/health_heart_setting_longsit_reminder_off.p
+ ng
+SHA1-Digest-Manifest: M9cfYdIrTTAIVBm/hH6fvslM4l8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate043.png
+SHA1-Digest-Manifest: Xe2YT90kMEs/4t+xIlFZPJJYGKA=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA1-Digest-Manifest: hULMgPvhUM8X9LCEPXMY0rlUKoo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate057.png
+SHA1-Digest-Manifest: u6WQnAPmyMp8/Sq8IGyKlH2aQe0=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA1-Digest-Manifest: 2VJE/owFPIRQUgnbWhIhCoQwtak=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate026.png
+SHA1-Digest-Manifest: qQ/YUxUu/wFD8d4jAUk2yqb3ZeU=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate046.png
+SHA1-Digest-Manifest: yBKMSYRYx9sNgghqy44prGC3wkU=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate053.png
+SHA1-Digest-Manifest: C0TsQS3X1HnHdGAc9MqTDxMzuyI=
+
+Name: res/drawable-hdpi-v4/sleep_widget_icon_empty.png
+SHA1-Digest-Manifest: LTqR/ED+vY9NUIQ813LThr+dtyc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate056.png
+SHA1-Digest-Manifest: SI0GCeM2dn9Djrfv1UT9kRVFgkY=
+
+Name: res/drawable-hdpi-v4/health_result_arrow.png
+SHA1-Digest-Manifest: xAbbRTodhba898aoOtx5lfu9oms=
+
+Name: res/layout/picker_positive_button.xml
+SHA1-Digest-Manifest: yliaz4KaX/cjRrfxjPoChvG3a04=
+
+Name: res/drawable-hdpi-v4/notif_background_long_sit.png
+SHA1-Digest-Manifest: ln5i/5WqKTEjtHPohT5+WtxV0DY=
+
+Name: res/drawable/status_sleep_light_shape.xml
+SHA1-Digest-Manifest: +v7Nkj8xnCQN59r0+3wbMY4TfX0=
+
+Name: res/drawable/vector_drawable_progress_bar_small.xml
+SHA1-Digest-Manifest: s8dl88QdkaEuEvKmXwc0+D9NN8A=
+
+Name: res/drawable-hdpi-v4/notif_icon_long_sit.png
+SHA1-Digest-Manifest: t7Jhhd5xxbSEJ0bNYb/aRpIi840=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate014.png
+SHA1-Digest-Manifest: nEVxhJlN5OsAxLdz4qpYM6Ssarg=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA1-Digest-Manifest: WGonA8gnUFb2JeGy9bXuUwOMi84=
+
+Name: res/layout/activity_all_day_heart.xml
+SHA1-Digest-Manifest: 8zzX30skzsP69ZU0YmCKu++pnXE=
+
+Name: res/drawable/widget_heartrate_gauging.xml
+SHA1-Digest-Manifest: dWUXT0QlYgPC9lZqQbrZEcU286w=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0023.png
+SHA1-Digest-Manifest: SZ1UWAPo3UV9xGOSsehyNHoXPfo=
+
+Name: res/drawable-hdpi-v4/sleep_list_icon_deep.png
+SHA1-Digest-Manifest: xopMy5KZFjXB/0FSDCC16KF+hiM=
+
+Name: res/drawable-hdpi-v4/health_heart_bg.png
+SHA1-Digest-Manifest: 84PnxOpxl32wY3nHb27UMSyR5Nw=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0003.png
+SHA1-Digest-Manifest: Lf0tW4OpH/kBXK1gmv5Hp+5EOKg=
+
+Name: res/drawable/status_sleep_deep_shape.xml
+SHA1-Digest-Manifest: hmoLC+qqHd0vyvVAtgSm3v2kOKE=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate003.png
+SHA1-Digest-Manifest: Mjg3Pa61f37+VHKHTQYd6DGiMoE=
+
+Name: res/layout/common_dialog_view.xml
+SHA1-Digest-Manifest: U98Bogq3Art8j4EKoC+jB3ZT6OQ=
+
+Name: res/layout/rate_list_no_data_item.xml
+SHA1-Digest-Manifest: TichgtK723sqUzMmsrSwmoJXSTs=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate012.png
+SHA1-Digest-Manifest: ZtQd1UrAo26JVGqKfqZieHr0otM=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_cancel_96.png
+SHA1-Digest-Manifest: EISfgBNDrp9qOE7w61MgB/BcnL8=
+
+Name: res/drawable-hdpi-v4/notif_background_target_reach.png
+SHA1-Digest-Manifest: JBzCNRyyxKfSocJnwgJBb+/A/xo=
+
+Name: res/drawable-hdpi-v4/sleep_animate_icon_bg.png
+SHA1-Digest-Manifest: SeGXu3d53tRwI24ggA4w/btWLDw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate054.png
+SHA1-Digest-Manifest: ltBSdOwOMjuOc4xsw0KryxIso3k=
+
+Name: res/drawable/progress_medium_material.xml
+SHA1-Digest-Manifest: n/JNr6tCZ+a3qC01qaOwTgbdOtk=
+
+Name: res/drawable-hdpi-v4/sport_heart_max.png
+SHA1-Digest-Manifest: RPKxx4+VtkLjn2xeZbuKaq/Jvbw=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA1-Digest-Manifest: y1H0o4hWhTLo8NGvxHtk+4LX1qc=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate036.png
+SHA1-Digest-Manifest: ni9AgC/mAMAlWc9bMRKeKZgtrJQ=
+
+Name: res/anim/no_anim_out.xml
+SHA1-Digest-Manifest: Hmm4dl8IIWjFa1EW/8t/yYSzPPo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate019.png
+SHA1-Digest-Manifest: rXOqgJGP02V4BCTFy4mV5xPSjik=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: Y/+ofuO+GD0fJ1MgWhYGXSiGrtI=
+
+Name: res/layout/heart_widget_view.xml
+SHA1-Digest-Manifest: lujDcf+wn3sVQnDUh8J3KqXLKP0=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: HDLyzuHfQHB8tMzIAabdZl9otT8=
+
+Name: res/drawable/progress_small_material.xml
+SHA1-Digest-Manifest: N3h0HOJofLBiFUXPCco8N6Cg8LE=
+
+Name: res/drawable-hdpi-v4/sleep_history_right.png
+SHA1-Digest-Manifest: 0RySIlx875bQ7K5r1nW003zCJYc=
+
+Name: res/drawable/ybar.xml
+SHA1-Digest-Manifest: pPvwSX1HfbsHEz/WTfkkL0z5U+g=
+
+Name: res/animator/time_picker_ok_vector_path.xml
+SHA1-Digest-Manifest: ulu+CtJ1YwkNmHRXBN4FQA3p4wM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: iLOKwoF385humB5kq5Bq46YZBTo=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate010.png
+SHA1-Digest-Manifest: vw/N6IdREPvMKA3flVBLvx1Lf9c=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate005.png
+SHA1-Digest-Manifest: LINE7TIXi2zEj/9CYHJK+dbN79M=
+
+Name: res/drawable-hdpi-v4/health_all_heart_date_line.png
+SHA1-Digest-Manifest: 4+Mti+se1TxO8DpXLCbztJBIo7c=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0002.png
+SHA1-Digest-Manifest: PU+56Bk1sF5c/UuCSMqBYKUp6X0=
+
+Name: res/drawable-hdpi-v4/sleep_animate_icon_bg2.png
+SHA1-Digest-Manifest: HjoLKzzCxgJjkLCiO0fkS0qhwYo=
+
+Name: res/layout/rate_list_middle_header_layout.xml
+SHA1-Digest-Manifest: MqiJvLeB6VFGanXneEJupml5WZU=
+
+Name: res/anim/alpha_in.xml
+SHA1-Digest-Manifest: SjFDsFiu6dVTI0xxmBwvhNBzeAg=
+
+Name: classes.dex
+SHA1-Digest-Manifest: DHiC6dQoF/HiNfJR7aWP4575sy0=
+
+Name: res/anim/no_anim_in.xml
+SHA1-Digest-Manifest: lJv522UZbH967mNpW7iEFISYu9E=
+
+Name: res/animator/beating.xml
+SHA1-Digest-Manifest: 5Vtrk6o6o+HuUsqFOShwAziHo0M=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate021.png
+SHA1-Digest-Manifest: RIe8N/hcbbYeujSsBOnWeKeVfqM=
+
+Name: res/anim/scale_in.xml
+SHA1-Digest-Manifest: QIPUrp9cEvO3LQh5MNQfuTMKf+g=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: he0u+MMYOPtjL0qaRCkw275Ntw0=
+
+Name: res/layout/fragment_phase.xml
+SHA1-Digest-Manifest: FXxxFDWvG7LTY9jYEjcgH4xS/F4=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0013.png
+SHA1-Digest-Manifest: sT8eJsw8mdpsrm/Zs1aJd7TQlh8=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0024.png
+SHA1-Digest-Manifest: x2wFOxnLMJqizV17+XV4oyprPDM=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA1-Digest-Manifest: tFN38qLNi6RM2LTrBsjtcnKc7O4=
+
+Name: res/drawable/deep_sleep_sign.xml
+SHA1-Digest-Manifest: Wfp+XSzP2n4XO/U23tiu9jtf2os=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA1-Digest-Manifest: LbxypWx+3Onse/BKm6majBwaXls=
+
+Name: res/drawable-hdpi-v4/icon_app_health.png
+SHA1-Digest-Manifest: oHUhvtiuXFcF8YUMg7rvKukGUfk=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate042.png
+SHA1-Digest-Manifest: jhfQwjxbPhLZqLodZ0N9Y/wvA8E=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0010.png
+SHA1-Digest-Manifest: ec6AvE7HyMsV7VunnwpAATB1abc=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA1-Digest-Manifest: Fax4bszjqRoxbmCze/vI5y3H3OE=
+
+Name: res/drawable/loading_icon.xml
+SHA1-Digest-Manifest: pCj+UUJE15dHS9jUVSsMs9aEPcA=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0012.png
+SHA1-Digest-Manifest: m0wjFHwSKcqh5Up7L8qenq7P+x8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate037.png
+SHA1-Digest-Manifest: 3gXQleO9ux5UIVjKNFUnxvQvCjY=
+
+Name: res/drawable-hdpi-v4/health_result_low.png
+SHA1-Digest-Manifest: 4pDsAv37acCyzUIP7S6QYGuaXWs=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA1-Digest-Manifest: sWxEvU6necNOr4gWSNSIOb0E6Og=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0015.png
+SHA1-Digest-Manifest: qjXy4bvfTGEuYjVSae5GHTbtu8I=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA1-Digest-Manifest: 8sGylTsPnz4Fvq3fzj2dXn61ToQ=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate029.png
+SHA1-Digest-Manifest: /GXVND5OzNHoP837enOA2gBm47I=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate055.png
+SHA1-Digest-Manifest: dVvPEHxtSOgSmyhknw+TeRso+gQ=
+
+Name: res/drawable-hdpi-v4/health_when_active.png
+SHA1-Digest-Manifest: aIx9o6gXBhvGKtUncsa13wg/JD4=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0007.png
+SHA1-Digest-Manifest: ROjJj2F1vqF/m/eHKsI4Hs1C3jc=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA1-Digest-Manifest: 81+1Rajacfj99OobXkqPL8s3pm8=
+
+Name: res/layout/rate_list_title_header_layout.xml
+SHA1-Digest-Manifest: u/jWV9FQAvHGuIFXM1e7G6q1yAU=
+
+Name: res/drawable/progress_large_material.xml
+SHA1-Digest-Manifest: jIuQLEZq7YYqFivBCANGwPkqhB4=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA1-Digest-Manifest: qmdhaFNrPC6ZDAHv7Iw1rAdTxW8=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate044.png
+SHA1-Digest-Manifest: OzKEGxXI2tnyh4hcmbKjNq/NsI0=
+
+Name: res/drawable-hdpi-v4/sleep_list_icon_empty.png
+SHA1-Digest-Manifest: DE2KO5SOE45XjE4nFFAUv272Mz0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate009.png
+SHA1-Digest-Manifest: Zx1bi4EyfsXA7ySG1DvQ3s4bPdQ=
+
+Name: res/drawable-hdpi-v4/health_result_sport_normal.png
+SHA1-Digest-Manifest: U00AK8ICeCTZVsnXlQfNp2NJpb0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate002.png
+SHA1-Digest-Manifest: 27Oaqfq+FqFc0sPpBk5FZWbkxIU=
+
+Name: res/drawable/time_picker_ok_vector.xml
+SHA1-Digest-Manifest: yjIhdQxsbf+AJsNEti9nVDPjoKM=
+
+Name: res/drawable-hdpi-v4/notif_icon_target_reach.png
+SHA1-Digest-Manifest: v5yWVFELEfXUf1cWgSMKgy0y7lY=
+
+Name: res/drawable-hdpi-v4/health_heart_icon_star.png
+SHA1-Digest-Manifest: /4FdvDtHxshySHmRVv6fQiWQkRM=
+
+Name: res/drawable-hdpi-v4/health_all_heart_icon_static.png
+SHA1-Digest-Manifest: 1iF5uF0yADEdr12AGoo+XyROaxY=
+
+Name: res/drawable/all_day_rate_title_bg.xml
+SHA1-Digest-Manifest: d8eGncdTeAvq/zRwRJHxvP8H+Gw=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate018.png
+SHA1-Digest-Manifest: yCJw1+W6WhYqL0nLDxImHGvmksc=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_pause_96.png
+SHA1-Digest-Manifest: 8WGT2Z2EAjQGvu1/cSe/fZwhEEM=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate011.png
+SHA1-Digest-Manifest: ObsRN4JWIafTJ8lW8+BrZMOR+y4=
+
+Name: res/drawable-hdpi-v4/health_result_sport_low.png
+SHA1-Digest-Manifest: OZySvCkyLNCQHj3N1qQ2IuOGvqQ=
+
+Name: res/drawable-hdpi-v4/health_heart_worn.png
+SHA1-Digest-Manifest: 39JTHM7umA5PfziTsO05RWycdFI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate007.png
+SHA1-Digest-Manifest: 14Tlc3d3u3GHdU6yeI/FBQeIvTI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate006.png
+SHA1-Digest-Manifest: n1K5ApEtBohKbcatDTJDaHJQkf0=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate034.png
+SHA1-Digest-Manifest: /h6rxdYVOPMowIwSyOgspXBoT1A=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA1-Digest-Manifest: lZZc2nCbBWy2D7DEx50RdAvSqA8=
+
+Name: res/animator/progress_indeterminate_scale_material.xml
+SHA1-Digest-Manifest: YMJDIzO2rdyOpmGe6X2c9fghz1s=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA1-Digest-Manifest: 6hsKBs4tY2Xdv+BvOS9arYYMVQE=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0008.png
+SHA1-Digest-Manifest: QwEqtKJC2SM46QO154urk2mXCDI=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA1-Digest-Manifest: reJTF0TcxRgTH6M/fDpi3TOs6Bs=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate045.png
+SHA1-Digest-Manifest: JrwMavAfCJ7eja88teknU1msN/M=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate028.png
+SHA1-Digest-Manifest: 6whBAQpIVmK5LTJli0Zvi25Cc0c=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate025.png
+SHA1-Digest-Manifest: mD2RKW56UdAwp/XslBVJkQJDvmw=
+
+Name: res/drawable-hdpi-v4/health_result_high.png
+SHA1-Digest-Manifest: iQx372ycili22ystYams1LADBSE=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate050.png
+SHA1-Digest-Manifest: 9b2lR+BVruTVFs78TUgrq3J2ic4=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate032.png
+SHA1-Digest-Manifest: HN3dbaant2GLn96OMS0+/jYHDsA=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA1-Digest-Manifest: OuIGhQcQc96HS9UqHcG8V5GSDcY=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA1-Digest-Manifest: EkaoSJpuy49+RccgvwZ6RlPWSkY=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0014.png
+SHA1-Digest-Manifest: RHyvWyQIZA/0rLJBSTCQoE6NnjE=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate022.png
+SHA1-Digest-Manifest: 9lGd16yz7A+j0u/JyI5l5KmgUFg=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate017.png
+SHA1-Digest-Manifest: KZxt9q4XEEw+j2b1b6c1uiTtfMs=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0017.png
+SHA1-Digest-Manifest: 4mPXklpmHnhzfaEL3u46yVsV69Y=
+
+Name: res/drawable-hdpi-v4/settings_common_buttom_phone_off_96.png
+SHA1-Digest-Manifest: oPhiC7LPwYyzhhu1wgezcykel2s=
+
+Name: res/drawable-hdpi-v4/health_heart_analysis.png
+SHA1-Digest-Manifest: g4qByt29eg9kuNgDg3LKWxT2rdo=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0004.png
+SHA1-Digest-Manifest: 2e3Bd8Dq5KwDmGg692D3JFMrtdU=
+
+Name: res/layout/picker_column.xml
+SHA1-Digest-Manifest: hHAwT4UcbOEHXDzIF253wuG5X1o=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0016.png
+SHA1-Digest-Manifest: 6Ikz8QCbwEEGF2islG53rHG7DZ4=
+
+Name: res/animator/widget_beating.xml
+SHA1-Digest-Manifest: 1F272d56k8zUVFwaedFeuxPR4ss=
+
+Name: res/drawable-hdpi-v4/health_heart_bg2.png
+SHA1-Digest-Manifest: oOvn6oMV/zdTGegO6QDlOiAeQHE=
+
+Name: res/drawable-hdpi-v4/health_result_sport_high.png
+SHA1-Digest-Manifest: vNBQILXRQDsorJSAZedVjxM5BTI=
+
+Name: res/drawable/vector_drawable_progress_bar_large.xml
+SHA1-Digest-Manifest: 4Z3OoJTeTX11YF/bVIY88eZdYAY=
+
+Name: res/drawable-hdpi-v4/health_heart_setting_target_set.png
+SHA1-Digest-Manifest: 0XXNZ025kSf0s1X6H42suQDjSEY=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0001.png
+SHA1-Digest-Manifest: NgAjPt9G94nZmC1nLQlZL0LPmv8=
+
+Name: res/animator/time_picker_ok_vector_scalex.xml
+SHA1-Digest-Manifest: iyY4Mmzg14POkkKvd7vhKMk4qjQ=
+
+Name: res/anim/slide_out_to_bottom.xml
+SHA1-Digest-Manifest: 7QYoJw06qTrAD9xyM6ag1JyFmPI=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate047.png
+SHA1-Digest-Manifest: ViW7k7u12i2VysN9KTYv20Z0e34=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate030.png
+SHA1-Digest-Manifest: rshcHhOKHNMcRa9atB1b8pmlFQM=
+
+Name: res/drawable-hdpi-v4/widget_heartrate_beating.png
+SHA1-Digest-Manifest: S3pt+P8NRxH151dKPiK6oITZ5hA=
+
+Name: res/drawable-hdpi-v4/loading_progress_animate001.png
+SHA1-Digest-Manifest: 8YLdJK+SFMnJKiA58OrB6G0U7MI=
+
+Name: res/drawable/health_result.xml
+SHA1-Digest-Manifest: Y7PBlSjKswd7Ks3jS6tAbJI46II=
+
+Name: res/drawable-hdpi-v4/health_heart_line.png
+SHA1-Digest-Manifest: o0x/Z0F4Vi8nBn9EvP9FY+lVj/Y=
+
+Name: res/drawable-hdpi-v4/widget_health_heart_meter_animation0019.png
+SHA1-Digest-Manifest: MUR2gC/fRShwQz32fosxCI9a6dE=
+

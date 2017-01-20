@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: VLBHxZ7eHCTAIduVaULhHKAu4F0=
+SHA1-Digest-Manifest: pN53eyUEXSocybiD7EuFKyyhpUo=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00174.png
 SHA1-Digest-Manifest: Q+NdMXGoqpKTm8/dQsCUTW/q1UY=
@@ -1575,7 +1575,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest-Manifest: Uc1jJe88/+JvzT1Q8ngPj2/ZiSQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: wzdqBOXNoykm6T7t2SaZ9BPZQzc=
+SHA1-Digest-Manifest: uQN5/66QB19IIwy6ZsWnknX6VbU=
 
 Name: assets/voice/87.mp3
 SHA1-Digest-Manifest: A0cGULrT7OgVmCg5JyjuC8oodvM=
@@ -1624,7 +1624,7 @@ Name: assets/voice/50.mp3
 SHA1-Digest-Manifest: 8kRUJ0iTAW7NzfmrE+3Ly5wjt54=
 
 Name: classes.dex
-SHA1-Digest-Manifest: ho4nub0ut0RA/1vQ4rO8HTCHffM=
+SHA1-Digest-Manifest: 1jBOivgFhu9o5DebaqdGTzlet9U=
 
 Name: res/xml/medals.xml
 SHA1-Digest-Manifest: 5zy6HnlKt7B6zt37fu1v0PcQARY=

@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: WGFsPCy94kzx1VnLskkzaiXZ06o=
+SHA1-Digest-Manifest: gzKQv+accFQge4aUggfgkLlf5aE=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00187.png
 SHA1-Digest-Manifest: jQoW7IvGn5FpTwtrNQGkoz1gnCk=
@@ -412,7 +412,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest-Manifest: Uc1jJe88/+JvzT1Q8ngPj2/ZiSQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: NZLQH8ev8fDOb0fK+5tHvFWkvdI=
+SHA1-Digest-Manifest: RXNN4gIjFDeSw1tUY3pY/zzGhnA=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest-Manifest: F8SW5wMR8Zxb3wvVtpWDcC8dqoY=
@@ -448,7 +448,7 @@ Name: res/drawable-hdpi-v4/generic_confirmation_00192.png
 SHA1-Digest-Manifest: ReBF/2Zte8sVTKqZan9EbNkVhSM=
 
 Name: classes.dex
-SHA1-Digest-Manifest: UEJDu4tzh/bG0BHgfCLrJtOUR1g=
+SHA1-Digest-Manifest: LNh1TqpMrbNuB4dsM6i5rNWJo84=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00169.png
 SHA1-Digest-Manifest: yMpucEMf/TNaRVmeNB4zIA36aYI=

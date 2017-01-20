@@ -12,9 +12,10 @@
     <string name="custom_exit_delete">退出删除</string>
     <string name="custom_title_bg">背景</string>
     <string name="custom_title_graduation">刻度</string>
-    <string name="custom_title_timehand">表针</string>
+    <string name="custom_title_timehand">指针</string>
     <string name="custom_title_date">日期</string>
     <string name="custom_data_widget_title_default">数据</string>
+    <string name="custom_data_widget_title_nothing">不显示</string>
     <string name="custom_data_widget_title_step">今日步数</string>
     <string name="custom_data_widget_title_today_dis">今日里程</string>
     <string name="custom_data_widget_title_total_dis">总里程</string>
@@ -46,6 +47,7 @@
     <string name="watch_label_eleven">城市精英</string>
     <string name="watch_label_twelve">幻影迷彩</string>
     <string name="watch_label_fourteen">永恒时刻</string>
+    <string name="watch_label_fifteen">金鸡报晓</string>
     <string name="watch_today_step">今日步数</string>
     <string name="sport_step">步</string>
     <string name="everyminute_times">次/分</string>

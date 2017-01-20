@@ -48,7 +48,7 @@
     <dimen name="notification_content_text_card_frame_more">16.0sp</dimen>
     <dimen name="notification_content_text_marginLeft">32.69998dip</dimen>
     <dimen name="notification_content_text_marginRight">32.69998dip</dimen>
-    <dimen name="notification_content_time_marginRight">32.0dip</dimen>
+    <dimen name="notification_content_time_marginRight">20.0dip</dimen>
     <dimen name="notification_content_title_marginLeft">32.0dip</dimen>
     <dimen name="notification_peek_icon_size">34.0dip</dimen>
     <dimen name="notification_peek_text_size">16.0sp</dimen>

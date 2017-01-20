@@ -125,7 +125,7 @@ Name: res/drawable-hdpi-v4/weather_details_icon_city.png
 SHA1-Digest: /qSytH70ABQcWYWnq0PqMeiZbms=
 
 Name: AndroidManifest.xml
-SHA1-Digest: QeJ/T0CK/X7vM7wY1sPvCMk3uwc=
+SHA1-Digest: nHDKkOg9A1MxmOkf7jiX3gRxn5c=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_smog.png
 SHA1-Digest: kZ6vYdwoeUOc7dCA8so7Y41GmfY=
@@ -179,7 +179,7 @@ Name: res/drawable-hdpi-v4/lan_weather_unknown.png
 SHA1-Digest: eruQnjx3pbKcZQnGNw/g4J0BFpQ=
 
 Name: classes.dex
-SHA1-Digest: 4hhtk9V+QnU6V5zZwHpHeVVWDpM=
+SHA1-Digest: lpu/aO/F2w0kN9iCGiwm7wzYB0E=
 
 Name: res/anim/no_anim_in.xml
 SHA1-Digest: +fPPUa/Kg7YeB95nIneMk7WFv/w=

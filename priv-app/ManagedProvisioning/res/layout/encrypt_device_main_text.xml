@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/MainTextContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/ScrollView">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/encrypt_device_text" style="@style/MainText" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:paddingTop="@dimen/row_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/row_height">
+        <Button android:id="@id/cancel_button" android:text="@string/encrypt_device_cancel" android:layout_alignParentLeft="true" style="@style/LightButton" />
+        <Button android:id="@id/accept_button" android:text="@string/encrypt_device_launch_settings" android:layout_alignParentRight="true" style="@style/ColoredButton" />
+    </RelativeLayout>
+</LinearLayout>

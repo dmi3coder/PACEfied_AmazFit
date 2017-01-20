@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: nZZI5bKHW8riGqeEvWvvlEqXqNE=
+SHA1-Digest-Manifest: 5qoop3GvfdWdRyuXlpjF0a1PnPg=
 
 Name: res/drawable-xxhdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
@@ -39,7 +39,7 @@ Name: res/drawable-mdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: NxgtESEJOOCJQeilqjNcSysijSE=
+SHA1-Digest-Manifest: YzDfRgLovLiu0KeeiNYUr4zwmiE=
 
 Name: res/drawable-hdpi-v4/start.png
 SHA1-Digest-Manifest: tDJxiKneiVzqoz092pvHVS/rOPo=
@@ -72,7 +72,7 @@ Name: res/drawable-hdpi-v4/call.png
 SHA1-Digest-Manifest: Xy0GDVLV2Dpwf8Payd+amO+XuXo=
 
 Name: classes.dex
-SHA1-Digest-Manifest: 0/dDJr6u7T9oq9BgWSv+r5TTFR0=
+SHA1-Digest-Manifest: lWfp1H/+OPZxa27HgMONzhPIdEA=
 
 Name: res/drawable-hdpi-v4/messenger.png
 SHA1-Digest-Manifest: v46zRLDwgNbpfC+k2zTE5CRIBDY=

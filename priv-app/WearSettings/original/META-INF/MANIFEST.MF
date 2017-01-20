@@ -56,7 +56,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00212.png
 SHA1-Digest: YZCSbepsVg8w0IA6gAX9SZgPIxc=
 
 Name: res/layout-v20/dismiss_overlay.xml
-SHA1-Digest: N9QmMuQvZef6Fu8VJ0l+m/kgLO8=
+SHA1-Digest: K61iOzDCPmY2YQqDeNNIZDvzyX8=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00164.png
 SHA1-Digest: 3mhdwDxdrAoMRCk/no91egu/uVM=
@@ -82,6 +82,9 @@ SHA1-Digest: RASOvSRW2pu1ixWkGOw0eZpVDiY=
 Name: res/drawable/card_background.xml
 SHA1-Digest: SDWxcFa19TsE4NME905DR3exzuA=
 
+Name: res/drawable-hdpi-v4/settings_laboratory.png
+SHA1-Digest: wZ6JwpVtX9/HKeneNmk8HbVTipo=
+
 Name: res/drawable-hdpi-v4/loading_progress_animate058.png
 SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
 
@@ -92,7 +95,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate031.png
 SHA1-Digest: IwSOY+r01bGZYaaG9ToQ4KQUzzk=
 
 Name: res/layout/activity_wifi_test.xml
-SHA1-Digest: yq4BVXEFh7cydO8hLo1s3Gj7S1c=
+SHA1-Digest: ih7onHhmBC0eaU8Q59StPgefpbs=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00168.png
 SHA1-Digest: 4/FJmlyoiLWAPpaAhuBlG0Ize/I=
@@ -122,7 +125,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00214.png
 SHA1-Digest: KlzAOHMb8cDZk7oCLxKdheZ13P4=
 
 Name: res/layout/double_btn_dialog.xml
-SHA1-Digest: AEdncPVzmb3QVIn8may4JDR1Z3w=
+SHA1-Digest: M2kwKUlUJEX1KbvLPxs26k879Pw=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00191.png
 SHA1-Digest: njRX7W4YFVXiCt4VGEF1/7qdDjk=
@@ -281,7 +284,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate051.png
 SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
 
 Name: res/layout/air_plane_dialog.xml
-SHA1-Digest: ixVnLbj+zpC20YNvXICSd0jYihA=
+SHA1-Digest: DYDpRiCfG4Hp7ufrizpGXQ0nLt4=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate026.png
 SHA1-Digest: c1AT7kglVYtIoCPU3IZfd/UBcl8=
@@ -338,7 +341,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00171.png
 SHA1-Digest: FoGjAynne+eNJ73X75Lm/LqrN3s=
 
 Name: res/layout/common_dialog_view.xml
-SHA1-Digest: KO0+NM2W8/YVFn9wYA6NzBcAC0M=
+SHA1-Digest: jsb8FkattPQ5yruyvC7nO/rfMBI=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00161.png
 SHA1-Digest: te7T8a4FrFjDvFkDFC/xHQM5v8c=
@@ -362,7 +365,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00220.png
 SHA1-Digest: P8Qeb79PLWlfkDOL8FqgJjXwIsI=
 
 Name: res/drawable/progress_medium_material.xml
-SHA1-Digest: b+5VmP357ftcI788kSPZt/R8Tks=
+SHA1-Digest: qy0F28h0AnCmzRWH/K71/mQ6nQQ=
 
 Name: res/drawable-hdpi-v4/sport_heart_max.png
 SHA1-Digest: ocrkkyFaNftd4g4UHCVjW3t9o58=
@@ -398,13 +401,13 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: /uyERPXnowdqGhFmwWk3cBEJyBs=
+SHA1-Digest: x+M3IiG79l9+uuPw8gtf+0SZeZg=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest: NSER6tk49pR0d2q5XZsuTAmAFfc=
 
 Name: res/drawable/progress_small_material.xml
-SHA1-Digest: hzkRiFCPSa/Ea6t1ZjFOC3NfMWc=
+SHA1-Digest: /rv6kOC6WIdgGbxLb7rUWQklfkE=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00170.png
 SHA1-Digest: gk2RLqnSGIeyOMBdB+6IdH6WAPA=
@@ -437,10 +440,10 @@ Name: res/drawable-hdpi-v4/generic_confirmation_00192.png
 SHA1-Digest: BuycgQA6lCB+2XU+Nn0KmkvGRG0=
 
 Name: classes.dex
-SHA1-Digest: qoWYQyWwlw/eYPGWwrPJWqd/Qb0=
+SHA1-Digest: v1qTGHznf3k/6Cbc0nhdUfGVeN0=
 
 Name: res/layout/blue_pair_dialog.xml
-SHA1-Digest: CwWUKr4TXyBOtBVbYIsbauyNZ2k=
+SHA1-Digest: 7o0fJ5/GAQ+6PjkBJUbYO7AUmr0=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00169.png
 SHA1-Digest: z9QrrOHAOEPwIaX8LClV2C7f/1Y=
@@ -485,7 +488,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate029.png
 SHA1-Digest: IpXLlIjI8tG5rnUIzG4aG49XHcg=
 
 Name: res/drawable/progress_large_material.xml
-SHA1-Digest: rVylUKvULdvRfmwu/fzqdraBBBI=
+SHA1-Digest: uTFL3mTzaM2HnCFSRnWH2MmcbC0=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate044.png
 SHA1-Digest: tvhoX9oM9p5ouQHS01jrioNw40k=
@@ -536,7 +539,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00175.png
 SHA1-Digest: QEBh6KDzXLTy9lQJ/eh69WzVMDw=
 
 Name: res/layout/activity_blue_pass.xml
-SHA1-Digest: WMDUE7o5dy3GbfUw5eGaFF6WdHY=
+SHA1-Digest: q/U0ntG5BQ0UHDjmNTryxVez2ZM=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00159.png
 SHA1-Digest: jui7HyjJf4X7iok0qLsmOO9UOxQ=
@@ -711,7 +714,7 @@ Name: res/animator/time_picker_ok_vector_scaley.xml
 SHA1-Digest: tUUVYGH+ZaOnwRaNc1DfD4W5UrM=
 
 Name: res/layout/progressbar.xml
-SHA1-Digest: +MHTRJP1lq4+bam/phsOO7VPU50=
+SHA1-Digest: Fos5Uryi5p+GgwJUqbJD3QfVbAM=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_icon_shock_mid.png
 SHA1-Digest: 4Rebus/8jiXDL28rVBol3OAwAkk=
@@ -722,14 +725,14 @@ SHA1-Digest: mEXHkuEJpj0VnvJSRwXMHDa9Py4=
 Name: res/drawable-mdpi-v4/generic_confirmation_00189.png
 SHA1-Digest: i5/aDxWXzQZcVm1KDEr9WzaUtyA=
 
-Name: res/drawable-mdpi-v4/go_to_phone_00222.png
-SHA1-Digest: cDzqOisfy5r9D9nHq4LkcUqZU8Y=
-
 Name: res/drawable/confirmation_animation.xml
 SHA1-Digest: PWJOHteBtWhpeB1C+m4mGHmfpBc=
 
+Name: res/drawable-mdpi-v4/go_to_phone_00222.png
+SHA1-Digest: cDzqOisfy5r9D9nHq4LkcUqZU8Y=
+
 Name: res/layout-v20/confirmation_activity_layout.xml
-SHA1-Digest: CnYODQqrT/pAVXTv4IuyrUY3NnE=
+SHA1-Digest: AIaT1U/BFgB/taBBriVDxb9UFRM=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00215.png
 SHA1-Digest: +upJNeXt8sybX+IKgVrBJ5rTLJA=
@@ -810,7 +813,7 @@ Name: res/drawable-mdpi-v4/ic_full_cancel.png
 SHA1-Digest: WFXG5JYg0plKbjc/5OsH7Ta2VvM=
 
 Name: res/layout/activity_main.xml
-SHA1-Digest: IFVGp7z0Al+lTxcFxsiu2VKJswg=
+SHA1-Digest: 1adr7IRWOnPteysT5KE+fLNUYZQ=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00176.png
 SHA1-Digest: FgL3PA4JirL11zfWrsc9WS1UAi4=
@@ -819,7 +822,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00175.png
 SHA1-Digest: Seb0sEFe+3x6VcpbdMp1XeYZnYc=
 
 Name: res/layout/hm_dialog.xml
-SHA1-Digest: qNOlniV0/AemPfFTnTf3ENpnoW0=
+SHA1-Digest: R58IQ1D880+CX2VnnmaGY59nuhg=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00224.png
 SHA1-Digest: wlKFuZigVGelWpBuMqI7i0LSD+o=
@@ -910,7 +913,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00166.png
 SHA1-Digest: FccVxb5Emg2bM5Fbgmz+DMUaapQ=
 
 Name: res/layout-v20/watch_card_content.xml
-SHA1-Digest: qCKjaRjJJj/NnDJ7tok2tTr9vpY=
+SHA1-Digest: zplucyOibzZX/+6GKt13wflOvgw=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00175.png
 SHA1-Digest: XY/EMkXetiTQ2nPzcLbRV4ak2tc=
@@ -934,7 +937,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate043.png
 SHA1-Digest: CkyBpQ76U6+G29esRAe7ilSDHgA=
 
 Name: res/layout/settings_action.xml
-SHA1-Digest: Hlc/coyD/sE6p6fLpXz9jeKiLR0=
+SHA1-Digest: 0jT2sQjPXfuA3PLYHeKyOFrJqBg=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate057.png
 SHA1-Digest: cnLnTf059FnbHY1+A6M82wdPMqs=
@@ -1052,7 +1055,7 @@ Name: res/drawable-xhdpi-v4/generic_confirmation_00188.png
 SHA1-Digest: fHHCDVEHihUfRVCdKUiGiHhR7+s=
 
 Name: resources.arsc
-SHA1-Digest: ty26edMHa8fE267fNoSFH0y4DRs=
+SHA1-Digest: Z2T1oAA3SZx8QyHddK1ZKVlAy3s=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00167.png
 SHA1-Digest: NJfqWKN4M1TXOWxJjuHzwuDk90E=
@@ -1205,7 +1208,7 @@ Name: res/drawable-mdpi-v4/ic_full_sad.png
 SHA1-Digest: 2/pmo0n6PyRjgMcVZJ/AIEpmDW8=
 
 Name: res/layout/picker_column.xml
-SHA1-Digest: g1bi1XeGIFBtB9pClF2AiBGa7Vo=
+SHA1-Digest: cFQQftkM6q9+IeJkYwhwvrCggh8=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_icon_bluetooth_car.png
 SHA1-Digest: 3UbLMam+TAVhdChWI1tjoHTTgzw=

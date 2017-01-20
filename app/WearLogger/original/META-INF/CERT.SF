@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: Q1pnLunr4qdDmNJ6+Z/SYpatvf4=
+SHA1-Digest-Manifest: J3uasEGZufE4dUJqnZE8IoipiuY=
 
 Name: res/drawable/lan_quicksettings_icon_wifi_1.png
 SHA1-Digest-Manifest: nTpZLUinVcq7DNI0ZXRklmH/4Tw=
@@ -180,7 +180,7 @@ Name: res/layout/wifi_scan.xml
 SHA1-Digest-Manifest: vKFHpLMrBmn6+BAbBxQhSW8AKKQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: L0602ML0ytySEUI9vOxNFZwswYI=
+SHA1-Digest-Manifest: vUxaZ14fgADXXm298MIcR7N/qKA=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: VqbA5WicHYy3a6vK67ZdvWdz074=
@@ -201,7 +201,7 @@ Name: res/layout/activity_alllog_lab.xml
 SHA1-Digest-Manifest: zkzWLkzV67YFhjQIhOl7SvCvJfM=
 
 Name: classes.dex
-SHA1-Digest-Manifest: oqDmYPOjqVyLUGOR11uy40R9h3I=
+SHA1-Digest-Manifest: 9JpZhxkugi9t5G2Dya7ZpBA60+Y=
 
 Name: res/drawable/lan_download_wave2.png
 SHA1-Digest-Manifest: tylesJM4hWWJbSqwkKP10LDPhsg=

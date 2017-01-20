@@ -18,6 +18,7 @@
     <item type="id" name="double_clk_wk">13</item>
     <item type="id" name="vibration_intensity">14</item>
     <item type="id" name="flight_mode">15</item>
+    <item type="id" name="hm_lab">16</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="main_list">false</item>

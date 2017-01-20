@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="update_background">#ff137dca</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="round_background">#ffffffff</color>
+    <color name="progress_round">#ff76ff89</color>
+    <color name="update_text">#ffffffff</color>
+    <color name="setting_bg">#ff000000</color>
+    <color name="main_bg_color">#ffffffff</color>
+    <color name="main_text_color">#ff000000</color>
+    <color name="wifi_spot_text_color">#e6ffffff</color>
+    <color name="wifi_spot_state_text_color">#a5ffffff</color>
+</resources>

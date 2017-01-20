@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Container"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/header_and_title" />
+    <include layout="@layout/encrypt_device_main_text" />
+</LinearLayout>
