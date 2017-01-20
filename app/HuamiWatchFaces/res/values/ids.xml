@@ -26,10 +26,12 @@
     <item type="id" name="watch_face_list">false</item>
     <item type="id" name="hide_img">false</item>
     <item type="id" name="selected_img">false</item>
+    <item type="id" name="scale_container">false</item>
     <item type="id" name="bottom_img">false</item>
     <item type="id" name="top_img">false</item>
     <item type="id" name="bottom_scale_img">false</item>
     <item type="id" name="top_scale_img">false</item>
+    <item type="id" name="custom_container">false</item>
     <item type="id" name="bottom_point_img">false</item>
     <item type="id" name="top_point_img">false</item>
     <item type="id" name="view_pager">false</item>

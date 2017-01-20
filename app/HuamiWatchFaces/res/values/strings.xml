@@ -15,6 +15,7 @@
     <string name="custom_title_timehand">表针</string>
     <string name="custom_title_date">日期</string>
     <string name="custom_data_widget_title_default">数据</string>
+    <string name="custom_data_widget_title_nothing">不显示</string>
     <string name="custom_data_widget_title_step">今日步数</string>
     <string name="custom_data_widget_title_today_dis">今日里程</string>
     <string name="custom_data_widget_title_total_dis">总里程</string>
@@ -49,6 +50,7 @@
     <string name="watch_label_twelve">Camouflage</string>
     <string name="watch_label_thirteen">2017</string>
     <string name="watch_label_fourteen">Eternal Moment</string>
+    <string name="watch_label_fifteen">Golden Rooster</string>
     <string name="watch_today_step">Today Steps</string>
     <string name="sport_step">step</string>
     <string name="everyminute_times">beat/min</string>

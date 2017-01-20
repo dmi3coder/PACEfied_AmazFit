@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/activity_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:layout_gravity="center_horizontal" android:id="@id/vibrator_test" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/test_vibrator" />
+        <Button android:layout_gravity="center_horizontal" android:id="@id/tp_test" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/test_tp" />
+    </LinearLayout>
+</ScrollView>

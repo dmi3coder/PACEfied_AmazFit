@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: THccaXeQPrTnDBBiSTjnm8QurF0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_gallery.png
+SHA1-Digest-Manifest: pJ3pP4LxKz/TlUXOaRAjMXEeVb4=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: t3EYl/thS8gPIhSIkbND9YzRG9w=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_gallery.png
+SHA1-Digest-Manifest: w3E8VENn/j2BFeTI4NLy59kKbUA=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_artist.png
+SHA1-Digest-Manifest: JIKoX4DWAwXv59yf4LhTmDPMeZA=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_song.png
+SHA1-Digest-Manifest: EB/20XK/n9RSUe706gA6wGnuUsQ=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_artist.png
+SHA1-Digest-Manifest: QwZWp/HuHtBJuuR+XgeJz2nJmHY=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_song.png
+SHA1-Digest-Manifest: CMIzLbQfdk4ZSLDHD4agDiz0By4=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_album.png
+SHA1-Digest-Manifest: IbUZvf8y0TbxnwhyFtRmmym+RcA=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: 7hOOODszT7IPweN1FHUo2JffWJM=
+
+Name: classes.dex
+SHA1-Digest-Manifest: zT8H7Me4KbliMlIxAMgyP73cItM=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_album.png
+SHA1-Digest-Manifest: T4NsIrkWyD8lQEliGd6xjA7nd6Y=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_gallery.png
+SHA1-Digest-Manifest: t1kqeiYcUAaez4UPL1jg7PgxuTA=
+

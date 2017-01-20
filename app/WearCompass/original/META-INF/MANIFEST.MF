@@ -26,7 +26,7 @@ Name: res/drawable/small_dot.xml
 SHA1-Digest: o8dMqSLj7PxKQBj3ryrqQRAuUpE=
 
 Name: classes.dex
-SHA1-Digest: U5Hq1BCH4ib/tBtAeAYH8dVZd78=
+SHA1-Digest: GGebAuUT918xDuG+xsn5jxG9iqo=
 
 Name: res/drawable/divider_b.xml
 SHA1-Digest: u1pTlj8mr2LfMA1kF5n4Eqohft0=
@@ -44,7 +44,7 @@ Name: res/drawable/red_dot.xml
 SHA1-Digest: MPsYgU7Ht7SYTiqjDTUkfagCL1U=
 
 Name: AndroidManifest.xml
-SHA1-Digest: l4oVb2LTg/9Itq0CuUx3m3wWrWw=
+SHA1-Digest: ufizZkh5Ez6e/4nXRQbYPZP41JM=
 
 Name: res/anim/correct_title_disappear.xml
 SHA1-Digest: onjcBt1I/J/xFF3F6OPnAaAG8J4=

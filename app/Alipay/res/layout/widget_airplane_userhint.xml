@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/bind_guide_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/airplane_icon" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginTop="36.69998dip" android:src="@drawable/alipay_widget_icon_airplane" android:scaleType="centerInside" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:id="@id/not_available" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/not_available" android:layout_below="@id/airplane_icon" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="14.0sp" android:textColor="@android:color/white" android:paddingLeft="4.0dip" android:layout_width="160.0dip" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/airplane_mode_tips" android:layout_below="@id/not_available" android:layout_centerHorizontal="true" />
+</RelativeLayout>

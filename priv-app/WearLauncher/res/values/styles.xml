@@ -38,7 +38,7 @@
         <item name="android:textSize">@dimen/notification_content_title_textsize</item>
         <item name="android:textColor">@color/notification_title_color</item>
         <item name="android:ellipsize">end</item>
-        <item name="android:maxEms">6</item>
+        <item name="android:maxEms">7</item>
         <item name="android:singleLine">true</item>
     </style>
     <style name="LauncherCardTime" parent="@android:style/Widget.TextView">
