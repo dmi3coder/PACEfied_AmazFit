@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.otawatch" platformBuildVersionCode="22" platformBuildVersionName="5.1-87">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DELETE_CACHE_FILES"/>
+    <uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name=".UpdateRomActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".DownloadActivity" android:theme="@style/DisableSwipeToDismiss"/>
+        <activity android:name=".LowBatteryActivity"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name=".wifi.WifiListActivity">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.wifi.WifiListActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name=".service.OtaService">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.service.OtaService"/>
+            </intent-filter>
+        </service>
+        <service android:name=".service.BatteryCheckService"/>
+        <service android:name=".wifi.WifiService"/>
+        <receiver android:name=".notification.BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.huami.watch.Launcher.BOOT_COMPLETED"/>&gt;
+</intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name=".notification.NotificaitonInstallReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.notification.NotificaitonInstallReceiver"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name=".notification.NotificaitonDelayReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.notification.NotificaitonDelayReceiver"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name=".notification.UpdateNotification$DelNotificationReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.notification.UpdateNotification"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name=".notification.IosNotificationDelayReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.notification.IosNotificationDelayReceiver"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name=".notification.IosNotificationUpdateReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.otawatch.notification.IosNotificationUpdateReceiver"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".notification.AlarmUpdateNotification$UpdateReceiver"/>
+        <receiver android:name=".notification.IosAlarmUpdateNotification$UpdateReceiver"/>
+    </application>
+</manifest>

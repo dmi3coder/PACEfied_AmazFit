@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/main_text_container" style="@style/MainTextContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/ScrollView">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:text="@string/company_controls_workspace" style="@style/MainText" />
+            <TextView android:text="@string/the_following_is_your_mdm" style="@style/MainText" />
+            <LinearLayout android:layout_gravity="center_vertical" android:paddingTop="@dimen/row_padding_top" android:layout_width="wrap_content" android:layout_height="@dimen/row_height" android:layout_alignParentLeft="true" android:layout_centerInParent="true">
+                <ImageView android:id="@id/mdm_icon_view" android:layout_width="@dimen/icon_width_height" android:layout_height="@dimen/icon_width_height" android:scaleType="center" />
+                <TextView android:textSize="@dimen/main_text_size" android:textColor="@color/text_black" android:gravity="center_vertical" android:id="@id/device_manager_name" android:paddingLeft="@dimen/main_text_padding_left_right" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:paddingTop="@dimen/row_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/row_height">
+        <Button android:id="@id/positive_button" android:text="@string/set_up" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/ColoredButton" />
+    </RelativeLayout>
+</LinearLayout>

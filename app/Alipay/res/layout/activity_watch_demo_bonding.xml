@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:android_custom="http://schemas.android.com/apk/res-auto">
+    <com.alipay.android.hmwatch.custom.RoundProgressBar android:id="@id/roundProgressBar1" android:layout_width="183.0dip" android:layout_height="183.0dip" android:layout_centerInParent="true" android_custom:roundColor="#ff3e5058" android_custom:roundProgressColor="#ff00ff00" android_custom:roundWidth="3.0dip" android_custom:textIsDisplayable="false" />
+    <ImageView android:id="@id/bondingBackgroundImg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+</RelativeLayout>

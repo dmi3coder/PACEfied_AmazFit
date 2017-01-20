@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.alipay.android.hmwatch/com.alipay.android.hmwatch.hmwidget.PayCodeView</item>
+    </string-array>
+</resources>

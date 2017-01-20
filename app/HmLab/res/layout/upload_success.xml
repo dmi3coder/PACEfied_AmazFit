@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/background" android:background="@drawable/lan_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/success_bg" android:layout_width="90.69998dip" android:layout_height="90.5dip" android:layout_marginTop="47.799988dip" android:src="@drawable/lan_upload_success_bg" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/upload_result_button" android:background="@drawable/lan_upload_success_btn" android:paddingLeft="10.899994dip" android:paddingTop="16.199982dip" android:paddingRight="11.0dip" android:paddingBottom="16.099976dip" android:layout_width="53.69998dip" android:layout_height="53.69998dip" android:layout_marginTop="66.19998dip" android:src="@drawable/lan_upload_success" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="18.699982sp" android:id="@id/upload_result" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.399994dip" android:text="@string/upload_success" android:layout_below="@id/upload_result_button" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textColor="@color/white" android:id="@id/anchor_view" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+    <com.huami.watch.common.widget.HmWearableListView android:layout_gravity="center" android:id="@id/picker_listview" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textColor="#a3ffffff" android:gravity="start" android:id="@id/picker_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+</com.huami.watch.common.widget.HmLinearLayout>

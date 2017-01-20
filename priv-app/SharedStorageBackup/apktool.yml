@@ -1,0 +1,19 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: SharedStorageBackup.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '22'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: huanghe-1.2.6a
+version: 2.2.1
+versionInfo:
+  versionCode: '22'
+  versionName: 5.1-87

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spring_depend" />
+    <string-array name="hour_select_labels">
+        <item>0</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="weekday_names">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </string-array>
+    <string-array name="subject_typenfreqs">
+        <item>今日步数</item>
+        <item>本周步数</item>
+        <item>今日消耗</item>
+        <item>本周消耗</item>
+    </string-array>
+</resources>

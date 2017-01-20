@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="80.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/image" android:layout_width="240.0dip" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:scaleType="fitCenter" android:layout_weight="3.0" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="21.0sp" android:textColor="@color/update_text" android:id="@id/item_ssid" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:textSize="17.0sp" android:textColor="@color/update_text" android:id="@id/item_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_weight="2.5" />
+    </LinearLayout>
+</LinearLayout>

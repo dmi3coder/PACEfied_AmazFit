@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/custom_dialog_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="4.0">
+        <TextView android:textSize="17.0sp" android:textColor="#ffffffff" android:gravity="bottom|center" android:layout_gravity="bottom" android:id="@id/userAgreementTitle" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="50.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="50.0dip" android:layout_weight="1.0" android:fontFamily="Heiti SC" />
+        <TextView android:textSize="16.0sp" android:textColor="#ffa5a5a5" android:gravity="center" android:layout_gravity="center" android:id="@id/userAgreementText" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="20.0dip" android:layout_weight="2.0" android:fontFamily="Helvetica Neue" />
+        <RelativeLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="0.0dip" android:layout_weight="1.0">
+            <ImageButton android:textSize="15.0sp" android:textColor="#fff4333c" android:gravity="center" android:id="@id/acceptButton" android:background="@drawable/agreement_shape" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@mipmap/white_confirm" android:fontFamily="Heiti SC" />
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

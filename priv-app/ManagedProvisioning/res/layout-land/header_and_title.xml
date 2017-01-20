@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/HeaderAndTitleContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:text="@string/setup_work_space" style="@style/Title" />
+</LinearLayout>

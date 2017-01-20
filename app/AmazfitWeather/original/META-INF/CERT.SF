@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: TyWMW3WZXpw51T8AvvBbV3OcssI=
+SHA1-Digest-Manifest: cZ8QNZGztTkwDQuZTZGNPlDI+Lw=
 
 Name: res/drawable-hdpi-v4/weather_details_icon_quality_2.png
 SHA1-Digest-Manifest: Y+lexoTLSJlRh4Aja0WpU0gFsN0=
@@ -126,7 +126,7 @@ Name: res/drawable-hdpi-v4/weather_details_icon_city.png
 SHA1-Digest-Manifest: j4tixtcU1w0nWme9p9IZHbKlO48=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: ubtsNkF6aA6NQ/qc/9eA4JP6fnc=
+SHA1-Digest-Manifest: T4uj/PAJeyTcehiUZD7Cct5H8/0=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_smog.png
 SHA1-Digest-Manifest: 1XWjnUxa4cEmyZEf2TuUpBQ93BQ=
@@ -180,7 +180,7 @@ Name: res/drawable-hdpi-v4/lan_weather_unknown.png
 SHA1-Digest-Manifest: 7zPtgXWZLwffDjL9SZ87mAvYVr0=
 
 Name: classes.dex
-SHA1-Digest-Manifest: XwNMt5xILHV1Y12E14DIz/fOkGY=
+SHA1-Digest-Manifest: 3RtLNFDHUTpkOR4NfRPftJkcbYA=
 
 Name: res/anim/no_anim_in.xml
 SHA1-Digest-Manifest: lJv522UZbH967mNpW7iEFISYu9E=

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/fragment_progress_bar" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image" android:background="@drawable/lan_download_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.huami.watch.otawatch.ui.WaveProgressBar android:id="@id/wave_progress" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:gravity="center" android:layout_gravity="center" android:id="@id/downloading_textview" android:background="@drawable/lan_quicksettings_icon_wifi_small" android:visibility="visible" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="21.0dip" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/keep_wifi_textview" android:paddingBottom="23.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/please_keep_wifi_connect" android:layout_below="@id/downloading_textview" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="72.0sp" android:textColor="@color/white" android:layout_gravity="center" android:id="@id/download_percent" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/processbar_downloading_default" android:layout_below="@id/keep_wifi_textview" android:layout_centerInParent="true" />
+            <TextView android:textSize="23.0sp" android:textColor="@color/white" android:paddingLeft="9.0dip" android:paddingTop="9.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/processbar_downloading_tips" android:layout_toRightOf="@id/download_percent" android:layout_alignTop="@id/download_percent" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>
