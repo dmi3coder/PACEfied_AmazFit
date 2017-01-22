@@ -41,7 +41,7 @@ Name: res/layout/header_and_title.xml
 SHA1-Digest: UY6WXophgk13dEqEAfn+yrernms=
 
 Name: AndroidManifest.xml
-SHA1-Digest: PaZWuQvRULB3T4poPrjuME4rGuA=
+SHA1-Digest: Z9Yaxj79HNOdSfNWBPZPbjsI+bE=
 
 Name: res/drawable-mdpi-v4/setup_illustration_tile.png
 SHA1-Digest: w3iunqwMQXChUbplTDZSiA5gufA=

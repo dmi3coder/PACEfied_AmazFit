@@ -38,7 +38,7 @@ Name: res/layout/wifi_protal_view.xml
 SHA1-Digest: //uSVsX4QLs0Bm0Xm9N12dMQAFg=
 
 Name: AndroidManifest.xml
-SHA1-Digest: NGuakZvuvOcV08yGeUObsdhH6Xs=
+SHA1-Digest: d9hwHe7gWLtpv9olclk4X9ao4qs=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest: KhYs3OgngrsQpHbyXG/jm5H+8wU=

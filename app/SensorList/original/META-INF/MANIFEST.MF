@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: 1.7.0_79 (Oracle Corporation)
 
 Name: AndroidManifest.xml
-SHA1-Digest: Xu/f+mJ1QRGJWk6n/4VA2Auh3Xc=
+SHA1-Digest: sHJl4LLAfHPSe8Xh7/4S8nt6tBs=
 
 Name: res/mipmap-hdpi-v4/ic_launcher.png
 SHA1-Digest: BdA+ngpBxDNB9KZr/d2uLPq0lGU=

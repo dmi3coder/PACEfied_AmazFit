@@ -53,7 +53,7 @@ Name: res/layout/confirm_dialog.xml
 SHA1-Digest: 5BOiQ01RAZrPeV6weinFTBeRR+Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: tckGM7LJqvLQ+wVK2z4vooM+ylo=
+SHA1-Digest: RDhbm9AZK8nOvpbpkPIScV/NQ3Q=
 
 Name: res/drawable-mdpi-v4/ic_launcher_folder_bluetooth.png
 SHA1-Digest: 5Syb8L4r38hqFxYqXRtcqk2KUiU=

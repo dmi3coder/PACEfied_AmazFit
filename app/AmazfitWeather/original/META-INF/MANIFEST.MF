@@ -125,7 +125,7 @@ Name: res/drawable-hdpi-v4/weather_details_icon_city.png
 SHA1-Digest: /qSytH70ABQcWYWnq0PqMeiZbms=
 
 Name: AndroidManifest.xml
-SHA1-Digest: nHDKkOg9A1MxmOkf7jiX3gRxn5c=
+SHA1-Digest: PGlZ84ElNz4fQb3pTfLT2wEIvb0=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_smog.png
 SHA1-Digest: kZ6vYdwoeUOc7dCA8so7Y41GmfY=

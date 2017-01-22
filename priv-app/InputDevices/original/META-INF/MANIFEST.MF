@@ -38,7 +38,7 @@ Name: res/raw/keyboard_layout_belgian.kcm
 SHA1-Digest: ko40qLfC6Nt7X/fu1mcTx9JrPeE=
 
 Name: AndroidManifest.xml
-SHA1-Digest: 7gtMTBGmhyuMvlWRHrL3amLTNBY=
+SHA1-Digest: OQzCVeJyPMkaeubhzP3XGDV5TH4=
 
 Name: res/raw/keyboard_layout_spanish.kcm
 SHA1-Digest: wQFj/iLA+dJPrmIL245xhAx41xs=
