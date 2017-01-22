@@ -441,7 +441,7 @@ Name: res/layout/heart_widget_view.xml
 SHA1-Digest: A5B2FtNPUFwOGMwqSjxdMQbujTM=
 
 Name: AndroidManifest.xml
-SHA1-Digest: scF4xaY045AdVze/FS/LMudkIrQ=
+SHA1-Digest: XWIN36eqzvDnvVnINWPcHiyX0yk=
 
 Name: res/drawable/progress_small_material.xml
 SHA1-Digest: 6psP/fc7WMzagyh8FamJsYnuXgM=
@@ -477,7 +477,7 @@ Name: res/anim/alpha_in.xml
 SHA1-Digest: OqTeOi0Y+T3pYljQud3FnT+PcU4=
 
 Name: classes.dex
-SHA1-Digest: rVbw5Pf1UY+JtOL9LIEEbBgWfZA=
+SHA1-Digest: yaypujWaZO43eKcvUSHAjzLmnww=
 
 Name: res/anim/no_anim_in.xml
 SHA1-Digest: +fPPUa/Kg7YeB95nIneMk7WFv/w=

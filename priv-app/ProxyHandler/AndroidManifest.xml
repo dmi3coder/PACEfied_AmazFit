@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" coreApp="true" package="com.android.proxyhandler" platformBuildVersionCode="22" platformBuildVersionName="5.1-87">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" coreApp="true" package="com.android.proxyhandler" platformBuildVersionCode="22" platformBuildVersionName="5.1-88">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application android:label="@string/app_label" android:process="com.android.proxyhandler">
         <service android:exported="true" android:name=".ProxyService"/>

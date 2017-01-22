@@ -32,7 +32,7 @@ Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
 SHA1-Digest: ioRCDdtmZ1k1ZnRB/0QrzwASkeY=
 
 Name: AndroidManifest.xml
-SHA1-Digest: kc+goFM0jrx0s2cdzGeqxrNL438=
+SHA1-Digest: y8oDbxaQALn8tzKCc3oeO7Vswtg=
 
 Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
 SHA1-Digest: agbzt2OCai4DkRUAVPdqt0FQnyw=
@@ -50,7 +50,7 @@ Name: com/ingenic/iwds/smartsense/Sensor.aidl
 SHA1-Digest: iJknjlCqVdNg/cwb7t48+l6uHFE=
 
 Name: classes.dex
-SHA1-Digest: c13fR5TEIzsp5lWzAJmjhP5V18o=
+SHA1-Digest: i1moX20mtRb44/8KU9V4NGGB+tw=
 
 Name: com/ingenic/iwds/smartsense/ISensorService.aidl
 SHA1-Digest: DKAlmPsmLeOzik3hVqVN/wcNh20=

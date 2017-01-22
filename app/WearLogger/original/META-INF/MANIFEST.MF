@@ -179,7 +179,7 @@ Name: res/layout/wifi_scan.xml
 SHA1-Digest: ZQI0fExTp2ealC8adH1MM3oNBvs=
 
 Name: AndroidManifest.xml
-SHA1-Digest: +E9RK2iZKutbBp7mMBzyR9Lp+Cw=
+SHA1-Digest: wSUAHzaKyuprmprcMwhwP1sPvbw=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest: f92B2DZyGQMw5W608HdmmJyvkD4=

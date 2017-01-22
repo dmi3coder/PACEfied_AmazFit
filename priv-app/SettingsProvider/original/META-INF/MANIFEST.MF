@@ -5,7 +5,7 @@ Name: res/mipmap-xxxhdpi-v4/ic_launcher_settings.png
 SHA1-Digest: Qb+hhp2EkH74PaxRvVVvryLqw54=
 
 Name: AndroidManifest.xml
-SHA1-Digest: QSkFIYm6XdVCq/Lf3fbY6l21WGI=
+SHA1-Digest: MNt0LxMlKQ+od9KVUdhJqfMWVZ4=
 
 Name: res/mipmap-xxhdpi-v4/ic_launcher_settings.png
 SHA1-Digest: WqR1f5kV4ai0ggN9QvXKCfHDRhY=
