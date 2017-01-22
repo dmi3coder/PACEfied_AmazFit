@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: 9XnK+CBZtYDhyThMk/t90oTR3dU=
+SHA1-Digest-Manifest: aiSHbY4uA3utcyxXEdFWtXugs9A=
 
 Name: res/drawable-xxhdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
@@ -30,7 +30,7 @@ Name: res/layout/activity_charging_ui.xml
 SHA1-Digest-Manifest: Q40k3C92k7OSwglDs1t5+yqukto=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: wfZNnA2BHQWBMUCEoqLs0hDiUxk=
+SHA1-Digest-Manifest: ZV5JtYrCJAmxp42jw5CJ01++RnY=
 
 Name: res/interpolator/decelerate_cubic.xml
 SHA1-Digest-Manifest: H6+IX4VGTav9nN+YpJF6D30uG2g=

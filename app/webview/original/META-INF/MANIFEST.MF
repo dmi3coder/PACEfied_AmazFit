@@ -128,7 +128,7 @@ Name: res/drawable-xhdpi-v4/icon_webview.png
 SHA1-Digest: IrdPdGjet/98dhoa2IMk8nWN5xk=
 
 Name: AndroidManifest.xml
-SHA1-Digest: 5tCVGa+Nqp1uJvqiH0isiCK87Yo=
+SHA1-Digest: JmKRNnwluFmirFmbj2jnrIonOCE=
 
 Name: assets/ru.pak
 SHA1-Digest: qO3ccEuG66tRbqSbeemWkWWEiTg=

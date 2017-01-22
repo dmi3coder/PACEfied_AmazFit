@@ -92,7 +92,7 @@ Name: res/drawable-xxhdpi-v4/noti_icon_get_medal.png
 SHA1-Digest: m2nuTRTikvxTPz0kI893HONOLMQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest: ndb+8iJwDgHjR0KvvcPtT14Afcs=
+SHA1-Digest: zmNFxDUB73M6YJORfuhv3Kks/Jo=
 
 Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
 SHA1-Digest: agbzt2OCai4DkRUAVPdqt0FQnyw=
@@ -113,7 +113,7 @@ Name: res/drawable-xxhdpi-v4/lan_weather_cloudy.png
 SHA1-Digest: O9TKKKAdRp2fVtTKSkk8e5Sv0Bo=
 
 Name: classes.dex
-SHA1-Digest: OhV4YRK4wBFzsRsaB6h2eRGkkpk=
+SHA1-Digest: 6Fa517/XIE82drAhpVauflhJjaw=
 
 Name: res/drawable-xxhdpi-v4/lau_notify_icon_treat_bg.png
 SHA1-Digest: lmrLN88avU1ySNR8U66afKLlf/4=

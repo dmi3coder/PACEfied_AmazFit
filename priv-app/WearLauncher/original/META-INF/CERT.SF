@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: D7rwpSLmPx0EJZcSo/mtnPKhJK4=
+SHA1-Digest-Manifest: PEnHYq7tJg1LkKBpB3oT7aiK2c8=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00187.png
 SHA1-Digest-Manifest: jQoW7IvGn5FpTwtrNQGkoz1gnCk=
@@ -642,7 +642,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest-Manifest: Uc1jJe88/+JvzT1Q8ngPj2/ZiSQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: OGthzJIrfrfZ3TRMS3wWZn2qV8w=
+SHA1-Digest-Manifest: ucosC+TqpSvmAcMGFkQ/CzyD3mw=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest-Manifest: F8SW5wMR8Zxb3wvVtpWDcC8dqoY=
@@ -705,7 +705,7 @@ Name: res/drawable-hdpi-v4/ic_status_priority.png
 SHA1-Digest-Manifest: ENzi4QUf3dPMcoMk2cGD12OQUCI=
 
 Name: classes.dex
-SHA1-Digest-Manifest: YDYsO/wBhqaWERnYSb7+jS15gYo=
+SHA1-Digest-Manifest: HeXVysc3MzoMbnBcoZVYZHoINV4=
 
 Name: res/drawable-hdpi-v4/lan_weather_moderate_rain_bg.png
 SHA1-Digest-Manifest: sTRpfPFLmap5/NidfVlUo7PboE8=

@@ -44,7 +44,7 @@ Name: res/drawable/red_dot.xml
 SHA1-Digest: MPsYgU7Ht7SYTiqjDTUkfagCL1U=
 
 Name: AndroidManifest.xml
-SHA1-Digest: ufizZkh5Ez6e/4nXRQbYPZP41JM=
+SHA1-Digest: TbpAUHEDaVOIsPAOs4OwR6yWOMs=
 
 Name: res/anim/correct_title_disappear.xml
 SHA1-Digest: onjcBt1I/J/xFF3F6OPnAaAG8J4=

@@ -271,6 +271,9 @@ SHA1-Digest: b9MjfPjmV8M6nbIOjcWilvnBltQ=
 Name: assets/sport/en/sport_slpt_heart_burning_long.png
 SHA1-Digest: 0JMEeBo4LrbXdikwSwyaJarT0j8=
 
+Name: res/drawable-nodpi-v4/watchface_bg_analog_thirteen_8.png
+SHA1-Digest: dowgvCI5cVWfebNb49+DIfpfvCE=
+
 Name: assets/guard/manbuqingchun/hour_6.png
 SHA1-Digest: 0hm9/DbW6FWs+mnpLA3WwoPdK+4=
 
@@ -296,7 +299,7 @@ Name: assets/guard/chengshijinying/small_2.png
 SHA1-Digest: 2lZYkzxrejSlMLVGvTIIQiQ+8b8=
 
 Name: res/layout/custom_content_item_left.xml
-SHA1-Digest: WOT0KkyRJifFEGajeH/fRVa6iH4=
+SHA1-Digest: /y4V0AGNtcga0O1MXr5B/m6MOtA=
 
 Name: assets/slpt-analog-redfox/hour.png
 SHA1-Digest: k4KKLNKWW3/PQoWD3wFPs3xn0LE=
@@ -704,7 +707,7 @@ Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceFourteen/w
 SHA1-Digest: xhytgDgohebKdTpkyAupAnMCRXs=
 
 Name: assets/guard/lonelytrack/en/week_5.png
-SHA1-Digest: I1BKyYt0Y2AY+GMzwiJ7A96BZxg=
+SHA1-Digest: Zdlkvk/X/mT1t7tGB62xylF3xhM=
 
 Name: res/drawable-nodpi-v4/battery_00.png
 SHA1-Digest: tKxsKt70LqMl9uIV0EBIAGVvL0s=
@@ -821,10 +824,6 @@ SHA1-Digest: WQ3/1etAIigVH+EKocxJ9yKoucc=
 
 Name: com/ingenic/iwds/smartsense/ISensorService.aidl
 SHA1-Digest: DKAlmPsmLeOzik3hVqVN/wcNh20=
-
-Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceEleven/wat
- chface_default_eleven_bg_4.png
-SHA1-Digest: qaNphuWHlqUAyBXtZtqoAk5EKBc=
 
 Name: assets/sport/sport_slpt_avg_frequency_long.png
 SHA1-Digest: 38MQ9L6RMubJQL5lEDx/XonJne0=
@@ -1697,6 +1696,10 @@ SHA1-Digest: WfLIqm23a/Q0qG9RR0pfHYn2RLA=
 Name: assets/slpt-analog-green/week_4.png
 SHA1-Digest: IRkZ6Dc7q/8dIWXF7e2OKNTNuTw=
 
+Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/w
+ atchface_bg_analog_thirteen_8.png
+SHA1-Digest: PjUNLKo8/RdNnalFg5KU89Dnb+o=
+
 Name: assets/guard/shiguanglicheng/watchface_slpt_number_week_5.png
 SHA1-Digest: GQUJuVhdkHT+EKagjotYCJ3/tOQ=
 
@@ -1786,9 +1789,6 @@ SHA1-Digest: rdcFoX6nPwPfvYdol6zHLOBeE3Q=
 Name: res/drawable-nodpi-v4/watchface_sport_five_icon_step.png
 SHA1-Digest: c/5Uh4PjmO+hf5Bu/1Bfume+93k=
 
-Name: res/drawable-nodpi-v4/watchface_default_eleven_bg_4.png
-SHA1-Digest: 10iT1HaNwjB1T3YdcJl143flMeo=
-
 Name: assets/guard/qiangjiepai/power_1.png
 SHA1-Digest: eaMS4JcQrsTUv/yiPWgUlPDJGew=
 
@@ -1811,7 +1811,7 @@ Name: res/drawable-nodpi-v4/battery_06.png
 SHA1-Digest: OIPJTQQBb7mIR5eoAppxnGJhziE=
 
 Name: AndroidManifest.xml
-SHA1-Digest: 1LyziKk5bKKvlTPUOet8g6LUTXY=
+SHA1-Digest: 9OQzTTruurtPNYIAk2++SkNw6A8=
 
 Name: assets/guard/IamRunner/week_3.png
 SHA1-Digest: 0hBkRb2PbJ+4xMmMLCNER5bEeYY=
@@ -3353,7 +3353,7 @@ Name: assets/slpt-analog-green/day_18.png.color_map
 SHA1-Digest: UPp50al07mQ/rwBIVn+DOhXTFEA=
 
 Name: res/layout/custom_content_item_right.xml
-SHA1-Digest: A5RdJ8mM8x+ROaaH4oQKcQQMAb0=
+SHA1-Digest: x1rVwiK8skIvSIV9yICmPqbDlhA=
 
 Name: assets/guard/chengshijinying/minute_6.png.color_map
 SHA1-Digest: jix+4KMStm+1qK7hzybmCI7ijbg=
@@ -4529,7 +4529,7 @@ Name: assets/guard/jisudidai/small_9.png
 SHA1-Digest: Kycy/Q5wUvmBbiLIMujeeBBhVOE=
 
 Name: classes.dex
-SHA1-Digest: xDnVGvh0wVw6Y9WmNYeN0zMGS0A=
+SHA1-Digest: 9h87PSDQ0rWKTlfVMtQGfMwweSw=
 
 Name: assets/guard/xiaohuli/en/watchface_low_power.png
 SHA1-Digest: 3ib58+bgDFIw19oHPS6ZVI8kLNQ=
@@ -4823,7 +4823,7 @@ Name: assets/guard/lonelytrack/week_2.png
 SHA1-Digest: emuEDsqsnscRNIrs4JijXuriIAk=
 
 Name: res/layout/watch_face_main.xml
-SHA1-Digest: EJKkqp4N0cYdDrVjghTeG5CdJ1Y=
+SHA1-Digest: GSGZGqsIWvesQi8JJnFfWO5c3lc=
 
 Name: assets/sport/sport_slpt_avg_speed_long.png
 SHA1-Digest: v0C3vuGjgGPf16T2nsDp/Agutw4=
@@ -5140,7 +5140,7 @@ Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/a
 SHA1-Digest: Inb7NZaKx2BvUi/IOmCQ63SnnUE=
 
 Name: resources.arsc
-SHA1-Digest: jnqR7ZlLe6HsZfFmmagu0lsUz7o=
+SHA1-Digest: NKnRoHknNi8gamk/nv+E2eSMIbM=
 
 Name: assets/timehand/02/8c/hour_0.png.color_map
 SHA1-Digest: 2JIlhf/aZ65Rfmyk0kzGtbA/bt0=
