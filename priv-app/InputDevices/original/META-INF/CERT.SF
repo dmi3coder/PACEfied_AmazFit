@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: LokoiBZFYMCjtvr8n+yCecJY5e4=
+SHA1-Digest-Manifest: S0DUeN6mqgxHShHUMZYNceoQI/k=
 
 Name: res/raw/keyboard_layout_latvian_qwerty.kcm
 SHA1-Digest-Manifest: hwru3jw9/sDFB1TJcDxwFqWMBvo=
@@ -39,7 +39,7 @@ Name: res/raw/keyboard_layout_belgian.kcm
 SHA1-Digest-Manifest: nxjZ4S3gtlmCs9oegAhoJVMYtAo=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: 6xbS5Wn4uhDWrnCVxypPXVab93g=
+SHA1-Digest-Manifest: BnOYh0zT1EDZG8cQ4bsNHqRewWU=
 
 Name: res/raw/keyboard_layout_spanish.kcm
 SHA1-Digest-Manifest: NH9UTSERFhptpr8Imm156gdY6Io=

@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: eSH+xX9Vw/43ylOM8CXrNzFYpkQ=
+SHA1-Digest-Manifest: mDTCFePxSN0N7SDTjpqhLP8TPjI=
 
 Name: res/layout/widget_layout.xml
 SHA1-Digest-Manifest: FUvEpICT18k+jQ8klLkwbQAoPE4=
@@ -138,7 +138,7 @@ Name: res/mipmap-xhdpi-v4/background_bonding.png
 SHA1-Digest-Manifest: lUWI6Hz+rGy4rDe5yklDeLbcyKA=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: joJuAbTidaiYHgEdbkM8KYyR9/I=
+SHA1-Digest-Manifest: YqE7YxcX/EJx2Q7oQ6h8NwJdsB8=
 
 Name: res/drawable/debug_bar_code.png
 SHA1-Digest-Manifest: GxSBb07XxQnsZrkkfHhN/oDKkjM=

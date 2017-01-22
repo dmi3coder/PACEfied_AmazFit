@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: rfs1HWFZyY/nYJKKISF8BsjrM2A=
+SHA1-Digest-Manifest: qbwJRmN43l8sas+X8t+l7BV7t+w=
 
 Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
 SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
@@ -33,7 +33,7 @@ Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
 SHA1-Digest-Manifest: qmdhaFNrPC6ZDAHv7Iw1rAdTxW8=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: VrMKIFe9B71gnaxpPbxTroIuUnI=
+SHA1-Digest-Manifest: VUoAriy1xXQz82CEOHgvKrn5EjA=
 
 Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
 SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
@@ -51,7 +51,7 @@ Name: com/ingenic/iwds/smartsense/Sensor.aidl
 SHA1-Digest-Manifest: Tv6m4Aa8uZM8Vb20CHD5Ukxq274=
 
 Name: classes.dex
-SHA1-Digest-Manifest: DxkZhc7Zdmvcdd5jcyS1P/LtVoQ=
+SHA1-Digest-Manifest: VmXE/RA+sZo4IG4oaBqrGGfpkfQ=
 
 Name: com/ingenic/iwds/smartsense/ISensorService.aidl
 SHA1-Digest-Manifest: LIyQ35x9gfPoegi11/8/KSpjqZI=

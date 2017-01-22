@@ -1574,7 +1574,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: csvqDR3NG5wmjImUkG9VBDySbEo=
+SHA1-Digest: kuNGo79RD3L9wDJDyPuuzJ+txRs=
 
 Name: assets/voice/87.mp3
 SHA1-Digest: CFJKhlg5OodX0rayYA8TcxvnZjE=
@@ -1623,7 +1623,7 @@ Name: assets/voice/50.mp3
 SHA1-Digest: gI1Sjj0v37gtJt1Mzpdz9ES1nY4=
 
 Name: classes.dex
-SHA1-Digest: E997ACeO7PueZ0z0giLCt9u0kQk=
+SHA1-Digest: BZ5pQSXF0yen6kGMWLk63q2+N8M=
 
 Name: res/xml/medals.xml
 SHA1-Digest: BjP1MfTblHoA/dFLfxGw8AQ+i6o=
