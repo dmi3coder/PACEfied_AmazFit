@@ -23,4 +23,21 @@
     <string name="watch_today_step">Today Steps</string>
     <string name="sport_step">step</string>
     <string name="everyminute_times">beat/min</string>
+
+    <string name="custom_data_widget_title_aq">Air qual</string>
+    <string name="custom_data_widget_title_battery">Batt.</string>
+    <string name="custom_data_widget_title_calorie">kCal</string>
+    <string name="custom_data_widget_title_default">Default</string>
+    <string name="custom_data_widget_title_heart_rate ">Rate</string>
+    <string name="custom_data_widget_title_msg">Messages</string>
+    <string name="custom_data_widget_title_nothing">Nothing</string>
+    <string name="custom_data_widget_title_step">Steps today</string>
+    <string name="custom_data_widget_title_today_dis">Dist today</string>
+    <string name="custom_data_widget_title_total_dis">Total dist</string>
+    <string name="custom_data_widget_title_weather">Weather</string>
+    <string name="custom_title_bg">Background</string>
+    <string name="custom_title_date">Date</string>
+    <string name="custom_title_graduation">Graduation</string>
+    <string name="custom_title_timehand">Hands</string>
+
 </resources>
