@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Nuovo allenamento</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Se sei un principiante per diventare un bravo runner devi iniziare camminando.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5K</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Runner novizio. Questo allenamento aiuta a migliorare la tua tecnica.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10K</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Runners avanzato. Questo allenamento auita a migliorare la tua capacità aerobica.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Mezza maratona</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Allenamento per maratona. Questo allenamento aiuta a migliorare la tua resistenza.  </copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Maratona</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Allenamento per maratona. Questo allenamento aiuta a migliorare il tempo e la tua strategia.</copyWrite>
+        </trainplan>
+</trainplans>
