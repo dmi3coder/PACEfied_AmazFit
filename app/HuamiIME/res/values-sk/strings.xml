@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">HuamiIME</string>
+  <string name="connect_phone">Pripojte sa k aplikácii Amazfit pace</string>
+  <string name="input_by_phone">Zadajte do aplikácie Amazfit pace</string>
+</resources>

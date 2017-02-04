@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">华米实验室</string>
+    <string name="main_title">华米实验室</string>
+    <string name="agreement_title">全时心率采集</string>
+    <string name="message">"为了改善我们的服务，我们将
+持续采集您的心率数据。
+数据将只作为研究使用。
+采集开启后将会有一定的电量消耗。"</string>
+    <string name="allow">允许</string>
+    <string name="exit">退出</string>
+    <string name="heart_rate_collection_on">已开启</string>
+    <string name="heart_rate_collection_off">未开启</string>
+    <string name="saving_data">数据保存中</string>
+    <string name="upload_data">上传数据</string>
+    <string name="upload_success">已完成</string>
+    <string name="upload_failed">上传失败，请重试</string>
+    <string name="air_mode_alert_title">连接失败</string>
+    <string name="air_mode_alert_message">请关闭飞行模式后重新尝试连接</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrdiť</string>
+    <string name="picker_default_nagetive_text">Vypnuté</string>
+    <string name="no_heartrate_data_hint">Tepová frekvencia nedostupná</string>
+    <string name="no_altitude_hint">Nadmorská výška nedostupná</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavenia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Výber jazyka</string>
+</resources>

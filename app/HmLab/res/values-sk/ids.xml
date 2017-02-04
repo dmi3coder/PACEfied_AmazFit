@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="activity_algo_data_collection">false</item>
+    <item type="id" name="tips_title">false</item>
+    <item type="id" name="heart_rate_capture_chk">false</item>
+    <item type="id" name="upload">false</item>
+    <item type="id" name="upload_text">false</item>
+    <item type="id" name="activity_main_hmlab">false</item>
+    <item type="id" name="x_listview">false</item>
+    <item type="id" name="tips_message">false</item>
+    <item type="id" name="hm_button_parent">false</item>
+    <item type="id" name="exit">false</item>
+    <item type="id" name="allow">false</item>
+    <item type="id" name="dlg_container_id">false</item>
+    <item type="id" name="dlg_container">false</item>
+    <item type="id" name="opt_btn">false</item>
+    <item type="id" name="dlg_left_btn">false</item>
+    <item type="id" name="dlg_stub">false</item>
+    <item type="id" name="dlg_right_btn">false</item>
+    <item type="id" name="dlg_hint_container">false</item>
+    <item type="id" name="dlg_hint">false</item>
+    <item type="id" name="dlg_note">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="upload_result_button">false</item>
+    <item type="id" name="upload_result">false</item>
+    <item type="id" name="success_bg">false</item>
+</resources>
