@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Corsa</runType>
+            <trainContent>Corsa</trainContent>
+            <copyWrite>Corri 800m/Cammina 200m a intervalli. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Corsa</runType>
+            <trainContent>Corsa di recupero</trainContent>
+            <copyWrite>Corsa semplice. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Corsa</runType>
+            <trainContent>Allenamento</trainContent>
+            <copyWrite>Corsa con ritmo. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Corsa</runType>
+            <trainContent>Technical Run</trainContent>
+            <copyWrite>Camminata veloce. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Corsa</runType>
+            <trainContent>Fartlek Run</trainContent>
+            <copyWrite>Mix tra corsa e camminata veloce. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Corsa</runType>
+            <trainContent>Hill Run</trainContent>
+            <copyWrite>Corsa su terreno collinare. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Corsa</runType>
+            <trainContent>Tempo Run</trainContent>
+            <copyWrite>Mantieni una velocità costante. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Corsa</runType>
+            <trainContent>Intervals（Short)</trainContent>
+            <copyWrite>Corri 800m/Cammina 800m a intervalli. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Corsa</runType>
+            <trainContent>Intervals（Long)</trainContent>
+            <copyWrite>Corri 2.4km/Cammina 800m a intevalli. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Riposo</runType>
+            <trainContent></trainContent>
+            <copyWrite>Prenditi una pausa, nessun allenamento oggi. %1$d giorni all\'inizio dell\'allenamento</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Nuoto</runType>
+            <trainContent></trainContent>
+            <copyWrite>Nuotare aiuta a recuperare.  Segna qua una volta terminato.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Bici</runType>
+            <trainContent></trainContent>
+            <copyWrite>Andarae in bici aumenta la resistenza e la forza. Obiettivo HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

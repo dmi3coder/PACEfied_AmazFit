@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.5</string>
+    <string name="app_name">otawatch</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="watch_ota">Aggiornamento orologio</string>
+    <string name="wifi_disconnect">"Per favore connetti
+l'Amazfit all'app 
+per cercare l'aggiornamento"</string>
+    <string name="connect_phone_wifi">"Per favore controlla
+    la rete del cellulare"</string>
+    <string name="connect_phone_input_wifi">"Connetti l'Amazfit
+    all'app per inserire la 
+    password del WI-FI'"</string>
+    <string name="wifi_add_item">"Connetti l'Amazfit
+    all'app per aggiungere un
+    nuovo hotspot WI-FI"</string>
+    <string name="input_passwor_on_mobile">"Inserisci la password
+    del WI-FI dall'app"</string>
+    <string name="add_wifi">Aggiungi Wi-Fi</string>
+    <string name="please_update_rom">"Nuova versione disponibile, per favore aggiorna"</string>
+    <string name="checking_rom">Controllo nuove versioni</string>
+    <string name="checking_rom_failed">Timeout connessione, per favore riprova</string>
+    <string name="current_is_new">Stai utilizzando l\'ultima versione</string>
+    <string name="has_new_rom">"Nuova versione trovata,
+voui aggiornare alla versione %1$s?"</string>
+    <string name="processbar_downloading_rom">Scaricamento...</string>
+    <string name="please_keep_wifi_connect">"Permetti all'Amazfit
+di connettersi al WiFi"</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Errore nel download dell'aggiornamento,
+ per favore riprova."</string>
+    <string name="download_rom_success">"Aggiornamento scaricato,
+per favore installa."</string>
+    <string name="low_battery_message">"Aggiornamento scaricato, la batteria deve essere sopra al %1$s%% per l'installazione'"</string>
+    <string name="low_battery_title">Per favore ricarica prima</string>
+    <string name="progressbar_tips">Cercando nuove versioni...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Memoria non sufficiente per l'aggiornamento, sono necessari altri %1$sM, libera dello spazio!"</string>
+    <string name="update_network_error">"Ricerca aggiornamento fallito, riprova dopo"</string>
+    <string name="cancel_download">"Download aggiornamento in corso,
+    vuoi annullare?"</string>
+    <string name="new_rom_please_install">"Aggiornamento disponibile,
+    per favore aggiorna!"</string>
+    <string name="btn_install_later">Ricordamelo dopo</string>
+    <string name="btn_install_now">Installa ora</string>
+    <string name="btn_upgrade_now">Aggiorna ora</string>
+    <string name="wifi_no_password">Libera</string>
+    <string name="wifi_has_password">Protetta</string>
+    <string name="wifi_password_error">Password errata</string>
+    <string name="wifi_connecting">Connettendo...</string>
+    <string name="wifi_auth">Verfica password...</string>
+    <string name="wifi_get_ip">"Ottenendo l'IP..."</string>
+    <string name="wifi_link_fail">Connessione fallita...</string>
+    <string name="wifi_connected">Connesso</string>
+    <string name="wifi_title">Connetti al Wi-Fi</string>
+    <string name="wifi_wait_password">In attesa della password...</string>
+    <string name="toast_please_update_first">Per favore aggiorna prima</string>
+    <string name="wifi_turnon_going">Accendi il Wi-Fi</string>
+    <string name="system_update_title">Aggiornamento completato</string>
+    <string name="system_update_content">Il sistema è stato aggiornato alla versione %1$s</string>
+    <string name="password_error">"Password Wi-Fi errata,
+riprova"</string>
+    <string name="wifi_connect_fail">"Non riesco a collegarmi
+a questa WiFi. Prova 
+un'altro hotspot Wi-Fi"</string>
+    <string name="searching">Ricerca...</string>
+    <string name="hasNewUpdateTitle">Aggiornamento di sistema</string>
+    <string name="hasNewUpdateInstallContent">La versione %1$s può essere installata, procedere?</string>
+    <string name="hasNewUpdateCheckContent">La versione %1$s può essere aggiornata, procedere ora?</string>
+</resources>

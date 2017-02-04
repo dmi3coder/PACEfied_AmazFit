@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>"com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView"</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>"Dom"</item>
+        <item>"Lun"</item>
+        <item>"Mar"</item>
+        <item>"Mer"</item>
+        <item>"Gio"</item>
+        <item>"Ven"</item>
+        <item>"Sab"</item>
+        <item>"Oggi"</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>"Aria Eccellente"</item>
+        <item>"Aria Buona"</item>
+        <item>"Inquinamento lieve"</item>
+        <item>"Inquinamento moderato"</item>
+        <item>"Inquinamento pesante"</item>
+        <item>"Inquinamento grave"</item>
+        <item/>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>"Adatto per lo sport"</item>
+        <item>"Non adatto per lo sport"</item>
+        <item/>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>"Soleggiato"</item>
+        <item>"Nuvoloso"</item>
+        <item>"Nuvoloso"</item>
+        <item>"Nebbia"</item>
+        <item>"Smog"</item>
+        <item>"Pioggia"</item>
+        <item>"Pioggia e fulmini"</item>
+        <item>"Pioggia debole"</item>
+        <item>"Pioggia leggera"</item>
+        <item>"Pioggia forte"</item>
+        <item>"Temporale"</item>
+        <item>"Pioggia torrenziale"</item>
+        <item>"Nevischio"</item>
+        <item>"Grandine"</item>
+        <item>"Grandine"</item>
+        <item>"Neve leggera"</item>
+        <item>"Neve moderata"</item>
+        <item>"Forte nevicata"</item>
+        <item>"Tempesta di neve"</item>
+        <item>"Neve"</item>
+        <item>"Polvere"</item>
+        <item>"Leggera sabbia"</item>
+        <item>"Tempesta di sabbia"</item>
+        <item>"Forte tempesta di sabbia"</item>
+        <item>"Nessun dato"</item>
+    </string-array>
+</resources>

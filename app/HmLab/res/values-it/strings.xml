@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorio</string>
+    <string name="main_title">Laboratorio</string>
+    <string name="agreement_title">HR sempre attivo</string>
+    <string name="message">"Al fine di migliorare i nostri servizi, verranno raccolti i dati della frequenza cardiaca.
+I dati saranno utilizzati solo per la ricerca.
+Il consumo eneregetico potrebbe aumentare"</string>
+    <string name="allow">Permetti</string>
+    <string name="exit">Esci</string>
+    <string name="heart_rate_collection_on">on</string>
+    <string name="heart_rate_collection_off">off</string>
+    <string name="saving_data">Salva</string>
+    <string name="upload_data">Upload</string>
+    <string name="upload_success">Upload completato</string>
+    <string name="upload_failed">Upload fallito</string>
+    <string name="air_mode_alert_title">Connessione fallita</string>
+    <string name="air_mode_alert_message">Prova a riconnettersi! disattiva la modalità aereo</string>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Battito non rilevato</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Sports music</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Scegli lingua</string>
+</resources>

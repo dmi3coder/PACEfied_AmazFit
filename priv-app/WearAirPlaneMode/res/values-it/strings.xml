@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Battiti non rilevati</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazione</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="opened">ON</string>
+    <string name="closed">OFF</string>
+    <string name="air_plane_mode_note">"Connessione fallita
+Disattiva la modalità aereo e riprova."</string>
+    <string name="app_name">飞行模式提示</string>
+    <string name="action_settings">Impostazioni</string>
+</resources>
