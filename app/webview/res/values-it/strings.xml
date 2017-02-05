@@ -14,7 +14,7 @@
     <string name="profiler_no_storage_toast">"Non posso lanciare il profiler perchè la memoria esterna non è pronta"</string>
     <string name="profiler_error_toast">Fallito a lanciare il profiler</string>
     <string name="low_memory_error">Non riesco a completare il comando per la poca memoria</string>
-    <string name="opening_file_error">Errore nell'apertura del file</string>
+    <string name="opening_file_error">Errore nell\'apertura del file</string>
     <string name="color_picker_button_more">Altri</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
