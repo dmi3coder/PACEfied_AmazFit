@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">OK Unbind</string>
+    <string name="unbind_warning">Unbind after the function of the watch Alipay will not be available !</string>
+    <string name="bind_my_watch">Bind my watch</string>
+    <string name="user_hint">Open the phone Alipay (9.3 and above), into the "My Profile> Settings> Security Settings> Smart Watch"</string>
+    <string name="bind_im">Bind immediately</string>
+    <string name="bind_from_qr">Use Alipay Scan Binding</string>
+    <string name="bind_qr_code">Binding QR code</string>
+    <string name="user_hint_title">User prompt</string>
+    <string name="loading">Alipay loading</string>
+    <string name="title">Watch Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">Into the phone Alipay (9.3 and above) "My - Settings - Security Center - security tools - smart watches"</string>
+    <string name="ios_unsupport_tips">(Do not support iOS-side Alipay binding)</string>
+    <string name="button_start_bind">Start binding</string>
+    <string name="bind_usage">Use Alipay Scan Binding</string>
+    <string name="bar_code_tip">The cashier swept the payment</string>
+    <string name="qr_code_tip">Scan transfers or add my friends</string>
+    <string name="bind_success_title">Bind successfully</string>
+    <string name="unbind_tip">For unbinding, in the mobile phone Alipay to operate.</string>
+    <string name="button_ok">Ok</string>
+    <string name="confirm_unbind_title">Unbinding</string>
+    <string name="unbind_alert_message">Unbinding, will not be able to use the watch Alipay function, is unbound ?</string>
+    <string name="not_available">This feature is temporarily unavailable</string>
+    <string name="airplane_mode_tips">To use the watch Alipay, please turn off the flight mode.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>
