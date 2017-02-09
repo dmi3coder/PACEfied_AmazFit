@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crossing_climb_unit">Feet</string>
+    <string name="crossing_vertical_velocity_unit">feet/h</string>
+    <string name="crossing_history_detail_ave_move_pace_unit">/mi</string>
+    <string name="crossing_history_detail_altituede_graph_desc">Altitude (feet)</string>
+    <string name="crossing_history_detail_individual_km">%1$s mi for a single loop</string>
+    <string name="crossing_setting_unit">mi</string>
+    <string name="crossing_settings_item_value_individual">%1s mis</string>
+    <string name="outdoor_speed_graph_title">Speed(mi/h)</string>
+    <string name="unit_cadence">rpm</string>
+    <string name="sport_notification_content">%s mi</string>
+    <string name="running_kilometers">mi</string>
+    <string name="running_pace_unit">/mi</string>
+    <string name="running_speed_unit">mi/h</string>
+    <string name="running_distance_unit">mi</string>
+    <string name="sport_history_item_distance_desc">Distance (mi)</string>
+    <string name="history_detail_pace_desc">Pace (min/mi)</string>
+    <string name="history_detail_speed">Speed per hour (mi/h)</string>
+    <string name="settings_item_value_target_distance">%.2fmi</string>
+    <string name="remind_target_distance_title_format">Target %1$d mi</string>
+    <string name="remind_target_km_title_format">Completed %1$d mi</string>
+    <string name="remind_target_km_walking_title_format">Completed %1$d mi</string>
+    <string name="remind_target_distance_pace_unit">/mi</string>
+    <string name="remind_target_time_distance_unit">mi</string>
+    <string name="remind_target_time_pace_unit">/mi</string>
+    <string name="remind_pace_pace_unit">/mi</string>
+    <string name="distance_picker_km">Miles</string>
+    <string name="sport_medal_desc_one_5_km">Single workout distance of 5 mi</string>
+    <string name="sport_medal_desc_one_10_km">Single workout distance of 10 mi</string>
+    <string name="sport_medal_desc_total_50_km">Total workout distance of 50 mi</string>
+    <string name="sport_medal_desc_total_300_km">Total workout distance of 300 mi</string>
+    <string name="sport_medal_desc_total_1000_km">Total workout distance of 1000 mi</string>
+    <string name="remind_last_dis_pace">Pace of last mi</string>
+    <string name="remind_last_dis_speed">Speed of last mi</string>
+</resources>
