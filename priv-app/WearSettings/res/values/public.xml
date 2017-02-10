@@ -618,35 +618,40 @@
     <public type="string" name="bluetooth_pairing_pin_error_message" id="0x7f0a005c" />
     <public type="string" name="bluetooth_pairing_device_down_error_message" id="0x7f0a005d" />
     <public type="string" name="bluetooth_pairing_rejected_error_message" id="0x7f0a005e" />
-    <public type="string" name="blt_confirm_ignore" id="0x7f0a005f" />
-    <public type="string" name="phone_finding" id="0x7f0a0060" />
-    <public type="string" name="phone_found" id="0x7f0a0061" />
-    <public type="string" name="phone_not_connected" id="0x7f0a0062" />
-    <public type="string" name="phone_not_found" id="0x7f0a0063" />
-    <public type="string" name="start_testing" id="0x7f0a0064" />
-    <public type="string" name="light_off" id="0x7f0a0065" />
-    <public type="string" name="light_auto" id="0x7f0a0066" />
-    <public type="string" name="light_on" id="0x7f0a0067" />
-    <public type="string" name="rise_no_bl_under_slpt" id="0x7f0a0068" />
-    <public type="string" name="subtitle_of_raise_hand_no_bl" id="0x7f0a0069" />
-    <public type="string" name="locale_title" id="0x7f0a006a" />
-    <public type="string" name="locale_applying" id="0x7f0a006b" />
-    <public type="string" name="zh_cn" id="0x7f0a006c" />
-    <public type="string" name="en" id="0x7f0a006d" />
-    <public type="string" name="zh_tw" id="0x7f0a006e" />
-    <public type="string" name="confirm_change_locale" id="0x7f0a006f" />
-    <public type="string" name="reset_factory_hint" id="0x7f0a0070" />
-    <public type="string" name="strong" id="0x7f0a0071" />
-    <public type="string" name="mid" id="0x7f0a0072" />
-    <public type="string" name="weak" id="0x7f0a0073" />
-    <public type="string" name="confirm_shutdown" id="0x7f0a0074" />
-    <public type="string" name="app_name" id="0x7f0a0075" />
-    <public type="string" name="title_activity_long_sitting_time" id="0x7f0a0076" />
-    <public type="string" name="lab_desc" id="0x7f0a0077" />
-    <public type="string" name="unknown" id="0x7f0a0078" />
-    <public type="string" name="upgrade_checking" id="0x7f0a0079" />
-    <public type="string" name="left_hand" id="0x7f0a007a" />
-    <public type="string" name="right_hand" id="0x7f0a007b" />
+    <public type="string" name="bluetooth_turning_on" id="0x7f0a005f" />
+    <public type="string" name="bluetooth_turning_off" id="0x7f0a0060" />
+    <public type="string" name="bluetooth_enabled" id="0x7f0a0061" />
+    <public type="string" name="bluetooth_disabled" id="0x7f0a0062" />
+    <public type="string" name="bluetooth_unknown" id="0x7f0a0063" />
+    <public type="string" name="blt_confirm_ignore" id="0x7f0a0064" />
+    <public type="string" name="phone_finding" id="0x7f0a0065" />
+    <public type="string" name="phone_found" id="0x7f0a0066" />
+    <public type="string" name="phone_not_connected" id="0x7f0a0067" />
+    <public type="string" name="phone_not_found" id="0x7f0a0068" />
+    <public type="string" name="start_testing" id="0x7f0a0069" />
+    <public type="string" name="light_off" id="0x7f0a006a" />
+    <public type="string" name="light_auto" id="0x7f0a006b" />
+    <public type="string" name="light_on" id="0x7f0a006c" />
+    <public type="string" name="rise_no_bl_under_slpt" id="0x7f0a006d" />
+    <public type="string" name="subtitle_of_raise_hand_no_bl" id="0x7f0a006e" />
+    <public type="string" name="locale_title" id="0x7f0a006f" />
+    <public type="string" name="locale_applying" id="0x7f0a0070" />
+    <public type="string" name="zh_cn" id="0x7f0a0071" />
+    <public type="string" name="en" id="0x7f0a0072" />
+    <public type="string" name="zh_tw" id="0x7f0a0073" />
+    <public type="string" name="confirm_change_locale" id="0x7f0a0074" />
+    <public type="string" name="reset_factory_hint" id="0x7f0a0075" />
+    <public type="string" name="strong" id="0x7f0a0076" />
+    <public type="string" name="mid" id="0x7f0a0077" />
+    <public type="string" name="weak" id="0x7f0a0078" />
+    <public type="string" name="confirm_shutdown" id="0x7f0a0079" />
+    <public type="string" name="app_name" id="0x7f0a007a" />
+    <public type="string" name="title_activity_long_sitting_time" id="0x7f0a007b" />
+    <public type="string" name="lab_desc" id="0x7f0a007c" />
+    <public type="string" name="unknown" id="0x7f0a007d" />
+    <public type="string" name="upgrade_checking" id="0x7f0a007e" />
+    <public type="string" name="left_hand" id="0x7f0a007f" />
+    <public type="string" name="right_hand" id="0x7f0a0080" />
     <public type="style" name="PromptDialog" id="0x7f0b0000" />
     <public type="style" name="HMProgressBar" id="0x7f0b0001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f0b0002" />

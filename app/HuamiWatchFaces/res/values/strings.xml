@@ -25,6 +25,7 @@
     <string name="custom_data_widget_title_aq">空气质量</string>
     <string name="custom_data_widget_title_battery">电量</string>
     <string name="custom_data_widget_title_msg">未读消息</string>
+    <string name="custom_data_widget_title_date">Date</string>
     <string name="cube_month">-</string>
     <string name="cube_day" />
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>

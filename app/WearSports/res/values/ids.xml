@@ -211,6 +211,9 @@
     <item type="id" name="waiting_gps_failed">false</item>
     <item type="id" name="agps_expired_container">false</item>
     <item type="id" name="agps_expired_hint">false</item>
+    <item type="id" name="history_detail_sport_step_count_desc">false</item>
+    <item type="id" name="history_detail_sport_step_count">false</item>
+    <item type="id" name="history_detail_sport_step_count_unit">false</item>
     <item type="id" name="history_detail_sport_walking_cost_time_desc">false</item>
     <item type="id" name="history_detail_sport_walking_cost_time">false</item>
     <item type="id" name="history_detail_max_sport_speed">false</item>

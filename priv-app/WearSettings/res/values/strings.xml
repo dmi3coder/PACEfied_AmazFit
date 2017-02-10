@@ -100,6 +100,11 @@ and is nearby"</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
+    <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
+    <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
+    <string name="bluetooth_enabled">Bluetooth is ON</string>
+    <string name="bluetooth_disabled">Bluetooth is OFF</string>
+    <string name="bluetooth_unknown">Unknown state</string>
     <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
     <string name="phone_finding">Locating phone...</string>
     <string name="phone_found">Phone found</string>

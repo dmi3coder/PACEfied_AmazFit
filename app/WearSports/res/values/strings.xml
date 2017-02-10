@@ -272,6 +272,8 @@
     <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
     <string name="reminder_wear_not_tight_1">And tighten the band</string>
     <string name="gps_time_out_re_rearch">GPS has expired, please search again.</string>
+    <string name="walking_step_count">Step count</string>
+    <string name="walking_step">step</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>

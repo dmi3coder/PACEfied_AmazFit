@@ -21,6 +21,8 @@
     <string name="notification_alipay_default_pattern">支付宝</string>
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
+    <string name="delete_all_notifications">删除所有通知</string>
+    <string name="delete_all_notifications_confrim_content">删除后的通知不可恢复，是否继续？</string>
     <string name="quick_settings_no_disturb_mode">Theater Mode: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>

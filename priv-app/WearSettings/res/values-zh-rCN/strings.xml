@@ -91,6 +91,11 @@
     <string name="bluetooth_pairing_pin_error_message">PIN码或配对密钥不正确，无法与%1$s配对。</string>
     <string name="bluetooth_pairing_device_down_error_message">无法与“%1$s”进行通信。</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s 已拒绝配对。</string>
+    <string name="bluetooth_turning_on">正在打开蓝牙...</string>
+    <string name="bluetooth_turning_off">正在关闭蓝牙…</string>
+    <string name="bluetooth_enabled">蓝牙已开启</string>
+    <string name="bluetooth_disabled">蓝牙已关闭</string>
+    <string name="bluetooth_unknown">未知状态</string>
     <string name="blt_confirm_ignore">确定忽略此设备吗？</string>
     <string name="phone_finding">手机查找中...</string>
     <string name="phone_found">已找到</string>
