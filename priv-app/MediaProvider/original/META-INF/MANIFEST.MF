@@ -8,7 +8,7 @@ Name: res/mipmap-mdpi-v4/ic_launcher_gallery.png
 SHA1-Digest: W15ZLMSRFD9rmfYvfsS7/YG8b3U=
 
 Name: AndroidManifest.xml
-SHA1-Digest: TdLQkfEl+UiGJJj1QqlJSzE5SSU=
+SHA1-Digest: mxpflkfU3/Tu4oJxBiD5DbWX1SA=
 
 Name: res/drawable-mdpi-v4/ic_search_category_music_artist.png
 SHA1-Digest: V70ltOS4eXKHGnv+bti7RR1Fn5s=

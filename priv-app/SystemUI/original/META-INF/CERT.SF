@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: 0ApWEE7egttr7FI3cW0lNoDJwkU=
+SHA1-Digest-Manifest: HlRE44reIU7ipCr9B0aBm7jJNBg=
 
 Name: res/layout/keyguard_message_area.xml
 SHA1-Digest-Manifest: 37tlw4vukzJc/0UiXHu2ayZ+YAE=
@@ -1725,7 +1725,7 @@ Name: res/layout/zen_mode_panel.xml
 SHA1-Digest-Manifest: 9NzAGHaWIKulFE9CU1KfLNxLGYw=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: kv5i1iAfq1MgZeyQovCBiGNXcnk=
+SHA1-Digest-Manifest: uRtKUzdn2HqXktI3q5HwW0DacW0=
 
 Name: res/drawable/qs_background_primary.xml
 SHA1-Digest-Manifest: uwHNSwJuIp6z9ipvaxCZoFZuD+4=

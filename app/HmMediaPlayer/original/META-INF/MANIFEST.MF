@@ -419,7 +419,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: S1QXIAKwQLuFtEUtof+WUBTjMv8=
+SHA1-Digest: lNVk/nCbv2HxqliiwYTSfK2XsGk=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest: NSER6tk49pR0d2q5XZsuTAmAFfc=

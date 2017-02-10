@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: PEnHYq7tJg1LkKBpB3oT7aiK2c8=
+SHA1-Digest-Manifest: qfgvsdpb7NIJ5+T9bsMB5dDJnTc=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00187.png
 SHA1-Digest-Manifest: jQoW7IvGn5FpTwtrNQGkoz1gnCk=
@@ -36,7 +36,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate041.png
 SHA1-Digest-Manifest: YD7oGZcs+UOptflYP8r/AHZg1YI=
 
 Name: res/layout/activity_weather_fetch_error.xml
-SHA1-Digest-Manifest: SN8a3v95U9zwKpZTtcng/Xk1DW8=
+SHA1-Digest-Manifest: kC/IfrvhbytSlslb76LgPlr6bzE=
 
 Name: res/drawable/lan_quicksettings_icon_run_people.png
 SHA1-Digest-Manifest: mdsX2TEl93Azqzp1WC1PEKFDq0U=
@@ -72,7 +72,7 @@ Name: res/drawable/ic_empty.xml
 SHA1-Digest-Manifest: Ri8XvhnxwH9X7EIrGPYA0D5vKdI=
 
 Name: res/layout/launcher.xml
-SHA1-Digest-Manifest: mEeKfez3lrWHXpPmEZabigqys28=
+SHA1-Digest-Manifest: VJo/aI0Br1etgrfu5pwjmjqGQHk=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00165.png
 SHA1-Digest-Manifest: hCdxEZpsMisgwDnIp+vX3Cf2Vo4=
@@ -114,7 +114,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00210.png
 SHA1-Digest-Manifest: CUC8F0T0PBvScFpIzoebEGSk3Cw=
 
 Name: res/layout/quick_settings_chargingstatus.xml
-SHA1-Digest-Manifest: Xps0ASZ6UJbRLbSimS9EN5o/XCQ=
+SHA1-Digest-Manifest: 0FGJPEC2VF/xBS6toYBl7tW0cv4=
 
 Name: res/drawable-hdpi-v4/lan_weather_dust_bg.png
 SHA1-Digest-Manifest: mPOXp4eW7qqGq6OWPQt7A7fD9xw=
@@ -225,7 +225,7 @@ Name: res/drawable-hdpi-v4/lau_notify_call_buttom_hang.png
 SHA1-Digest-Manifest: T1LnnMhASNzMy9A1ffKd3CWwayM=
 
 Name: res/layout/generic_notification_more_action_item.xml
-SHA1-Digest-Manifest: AmCWb4WaI1pZJsxkA47a18S9aQg=
+SHA1-Digest-Manifest: zx4z5kY9BFhDdH/gDXIrALOPk1w=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00189.png
 SHA1-Digest-Manifest: g3h4+RA3vX+YTVMnkycCcgr84H4=
@@ -246,7 +246,7 @@ Name: res/drawable-hdpi-v4/generic_confirmation_00169.png
 SHA1-Digest-Manifest: K5TqudgYmYMtfBHTxxEe2Y6wFYk=
 
 Name: res/drawable/loadvector.xml
-SHA1-Digest-Manifest: YZgRuKGyQcYQwwPJMavRKWj9NDE=
+SHA1-Digest-Manifest: HlZKF9he13LLvMy9j6tEfX83i6Q=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_typhoon_bg.png
 SHA1-Digest-Manifest: fepUr5QC28s1fvTuOH6FEpxI5M4=
@@ -315,7 +315,7 @@ Name: res/drawable-hdpi-v4/lan_weather_snowstorm_bg.png
 SHA1-Digest-Manifest: iCLMj0GyLA6V9Miu+wh0zECtiEA=
 
 Name: res/layout/quick_settings_notifications.xml
-SHA1-Digest-Manifest: lFM3fAUxS+55nwfcQnsvXHxWofc=
+SHA1-Digest-Manifest: hXG+fKhCOz3Aes+3UJ/ppF/L5YI=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_gale.png
 SHA1-Digest-Manifest: tLYxh4AfDRk1+jFbqyofoqDgrZo=
@@ -375,7 +375,7 @@ Name: res/drawable-hdpi-v4/weather_details_icon_city.png
 SHA1-Digest-Manifest: j4tixtcU1w0nWme9p9IZHbKlO48=
 
 Name: res/layout/huami_watch_sports_notification.xml
-SHA1-Digest-Manifest: Bx24qnBOnZiqbXexYTqvsGrp6xA=
+SHA1-Digest-Manifest: JtDofGF5Mp4O0Svoh5l6MwcnvDY=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_icon_upgrade.png
 SHA1-Digest-Manifest: U09iUpoD7vdsPeQ0bLnueWkyo4o=
@@ -399,7 +399,7 @@ Name: res/drawable-xhdpi-v4/card_frame_pressed.9.png
 SHA1-Digest-Manifest: SmyIKMeJUu7aeZ/5YSTvsAx6udg=
 
 Name: res/drawable/loading_progress.xml
-SHA1-Digest-Manifest: JnQRBAaNfGiBvSoD3xHSEzJiRiU=
+SHA1-Digest-Manifest: +ly3wftSHvo5CDLYXKL1bAf27IQ=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate038.png
 SHA1-Digest-Manifest: sHZjs3OhRjNpRsDNysVvJrmOu30=
@@ -459,7 +459,7 @@ Name: res/drawable-hdpi-v4/lan_quicksettings_icon_light_off.png
 SHA1-Digest-Manifest: 2oas5Y/oXac+Yc+rwxrau3EkVPc=
 
 Name: res/layout-zh/generic_notification_iconified_content.xml
-SHA1-Digest-Manifest: +VhpYMmXfmp3hOoT1ux1qMDZ8m0=
+SHA1-Digest-Manifest: sVNlCZerAErxObqe/E4W8wa7Gyc=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00156.png
 SHA1-Digest-Manifest: buDBehUpXf8XcX/o799Ziej2MQ4=
@@ -513,7 +513,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00211.png
 SHA1-Digest-Manifest: I6yscDpYLRWd3aqntfBiCkh6/ME=
 
 Name: res/layout/quick_settings_toast.xml
-SHA1-Digest-Manifest: pXYQIdSI+fB7/QF1mGT9kEniKR4=
+SHA1-Digest-Manifest: qmzILoMsmTdZikEHzGz24wleq8I=
 
 Name: res/drawable-hdpi-v4/ic_ok.png
 SHA1-Digest-Manifest: pNLf5KIibuCexWvbPyqikX81fMY=
@@ -528,13 +528,13 @@ Name: res/drawable-hdpi-v4/lan_quicksettings_icon_phone_not.png
 SHA1-Digest-Manifest: vczC76Bqn8swzBKONiK6+vpcWg0=
 
 Name: res/layout/replay_list_item.xml
-SHA1-Digest-Manifest: WFdFD0JMJL6qSGTPU1vgsbkkry0=
+SHA1-Digest-Manifest: JMrepKDBb68WSsJ0n0L3+9K6dDE=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00171.png
 SHA1-Digest-Manifest: EjWUZtthvWU/tRyij1EmSk14ZeM=
 
 Name: res/layout/common_dialog_view.xml
-SHA1-Digest-Manifest: MXdzeNAeE/P3gPWqG6ECnlB/Nho=
+SHA1-Digest-Manifest: AoNpJRN3fNnVc6OwuBuhbehkAYM=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00161.png
 SHA1-Digest-Manifest: LinZpVfrXvDqQFLLdRrAi0IOhVQ=
@@ -570,7 +570,7 @@ Name: res/drawable-hdpi-v4/ic_qset_settings.png
 SHA1-Digest-Manifest: FKZnehuIo/OAs7BPiW3INUCgU6k=
 
 Name: res/drawable/progress_medium_material.xml
-SHA1-Digest-Manifest: XmPekXU/L03BQEhTD8MZKzIGCEQ=
+SHA1-Digest-Manifest: ec7Vw2pC3lMrE5UblJzoBBiq/I8=
 
 Name: res/drawable/quicksettings_auto_light.xml
 SHA1-Digest-Manifest: AQUqCbjcdkNALY8s8WylPsU3vDQ=
@@ -582,7 +582,7 @@ Name: res/drawable-hdpi-v4/lan_weather_warning_thunder.png
 SHA1-Digest-Manifest: ZVxyZFF+0J+5l5URjqL3UgCDMdA=
 
 Name: res/layout/watch_card_content.xml
-SHA1-Digest-Manifest: 5hE1THUL1xilzi5UnjOZjvGToI8=
+SHA1-Digest-Manifest: HgUZBHnWK5EUHKpuLfmke9jH78M=
 
 Name: res/drawable-hdpi-v4/sport_heart_max.png
 SHA1-Digest-Manifest: RPKxx4+VtkLjn2xeZbuKaq/Jvbw=
@@ -642,7 +642,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest-Manifest: Uc1jJe88/+JvzT1Q8ngPj2/ZiSQ=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: ucosC+TqpSvmAcMGFkQ/CzyD3mw=
+SHA1-Digest-Manifest: bTbNxERvbimmNzzcMKMT73eNR1Y=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest-Manifest: F8SW5wMR8Zxb3wvVtpWDcC8dqoY=
@@ -651,7 +651,7 @@ Name: res/drawable-hdpi-v4/lan_weather_warning_smog.png
 SHA1-Digest-Manifest: 1XWjnUxa4cEmyZEf2TuUpBQ93BQ=
 
 Name: res/drawable/progress_small_material.xml
-SHA1-Digest-Manifest: 2ExIggbUnJExLTes5RnvoD8Mb/k=
+SHA1-Digest-Manifest: Ub3dvSRs3PpTkf2BjmInVMoOQjY=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_icon_phone_on_64.png
 SHA1-Digest-Manifest: DT7iP8NkILPYYGt/mvITTeJceB8=
@@ -705,7 +705,7 @@ Name: res/drawable-hdpi-v4/ic_status_priority.png
 SHA1-Digest-Manifest: ENzi4QUf3dPMcoMk2cGD12OQUCI=
 
 Name: classes.dex
-SHA1-Digest-Manifest: HeXVysc3MzoMbnBcoZVYZHoINV4=
+SHA1-Digest-Manifest: vL4/++QWe40/eewSTzdg1KzRT2M=
 
 Name: res/drawable-hdpi-v4/lan_weather_moderate_rain_bg.png
 SHA1-Digest-Manifest: sTRpfPFLmap5/NidfVlUo7PboE8=
@@ -726,7 +726,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00192.png
 SHA1-Digest-Manifest: iV1MrauhrBDub+A4e73BSeaF2M0=
 
 Name: res/layout/replay_view.xml
-SHA1-Digest-Manifest: PW4Kc/7ytYHRfmL/T3EuvSIQjIc=
+SHA1-Digest-Manifest: R4oukbC8OYaq2sKLKxaTpfGAW+U=
 
 Name: res/drawable-xhdpi-v4/generic_confirmation_00166.png
 SHA1-Digest-Manifest: o1DL5AkfuwTo7uRf2aeDPc30GEg=
@@ -765,7 +765,7 @@ Name: res/drawable-hdpi-v4/slpt_notification_unread_icon.png
 SHA1-Digest-Manifest: OkDDHYhNBjVKYLV7NgnJ6SZn/dI=
 
 Name: res/drawable/progress_large_material.xml
-SHA1-Digest-Manifest: 50/5shRITToTT7PMDPlT0F9Kl5A=
+SHA1-Digest-Manifest: jY5q5Z3+cT0HgU5QY2GJRiFaR3c=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate044.png
 SHA1-Digest-Manifest: OzKEGxXI2tnyh4hcmbKjNq/NsI0=
@@ -792,7 +792,7 @@ Name: res/drawable/time_picker_ok_vector.xml
 SHA1-Digest-Manifest: yjIhdQxsbf+AJsNEti9nVDPjoKM=
 
 Name: res/layout/stream_topbar.xml
-SHA1-Digest-Manifest: eW2V5sD6g/tXINCEMegZbkffTu0=
+SHA1-Digest-Manifest: eEJoeXLZEW++g1trJtWU9NxbQ4M=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00165.png
 SHA1-Digest-Manifest: 2K3CnmpGFO7LlM0oo3139Lebxf8=
@@ -828,7 +828,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00186.png
 SHA1-Digest-Manifest: 9QX20ke+xG6fQZleH7G757oMyao=
 
 Name: res/layout/activity_weather_forecast_week.xml
-SHA1-Digest-Manifest: yTbP416IK+AqL3/6Ehbrc5ow4Bs=
+SHA1-Digest-Manifest: Mb2MprtQDm1z8K+gcKRMyHYQDQU=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00159.png
 SHA1-Digest-Manifest: wHA3U2IvySxMdJZZnFwcynmtaBI=
@@ -888,7 +888,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate032.png
 SHA1-Digest-Manifest: HN3dbaant2GLn96OMS0+/jYHDsA=
 
 Name: res/layout/notification_rom_update_card.xml
-SHA1-Digest-Manifest: urGqxH1N0FS6R3aDxK6/MKOELCo=
+SHA1-Digest-Manifest: Vm9WW7+5nAfRpUkLp1+f6ZYBz/k=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00223.png
 SHA1-Digest-Manifest: pTYKOG4JzjchpEBUwVufNS/Vovs=
@@ -909,7 +909,7 @@ Name: res/drawable-hdpi-v4/generic_confirmation_00186.png
 SHA1-Digest-Manifest: CqDkRaIsEDYSWPx6L9RMR283OS8=
 
 Name: res/layout/generic_notification_empty_content.xml
-SHA1-Digest-Manifest: 5dCupZEGGuX4/CN37ew4abHeDtA=
+SHA1-Digest-Manifest: Zai0b3KzHTKOn0bTC7Y+JOPaN0I=
 
 Name: res/drawable-xhdpi-v4/generic_confirmation_00173.png
 SHA1-Digest-Manifest: n4Ih8v/9E1nudIXZ2RgiO6smlFs=
@@ -936,7 +936,7 @@ Name: res/drawable-hdpi-v4/ic_sys_nophone_1bit.png
 SHA1-Digest-Manifest: zlLIhnmLqxV2yaAcADSeOGGi6fY=
 
 Name: res/layout-zh/notification_rom_update_card.xml
-SHA1-Digest-Manifest: i4zsmly+Az7CDCZryzDnXNjCjEo=
+SHA1-Digest-Manifest: 4GBitZi5ff8qtEcAAP8KZwNb/F8=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00159.png
 SHA1-Digest-Manifest: AveKbZY00+PbfyY/r/tR2644glQ=
@@ -948,7 +948,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00187.png
 SHA1-Digest-Manifest: eqfNoKKyEtMD9OUNxvJE/BIP9to=
 
 Name: res/layout/huami_watch_sport_notification_peek_content.xml
-SHA1-Digest-Manifest: uqUaEdd/ZxdvzL3OnPlrG+wMs88=
+SHA1-Digest-Manifest: 8339F+E/4N3P421ZqGV4WW/djDU=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00223.png
 SHA1-Digest-Manifest: ubYupcDxTTpA5cw6wturZlHC8K0=
@@ -1187,7 +1187,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00210.png
 SHA1-Digest-Manifest: AD3RTArtaRZ9XXHUVaQgkGUzgBU=
 
 Name: res/layout-zh/quick_settings_status.xml
-SHA1-Digest-Manifest: g6hUa7v/w3iRlwVEVQBF09Mc7vQ=
+SHA1-Digest-Manifest: c0FFPXAGqIjSNEFwbTiC+UMKqMM=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00194.png
 SHA1-Digest-Manifest: 54dxrGnRhWQO4osXH/+3EalK0Y4=
@@ -1228,6 +1228,9 @@ SHA1-Digest-Manifest: U+5inaLyOHUw60X/GSIK+RZEYZE=
 Name: res/drawable-hdpi-v4/lan_weather_sleet_bg.png
 SHA1-Digest-Manifest: LmlB6cP6G5AgzaJzZepIxCgmQag=
 
+Name: res/drawable-hdpi-v4/lau_notify_icon_delete.png
+SHA1-Digest-Manifest: VQll5bXIbi+WqkCK1FOC6+u2LVM=
+
 Name: res/drawable-hdpi-v4/go_to_phone_00224.png
 SHA1-Digest-Manifest: cvjHm0mFCUBdv8DPyRMle+w8w3E=
 
@@ -1262,7 +1265,7 @@ Name: res/drawable/vector_drawable_progress_bar_medium.xml
 SHA1-Digest-Manifest: V0k4hLxlwHcTRXC5tz/KGuArifA=
 
 Name: res/layout/generic_notification_iconified_content.xml
-SHA1-Digest-Manifest: bIvlwa/kVdhlvFcQsdQBnuPB6vI=
+SHA1-Digest-Manifest: uk0bouQg73KrxY7kSuVtwRKDsJ0=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_icon_language.png
 SHA1-Digest-Manifest: 3b4A7vjAwmJX0x+rz45XjgSao4U=
@@ -1368,7 +1371,7 @@ Name: res/drawable-hdpi-v4/ic_now_place_white.png
 SHA1-Digest-Manifest: D27gRQsZjvTHIeN5thObwKT7T/c=
 
 Name: res/layout-v20/watch_card_content.xml
-SHA1-Digest-Manifest: HNySN2mB9P30It8vraPZbdOGEoc=
+SHA1-Digest-Manifest: 4OW+5l4No1ZtXNlvOMAo63Q8dog=
 
 Name: res/drawable-hdpi-v4/lan_weather_warning_fog.png
 SHA1-Digest-Manifest: w3QLhg1HqOLeaCQrbD85+AHvdPc=
@@ -1383,7 +1386,7 @@ Name: res/drawable-hdpi-v4/lan_weather_warning_frost_bg.png
 SHA1-Digest-Manifest: rIGe5D66gO/EC4RUyyrJX6m6CPw=
 
 Name: res/layout/huami_watch_weather_notification_item.xml
-SHA1-Digest-Manifest: 7HgMBT/zTXkAqrQcKeT+87OuKjo=
+SHA1-Digest-Manifest: 556uXx2BZghCICmYQMYv9vJrmpE=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00189.png
 SHA1-Digest-Manifest: AbWkUeJ2cZbLJLYoKDrtmY98Z9I=
@@ -1437,7 +1440,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00173.png
 SHA1-Digest-Manifest: CKaXYKpzM+7bDgUHLlZFylyIPEM=
 
 Name: res/layout/picker_positive_button.xml
-SHA1-Digest-Manifest: 2RZnNowGN2E3u0pluJR8boRJCgo=
+SHA1-Digest-Manifest: dVWnUYpt3VxCdTebeoxKF9n65hs=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00158.png
 SHA1-Digest-Manifest: JSm9N4mbfisTEm0KWkmhZoLYKcE=
@@ -1446,7 +1449,7 @@ Name: res/drawable/vector_drawable_progress_bar_small.xml
 SHA1-Digest-Manifest: s8dl88QdkaEuEvKmXwc0+D9NN8A=
 
 Name: res/layout/activity_watchfacepicker.xml
-SHA1-Digest-Manifest: EsMFr4d/NmY60/VrkUVe37z6MSM=
+SHA1-Digest-Manifest: HHlsdhl75t8E8ZECP7jl3Lj5Ga0=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate014.png
 SHA1-Digest-Manifest: nEVxhJlN5OsAxLdz4qpYM6Ssarg=
@@ -1458,7 +1461,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00167.png
 SHA1-Digest-Manifest: j8UbB95XAbbhLw5L8k1zbWypJdA=
 
 Name: res/layout/weather_no_data_alert_dialog.xml
-SHA1-Digest-Manifest: UyUrlHUyiohyWmMJfzgVmayMbeY=
+SHA1-Digest-Manifest: vsEvKweVuhweMdKnps8cCIkauE4=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00221.png
 SHA1-Digest-Manifest: D7TH8fjaiKN1jhqBRfbTBp/gTuY=
@@ -1509,7 +1512,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00218.png
 SHA1-Digest-Manifest: Dg4V9zmaUyboNga+xtTzQEnaod0=
 
 Name: res/layout/quick_settings_status.xml
-SHA1-Digest-Manifest: 8L6NXdx1xsFTerbiE5Ws98B4N0o=
+SHA1-Digest-Manifest: EcmlW3AypUEfpVbvGKZNtjYZSTE=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00212.png
 SHA1-Digest-Manifest: cD9vYQPkOHifKDopRDdR8mGm7Sk=
@@ -1566,7 +1569,7 @@ Name: res/drawable-hdpi-v4/go_to_phone_00167.png
 SHA1-Digest-Manifest: TMp9TdBq4IzTk4nZlexnRGkyxlA=
 
 Name: resources.arsc
-SHA1-Digest-Manifest: v+M241yH7uPkvkYERLQDQUgcKAI=
+SHA1-Digest-Manifest: 8YUrIJR4U6VCMkjHwxm0f/9E0FA=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00223.png
 SHA1-Digest-Manifest: rryxOtcj8j22vvJ1LG8Uge6QjqI=
@@ -1587,7 +1590,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00185.png
 SHA1-Digest-Manifest: yM2xj2xx9dzZ4k2+FzfNucZjL4g=
 
 Name: res/layout/generic_notification_peek_content.xml
-SHA1-Digest-Manifest: wMk0Z89niuJNSpkEkVGxAkPD/Nk=
+SHA1-Digest-Manifest: /ve1YVYN63LWwfvQ6p7BFNC5U68=
 
 Name: res/drawable-hdpi-v4/lan_quicksettings_line2.png
 SHA1-Digest-Manifest: gOrnGK9hkYxdM7niX+xhZsQiN7o=
@@ -1644,7 +1647,7 @@ Name: res/drawable-hdpi-v4/lan_weather_warning_temperature.png
 SHA1-Digest-Manifest: Jx95KR/pLRzxUFNkU1jUhuINgBI=
 
 Name: res/layout/laucher_toast.xml
-SHA1-Digest-Manifest: BjN7x3+GffHm4t7IFMC8zWv40xU=
+SHA1-Digest-Manifest: UwcJ6IQ2iEcN4grhgFy1NL8T9WM=
 
 Name: res/drawable-hdpi-v4/ic_sys_charge_1.png
 SHA1-Digest-Manifest: FR7mZs/lj19MsOJtLQR8sDqWP+8=
@@ -1685,6 +1688,9 @@ SHA1-Digest-Manifest: gVn2HXM0/9aAqWxa01aJIFEDTZU=
 Name: res/drawable-hdpi-v4/ic_sys_zen_1bit.png
 SHA1-Digest-Manifest: cN+OTMgj4H0xAqyDGc+SEhhnXtg=
 
+Name: res/layout/delete_all_notifications.xml
+SHA1-Digest-Manifest: x0+Og4OqM4H+ehG4GKtWB8e1P78=
+
 Name: res/drawable-hdpi-v4/generic_confirmation_00190.png
 SHA1-Digest-Manifest: P4CKEDV9aPdmrZv6y7s8n4AfWbY=
 
@@ -1710,7 +1716,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00200.png
 SHA1-Digest-Manifest: CmfF6uUq+cElFESQDCmhrs/ukPw=
 
 Name: res/layout/notification_rom_update_click_view.xml
-SHA1-Digest-Manifest: pL4wi68lihLCVmbdiWmHjRezO44=
+SHA1-Digest-Manifest: /q5lX2A/ZGEg8PoaIpz93/qhzUw=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00211.png
 SHA1-Digest-Manifest: gYK2Wyl9YLUO85lWaX+2Gezgobg=
@@ -1728,7 +1734,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate006.png
 SHA1-Digest-Manifest: n1K5ApEtBohKbcatDTJDaHJQkf0=
 
 Name: res/layout/watchface_list_item.xml
-SHA1-Digest-Manifest: GOfjYfDsR87g9+YJdrxIwzBBjS4=
+SHA1-Digest-Manifest: TJdTmA3CaGsPMAoynpNlu0ZC8EE=
 
 Name: res/drawable-hdpi-v4/lan_weather_sand_storm_bg.png
 SHA1-Digest-Manifest: cdwY7svrt99/mBKajbhDDR7pHUg=
@@ -1737,7 +1743,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate034.png
 SHA1-Digest-Manifest: /h6rxdYVOPMowIwSyOgspXBoT1A=
 
 Name: res/layout/generic_notification_action_first.xml
-SHA1-Digest-Manifest: t0RDnmSiRhw97BSbLSr4A8tQAUE=
+SHA1-Digest-Manifest: k9P1yJab2em6VHMdo/+ZLWNnlAs=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00221.png
 SHA1-Digest-Manifest: GA035hd/F4/zPjwrZypH1Af24tA=
@@ -1758,7 +1764,7 @@ Name: res/color/card_grey_text_color.xml
 SHA1-Digest-Manifest: cn0o2fHWr8uveiwnTbKBY6SeAyM=
 
 Name: res/layout/secondary_status_bar.xml
-SHA1-Digest-Manifest: l9tuwqapw6gvIYxWaqSbF0u6MpQ=
+SHA1-Digest-Manifest: nwAP+xlfmuT5mILDlhM+Z8EosbI=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00189.png
 SHA1-Digest-Manifest: pe/EByBX0ceiwXY1LktzNCeGIo8=
@@ -1809,7 +1815,7 @@ Name: res/drawable/charging_level_icon.xml
 SHA1-Digest-Manifest: y8P+PAwBuPzz2TXbA0HLl0HktPY=
 
 Name: res/layout/picker_column.xml
-SHA1-Digest-Manifest: qdhiGgR9Fb7W+H9x5dfs0t7xAyE=
+SHA1-Digest-Manifest: FRNndH26lDTq9pCAHwmfXdPaJC0=
 
 Name: res/drawable-hdpi-v4/ic_launcher_text.png
 SHA1-Digest-Manifest: 5yy7l4lKGYzYO/GcG5LmJoOewGE=
@@ -1842,7 +1848,7 @@ Name: res/drawable-hdpi-v4/ic_battery_3.png
 SHA1-Digest-Manifest: w1tjZcN62Wq/dcV3Omik/9+a1QE=
 
 Name: res/layout/generic_notification_action.xml
-SHA1-Digest-Manifest: mkHHCmAn+g7t7i85Ngxls9Xbzo8=
+SHA1-Digest-Manifest: CtxoGfMPXNnVf7fHwS5LDwAcV0s=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate001.png
 SHA1-Digest-Manifest: 8YLdJK+SFMnJKiA58OrB6G0U7MI=

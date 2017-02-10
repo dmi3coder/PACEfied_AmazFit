@@ -104,7 +104,7 @@ Name: resources.arsc
 SHA1-Digest: Vr16q+jXViq3sXDzZ7PiGbISMUo=
 
 Name: AndroidManifest.xml
-SHA1-Digest: ky47cKqkWv/ppL6nEkok8sEbirE=
+SHA1-Digest: 64LTMe+MMxR0gw2QabmfsrHEOQI=
 
 Name: res/drawable-hdpi-v4/settings_common_buttom_continue_96.png
 SHA1-Digest: vJdivZxoGTIK/to7Q1Br6/PXfw4=

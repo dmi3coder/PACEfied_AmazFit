@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: sow2AZOppqqtJgBmo6kR+djrt5o=
+SHA1-Digest-Manifest: uyDyqtB19PFCEtLusGSk4sMSlEY=
 
 Name: res/layout/no_transfers.xml
 SHA1-Digest-Manifest: WXWzdM3ODC0dKxPqsGS6kX5h47c=
@@ -51,7 +51,7 @@ Name: res/layout/bluetooth_transfer_item.xml
 SHA1-Digest-Manifest: +jVFu3Bt5nZTBTdPorn7birTn8c=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: iOvKygmYwsy9SRsvNlQQfSw+BFo=
+SHA1-Digest-Manifest: vTcv3wUaWRbauJmOQOQQDBIyCLI=
 
 Name: res/layout/confirm_dialog.xml
 SHA1-Digest-Manifest: 9aMsrXuO3iW1W9k/Ye0p/0Uux2U=

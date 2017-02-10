@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: kR9TIW0BkR/MeMVmYvJK0NaNc/E=
+SHA1-Digest-Manifest: bEFLooATPZtf87R/svx7wYoi0xU=
 
 Name: assets/slpt-analog-green/day_29.png.color_map
 SHA1-Digest-Manifest: +bv2fsa84PedSLJEy0TtE4ePHmg=
@@ -886,11 +886,11 @@ SHA1-Digest-Manifest: DHApU4cfkVbqH9HNMKQPHfcmMl0=
 Name: assets/typeface/huamidigital.ttf
 SHA1-Digest-Manifest: OHsH/0R3YxhAL31vsNBO/nicAew=
 
-Name: assets/guard/chengshijinying/hour_4.png.color_map
-SHA1-Digest-Manifest: R5F8u9Ij0qzjrhGafTlcvVm+APQ=
-
 Name: res/drawable-nodpi-v4/sport_watch_two_kaluli.png
 SHA1-Digest-Manifest: FZDrsbVYT3Rxb2kMzU2OsCpN3hc=
+
+Name: assets/guard/chengshijinying/hour_4.png.color_map
+SHA1-Digest-Manifest: R5F8u9Ij0qzjrhGafTlcvVm+APQ=
 
 Name: assets/timehand/02/8c/hour_9.png.color_map
 SHA1-Digest-Manifest: Rz78Fbe2hx2Y7vPWuek8m2V0rZk=
@@ -1136,7 +1136,7 @@ Name: assets/guard/lonelytrack/power_6.png
 SHA1-Digest-Manifest: oadx5xvEUOJwCHKDo50RGWKscwI=
 
 Name: res/layout/custom_watchface_grid.xml
-SHA1-Digest-Manifest: QCpxJqN03nOh4lvm5Gic+r+P1Vc=
+SHA1-Digest-Manifest: uYx4yFUBNC+rrs37HpCHsyLZ4Eg=
 
 Name: assets/guard/chengshijinying/battery_0.png
 SHA1-Digest-Manifest: hr40YcLtMRCvnHQW4bd5HASQuJQ=
@@ -1576,6 +1576,9 @@ SHA1-Digest-Manifest: 5MAE5YTafuSGwRcmVf+qfbckwLI=
 Name: res/drawable-nodpi-v4/six_battery_12.png
 SHA1-Digest-Manifest: o3e9ygwyZnTCChx5NTFS8PpJ1cI=
 
+Name: assets/datawidget/mask_3_bg.png
+SHA1-Digest-Manifest: UXlSsoqgof1SPfBcUuBsXMzwhdM=
+
 Name: assets/guard/jingdian/minute_14.png.color_map
 SHA1-Digest-Manifest: M9qsivZ7C5v/oU3My/eSnT/2sKc=
 
@@ -1815,7 +1818,7 @@ Name: assets/guard/IamRunner/week_3.png
 SHA1-Digest-Manifest: K16ToRXlp5AZYsHw8EqVgCQPgDw=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: R/cvQ3HVyKSumrZr4sPinDaNJnY=
+SHA1-Digest-Manifest: QARxVV02miBhitCMb39eKfkiYiE=
 
 Name: res/drawable-nodpi-v4/watchface_default_thirteen_hour.png
 SHA1-Digest-Manifest: 0f99ZyLZxGDja/RO+Z8JIeM4D5w=
@@ -2329,7 +2332,7 @@ Name: res/drawable-nodpi-v4/watchface_six_step_bar.png
 SHA1-Digest-Manifest: 8bT3qLk84VbwKAKyBcbgaBz/FWU=
 
 Name: res/layout/picker_positive_button.xml
-SHA1-Digest-Manifest: h6z3T2iTzt3kdIxFakiGHRFRj6g=
+SHA1-Digest-Manifest: t1sSZnqzIFoTZw8xaB4+Hm7yteM=
 
 Name: assets/guard/lonelytrack/en/week_4.png
 SHA1-Digest-Manifest: Wjr8KFAR4qhMwnDNLUS0xgY8Yfc=
@@ -2727,12 +2730,12 @@ SHA1-Digest-Manifest: KJ/48C4TEsk4xWgmIHLEQ7DuHig=
 Name: assets/guard/jisudidai/week_6.png
 SHA1-Digest-Manifest: qVN/7uTXO4rj1Sp+58VxpBCPQ2s=
 
-Name: assets/guard/manbuqingchun/week_5.png
-SHA1-Digest-Manifest: FgqBCr+/i8JOW0Rx7SpYc/v7ofI=
-
 Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceFourteen/w
  atchface_default_fourteen_bg_2.png
 SHA1-Digest-Manifest: MmbSonwnP3KAkFo12/Qkb1unK0A=
+
+Name: assets/guard/manbuqingchun/week_5.png
+SHA1-Digest-Manifest: FgqBCr+/i8JOW0Rx7SpYc/v7ofI=
 
 Name: assets/guard/lonelytrack/step_1.png
 SHA1-Digest-Manifest: OaWWJMyOz1hKmgQPdjT8dnNAT+o=
@@ -3804,6 +3807,9 @@ SHA1-Digest-Manifest: /L4s9QQq1433msQLuXh0Pig1INI=
 Name: assets/timehand/02/8c/hour_3.png.color_map
 SHA1-Digest-Manifest: JSJuYSIGiccjY+WpYEgVot/rqAI=
 
+Name: assets/sport/sport_slpt_step_long.png
+SHA1-Digest-Manifest: 7SIRpRBTTwCScGRtkoo7c7/W5Fo=
+
 Name: assets/guard/shiguanglicheng/watchface_slpt_number_km.png
 SHA1-Digest-Manifest: iFNzEJHcZnfSaTPk2kkY+PTfwak=
 
@@ -3910,6 +3916,9 @@ SHA1-Digest-Manifest: IzH8mG5ZiosdstzI1YfvS3cvJiQ=
 Name: assets/datawidget/mask_2_fg.png
 SHA1-Digest-Manifest: Qk3LX4YgQuKQazsWe/DTRfqfQlg=
 
+Name: assets/datawidget/mask_3_fg.png
+SHA1-Digest-Manifest: mhUk8nuTB7cF5orxmOa1an63Rh4=
+
 Name: assets/sport/num_4.png
 SHA1-Digest-Manifest: VZb80XB5n9rhq2qxYWhCa7zK8wA=
 
@@ -3940,6 +3949,9 @@ SHA1-Digest-Manifest: Zx1bi4EyfsXA7ySG1DvQ3s4bPdQ=
 
 Name: assets/sport/sport_slpt_heart_burning.png
 SHA1-Digest-Manifest: pBkUDtiWmHhRlsPfrSGeH7fkwps=
+
+Name: assets/sport/sport_slpt_step.png
+SHA1-Digest-Manifest: LTECX6B2AF/ls5ijsmqEHGjWXxs=
 
 Name: assets/guard/chengshijinying/week_2.png
 SHA1-Digest-Manifest: 8T6lepAfrvOEsp2T4hwU7WSPC+o=
@@ -4530,7 +4542,7 @@ Name: assets/guard/jisudidai/small_9.png
 SHA1-Digest-Manifest: a5STcp3O9Gz7Bz2uvXQPxeby40I=
 
 Name: classes.dex
-SHA1-Digest-Manifest: T78EbihH2F38YUoyFTJzq1M3EIo=
+SHA1-Digest-Manifest: mFiw0zntehkvBUs8cIjdht4Gl+U=
 
 Name: assets/guard/xiaohuli/en/watchface_low_power.png
 SHA1-Digest-Manifest: JVXE078awqmptg1iULfTQh5daHk=
@@ -4702,11 +4714,11 @@ SHA1-Digest-Manifest: 6Rs+WQo23U3/DxgucTlqjzBZm20=
 Name: res/drawable-nodpi-v4/watchface_default_stripe_bg.png
 SHA1-Digest-Manifest: GluVNGeox7ilQzRJKShiIBseovA=
 
-Name: assets/guard/lonelytrack/power_num_9.png
-SHA1-Digest-Manifest: DDeRKmsjf+1/u8doLmsEKNFZcHk=
-
 Name: res/drawable-hdpi-v4/loading_progress_animate052.png
 SHA1-Digest-Manifest: wgcYW5JPnP8+JmeoFVz3De4aod4=
+
+Name: assets/guard/lonelytrack/power_num_9.png
+SHA1-Digest-Manifest: DDeRKmsjf+1/u8doLmsEKNFZcHk=
 
 Name: assets/guard/chengshijinying/battery_9.png
 SHA1-Digest-Manifest: DtyF8t2ytbmgUxB2tddWWD+pNIg=
@@ -4986,6 +4998,9 @@ SHA1-Digest-Manifest: dAkL27R7fm9RCt+aRR/G2Tx9ULw=
 Name: assets/guard/jingdian/minute_02.png.color_map
 SHA1-Digest-Manifest: A9yrD13K0uackCJyQPQoOyL2I6c=
 
+Name: assets/datawidget/preview_6_0.png
+SHA1-Digest-Manifest: 7ZlV0pJWFwsHDPXuPgFfY7sFJOE=
+
 Name: res/drawable-nodpi-v4/watchface_custom_fun_icon_calories.png
 SHA1-Digest-Manifest: hYPGxPjiCqR8cW+29iSpyOU6GeQ=
 
@@ -5033,7 +5048,7 @@ Name: assets/guard/lonelytrack/power_3.png
 SHA1-Digest-Manifest: O4h/5aeIadDQptyR+X5bMH+6YZY=
 
 Name: assets/sport/sport_slpt2_bg.png
-SHA1-Digest-Manifest: 4HDrvKd/EGpduDIy0h5mnVSR4jE=
+SHA1-Digest-Manifest: K/Ph/stXhJ1Qx76ri6TPztYJzxg=
 
 Name: res/drawable/vector_drawable_progress_bar_small.xml
 SHA1-Digest-Manifest: s8dl88QdkaEuEvKmXwc0+D9NN8A=
@@ -5141,7 +5156,7 @@ Name: assets/guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/a
 SHA1-Digest-Manifest: 8wZG4HgWFZ68jY5lCmU7QNSZHfU=
 
 Name: resources.arsc
-SHA1-Digest-Manifest: HT2HexXPnUx9FeEpzSHR1N1o6WI=
+SHA1-Digest-Manifest: u+7cfy5KL9g7SF6UYEqqPdD22kU=
 
 Name: assets/timehand/02/8c/hour_0.png.color_map
 SHA1-Digest-Manifest: NCkEziueg2mQ4P9jfBYk3XBfyFs=

@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: benbE4aAmtohEgXlX9d6mEs8lQs=
+SHA1-Digest-Manifest: XF+hDR+KlY2MQdqqzTsJ1IzRv5Y=
 
 Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
 SHA1-Digest-Manifest: SaDD3UOyO7/bZBBycNChDjbsY4g=
@@ -39,7 +39,7 @@ Name: res/layout/wifi_protal_view.xml
 SHA1-Digest-Manifest: M+jBE+0SAMuai8zLqw5uliEITWU=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: 3JYI9t/jU/E45d6U+JN5vogJqn0=
+SHA1-Digest-Manifest: nLDdsL9248Yxfwaub2unMeGPuKA=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: eAe4aQ3DNPRP6pSEW0HgZPPU5nE=

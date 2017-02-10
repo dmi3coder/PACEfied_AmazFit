@@ -17,7 +17,7 @@ Name: resources.arsc
 SHA1-Digest: 8+Dn2qX9H78+G54jOg8FDnhrCrc=
 
 Name: AndroidManifest.xml
-SHA1-Digest: frL0giufF3Q9QV9IVC0xLupvI7s=
+SHA1-Digest: /VZGsA0jHHb38x1OaHnxMpUiKFw=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest: KhYs3OgngrsQpHbyXG/jm5H+8wU=

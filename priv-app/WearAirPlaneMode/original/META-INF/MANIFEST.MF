@@ -203,7 +203,7 @@ Name: res/drawable-hdpi-v4/settings_common_buttom_continue_96.png
 SHA1-Digest: vJdivZxoGTIK/to7Q1Br6/PXfw4=
 
 Name: AndroidManifest.xml
-SHA1-Digest: OJBGH4ncbVAOefdqDUlmZPRchEo=
+SHA1-Digest: pMOcsvomtCSkAmXGUMWH5ysHfZA=
 
 Name: res/drawable/progress_small_material.xml
 SHA1-Digest: cVhVGS1Su+S/OKREQY1t88o4mVE=

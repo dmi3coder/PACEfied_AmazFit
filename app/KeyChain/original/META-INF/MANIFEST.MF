@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: 1.7.0_79 (Oracle Corporation)
 
 Name: AndroidManifest.xml
-SHA1-Digest: EJ2/KLHgsaYacn2PrXQw80pNMQk=
+SHA1-Digest: zd7ruqxR3b2H+ny8lYiZF3asATQ=
 
 Name: res/layout/cert_chooser.xml
 SHA1-Digest: DjBVmnYNuhk28wamuXCfY03hP7I=

@@ -38,7 +38,7 @@ Name: res/layout/install_confirm.xml
 SHA1-Digest: U26ysnWYf5zYaXKGQmbfPNo/Qeg=
 
 Name: AndroidManifest.xml
-SHA1-Digest: +QBq+ZPSt9ZYlX7FmbRA8R9p9X0=
+SHA1-Digest: ebFc5P9yy9IqSw4Fx+R/fC9MWiY=
 
 Name: res/drawable-mdpi-v4/ic_fail.png
 SHA1-Digest: PI/8fABk6B7zFRetNI1n5vKOQ0o=

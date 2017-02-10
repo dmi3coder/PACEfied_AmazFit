@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: mn5Hn9XAkcUl/v22C8N8kz0AGpw=
+SHA1-Digest-Manifest: jfybWzweFICcYCx2ckJ1qR9Kq5Q=
 
 Name: res/drawable-xxhdpi-v4/ic_launcher.png
 SHA1-Digest-Manifest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
@@ -51,7 +51,7 @@ Name: res/drawable-xxhdpi-v4/noti_icon_get_medal.png
 SHA1-Digest-Manifest: fyeFx//YYceTaQxrCxP8Ci/XliA=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: MZH7ARJ/Ld0SpniGoCdryFtgyU0=
+SHA1-Digest-Manifest: H0zUd+wU0zujpzGSn99s8qjlQRk=
 
 Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
 SHA1-Digest-Manifest: 8l5YsBqfE8NY77QrW4UD6o9Uuvs=
@@ -87,7 +87,7 @@ Name: res/drawable-xxhdpi-v4/lan_weather_cloudy.png
 SHA1-Digest-Manifest: 1EQ71ajgWBvazpHPQVXh9qUbo1I=
 
 Name: classes.dex
-SHA1-Digest-Manifest: GplppdBqe+JpPPu1pRE4eI85npQ=
+SHA1-Digest-Manifest: +pQIVrptKEgLh3cDdwV4voHq4/M=
 
 Name: res/drawable-xxhdpi-v4/notif_icon_long_sit.png
 SHA1-Digest-Manifest: uDkV3Oh3+WNjwmaVBd1SCD6Z/D8=

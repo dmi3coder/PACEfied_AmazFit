@@ -584,7 +584,7 @@ Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
 SHA1-Digest: p9584WImSwr0082/N/zkcvVq7yo=
 
 Name: AndroidManifest.xml
-SHA1-Digest: 9duCuQ4GOvuBYbhD9VNAPhCG7+U=
+SHA1-Digest: ss8oLZ56+t9p9ZfF7lKOA0VLYiI=
 
 Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
 SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=

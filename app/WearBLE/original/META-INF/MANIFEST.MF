@@ -38,7 +38,7 @@ Name: res/drawable-hdpi-v4/resume_click.png
 SHA1-Digest: q271OL/RABrbG4+yxiCcVCbz20w=
 
 Name: AndroidManifest.xml
-SHA1-Digest: QkL828DQktzCCbbArpwy+hfpJSA=
+SHA1-Digest: 16DR+zVngkAmkCjY5lZ6YnQnwR0=
 
 Name: res/drawable-hdpi-v4/start.png
 SHA1-Digest: FkH4a78B5LnVoEXLxewXmcgOjW0=

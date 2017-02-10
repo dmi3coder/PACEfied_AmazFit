@@ -8,7 +8,7 @@ Name: res/drawable-hdpi-v4/sport_notice_start.png
 SHA1-Digest: BhISMnrvMo99CRLwb5Z2kZxVWdo=
 
 Name: res/layout/list_item_medal.xml
-SHA1-Digest: x4YJXZO2xzYjYOBSU1sgUTnHnD8=
+SHA1-Digest: BuwzVxbjE7HcF371yktt8BSUmj0=
 
 Name: assets/voice/96.mp3
 SHA1-Digest: HcMsMEY+23yyaF6+6gneYJRmfKU=
@@ -116,7 +116,7 @@ Name: res/layout/fragment_indoor_riding_history_detail.xml
 SHA1-Digest: HkQvZ1/BdgVpNxVCwbP4pJDJIxA=
 
 Name: res/layout/remind_trainning_pace_content_custom_view.xml
-SHA1-Digest: GedP5rXmrVZMiq8pgBARjT+elx4=
+SHA1-Digest: EDA1hqxCBFIdcU14Ys3w/FOE1bo=
 
 Name: assets/voice/46.mp3
 SHA1-Digest: 19DuCNr4aCoPKbdiUoBMbIhxMsY=
@@ -303,7 +303,7 @@ Name: res/drawable-hdpi-v4/sport_notify_icon_medal.png
 SHA1-Digest: RWUco01kdwwF9J41eksaoDYrzBk=
 
 Name: res/layout/music_not_found_alert_dialog.xml
-SHA1-Digest: /D/DQghTFDWN9HBgoN5Gn2N01X4=
+SHA1-Digest: mk83obQtl5zoktTLF4tpT4RqgN8=
 
 Name: res/drawable-hdpi-v4/generic_confirmation_00185.png
 SHA1-Digest: XY/EMkXetiTQ2nPzcLbRV4ak2tc=
@@ -375,7 +375,7 @@ Name: assets/voice/16.mp3
 SHA1-Digest: aKcTzcKM4tY200eXrmIZPxb363A=
 
 Name: res/layout/list_header_sport_info.xml
-SHA1-Digest: 3iCCmBEEzxPKZMbuIfQmCw7JMco=
+SHA1-Digest: e/mQGlEQtd1gHnI+6NO7uTx0aa8=
 
 Name: res/drawable-hdpi-v4/sport_tips_arrow1.png
 SHA1-Digest: tePPhcHynqY7CImjrZ/QhZm6/Gc=
@@ -492,7 +492,7 @@ Name: assets/voice/62.mp3
 SHA1-Digest: D2MDQq21vTpLPOEte/GQUgobYBg=
 
 Name: res/layout/list_header_sport_start.xml
-SHA1-Digest: /Ga09DWAsjPPo0EfeWVRbHA3RbI=
+SHA1-Digest: ML9KrJRj9yhD1c0xsbbMU8NLI2w=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00213.png
 SHA1-Digest: i0Auj1iMpz4hOa7I3adjnHOl7RA=
@@ -543,7 +543,7 @@ Name: res/drawable-hdpi-v4/sport_medal_01.png
 SHA1-Digest: /ZhTvkkq7UEmUjBcSpAk4o/X3ck=
 
 Name: res/layout/launcher_widget_view.xml
-SHA1-Digest: ldteieukg8u+wPiodyTSntiwY/w=
+SHA1-Digest: XjnrYOpTnSkVDdHQW3QGY66cwk4=
 
 Name: res/drawable-hdpi-v4/sport_gps_search_icon_4.png
 SHA1-Digest: XQxBeP/N0Ep7LWdLAjIVOjEfbiQ=
@@ -648,7 +648,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00218.png
 SHA1-Digest: kvsHGcws0lUIX7mQr3POccQaUfA=
 
 Name: res/layout/sport_notification_content.xml
-SHA1-Digest: 8HWpzb7xYVRsNd3wUsNMEhPsOVw=
+SHA1-Digest: +UYNH2NBOuuj5jNlZ08lwcuzofA=
 
 Name: assets/voice/12.mp3
 SHA1-Digest: 4QmGALDPi8mowiaOKvbtvZGvMPw=
@@ -921,7 +921,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00212.png
 SHA1-Digest: 2ttiTnIN3VdlHH+8dnfTnQsU/mk=
 
 Name: res/layout/remind_custom_view.xml
-SHA1-Digest: dp81VVO34AH6vlgW5GfUchpZoGU=
+SHA1-Digest: th1mtYUZYoX+ad0+Qa5p3PNn1AA=
 
 Name: res/drawable-xhdpi-v4/ic_full_cancel.png
 SHA1-Digest: jaAGEuz9Ok+ge9IJtj+ZLeRx3mA=
@@ -1006,7 +1006,7 @@ Name: res/drawable-hdpi-v4/loading_progress_animate037.png
 SHA1-Digest: 1hBRZ98U910GF8owv54dCEbU1+E=
 
 Name: res/layout/pop_window_lockscreen.xml
-SHA1-Digest: p9wh3Mf4C3wKGfnCCWBEo9dFJKk=
+SHA1-Digest: nFh/sP4X55ruOK2jUQiUDoFgVx0=
 
 Name: assets/voice/85.mp3
 SHA1-Digest: 6C2kjINabCAlhZlhwC5WtHz3H/4=
@@ -1124,7 +1124,7 @@ Name: res/drawable-hdpi-v4/sport_alert_target.png
 SHA1-Digest: /7YO5M5+jZlHahOEccAdhetf+Ag=
 
 Name: res/layout/picker_column.xml
-SHA1-Digest: LqYDu18mwzm3VIaQJ2Gt9MWpLvQ=
+SHA1-Digest: tsbzMUyY/tZguz/1iwaqzsrZr14=
 
 Name: res/drawable-hdpi-v4/sport_menu_music.png
 SHA1-Digest: 6E3DmtDYX9DInBQjASIg/sG82OU=
@@ -1217,7 +1217,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00165.png
 SHA1-Digest: FpUGgKYhqH13vScsKUYCBxqdhvc=
 
 Name: res/layout/music_not_connect_ble_alert_dialog.xml
-SHA1-Digest: JBTgLHp0OcBWiV5q6DQFuzc0hc4=
+SHA1-Digest: BCO+K7Iw83B+uPFSC6aK/R2tPB8=
 
 Name: res/drawable-hdpi-v4/sport_list_km_remind_off.png
 SHA1-Digest: ytYoXeHJ6BvT2jtsUjusEhd0V94=
@@ -1277,7 +1277,7 @@ Name: assets/voice/95.mp3
 SHA1-Digest: 1gG5NdJxMFYu2/aQFc5MKsGdhcM=
 
 Name: res/layout/remind_speed_content_custom_view.xml
-SHA1-Digest: UCTafFdFTWCRktbnkYlyptbThHk=
+SHA1-Digest: ett6erN02ai91ozH1K8mH4MpH+4=
 
 Name: res/drawable-xhdpi-v4/go_to_phone_00216.png
 SHA1-Digest: 2sOkIi3wZfrJuax7E6GyVFXjBjE=
@@ -1385,7 +1385,7 @@ Name: assets/voice/7.mp3
 SHA1-Digest: eXBhFYYOnZNW6/C8SezXbgL4eqA=
 
 Name: res/layout/list_item_medal_bottom.xml
-SHA1-Digest: FkeLt2KcYDCVUjYRPyFUEtUPsWA=
+SHA1-Digest: 3lIn/YsMQ0juqobM4kK0feKAmZc=
 
 Name: assets/voice/h_10.mp3
 SHA1-Digest: idjMds9zdOWYY+dB9IytytqVQXI=
@@ -1403,7 +1403,7 @@ Name: res/drawable-hdpi-v4/swipe_menu_bg.png
 SHA1-Digest: kduK++p8VeNaaKQKydOfgKX2ATQ=
 
 Name: res/layout/settings_item.xml
-SHA1-Digest: //vWsjli2+lgPWE859Lqul+t6mY=
+SHA1-Digest: 6C6zN+YmwfdBsNtBboDovyw5oQU=
 
 Name: res/drawable-xhdpi-v4/card_frame_pressed.9.png
 SHA1-Digest: wUSzgsDA2WW1ghh+y0Nelb0WHqE=
@@ -1484,10 +1484,10 @@ Name: res/drawable-hdpi-v4/lau_icon_skip.png
 SHA1-Digest: XlGhIXYfOs/hkS7HL2X4GjHebE4=
 
 Name: res/layout/remind_trainning_custom_view.xml
-SHA1-Digest: JrIPn0nuUTkCPWX70rMY+WXolUI=
+SHA1-Digest: +EDxSdJR3rKkNpYWcrceJBMp9dw=
 
 Name: res/layout/remind_heart_content_custom_view.xml
-SHA1-Digest: EmHgNDlkJhBrXWL7W4DXzNiibA8=
+SHA1-Digest: i4Elw2rTlXveZ1LzRIo5eNt1a4M=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00188.png
 SHA1-Digest: zw+Bdh5HqzzEat3CaZpt8dhh9+k=
@@ -1520,13 +1520,13 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00196.png
 SHA1-Digest: 1IasZwgLimX8AfDY7w3DFUHSrYA=
 
 Name: res/layout/round_activity_sport_history_detail.xml
-SHA1-Digest: 3hzHPHR5E/OP3zUEoHOckJg4ueY=
+SHA1-Digest: SdoE6GGqeMLRMvV8+iENUUQhwyE=
 
 Name: res/drawable-hdpi-v4/lau_notify_icon_list_details.png
 SHA1-Digest: scP11F35sBNmtyKwyhWK3MbSzis=
 
 Name: res/layout/remind_custom_trainning_complete_view.xml
-SHA1-Digest: 79PfcOI2KJYccirTGSZItlE1BWc=
+SHA1-Digest: zhhlOE2gtwvcL4vKsn7HaxY/urY=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00186.png
 SHA1-Digest: AKeQ1CeJmRkDt79Knj/nMEqZNg8=
@@ -1538,7 +1538,7 @@ Name: res/drawable-mdpi-v4/go_to_phone_00220.png
 SHA1-Digest: P8Qeb79PLWlfkDOL8FqgJjXwIsI=
 
 Name: res/layout/list_header_sport_history.xml
-SHA1-Digest: yEXCjfAZTMg8se6j8BApeISG7FU=
+SHA1-Digest: d7GOjKYFrqgiWKNPLFGqDCwdHuA=
 
 Name: res/drawable-hdpi-v4/sport_heart_max.png
 SHA1-Digest: ocrkkyFaNftd4g4UHCVjW3t9o58=
@@ -1574,7 +1574,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: kuNGo79RD3L9wDJDyPuuzJ+txRs=
+SHA1-Digest: q2L93oD+N9776Yhsl09wc0Nvi7w=
 
 Name: assets/voice/87.mp3
 SHA1-Digest: CFJKhlg5OodX0rayYA8TcxvnZjE=
@@ -1623,7 +1623,7 @@ Name: assets/voice/50.mp3
 SHA1-Digest: gI1Sjj0v37gtJt1Mzpdz9ES1nY4=
 
 Name: classes.dex
-SHA1-Digest: BZ5pQSXF0yen6kGMWLk63q2+N8M=
+SHA1-Digest: geQYhPayZleV5rXup2r6CUP46jI=
 
 Name: res/xml/medals.xml
 SHA1-Digest: BjP1MfTblHoA/dFLfxGw8AQ+i6o=
@@ -1698,7 +1698,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00175.png
 SHA1-Digest: QEBh6KDzXLTy9lQJ/eh69WzVMDw=
 
 Name: res/layout/rect_activity_main.xml
-SHA1-Digest: 63p3z7L6i0RLz8HcD+uB22Tt9HY=
+SHA1-Digest: 6CzVcvtk8J7Ew+VPAKUXKxupeaI=
 
 Name: assets/voice/4.mp3
 SHA1-Digest: +l7e9bJOkUJ822+7vLmwueIJCz0=
@@ -1713,13 +1713,13 @@ Name: res/drawable-hdpi-v4/sport_medal_04.png
 SHA1-Digest: Q8AoQBVjf1cdBNhnp41crfN3Sec=
 
 Name: res/layout/fragment_walking_history_detail.xml
-SHA1-Digest: S9a66DSWyViFysLmmdE6lKKgWAY=
+SHA1-Digest: OvxzKUa1cOSpRo4vUdpVpThUCic=
 
 Name: assets/voice/79.mp3
 SHA1-Digest: 3SXvyGNxtBbPOvf2snafUI0d/wQ=
 
 Name: res/layout/round_activity_main.xml
-SHA1-Digest: Sz/suA8n947pXCo0rFCM15NDf1s=
+SHA1-Digest: 4VXX8zjDckbfZcOV28tZAXaaR/M=
 
 Name: res/drawable-hdpi-v4/sport_process_connection_3.png
 SHA1-Digest: KoutIZyP670O31ClVxcw5oOleiM=
@@ -1809,7 +1809,7 @@ Name: res/drawable-hdpi-v4/sport_medal_05.png
 SHA1-Digest: xoRyq0V0dMGvw2xtYsogu0hTrJw=
 
 Name: res/layout/test_medal_item.xml
-SHA1-Digest: kVxKko3LSKe6kxf2NyYQ/UxySXE=
+SHA1-Digest: ZUjzO4lE8hSOr/FDm40pQ46d6F4=
 
 Name: res/layout/fragment_list_header_sport_info.xml
 SHA1-Digest: acV4CxUaaV9+H1JqoAVvHKUKvGg=
@@ -1893,7 +1893,7 @@ Name: res/layout/fragment_sport_medal_list.xml
 SHA1-Digest: 0uhwaj9rTZXglZocvKxW3yRxlSs=
 
 Name: res/layout/list_item_sport_start.xml
-SHA1-Digest: 8VHnXJmYlAQkC5BeBgFh/gn3U1M=
+SHA1-Digest: SR9yvK5RekIfrdcoNUWgaZ3ztTg=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00167.png
 SHA1-Digest: M+vEV58UjkN/jihIyy+edAFNamQ=
@@ -1923,7 +1923,7 @@ Name: assets/voice/recent_kilo_pace.mp3
 SHA1-Digest: BwG+Zfx1K6ul4b4K7c429PVasbA=
 
 Name: res/layout/remind_pace_content_custom_view.xml
-SHA1-Digest: ZcVg6z9wG2tNyiHM2IwR7hUdoOo=
+SHA1-Digest: 34B++DkIpFbrd5kcWwhbAwXVkng=
 
 Name: res/drawable-hdpi-v4/sport_medal_02_grey.png
 SHA1-Digest: LXN7rt7sWgz8YLyjvLiMDKCvqcc=
@@ -1956,7 +1956,7 @@ Name: res/drawable-hdpi-v4/item_background_line_other.png
 SHA1-Digest: RWebL/1pBbdhkPxuyFExmeJTXZY=
 
 Name: res/menu/menu_sport_medal_detail.xml
-SHA1-Digest: r0s2opIuRGb1s5ufd/QxZsIu9/4=
+SHA1-Digest: z1vD2N6RODkhhF66mcR2yAyEP8g=
 
 Name: res/layout/rect_activity_running.xml
 SHA1-Digest: PzEgO280Ie+N0bVy4mLcexhwpuA=
@@ -1989,19 +1989,19 @@ Name: assets/voice/17.mp3
 SHA1-Digest: mMIhcDZy78QSe7oU4B2iZmSKoyo=
 
 Name: res/layout/list_item_sport_history.xml
-SHA1-Digest: TtORngLTfQo8GJuNKSnF/VSXluM=
+SHA1-Digest: EypFQAM385UVVViNodqzFQHampY=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00212.png
 SHA1-Digest: GiohuRMTM2rS8bPdBdgHsI+vcpE=
 
 Name: res/layout/list_item_sport_info.xml
-SHA1-Digest: U9sUM+SU1/R+3lt7zB/tR7xf2b4=
+SHA1-Digest: vkaKOwd1eO+WypJWf/4qGuWYhpc=
 
 Name: res/drawable-hdpi-v4/sport_medal_05_grey.png
 SHA1-Digest: JBB6gvor+LG/UPNNIL+oVfFkY7I=
 
 Name: res/layout/rect_activity_sport_history_detail.xml
-SHA1-Digest: m6f4DSZLUaOHU71/uL8tjQk+AGo=
+SHA1-Digest: hoCE47q5Yicz/sGNYkx7RYSgJTc=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate008.png
 SHA1-Digest: fm7nAy0nk0zllE8RU3KKe0Up9rE=
@@ -2022,7 +2022,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00217.png
 SHA1-Digest: 9ECdv+z+siPHctAk5qZyeP8PTN4=
 
 Name: res/layout/list_footer_sport_info.xml
-SHA1-Digest: Eft1RYl/InfMK8V1TBXwICnZKqI=
+SHA1-Digest: nZuQW7WiGWLBn7XHk9zbk13ZGmE=
 
 Name: res/drawable-hdpi-v4/lau_icon_continue.png
 SHA1-Digest: g7eVK4u2cQxSxJvmXuVunaINPjk=
@@ -2034,7 +2034,7 @@ Name: res/drawable-xhdpi-v4/go_to_phone_00166.png
 SHA1-Digest: FccVxb5Emg2bM5Fbgmz+DMUaapQ=
 
 Name: res/layout-v20/watch_card_content.xml
-SHA1-Digest: sXdJj436b+4X/ZzQ/7ycyE0TCiw=
+SHA1-Digest: PcQ42COf4j2O/JFMG6oODtT5Mpw=
 
 Name: assets/voice/52.mp3
 SHA1-Digest: b92xyktRlar3AZNxu5fNdqbhPs4=
@@ -2097,7 +2097,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00173.png
 SHA1-Digest: chiafbZmD9r8189ZtLpbcAZe7H4=
 
 Name: res/layout/picker_positive_button.xml
-SHA1-Digest: sST35Bl4FCYD8kMVzJNGM6h9/yo=
+SHA1-Digest: J/fHk3GcOX48vdKM/MUTrvt0ejE=
 
 Name: res/drawable-hdpi-v4/sport_medal_03.png
 SHA1-Digest: LsMB6SmKMN3A2PmFCsoeLXGGCZo=
@@ -2139,7 +2139,7 @@ Name: assets/voice/98.mp3
 SHA1-Digest: pbf+vn9zRZr6Y6gBDBjL8iFWCdE=
 
 Name: res/layout/remind_individual_content_custom_view.xml
-SHA1-Digest: HxtVs1BI22dqvSzpvuQ30AsD0G4=
+SHA1-Digest: PwA3N7ncYq6BIDkcpzFnVRX0Y78=
 
 Name: res/drawable-hdpi-v4/loading_progress_animate012.png
 SHA1-Digest: PN8zr8bF6BrRIvzjfJ8B5tB29dg=
@@ -2178,7 +2178,7 @@ Name: res/layout/activity_sport_history.xml
 SHA1-Digest: QAMhuRzA/nM/GSx1PVZRbIjQft4=
 
 Name: resources.arsc
-SHA1-Digest: DQqgWXP02a84r+B15EY1XL5AoW4=
+SHA1-Digest: n+JXSsXKbKGUOUzS2xYKkAr89Ds=
 
 Name: res/drawable-hdpi-v4/go_to_phone_00167.png
 SHA1-Digest: NJfqWKN4M1TXOWxJjuHzwuDk90E=

@@ -137,7 +137,7 @@ Name: res/mipmap-xhdpi-v4/background_bonding.png
 SHA1-Digest: kqcHpb18siaek+wOK0P5AUL8GXU=
 
 Name: AndroidManifest.xml
-SHA1-Digest: q0NyDKDAJYqa5L27qoi+4KYtO2E=
+SHA1-Digest: nps28OBjbJswNvuMaF8h7L4gqXU=
 
 Name: res/drawable/debug_bar_code.png
 SHA1-Digest: eZ8dvrSUI+xgq5Z/ZIJuEulYz3s=

@@ -5,7 +5,7 @@ Name: res/xml/pick_file_pref.xml
 SHA1-Digest: gSi2iFek+mdW/ui00syD4sPHts8=
 
 Name: AndroidManifest.xml
-SHA1-Digest: rzlm4jM5UOSm3lyw7xZ45R3fkfs=
+SHA1-Digest: vYLhf1VvxvgG9I7WDeuas59t6rk=
 
 Name: res/layout/name_credential_dialog.xml
 SHA1-Digest: pPScprbgYaa9zyWgMY4KNoXrsEk=

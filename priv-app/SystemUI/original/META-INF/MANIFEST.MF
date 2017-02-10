@@ -1724,7 +1724,7 @@ Name: res/layout/zen_mode_panel.xml
 SHA1-Digest: WA5tLv16yYgQb6BnyNkP+FIaApo=
 
 Name: AndroidManifest.xml
-SHA1-Digest: ptX8QISnooI5gHPsZlUsC+LcWyQ=
+SHA1-Digest: qNif5V4yEVM/wfDnnON9KAKIdIk=
 
 Name: res/drawable/qs_background_primary.xml
 SHA1-Digest: c2/8kVFBfpktqukNxOA3JvMc91k=

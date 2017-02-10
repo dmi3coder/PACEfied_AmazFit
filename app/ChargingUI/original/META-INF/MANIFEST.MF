@@ -29,7 +29,7 @@ Name: res/layout/activity_charging_ui.xml
 SHA1-Digest: AroeucAgw8b2DPJbAzfFdlJv/Qo=
 
 Name: AndroidManifest.xml
-SHA1-Digest: 7yOcneJHWwbilTCnj4fXZdpEYBA=
+SHA1-Digest: Zln1avBrCpML9LmBmlQbZUqbWZI=
 
 Name: res/interpolator/decelerate_cubic.xml
 SHA1-Digest: fQa9/yALDdJbfZ6GvAbcOF31aLs=

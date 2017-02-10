@@ -411,7 +411,7 @@ Name: res/drawable-mdpi-v4/generic_confirmation_00163.png
 SHA1-Digest: K0q9W9npsK+XADWEtT2BKT8rg6Y=
 
 Name: AndroidManifest.xml
-SHA1-Digest: CyXhfQJvsDQfAJgI0CGw3pkElc8=
+SHA1-Digest: Xv6GKrWjSwNP4NHvvy/l+NP/msg=
 
 Name: res/drawable-mdpi-v4/generic_confirmation_00169.png
 SHA1-Digest: NSER6tk49pR0d2q5XZsuTAmAFfc=
@@ -447,7 +447,7 @@ Name: res/drawable-hdpi-v4/generic_confirmation_00192.png
 SHA1-Digest: BuycgQA6lCB+2XU+Nn0KmkvGRG0=
 
 Name: classes.dex
-SHA1-Digest: Fw61zqPOH0/TyluPvygxZ3EVqMQ=
+SHA1-Digest: Tm5bhPFV8YZaNm/PLkKPG8pLJrU=
 
 Name: res/drawable-mdpi-v4/go_to_phone_00169.png
 SHA1-Digest: z9QrrOHAOEPwIaX8LClV2C7f/1Y=

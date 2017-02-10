@@ -143,7 +143,7 @@ Name: res/layout/wifi_scan.xml
 SHA1-Digest: ijxeu8x0FITmrH+5KK8Bw0Pdito=
 
 Name: AndroidManifest.xml
-SHA1-Digest: QkVjLKvQ8E3v0bFHaD94HCNNESM=
+SHA1-Digest: MFDT5VnDaVZMIwN/P/FnnWJFJB0=
 
 Name: res/mipmap-mdpi-v4/ic_launcher.png
 SHA1-Digest: f92B2DZyGQMw5W608HdmmJyvkD4=
@@ -164,7 +164,7 @@ Name: res/drawable/lan_download_wave2.png
 SHA1-Digest: BsQaNABsbXA393LOL/eTsK1lVBk=
 
 Name: classes.dex
-SHA1-Digest: 75YCP0nZmF5hFHVPOhMpdEqqCVE=
+SHA1-Digest: TQnjI7VDPAdZuNt7FQZ62wrI+lo=
 
 Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade_bg.png
 SHA1-Digest: g7GdXcA30CCk4zIm1iEMX7ceyyw=
