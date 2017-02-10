@@ -247,6 +247,8 @@
     <string name="reminder_wear_not_tight_0">将手表远离手腕处</string>
     <string name="reminder_wear_not_tight_1">并保持戴紧手表</string>
     <string name="gps_time_out_re_rearch">GPS已过期,请重新搜索.</string>
+    <string name="walking_step_count">步数</string>
+    <string name="walking_step">步</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>

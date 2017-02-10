@@ -38,8 +38,8 @@ unknownFiles:
 usesFramework:
   ids:
   - 1
-  tag: huanghe-1.2.6a
+  tag: 1.2.7
 version: 2.2.1
 versionInfo:
   versionCode: '22'
-  versionName: 5.1-88
+  versionName: 5.1-93
