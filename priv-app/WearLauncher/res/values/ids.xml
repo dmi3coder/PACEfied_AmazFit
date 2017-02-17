@@ -446,6 +446,7 @@
     <item type="id" name="horizonal_slider">false</item>
     <item type="id" name="notification_update_click">false</item>
     <item type="id" name="notification_click_message">false</item>
+    <item type="id" name="notification_click_drawable">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>

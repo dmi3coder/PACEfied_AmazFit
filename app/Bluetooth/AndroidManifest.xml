@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.bluetooth" package="com.android.bluetooth" platformBuildVersionCode="22" platformBuildVersionName="5.1-93">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.bluetooth" package="com.android.bluetooth" platformBuildVersionCode="22" platformBuildVersionName="5.1-97">
     <original-package android:name="com.android.bluetooth"/>
     <permission android:description="@string/permdesc_bluetoothShareManager" android:label="@string/permlab_bluetoothShareManager" android:name="android.permission.ACCESS_BLUETOOTH_SHARE" android:protectionLevel="signature"/>
     <permission android:description="@string/permdesc_bluetoothWhitelist" android:label="@string/permlab_bluetoothWhitelist" android:name="com.android.permission.WHITELIST_BLUETOOTH_DEVICE" android:protectionLevel="signature"/>
