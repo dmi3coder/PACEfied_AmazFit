@@ -627,9 +627,6 @@ On"</string>
     <string name="weather_warning_ice">Icy roads</string>
     <string name="weather_warning_snowstorm">Snowstorm</string>
     <string name="data_check_log">"+------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Typ Pogoda nierozpoznany</string>
-    <string name="data_checkfail_temp">Temperatura poza zakresem</string>
-    <string name="data_checkfail_match">Typy pól nie pasują.</string>
 	<string name="data_checkfail_json">Błąd formatu JSON </string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

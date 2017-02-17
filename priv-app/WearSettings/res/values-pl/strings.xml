@@ -55,8 +55,6 @@
     <string name="nodisturb_close_string">Wył.</string>
 	 <string name="air_plane_mode_note">"Tryb samolotowy
 Funkcja ta powoduje wyłączenie funkcji Bluetooth, Wi-Fi, Alipay i innych funkcji. Aby skorzystać z powyższych funkcji, należy wyłączyć tryb samolotowy w konfiguracji systemu .."</string>
-    <string name="nodisturb_open_string">Wł.</string>
-    <string name="nodisturb_close_string">Zamkn.</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Nie przeszkadzać</string>
     <string name="auto_nodisturb_start_time_string">Czas rozpoczęcia</string>

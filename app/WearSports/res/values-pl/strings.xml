@@ -231,7 +231,7 @@
     <string name="running_setting">Ustawienia</string>
     <string name="title_activity_sport_medal_list">SportMedalListActivity</string>
     <string name="running_end_sport">Przerwij aktywność</string>
-    <string name="walking_end_sport">Przerwij aktywność<</string>
+    <string name="walking_end_sport">Przerwij aktywność</string>
     <string name="running_in_progress">Bieganie...</string>
     <string name="walking_in_progress">Chodzenie...</string>
     <string name="sport_in_progress_confirm">Zatwierdź</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Laboratorium</string>
-    <string name="main_title">Laboratorium/string>
+    <string name="main_title">Laboratorium</string>
     <string name="agreement_title">Ciągły pomiar tętna</string>
     <string name="message">"W celu poprawy naszych usług, będą zbierane dane dotyczące tętna.
 Dane te będą wykorzystywane wyłącznie do badań naukowych.

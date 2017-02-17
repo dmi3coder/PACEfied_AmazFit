@@ -6,7 +6,7 @@
     <string name="day_concat">/</string>
     <string name="default_label">Alarm</string>
     <string name="day">1 dzień</string>
-    <string name="days">%s dni/string>
+    <string name="days">%s dni</string>
     <string name="hour">1 godzinę</string>
     <string name="hours">%s godziny</string>
     <string name="minute">1 minutę</string>
