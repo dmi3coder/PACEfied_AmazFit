@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jméno aplikace</string>
+    <string name="hello_world">Vybráno:ACC PPG</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="title_activity_sensor_list">Seznam aktivit senzoru</string>
+    <string name="title_activity_view_list">Náhled seznamu aktivit</string>
+    <string name="title_activity_graph_list">Graf seznamu aktivity</string>
+</resources>

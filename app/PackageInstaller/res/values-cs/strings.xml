@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalační balíček</string>
+    <string name="next">Další</string>
+    <string name="install">Instaluj</string>
+    <string name="done">Hotovo</string>
+    <string name="security_settings_desc">Povol aplikaci následující:</string>
+    <string name="cancel">Zrušit</string>
+    <string name="unknown">Neznámé</string>
+    <string name="installing">Installuji…</string>
+    <string name="install_done">App instalována.</string>
+    <string name="install_confirm_question">Chcete nainstalovat tuto aplikaci? Ta získá přístup k:</string>
+    <string name="install_confirm_question_no_perms">Chcete nainstalovat tuto aplikaci? Není potřeba žádného povolení přístupu.</string>
+    <string name="install_confirm_question_update">Chcete nainstalovat aktualizaci stávající aplikace? Vaša data nebudou ztracena. Aktualizovaná aplikace bude mít přístup k:</string>
+    <string name="install_confirm_question_update_system">Chcete nainstalovat aktualizaci vestavěné aplikace? Vaša data nebudou ztracena. Aktualizovaná aplikace bude mít přístup k:s to:</string>
+    <string name="install_confirm_question_update_no_perms">Chcete nainstalovat aktualizaci stávající aplikace? Vaša data nebudou ztracena. Není potřeba žádného povolení přístupu.</string>
+    <string name="install_confirm_question_update_system_no_perms">Chcete nainstalovat aktualizaci vestavěné aplikace? Vaša data nebudou ztracena. Není potřeba žádného povolení přístupu.</string>
+    <string name="install_failed">App nenainstalována.</string>
+    <string name="install_failed_invalid_apk">Balíček se zdá poškozen.</string>
+    <string name="install_failed_inconsistent_certificates">Stávající balíček stejného jména avsak s rozdílným podpisem je již nainstalován.</string>
+    <string name="install_failed_older_sdk">Balíček funguje pouze na novějších verzích Androidu.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Tato aplikace není kompatibilní s tabletem."</string>
+    <string name="install_failed_file_not_found">Instalace nemohla být dokončena. Uvedený balíček byl již odstraněn.</string>
+    <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
+    <string name="install_failed_verify_timeout">Došlo k vypršení časového limitu při pokusu o ověření balíčku. Zkuste instalaci později.</string>
+    <string name="install_failed_msg">"%1$s nemohl být instalován na váš tablet."</string>
+    <string name="launch">Otevřít</string>
+    <string name="unknown_apps_dlg_title">Instalace zablokována</string>
+    <string name="unknown_apps_dlg_text">Z bezpečnostních důvodů je tablet nastaven tak, aby blokoval instalaci aplikací z neznámých zdrojů.</string>
+    <string name="unknown_apps_admin_dlg_text">"Váš správce neumožňuje instalaci aplikací z neznámých zdrojů."</string>
+    <string name="ok">OK</string>
+    <string name="settings">Nastavení</string>
+    <string name="allow_source_dlg_title">Nový zdroj aplikací</string>
+    <string name="allow_source_dlg_text">"%1$s chce nainstalovat další aplikace..
+
+Povolit teď i příště?"</string>
+    <string name="manage_applications">Správa aplikací</string>
+    <string name="dlg_app_replacement_title">Nahradit aplikaci?</string>
+    <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.	
+
+Všechny vaše předchozí uživatelská data budou uložena."</string>
+    <string name="dlg_sys_app_replacement_statement">"Toto je systémová applikace.
+
+Všechny vaše předchozí uživatelská data budou uložena. "."</string>
+    <string name="out_of_space_dlg_title">V uložišti není dostatek místa</string>
+    <string name="out_of_space_dlg_text">"%1$s nelze nainstalovat. Uvolněte nějaké místo v uložišti a zkuste to znovu. "</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">App nenalezena</string>
+    <string name="app_not_found_dlg_text">"Aplikace nebyla nalezena na seznamu nainstalovaných aplikací."</string>
+    <string name="uninstall_application_title">Odinstalovat app</string>
+    <string name="uninstall_update_title">Odinstalovat aktualizace</string>
+    <string name="uninstall_activity_text">%1$s je částí následující app:</string>
+    <string name="uninstall_application_text">Chcete odinstalovat tuto aplikaci?</string>
+    <string name="uninstall_application_text_all_users">Chcete odinstalovat tuto aplikaci <b>všechny</b> uživatele? Aplikace a data budou odstraněny pro <b>všechny</b> uživatele tohoto zařízení.</string>
+    <string name="uninstall_application_text_user">Chcete odinstalovat tuto aplikaci uživatele %1$s?</string>
+    <string name="uninstall_update_text">Chcete nahradit tuto aplikaci s tovární verzí?</string>
+    <string name="uninstalling">Odstraňuji…</string>
+    <string name="uninstall_done">Odinstalace byla dokončena.</string>
+    <string name="uninstall_failed">Odinstalace se nepodařila</string>
+    <string name="uninstall_failed_device_policy_manager">"Nelze odinstalovat, protože tento balíček je aktivním správcem zařízení."</string>
+    <string name="uninstall_blocked_profile_owner">"Tato aplikace je zapotřebí pro váš %1$s profil a nelze ji odinstalovat."</string>
+    <string name="uninstall_blocked_device_owner">"Tato aplikace je vyžadována správcem zařízení a nemůže být odinstalována."</string>
+    <string name="manage_device_administrators">Nastavit správce nazíření</string>
+    <string name="uninstall_failed_msg">"%1$s nelze odinstalovat."</string>
+    <string name="Parse_error_dlg_title">Parse error</string>
+    <string name="Parse_error_dlg_text">Při analýze balíčku došlo k potížím.</string>
+    <string name="newPerms">Nový</string>
+    <string name="allPerms">Vše</string>
+    <string name="privacyPerms">Privacy</string>
+    <string name="devicePerms">Přístup k zařízení</string>
+    <string name="no_new_perms">Tato aktualizace nevyžaduje nová oprávnění.</string>
+    <string name="grant_confirm_question">Chcete udělit následující oprávnění? Ta bude mít přístup k:</string>
+</resources>

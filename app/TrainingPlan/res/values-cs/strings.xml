@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Výběr Jazyka</string>
+    <string name="app_name">TrainCenter</string>
+    <string name="app_train_center">Tréninkové Centrum</string>
+    <string name="my_train">Mé cvičení</string>
+    <string name="please_select_train_plan">Vyber tréninkový plan</string>
+    <string name="start_new_train">Začni nový tréninkový plán</string>
+    <string name="train_center">Tréninkové Centrum</string>
+    <string name="train_detail">Podrobnosti tréninku</string>
+    <string name="day_train_record_stag">%1$s - %2$d Týden - %3$d Den</string>
+    <string name="day_train_record_stag_simple">- %1$d Týden - %2$d Den</string>
+    <string name="day_train_record_train_stage">-%1$sDen</string>
+    <string name="remind_train_first_text">"Pravidenlý trénink může pomoci zlepšit tvůj výkon.  Jdeme na to！"</string>
+    <string name="train_start">Začít trénink</string>
+    <string name="hidtory_train_start_date">Start %1$s</string>
+    <string name="hidtory_train_end_date">Konec %1$s</string>
+    <string name="train_detail_number_weekly">- %1$dTýden</string>
+    <string name="day_train_status_done">(Dokončeno)</string>
+    <string name="train_record_complete_percent">Dokončeno</string>
+    <string name="day_train_record_status_finish">Dokončeno</string>
+    <string name="day_train_record_statis_un_finish">Nedokončeno</string>
+    <string name="dialog_day_train_plan_is_complete">Označit dnešní trénink jako dokončený?</string>
+    <string name="dialog_train_plan_is_complete">Ukončení tréninkového programu způsobí přerušeni záznamu. Opravdu ukončit?</string>
+    <string name="last_day_rest_remind">Trénink dokončen.  Vezmi si den volna!</string>
+    <string name="cancel">Zrušit</string>
+    <string name="day_train_plan_record_marked">Označit</string>
+    <string name="train_plan_recode_finished">Dokončit</string>
+    <string name="train_mileage">Tréninková vzdálenost (km)</string>
+    <string name="train_days">Tréninkové dny</string>
+    <string name="train_finish">Trénink ukončit</string>
+    <string name="train_finished">Trénink skončen</string>
+    <string name="today">Dnes</string>
+    <string name="train_complete_rate">Míra dokončení</string>
+    <string name="assing_train_plan">%1$s</string>
+    <string name="train_plan_already_assgn">Přiřazen</string>
+    <string name="notification_title">Tréninkové Centrum</string>
+    <string name="notificaiton_train_content">Dnešní trénink nebyl dokončen</string>
+    <string name="this_train_record_finish">Tréninkový program dokončen</string>
+    <string name="train_finish_reason">Důvod ukončení</string>
+    <string name="average_text">Půměr</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrď</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">SR nedetekován</string>
+    <string name="no_altitude_hint">Nadmořská výška nedetekována</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Sportovní hudba</string>
+</resources>

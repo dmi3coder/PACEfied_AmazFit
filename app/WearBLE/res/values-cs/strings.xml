@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLE connect</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="heart_rate">POČÍTADLO_ST</string>
+    <string name="hello_world">Simulator tepové frekvence.</string>
+    <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
+    <string name="simplified_chinese">Zjednoušená Čínstina</string>
+    <string name="english_usa">English(US)</string>
+    <string name="low_battery">Nízká úroveň nabití</string>
+    <string name="battery_low_title">Baterie vybitá</string>
+    <string name="battery_low_plz_charge">Připojte nabíječku</string>
+    <string name="scan_to_bind">Skenovt k párování</string>
+    <string name="function_unavailable_tip">Funkce není k disposici</string>
+    <string name="cancel_bind">Zrušit párování</string>
+    <string name="skip_bind">Přeskočit párování</string>
+    <string name="permission_read_user_info">permission_read_user_info</string>
+    <string name="permission_write_user_info">permission_read_user_info</string>
+</resources>

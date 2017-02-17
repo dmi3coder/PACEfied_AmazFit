@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Průvodce nastavením</string>
+    <string name="locale_title">Výběr jazyka</string>
+    <string name="lang_zh_cn">中文(简体)</string>
+    <string name="lang_en_us">English(US)</string>
+    <string name="tip_install_wear_companion">Prosím, nainstalujte \ "Amazfit Watch \" app na Váš telefon</string>
+    <string name="tip_low_battery">Méně než 5% baterie, připojte přístroj k nabíječce.</string>
+    <string name="pair_scan_qr">Naskenujte QR kód s \ "Amazfit Watch \" App</string>
+    <string name="pair_skip">Přeskočit</string>
+    <string name="tip_pair_skip">Některé funkce budou vypnuty, pokračovat?</string>
+    <string name="tip_restoring">Obnovení</string>
+    <string name="tip_binding_failed">Párování selhalo</string>
+    <string name="tip_binding_failed_restart">Odpojeno, prosím opakujte</string>
+    <string name="tip_no_bluetooth_adapter">Chyba Bluetooth</string>
+    <string name="tip_wear_hand">Na jaké ruce nosíte hodinky?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

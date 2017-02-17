@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="north_latitude">Severní šířky</string>
+    <string name="south_latitude">Jižní šířky</string>
+    <string name="east_longitude">Východní délky</string>
+    <string name="west_longitude">Západní délky</string>
+    <string name="altitude">Nadmořská výška (m)</string>
+    <string name="altitude_ft">Nadmořská výška (ft)</string>
+    <string name="atmospheric_pressure">Tlak vzduchu</string>
+    <string name="ori_north">S (N)</string>
+    <string name="ori_northeast">SV (NE)</string>
+    <string name="ori_east">V (E)</string>
+    <string name="ori_southeast">JV (SE)</string>
+    <string name="ori_south">J (S)</string>
+    <string name="ori_southwest">SZ (SW)</string>
+    <string name="ori_west">Z (W)</string>
+    <string name="ori_northwest">SZ (NW)</string>
+    <string name="correcting">Kalibrace</string>
+    <string name="correcting_line1">Natoč svéh zápěstí na</string>
+    <string name="correcting_line2">Zakruž zápěstím</string>
+    <string name="value_default">-</string>
+    <string name="loading">Nahrávám</string>
+    <string name="degree">°</string>
+    <string name="zero">0.00</string>
+    <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
+    <string name="gps_tip">"Nelze získat údaje, zkuste venku pod širým nebem."</string>
+    <string name="confirm">Potvrďte</string>
+    <string name="unknown">--</string>
+    <string name="compass_roll_tip">"Úprava ciferníku
+v horizontální orientaci "</string>
+</resources>
