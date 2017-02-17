@@ -19,8 +19,8 @@
     </string-array>
     <string-array name="subject_typenfreqs">
         <item>Oggi</item>
-        <item>Questa settimana</item>
+        <item>Settimana</item>
         <item>Oggi</item>
-        <item>Questa settimana</item>
+        <item>Settimana</item>
     </string-array>
 </resources>
