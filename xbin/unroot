@@ -1,0 +1,3 @@
+#!/system/bin/sh
+busybox echo "adb restarted without root"
+setprop service.adb.root 0
