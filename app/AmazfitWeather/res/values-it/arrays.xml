@@ -18,8 +18,8 @@
         <item>"Aria Buona"</item>
         <item>"Inquinamento lieve"</item>
         <item>"Inquinamento moderato"</item>
-        <item>"Inquinamento pesante"</item>
-        <item>"Inquinamento grave"</item>
+        <item>"Inquinamento elevato"</item>
+        <item>"Inquinamento elevatissimo"</item>
         <item/>
     </string-array>
     <string-array name="weather_card_quality">
@@ -35,19 +35,19 @@
         <item>"Smog"</item>
         <item>"Pioggia"</item>
         <item>"Pioggia e fulmini"</item>
-        <item>"Pioggia debole"</item>
-        <item>"Pioggia leggera"</item>
-        <item>"Pioggia forte"</item>
+        <item>"Pioggerellina"</item>
+        <item>"Pioggerella"</item>
+        <item>"Acquazzone"</item>
         <item>"Temporale"</item>
-        <item>"Pioggia torrenziale"</item>
+        <item>"Diluvio"</item>
         <item>"Nevischio"</item>
         <item>"Grandine"</item>
         <item>"Grandine"</item>
-        <item>"Neve leggera"</item>
+        <item>"Nevischio"</item>
         <item>"Neve moderata"</item>
         <item>"Forte nevicata"</item>
         <item>"Tempesta di neve"</item>
-        <item>"Neve"</item>
+        <item>"Nevicata"</item>
         <item>"Polvere"</item>
         <item>"Leggera sabbia"</item>
         <item>"Tempesta di sabbia"</item>
