@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 4</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 7</item>
+        <item>Week 8</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>Not Working as expected</item>
+        <item>Plan Too Long</item>
+        <item>Poor Physical Condition</item>
+        <item>Very Difficult</item>
+        <item>Very Easy</item>
+        <item>Competition Cancelled</item>
+        <item>Does not suit me</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>
