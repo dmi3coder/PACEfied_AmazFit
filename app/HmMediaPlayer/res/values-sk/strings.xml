@@ -45,7 +45,7 @@
   <string name="music_downloading_noting">-/-</string>
   <string name="music_fetch_list">Získavam zoznam skladieb...</string>
   <string name="music_init_not_done">Hudba sa inicializuje...</string>
-  <string name="music_list_title">Nastavenie prehrávania</string>
+  <string name="music_list_title">Nastavenia</string>
   <string name="music_name">Watercress FM</string>
   <string name="music_no_douban_resource">Nie sú dostupné žiadne lokálne skladby, stiahnuť teraz?</string>
   <string name="music_no_local_resource">Žiadne skladby k prehratiu, nahrajte skladby cez USB.</string>
@@ -53,7 +53,7 @@
   <string name="music_no_wifi_content">Nie je pripojenie k Wi-Fi, skladby nemožno stiahnuť. Prosím, pripojte sa k sieti Wi-Fi cez Nastavenia systému - Wi-Fi.</string>
   <string name="music_no_wifi_title">Nie je možné stiahnúť</string>
   <string name="music_play_mode">Zmena režimu</string>
-  <string name="music_play_source">Zmena hudobnej knižnice</string>
+  <string name="music_play_source">Knižnica</string>
   <string name="music_source_all">Všetky skladby</string>
   <string name="music_source_douban">Watercress FM</string>
   <string name="music_source_local">Lokálne skladby</string>

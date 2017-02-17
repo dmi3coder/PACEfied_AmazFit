@@ -12,8 +12,8 @@
     <string name="crossing_individual_pen_dis">Vzdialenosť kola</string>
     <string name="crossing_individual_pen_cost_time">Čas kola</string>
     <string name="crossing_individual_pen_pace">Tempo kola</string>
-    <string name="crossing_climb_unit">Stopy</string>
-    <string name="crossing_vertical_velocity_unit">ft/h</string>
+    <string name="crossing_climb_unit">Metre</string>
+    <string name="crossing_vertical_velocity_unit">m/h</string>
     <string name="crossing_history_detail_total_time">Celkový čas</string>
     <string name="crossing_history_detail_move_time">Čas pohybu</string>
     <string name="crossing_history_detail_ave_move_pace">Priemerné tempo pohybu</string>
@@ -28,7 +28,7 @@
     <string name="crossing_history_detail_low_altitude">Min výška</string>
     <string name="crossing_history_detail_altituede_graph_desc">Nadm. výška (stopy)</string>
     <string name="crossing_history_detail_individual_km">%1$s km for a single loop</string>
-    <string name="crossing_setting_unit">Km</string>
+    <string name="crossing_setting_unit">km</string>
     <string name="crossing_settings_item_title_individual_remind">Vzdialenosť okruhu</string>
     <string name="crossing_settings_item_value_individual">%1s kms</string>
     <string name="crossing_remind_target_individual_title">Okruh %1d</string>
@@ -38,7 +38,7 @@
     <string name="safe_hearate_remind_content">Pri prekročení %1d</string>
     <string name="settings_safe_heart_rate_hint">(bezpečný srdcový tep)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
-    <string name="indoor_run_progressing">Running</string>
+    <string name="indoor_run_progressing">Behanie</string>
     <string name="music_title">Hudba</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">Žiadne skladby na prehratie</string>
@@ -75,17 +75,17 @@
     <string name="con_leqi_table_title">Watch has support LEQI riding table, is Connected now?</string>
     <string name="con_leqi_table_subtitle">(Spárujte v Systémové nastavenia-Zariadenia Bluetooth)</string>
     <string name="unit_cadence">rpm</string>
-    <string name="sport_widget_title">Typ aktivity</string>
+    <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Behanie</string>
     <string name="sport_widget_title_walk">Chôdza</string>
     <string name="sport_widget_title_cross">Beh v teréne</string>
     <string name="sport_widget_title_indoor_run">Dráhový beh</string>
     <string name="sport_widget_title_record">Aktivity</string>
-    <string name="sport_widget_title_achieve">Vyznamenania</string>
+    <string name="sport_widget_title_achieve">Odznaky</string>
     <string name="sport_widget_title_setting">Nastavenia</string>
     <string name="sport_widget_title_music">Hudba</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">Športy</string>
+    <string name="app_name">Sports</string>
     <string name="sport_item_running_title">Behanie</string>
     <string name="sport_item_walking_title">Chôdza</string>
     <string name="title_activity_main">MainActivity</string>
@@ -174,7 +174,7 @@
     <string name="settings_item_value_target_distance">%.2fkm</string>
     <string name="settings_item_value_pace">Keď klesne pod %s</string>
     <string name="title_activity_selector">SelectorActivity</string>
-    <string name="title_medal_list_header">Vyznamenania</string>
+    <string name="title_medal_list_header">Odznaky</string>
     <string name="remind_target_distance_title_format">Cieľ %1$d km</string>
     <string name="remind_target_km_title_format">Dosiahnuté %1$d km</string>
     <string name="remind_target_km_walking_title_format">Dosiahnuté %1$d km</string>
@@ -202,7 +202,7 @@
     <string name="title_activity_medal_list">MedalListActivity</string>
     <string name="title_activity_sport_medal_detail">SportMedalDetailActivity</string>
     <string name="action_settings">Nastavenia</string>
-    <string name="notification_title_medal">Vyznamenania</string>
+    <string name="notification_title_medal">Odznaky</string>
     <string name="history_heart_rate_graph_desc">Tepová frekvencia (bpm)</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="sport_medal_desc_first_sport">Dokončite vaše prvé behanie</string>
@@ -223,7 +223,7 @@
     <string name="count_down_one">1</string>
     <string name="count_down_two">2</string>
     <string name="count_down_three">3</string>
-    <string name="running_achivement">Vyznamenania</string>
+    <string name="running_achivement">Odznaky</string>
     <string name="running_record">Rekordy</string>
     <string name="running_setting">Nastavenia</string>
     <string name="title_activity_sport_medal_list">SportMedalListActivity</string>

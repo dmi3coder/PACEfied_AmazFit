@@ -3,9 +3,9 @@
 <resources>
   <string name="action_settings">Nastavenia</string>
   <string name="alarm_delete">Vymazať</string>
-  <string name="alarm_list">Zoznam budíkov</string>
+  <string name="alarm_list">Budíky</string>
   <string name="alarm_off">Vypnutý</string>
-  <string name="alarm_open">Otvorený</string>
+  <string name="alarm_open">Zapnutý</string>
   <string name="alarm_repeat">Opakovať</string>
   <string name="alarm_repeat_setting">Opakovanie</string>
   <string name="app_name">HmDeskClock</string>

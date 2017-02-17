@@ -18,8 +18,8 @@
     <string name="ori_west">Z</string>
     <string name="ori_northwest">SZ</string>
     <string name="correcting">Kalibrujem</string>
-    <string name="correcting_line1">Otáčajte zápästím tak,</string>
-    <string name="correcting_line2">aby guľôčka behala dokola</string>
+    <string name="correcting_line1">Otáčajte zápästím,</string>
+    <string name="correcting_line2">aby guľôčka behala dookola</string>
     <string name="value_default">-</string>
     <string name="loading">Načítavam</string>
     <string name="degree">°</string>
