@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kreator konfiguracji</string>
+    <string name="locale_title">Wybierz język</string>
+    <string name="lang_zh_cn">Chiński(Tradycyjny)</string>
+    <string name="lang_en_us">Angielski(US)</string>
+    <string name="tip_install_wear_companion">Zainstaluj aplikację \"Amazfit\" w telefonie</string>
+    <string name="tip_low_battery">Słąba bateria, podłącz zasilanie by kontynuować</string>
+    <string name="pair_scan_qr">Zeskanuj Kod QR w aplikacji \"Amazfit\"</string>
+    <string name="pair_skip">Pomiń</string>
+    <string name="tip_pair_skip">Niektóre funkcje zostaną wyłączone, kontynuować?</string>
+    <string name="tip_restoring">Przywracanie</string>
+    <string name="tip_binding_failed">Błąd parowania</string>
+    <string name="tip_binding_failed_restart">Odłączony, spróbuj ponownie</string>
+    <string name="tip_no_bluetooth_adapter">Błąd Bluetooth</string>
+    <string name="tip_wear_hand">Na której ręce chcesz go nosić?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

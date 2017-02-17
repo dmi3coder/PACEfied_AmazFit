@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Średni/string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potwierdź</string>
+    <string name="picker_default_nagetive_text">Wyłączony</string>
+    <string name="no_heartrate_data_hint">Nie wykryto danych tętna</string>
+    <string name="no_altitude_hint">Nie wykryto danych wysokości</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="opened">Wł.</string>
+    <string name="closed">Wył.</string>
+    <string name="air_plane_mode_note">"Połączenie nieudane,
+Wyłącz tryb samolotowy i ponowów połączenie"</string>
+    <string name="app_name">WearAirPlaneModeDialog</string>
+    <string name="action_settings">Ustawienia</string>
+</resources>

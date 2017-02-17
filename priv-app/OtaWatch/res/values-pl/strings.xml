@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.5</string>
+    <string name="app_name">Otawatch</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="watch_ota">Aktualizacja Zegarka</string>
+    <string name="wifi_disconnect">"Proszę połączyć się z
+aplikacją Amazfit aby uzyskać pomoc
+w sprawdzeniu aktualizacji zegarka"</string>
+    <string name="connect_phone_wifi">"Proszę sprawdzić sieć w
+telefonie aby uzyskać pomoc
+w sprawdzeniu aktualizacji zegarka"</string>
+    <string name="connect_phone_input_wifi">"Proszę połączyć się z
+aplikacją Amazfit aby wprowadzić
+hasło do Wi-Fi dla zegarka"</string>
+    <string name="wifi_add_item">"Proszę połączyć się z
+aplikacją Amazfit aby dodać
+nowy Hotspot Wi-Fi dla zegarka"</string>
+    <string name="input_passwor_on_mobile">"Proszę wpisać hasło Wi-Fi
+w aplikacji Amazfit"</string>
+    <string name="add_wifi">Dodaj Wi-Fi</string>
+    <string name="please_update_rom">Znaleziono nową wersję systemu, proszę zaktualizować</string>
+    <string name="checking_rom">Sprawdzanie nowych wersji</string>
+    <string name="checking_rom_failed">"Przekroczono limit czasu połączenia sieciowego, spróbuj ponownie"</string>
+    <string name="current_is_new">Najnowsza wersja jest uruchomiona</string>
+    <string name="has_new_rom">"Nowa wersja została znaleziona,
+aktualizować do wersji %1$s?"</string>
+    <string name="processbar_downloading_rom">Pobieranie...</string>
+    <string name="please_keep_wifi_connect">"Proszę zostawić zegarek 
+podłączony do WiFi"</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Pobieranie aktualizacji nie powiodło się,
+ proszę spróbuj ponownie."</string>
+    <string name="download_rom_success">Pobieranie ROM-u zakończone, proszę zainstalować</string>
+    <string name="low_battery_message">Aktualizacja została pobrana, aby móc zainstalować bateria powinna mieć  powyżej %1$s%% </string>
+    <string name="low_battery_title">Proszę naładuj najpierw</string>
+    <string name="progressbar_tips">Sprawdzanie nowych wersji....</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">Za mało miejsca aby dokonać aktualizacji, potrzebne %1$sM, oczyść najpierw</string>
+    <string name="update_network_error">"Sprawdzenie aktualizacji nie powiodło się, proszę
+spróbuj później"</string>
+    <string name="cancel_download">"Pobieranie aktualizacji, 
+ anulować?"</string>
+    <string name="new_rom_please_install">"Aktualizacja systemu jest dostępna,
+prosimy o zaktualizowanie"</string>
+    <string name="btn_install_later">Przypomnij następnym razemstring</string>
+    <string name="btn_install_now">Zainstaluj teraz</string>
+    <string name="btn_upgrade_now">Aktualizuj teraz</string>
+    <string name="wifi_no_password">Nieszyfrowane</string>
+    <string name="wifi_has_password">Szyfrowane</string>
+    <string name="wifi_password_error">Hasło niepoprawne</string>
+    <string name="wifi_connecting">Podłączanie...</string>
+    <string name="wifi_auth">Weryfikacja hasła...</string>
+    <string name="wifi_get_ip">Uzyskiwanie adresu IP...</string>
+    <string name="wifi_link_fail">Podłączenie nie powiodło się...</string>
+    <string name="wifi_connected">Połączony</string>
+    <string name="wifi_title">Połącz się z Wi-Fi</string>
+    <string name="wifi_wait_password">Oczekiwanie na wprowadzenie hasła...</string>
+    <string name="toast_please_update_first">Proszę najpierw zaktualizować</string>
+    <string name="wifi_turnon_going">Włączanie Wi-Fi...</string>
+    <string name="system_update_title">Aktualizacja powiodła się</string>
+    <string name="system_update_content">System został zaktualizowany do wersji %1$s</string>
+    <string name="password_error">"Nieprawidłowe hasło Wi-Fi,
+wprowadź ponownie "</string>
+    <string name="wifi_connect_fail">"Nie można połączyć się z tą 
+siecią. Spróbuj z
+inną siecią Wi-Fi"</string>
+    <string name="searching">Wyszukiwanie...</string>
+    <string name="hasNewUpdateTitle">Aktualizacje systemu</string>
+    <string name="hasNewUpdateInstallContent">%1$s wersja może być zainstalowana, zainstalować teraz?</string>
+    <string name="hasNewUpdateCheckContent">%1$s wersja może być zaktualizowana, zaktualizować teraz?</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Raport błędów</string>
+    <string name="upload">Prześlij</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Log Path:</string>
+    <string name="preparing">Generowanie raportu...</string>
+    <string name="collecting">Generowanie raportu...</string>
+    <string name="uploading">Przesyłanie...</string>
+    <string name="compressing">Generowanie raportu...</string>
+    <string name="upload_finish">Przesyłanie Logu zakończone</string>
+    <string name="upload_failed">Błąd przesyłania, spróbuj ponownie</string>
+    <string name="open_wifi_hint">Otwieranie Wi-Fi...</string>
+    <string name="please_keep_wifi_connected">"Proszę zostaw zegarek 
+podłączony do WiFi"</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Błąd podczas ładowania raportu: Czy kontynuować?</string>
+    <string name="upload_failed_token_title">Błąd przesyłania</string>
+    <string name="upload_failed_token_message">Nie można przesyłać raportu o błędach. Połącz się z aplikacją i spróbuj ponownie</string>
+    <string name="re_collecting">Ponowne generowanie</string>
+    <string name="continue_upload">Kontynuacja przesyłu</string>
+    <string name="alllog">Wszystkie logi</string>
+    <string name="moreoptions">Więcej opcji</string>
+    <string name="allupload">Dodaj wszystko</string>
+    <string name="pleass_upload">Log nie został załadowany</string>
+    <string name="start_collection">Zacznij ładowanie</string>
+    <string name="close_wifi_hint">Wi-Fi wył.</string>
+    <string name="open_wifi_before_upload">Wł.Wi-Fi przed przesyłem</string>
+    <string name="packed_path">Ścieżka lokalna:</string>
+    <string name="c_bugreport">Raport błędów</string>
+    <string name="upload_timeout">Koniec czasu, spróbuj ponownie</string>
+    <string name="uploading_wait">Przesyłanie，zaczekaj...</string>
+    <string name="collect_logcat">Przesyłanie logcat</string>
+    <string name="collect_dropbox">Przesyłanie Dropbox</string>
+    <string name="collect_anr">Przesyłanie ANR</string>
+    <string name="collect_dumpsys">Przesyłanie dumpsys</string>
+    <string name="collect_bugreport">Przesyłanie raportu błędów</string>
+    <string name="next_upload_message">Raport o błędach utworzony, proszę przesłać.</string>
+    <string name="please_upload">Błędy zostały pomyślnie zindeksowane, proszę przesłać.</string>
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="watch_ota">Akrualiz.zegarka</string>
+    <string name="wifi_disconnect">Wi-Fi rozłączone</string>
+    <string name="connect_phone_wifi">Połączenie Wi-Fi w toku</string>
+    <string name="please_update_rom">"Znaleziono nową wersję,
+zaktualizuj"</string>
+    <string name="connect_phone_input_wifi">"Bieżące połączenie,
+wprowadź hasło Wi-Fi"</string>
+    <string name="checking_rom">Szukanie aktualizacji</string>
+    <string name="checking_rom_failed">Limit czasu, spróbuj ponownie</string>
+    <string name="current_is_new">Aktualny</string>
+    <string name="has_new_rom">"Znaleziono nowe oprogramowanie"</string>
+    <string name="input_passwor_on_mobile">"%1$s
+Wpisz hasło w telefonie"</string>
+    <string name="processbar_downloading_rom">Pobieranie</string>
+    <string name="please_keep_wifi_connect">Proszę zostaw zegarek 
+podłączony do WiFi</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Błąd pobierania aktual,
+spróbuj ponownie"</string>
+    <string name="download_rom_success">"ROM pobrany, 
+zainstaluj"</string>
+    <string name="low_battery_message">"Słaba bateria, nałąduj do 50 %"</string>
+    <string name="low_battery_title">Naładuj</string>
+    <string name="progressbar_tips">Sprawdzanie...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Mało pamięci %1$sM, 
+zwolnij miejsce"</string>
+    <string name="update_network_error">"Błąd sprawdzania, 
+spróbuj ponownie"</string>
+    <string name="cancel_download">"Anulować pobieranie?"</string>
+    <string name="new_rom_please_install">"Znaleziono nową wersję,
+zaktualizuj"</string>
+    <string name="btn_install_later">Przypomnij później</string>
+    <string name="btn_install_now">Zainstaluj teraz</string>
+    <string name="wifi_no_password">Nieszyfrowane</string>
+    <string name="wifi_has_password">Szyfrowane</string>
+    <string name="wifi_password_error">Błędne hasło</string>
+    <string name="wifi_connecting">Podłączanie...</string>
+    <string name="wifi_auth">Powtórz hasło...</string>
+    <string name="wifi_get_ip">Uzyskiwanie adresu IP...</string>
+    <string name="wifi_link_fail">Połączenie nie powiodło się...</string>
+    <string name="wifi_connected">Połączony</string>
+    <string name="wifi_title">Połączenie Wi-Fi</string>
+    <string name="wifi_wait_password">Wprowadź hasło...</string>
+    <string name="toast_please_update_first">Proszę uaktualnić</string>
+    <string name="wifi_turnon_going">Otwieranie Wi-Fi</string>
+    <string name="system_update_title">Aktualizacja zakończona</string>
+    <string name="system_update_content">Zaktualizowany do wersji %1$s</string>
+    <string name="password_error">"%1$s Błędne hasło,
+Wpisz ponownie"</string>
+    <string name="wifi_connect_fail">"Błąd podłączenia Wi-Fi, 
+spróbuj ponownie"</string>
+    <string name="searching">Wyszukiwanie...</string>
+    <string name="hasNewUpdateTitle">Aktualizacje systemu</string>
+    <string name="hasNewUpdateContent">Nowa wersja %1$s, zainstalować teraz?</string>
+</resources>

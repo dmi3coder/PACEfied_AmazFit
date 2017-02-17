@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Czujniki</string>
+    <string name="hello_world">Wybierz:ACC PPG</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_activity_sensor_list">ListaAktywnychCzujników</string>
+    <string name="title_activity_view_list">PodglądAktywnejListy</string>
+    <string name="title_activity_graph_list">WykresAktywnejListy</string>
+</resources>

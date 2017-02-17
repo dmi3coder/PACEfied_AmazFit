@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+        <item>第八周</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>Nie</item>
+        <item>Pon</item>
+        <item>Wt</item>
+        <item>Śr</item>
+        <item>Czw</item>
+        <item>Pt</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>Nie można dostosować</item>
+        <item>Zbyt trudne aby przestrzegać</item>
+        <item>Słaba kondycja fizyczna</item>
+        <item>Trudny</item>
+        <item>Łatwy</item>
+        <item>Odwołany</item>
+        <item>Nie dla mnie</item>
+        <item>Inny</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Raport błędów wykonany</string>
+    <string name="bugreport_finished_text">Dotknij, aby przekazać swoje zgłoszenie błędu</string>
+    <string name="bugreport_confirm">"Raporty o błędach zawierają dane pochodzące z różnych plików, dzienników systemowych, w tym danych osobowych, jak i prywatnych. Przekaż raporty o błędach z aplikacjami tylko osobom, którym ufasz."</string>
+    <string name="bugreport_confirm_repeat">Pokaż tę wiadomość następnym razem</string>
+</resources>

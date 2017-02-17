@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">Odłącz</string>
+    <string name="unbind_warning">Po odłączaniu urządzenia funkcje Alipay nie będą dostępne!</string>
+    <string name="bind_my_watch">Podłącz zegarek</string>
+    <string name="user_hint">"Otwórz aplikację Alipay (9.3 i wyższe), przejdź do profilu> Ustawienia> Ustawienia zabezpieczeń> inteligentne zegarki."</string>
+    <string name="bind_im">Powiąż</string>
+    <string name="bind_from_qr">Alipay skanowanie QR</string>
+    <string name="bind_qr_code">Połącz przez QR</string>
+    <string name="user_hint_title">Wskazówki</string>
+    <string name="loading">Ładowanie</string>
+    <string name="title">Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">"Otwórz aplikację Alipay (9.3 i wyższe), przejdź do profilu> Ustawienia> Ustawienia zabezpieczeń> inteligentne zegarki."</string>
+    <string name="ios_unsupport_tips">（IOS nie obsługuje Alipay）</string>
+    <string name="button_start_bind">Kolega</string>
+    <string name="bind_usage">Skanowanie QR</string>
+    <string name="bar_code_tip">Pełna wypłata</string>
+    <string name="qr_code_tip">Skanowania transferu</string>
+    <string name="bind_success_title">Połączony</string>
+    <string name="unbind_tip">Rozłącz się aby przestać korzystać z telefonu</string>
+    <string name="button_ok">OK</string>
+    <string name="confirm_unbind_title">Odłącz</string>
+    <string name="unbind_alert_message">Po odłączaniu urządzenia funkcje Alipay nie będą dostępne, odłączyć?</string>
+    <string name="not_available">Funkcja czasowo niedostępna</string>
+    <string name="airplane_mode_tips">Aby korzystać z Alipay wyłącz tryb samolotowy</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Pełna kopia zapasowa</string>
+    <string name="restore_confirm_title">Przywróć wszystko.</string>
+    <string name="backup_confirm_text">"Czy chcesz zrobić kopię zapasową wszystkich danych do podłączonego komputera?
+
+Jeśli nie poprosisz o zrobienie kopii zapasowe, operacja zostanie zatrzymana."</string>
+    <string name="allow_backup_button_label">Utwórz kopię zapasową moich danych</string>
+    <string name="deny_backup_button_label">Nie rób kopii zapasowej</string>
+    <string name="restore_confirm_text">"Czy chcesz wykonać przywracanie wszystkich danych z podłączonego komputera?
+
+Jeśli nie poprosisz o przywrocenie kopii, operacja zostanie zatrzymana. Żadne dane nie zostaną zmienione na urządzeniu!"</string>
+    <string name="allow_restore_button_label">Przywróć moje dane</string>
+    <string name="deny_restore_button_label">Nie przywracaj</string>
+    <string name="current_password_text">Wpisz poniżej swoje aktualne hasło kopii zapasowej:</string>
+    <string name="device_encryption_restore_text">Wpisz poniżej hasło szyfrowania urządzenia.</string>
+    <string name="device_encryption_backup_text">Wpisz poniżej hasło szyfrowania urządzenia. Będzie również użyte do szyfrowania kopii zapasowej.</string>
+    <string name="backup_enc_password_text">Podaj hasło do szyfrowania kopii zapasowych. Brak wpisu, spowoduje użycie obecnego hasła kopii zapasowej:</string>
+    <string name="backup_enc_password_optional">Jeśli chcesz zaszyfrować kopie zapasowe danych, należy wprowadzić hasło poniżej:</string>
+    <string name="backup_enc_password_required">Ponieważ urządzenie jest zaszyfrowane, wpisz hasło, które jest wymagane do szyfrowania kopii zapasowych:</string>
+    <string name="restore_enc_password_text">Jeśli przywracane dane są zaszyfrowane, wpisz hasło poniżej:</string>
+    <string name="toast_backup_started">Rozpoczęto tworzenie kopii...</string>
+    <string name="toast_backup_ended">Tworzenie kopii zakończone</string>
+    <string name="toast_restore_started">Przywracanie rozpoczęte...</string>
+    <string name="toast_restore_ended">Przywracanie zakończone</string>
+    <string name="toast_timeout">Przekroczono limit czasu operacji</string>
+</resources>

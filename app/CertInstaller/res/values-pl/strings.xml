@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Certyfikat instalatora</string>
+    <string name="pick_file_title">Wybierz certyfikat</string>
+    <string name="pkcs12_password_dialog_title">Wypakuj certyfikat</string>
+    <string name="extracting_pkcs12">Wypakowywanie…</string>
+    <string name="pkcs12_file_password_dialog_title">Wypakuj z %s</string>
+    <string name="name_credential_dialog_title">Nazwa certyfikatu</string>
+    <string name="credential_name">Nazwa certyfikatu:</string>
+    <string name="credential_password">Wpisz hasło, aby wyodrębnić certyfikaty.</string>
+    <string name="credential_info">Pakiet zawiera:</string>
+    <string name="p12_description">Certyfikaty w magazynie kluczy PKCS12.</string>
+    <string name="one_userkey">Jeden klucz użytkownika</string>
+    <string name="one_usercrt">jeden certyfikat użytkownika</string>
+    <string name="one_cacrt">Jeden certyfikat CA</string>
+    <string name="n_cacrts">%d certyfikaty CA</string>
+    <string name="password_error">Wpisz poprawne hasło.</string>
+    <string name="password_empty_error">Wpisz hasło.</string>
+    <string name="name_empty_error">Wpisz nazwę.</string>
+    <string name="name_char_error">Wpisz nazwę, która zawiera tylko litery i cyfry.</string>
+    <string name="storage_error">"Nie udało się zapisać certyfikatu. Dotknij OK, aby ponowić próbę."</string>
+    <string name="unable_to_save_cert">"Nie udało się zapisać certyfikatu. Magazyn poświadczeń nie jest włączony lub poprawnie zainicjowany."</string>
+    <string name="cert_not_saved">Certyfikat nie jest zainstalowany.</string>
+    <string name="no_cert_to_saved">Brak certyfikatu do zainstalowania.</string>
+    <string name="invalid_cert">Certyfikat jest nieprawidłowy.</string>
+    <string name="cert_is_added">%s jest zainstalowany</string>
+    <string name="cert_too_large_error">"Nie można zainstalować, ponieważ rozmiar certyfikatu jest zbyt duży."</string>
+    <string name="cert_missing_error">"Nie można zainstalować, ponieważ nie można zlokalizować pliku certyfikatu."</string>
+    <string name="cert_read_error">"Nie można zainstalować, ponieważ nie można odczytać pliku certyfikatu."</string>
+    <string name="no_cert_file_found">Nie znaleziono pliku certyfikatu na karcie SD.</string>
+    <string name="sdcard_not_present">"Brak karty SD."</string>
+    <string name="only_primary_user_allowed">Tylko właściciel tego urządzenia może zainstalować certyfikaty.</string>
+    <string name="credential_usage_label">Użyte poświadczenia:</string>
+</resources>.
