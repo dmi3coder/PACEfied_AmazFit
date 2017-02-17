@@ -29,7 +29,7 @@
     <string name="quick_settings_switch_off">"OFF"</string>
     <string name="quick_settings_status">"Disconnesso"</string>
     <string name="quick_settings_no_disturb_toast">"Le notifice non verranno mostrate"</string>
-    <string name="quick_settings_auto_light_toast">"Schermo molto illuminato, aumenta il consumo di energia"</string>
+    <string name="quick_settings_auto_light_toast">"Il consumo di energia aumenta alla massima luminosità"</string>
     <string name="quick_settings_status_month">"-"</string>
     <string name="quick_settings_status_day">"  "</string>
     <string name="quick_settings_connected">"Collegato"</string>
@@ -41,13 +41,11 @@
     <string name="quick_settings_battery_charging_full">"Ricarica completata"</string>
     <string name="quick_settings_battery_is_charging">"In carica..."</string>
     <string name="quick_settings_battery_hasnot_charged">"Non è stato caricato"</string>
-    <string name="quick_settings_battery_charging_intervalDay">"%1$d giorni %2$d ore 
-    di carica residua"</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"%d giorni 
-    di carica residua"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"%d ore 
-    di carica residua"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Meno di 1 ora di carica"</string>
+    <string name="quick_settings_battery_charging_intervalDay">"Carica residua:
+	%1$d giorni %2$d ore"</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Carica residua: %d giorni"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Carica residua: %d ore"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Meno di 1 ora di autonomia residua"</string>
     <string name="quick_settings_battery_sportString">"Durata della batteria 
     in modalità GPS"</string>
     <string name="quick_settings_battery_sporttime_hour_unit">"ora"</string>
@@ -78,7 +76,7 @@
     <string name="air_severely_polluted">"Inquinamento grave"</string>
     <string name="detailed">"Dettagli Previsioni"</string>
     <string name="fetch_failed">"Impossibile aggiornare meteo"</string>
-    <string name="fetch_failed_msg">"Si prega di accertarsi che l'orologio sia collegato al App Amazfit e che sia selezionata una posizione valida."</string>
+    <string name="fetch_failed_msg">"Si prega di accertarsi che l'orologio sia collegato con l\'App Amazfit e che sia selezionata una posizione valida."</string>
     <string name="fetch_failed_title">"Non posso ottenere informazioni meteo"</string>
     <string name="fetching">"Recupero"</string>
     <string name="forecast">"Previsioni meteo"</string>
