@@ -36,6 +36,7 @@
     <string name="safe_hearate_remind_content">高于%1dbpm提醒</string>
     <string name="settings_safe_heart_rate_hint">(安全心率)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="experience_title">请先设置个人信息否则数据会有较大偏差</string>
     <string name="indoor_run_progressing">室内跑中</string>
     <string name="music_title">音乐</string>
     <string name="music_local_title">运动音乐</string>
@@ -75,6 +76,10 @@
     <string name="unit_cadence">rpm</string>
     <string name="remind_target_riding_km_title_format">已骑行%1$d公里</string>
     <string name="indoor_riding_time_too_short">运动时间过短，无法保存，确定结束吗？</string>
+    <string name="outdoor_climb_down_altitude">累计下降海拔</string>
+    <string name="outdoor_climb_down_distance">累计下坡距离</string>
+    <string name="outdoor_climb_down_distance_time">下坡时间</string>
+    <string name="outdoor_climb_distance_time">上坡时间</string>
     <string name="sport_widget_title">运 动</string>
     <string name="sport_widget_title_run">跑 步</string>
     <string name="sport_widget_title_walk">健 走</string>

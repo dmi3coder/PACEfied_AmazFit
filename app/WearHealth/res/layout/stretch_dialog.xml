@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/lan_notify_stretch_time_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="19.0sp" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/stretch_dialog_title" />
+    <TextView android:textSize="12.0sp" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/stretch_dialog_subtitle" />
+    <TextView android:textSize="14.0sp" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/stretch_dialog_content" android:layout_weight="1.0" android:lineSpacingExtra="2.0dip" android:layout_marginStart="23.0dip" android:layout_marginEnd="18.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:layout_marginBottom="10.0dip">
+        <FrameLayout android:id="@id/stretch_cancel" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingEnd="5.0dip">
+            <ImageView android:layout_gravity="center|right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/stretch_dialog_icon_no" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/stretch_start" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="5.0dip">
+            <ImageView android:layout_gravity="center|left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/stretch_dialog_icon_open_video" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

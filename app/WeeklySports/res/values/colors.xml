@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="weeklyWhite">#ffffffff</color>
+    <color name="weeklyGray">#ff5d5d5d</color>
+    <color name="weeklyRed">#ffff1400</color>
+    <color name="weeklyGreen">#ff06e314</color>
+    <color name="weeklyBule">#ff00c1ff</color>
+    <color name="weeklyDataGreen">#ff09ff00</color>
+    <color name="widget_color_shadow">#5c000000</color>
+    <color name="widget_color_widget">#ff2c2a31</color>
+    <color name="widget_color_arc">#ff00d62e</color>
+    <color name="widget_color_end_arc">#ff009f18</color>
+</resources>

@@ -23,4 +23,17 @@
             </LinearLayout>
         </FrameLayout>
     </com.huami.watch.sport.ui.view.HmSportLayout>
+    <com.huami.watch.sport.ui.view.HmSportLayout android:id="@id/bind_container" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="40.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/bind_contentPanel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/bind_message" android:paddingTop="10.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/experience_title" android:lineSpacingExtra="2.0dip" android:paddingStart="34.0dip" android:paddingEnd="34.0dip" style="?android:attr/textAppearanceMedium" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/bind_buttonPanel" android:layout_width="176.0dip" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:minHeight="@dimen/alert_dialog_button_bar_height" android:showDividers="beginning" android:dividerPadding="0.0dip">
+                <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:layoutDirection="locale" style="?android:attr/buttonBarStyle">
+                    <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="start" android:id="@id/bind_button2" android:background="@drawable/alter_dialog_button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_weight="1.0" />
+                    <com.huami.watch.common.widget.HmHaloImageView android:layout_gravity="end" android:id="@id/bind_button1" android:background="@drawable/alter_dialog_button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </com.huami.watch.sport.ui.view.HmSportLayout>
 </com.huami.watch.common.widget.HmRelativeLayout>

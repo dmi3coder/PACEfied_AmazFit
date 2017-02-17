@@ -6,6 +6,7 @@
     <string name="notification_unread_num">Unread %s</string>
     <string name="notification_click_upgrade">点击安装</string>
     <string name="notification_click_download">点此下载</string>
+    <string name="notification_click_open">点此查看</string>
     <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>

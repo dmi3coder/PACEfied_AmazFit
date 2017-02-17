@@ -127,6 +127,15 @@
     <string name="burning_fat_heart_rate">燃脂</string>
     <string name="non_movement_heart_rate">非运动</string>
     <string name="sleep_heart_rate">睡眠</string>
+    <string name="stretch_dialog_title">拉伸时刻</string>
+    <string name="stretch_dialog_subtitle">今日久坐时间过长</string>
+    <string name="stretch_dialog_content">合理的活动能帮助缓解久坐带来的腰背僵硬,跟着视频做几组办公室拉伸训练吧!</string>
+    <string name="stretch_dialog_cancel">Cancel</string>
+    <string name="stretch_dialog_start">开启视频</string>
+    <string name="stretch_connection_failed_title">无法连接到手机</string>
+    <string name="stretch_connection_failed_content">请打开手机蓝牙连接是否正常，以及保持华米手表App打开后重试。</string>
+    <string name="open_xiaomi_app_failed_title">开启小米运动失败</string>
+    <string name="open_xiaom_app_failed_content">请安装小米运动App后重试。</string>
     <string name="widget_label_step">今日活动</string>
     <string name="widget_heart_analysis">心率分析</string>
     <string name="widget_step_target_txt">目标 <liff>%d</liff>步</string>

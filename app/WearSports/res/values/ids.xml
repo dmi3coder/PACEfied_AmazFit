@@ -37,6 +37,12 @@
     <item type="id" name="buttonPanel">false</item>
     <item type="id" name="button2">false</item>
     <item type="id" name="button1">false</item>
+    <item type="id" name="bind_container">false</item>
+    <item type="id" name="bind_contentPanel">false</item>
+    <item type="id" name="bind_message">false</item>
+    <item type="id" name="bind_buttonPanel">false</item>
+    <item type="id" name="bind_button2">false</item>
+    <item type="id" name="bind_button1">false</item>
     <item type="id" name="medal_items">false</item>
     <item type="id" name="test_items">false</item>
     <item type="id" name="iv">false</item>

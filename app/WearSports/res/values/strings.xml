@@ -38,6 +38,7 @@
     <string name="safe_hearate_remind_content">Reminder when above %1d bpm</string>
     <string name="settings_safe_heart_rate_hint">(safe heart rate)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
     <string name="indoor_run_progressing">Indoor running</string>
     <string name="music_title">Music</string>
     <string name="music_local_title">Sports music</string>
@@ -77,6 +78,10 @@
     <string name="unit_cadence">rpm</string>
     <string name="remind_target_riding_km_title_format">Completed %1$d mi</string>
     <string name="indoor_riding_time_too_short">Exercise time is too short， can not be saved， To determine the end of it?</string>
+    <string name="outdoor_climb_down_altitude">Descent altitude</string>
+    <string name="outdoor_climb_down_distance">Downhill distance</string>
+    <string name="outdoor_climb_down_distance_time">Downhill time</string>
+    <string name="outdoor_climb_distance_time">Uphill slope time</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Run</string>
     <string name="sport_widget_title_walk">Walk</string>
