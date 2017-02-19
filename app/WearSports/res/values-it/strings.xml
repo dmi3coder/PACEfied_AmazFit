@@ -49,7 +49,7 @@
     <string name="music_start_tips">E\' necessario un auricolare bluetooth, vuoi collegarne uno?</string>
     <string name="music_not_known">Sconosciuto</string>
     <string name="music_update_content">Aggiornamento</string>
-    <string name="music_update_tips_content">Watercress FM aggiorna i brani regolarmente. L1'aggiornamento eliminerà i brani attualmente scaricati. Procedere?</string>
+    <string name="music_update_tips_content">Watercress FM aggiorna i brani regolarmente. L\'aggiornamento eliminerà i brani attualmente scaricati. Procedere?</string>
     <string name="music_pause">Pausa</string>
     <string name="music_fm_title">Watercress FM</string>
     <string name="music_fm_notification_content">Nuove playlist disponibili, vai al download!</string>
@@ -145,7 +145,7 @@
     <string name="history_detail_indoor_running_title">Run Indoor</string>
     <string name="history_detail_cost_time">Tempo totale</string>
     <string name="history_detail_paused_time">Pausa</string>
-    <string name="default_pace_value">"00'00\""</string>
+    <string name="default_pace_value">"00\'00\""</string>
     <string name="history_detail_pace_desc">Ritmo (min/km)</string>
     <string name="history_detail_calorie_desc">Calorie (kCal)</string>
     <string name="history_detail_step_freq">Cadenza (steps/min)</string>
@@ -158,7 +158,7 @@
     <string name="title_activity_gpswaiting">GPSWaitingActivity</string>
     <string name="hello_world">Hello World!</string>
     <string name="no_gps_title">FIX GPS Assente</string>
-    <string name="no_gps_content">Impossibile registrare il percorso, assicurati di essere all'aperto.</string>
+    <string name="no_gps_content">Impossibile registrare il percorso, assicurati di essere all\'aperto.</string>
     <string name="no_gps_button_text">Contiua</string>
     <string name="settings_item_title_km_remind">Promemoria Giro</string>
     <string name="settings_item_title_km_voice_remind">Promemoria Vocale</string>
@@ -266,7 +266,7 @@
     <string name="give_up_sport_record">Tralascia</string>
     <string name="give_up_sport_record_tips">Tralasciare questa attività?</string>
     <string name="delete_sport_summary_tips">Eliminare questa attività?</string>
-    <string name="reminder_wear_not_tight_0">Indossa l'orologio</string>
+    <string name="reminder_wear_not_tight_0">Indossa l\'orologio</string>
     <string name="reminder_wear_not_tight_1">e stringi bene il cinturino.</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

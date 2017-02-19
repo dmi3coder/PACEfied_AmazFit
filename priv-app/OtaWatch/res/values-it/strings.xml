@@ -56,7 +56,7 @@ procedi all'installazione."</string>
     <string name="wifi_connected">Connesso</string>
     <string name="wifi_title">Connetti al Wi-Fi</string>
     <string name="wifi_wait_password">In attesa della password...</string>
-    <string name="toast_please_update_first">Per favore completa prima l'aggiornamento</string>
+    <string name="toast_please_update_first">Per favore completa prima l\'aggiornamento</string>
     <string name="wifi_turnon_going">Attiva il Wi-Fi</string>
     <string name="system_update_title">Aggiornamento completato</string>
     <string name="system_update_content">Il sistema è stato aggiornato alla versione %1$s</string>
