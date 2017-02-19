@@ -5,8 +5,8 @@
     <string name="lang_zh_cn">中文(简体)</string>
     <string name="lang_en_us">English(US)</string>
     <string name="tip_install_wear_companion">Devi installare \"Amazfit Watch\" App nel tuo telefono</string>
-    <string name="tip_low_battery">Batteria sotto il 5% , collega il caricabatterie per continuare</string>
-    <string name="pair_scan_qr">Scannerizza il codice QR con app \"Amazfit Watch\"</string>
+    <string name="tip_low_battery">Livello batteria inferiore al 5% , collega il caricabatterie per continuare</string>
+    <string name="pair_scan_qr">Scannerizza il Codice QR con \"Amazfit Watch App\"</string>
     <string name="pair_skip">Salta</string>
     <string name="tip_pair_skip">Alcune funzioni saranno disabilitate: continuare?</string>
     <string name="tip_restoring">Ripristino</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HmDeskClock</string>
-    <string name="every_day">Ogni giorno</string>
+    <string name="every_day">Tutti i gioni</string>
     <string name="never">Mai</string>
     <string name="day_concat">/</string>
     <string name="default_label">Sveglia</string>
@@ -21,12 +21,12 @@
     <string name="alarm_off">Off</string>
     <string name="alarm_open">On</string>
     <string name="alarm_delete">Cancella</string>
-    <string name="alarm_repeat_setting">Ripeti impostazioni</string>
+    <string name="alarm_repeat_setting">Ripetizioni</string>
     <string name="once_time">Una sola volta</string>
     <string name="work_days">Giorni lavorativi</string>
     <string name="hour_unit">Ore</string>
     <string name="minute_unit">Minuti</string>
-    <string name="snooze_button">Sonno</string>
+    <string name="snooze_button">Snooze</string>
     <string name="dimiss_button">Off</string>
     <string name="stop_watch_left_button_positive">Giri</string>
     <string name="stop_watch_left_button_negative">Reset</string>
@@ -48,7 +48,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Dati battitto non rilevati</string>
+    <string name="no_heartrate_data_hint">Freq. Card. non rilevata</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>

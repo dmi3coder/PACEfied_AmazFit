@@ -14,17 +14,17 @@
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Sveglia impostata fra un solo minuto.</item>
-        <item>Sveglia impostata fra %1$s da ora.</item>
-        <item>Sveglia impostata fra %2$s da ora.</item>
-        <item>Sveglia impostata fra %1$s e %2$s da ora.</item>
-        <item>Sveglia impostata fra %3$s da ora.</item>
-        <item>Sveglia impostata fra %1$s e %3$s da ora.</item>
-        <item>Sveglia impostata fra %2$s e %3$s da ora.</item>
-        <item>Sveglia impostata fra %1$s, %2$s, e %3$s da ora.</item>
+        <item>Sveglia attiva tra un minuto.</item>
+        <item>Sveglia attiva tra %1$s</item>
+        <item>Sveglia attiva tra %2$s</item>
+        <item>Sveglia attiva tra %1$s e %2$s</item>
+        <item>Sveglia attiva tra %3$s</item>
+        <item>Sveglia attiva tra %1$s e %3$s</item>
+        <item>Sveglia attiva tra %2$s e %3$s</item>
+        <item>Sveglia attiva tra %1$s, %2$s, e %3$s</item>
     </string-array>
     <string-array name="repeat_description">
-        <item>Una sola volta</item>
+        <item>Singola</item>
         <item>Lun</item>
         <item>Mar</item>
         <item>Mer</item>

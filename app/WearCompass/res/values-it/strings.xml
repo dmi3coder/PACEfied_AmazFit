@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">Bussola</string>
     <string name="action_settings">Impostazioni</string>
-    <string name="north_latitude">Latitudine Nord</string>
-    <string name="south_latitude">Latitudine Sud</string>
-    <string name="east_longitude">Latitudine Est</string>
-    <string name="west_longitude">Latitudine Ovest</string>
+    <string name="north_latitude">Lat. N</string>
+    <string name="south_latitude">Lat. S</string>
+    <string name="east_longitude">Long. E</string>
+    <string name="west_longitude">Long. O</string>
     <string name="altitude">Altitudine(m)</string>
     <string name="altitude_ft">Altitudine(ft)</string>
-    <string name="atmospheric_pressure">Pressione atmosferica</string>
+    <string name="atmospheric_pressure">Barometro</string>
     <string name="ori_north">N</string>
     <string name="ori_northeast">NE</string>
     <string name="ori_east">E</string>
@@ -18,15 +18,16 @@
     <string name="ori_west">O</string>
     <string name="ori_northwest">NO</string>
     <string name="correcting">Calibrazione</string>
-    <string name="correcting_line1">Cambia polso</string>
-    <string name="correcting_line2">Ruotare la pallina</string>
+    <string name="correcting_line1">Inclina il polso</string>
+    <string name="correcting_line2">e ruota l\'idicatore</string>
     <string name="value_default">-</string>
     <string name="loading">Caricamento</string>
     <string name="degree">°</string>
     <string name="zero">0.00</string>
     <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
-    <string name="gps_tip">"Non trovo i satelliti, per cortesia esci all'aperto."</string>
+    <string name="gps_tip">"GPS FIX Assente, spostati all\'esterno"</string>
     <string name="confirm">Conferma</string>
     <string name="unknown">--</string>
-    <string name="compass_roll_tip">"Regolare l\'orologio con display verso l\'alto per l\'orientamento orizzontale"</string>
+    <string name="compass_roll_tip">"Tenere l\'orologio rivolto verso l\'alto
+	per l\'orientamento orizzontale"</string>
 </resources>
