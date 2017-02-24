@@ -8,15 +8,15 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainPlanSelectDetailFragment$$ViewBinder<T extends com.huami.watch.train.ui.fragment.TrainPlanSelectDetailFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492926, "field 'fullScrollView'");
-    target.fullScrollView = finder.castView(view, 2131492926, "field 'fullScrollView'");
-    view = finder.findRequiredView(source, 2131492934, "field 'numberTrainDays'");
-    target.numberTrainDays = finder.castView(view, 2131492934, "field 'numberTrainDays'");
-    view = finder.findRequiredView(source, 2131492935, "field 'numberTrainMils'");
-    target.numberTrainMils = finder.castView(view, 2131492935, "field 'numberTrainMils'");
-    view = finder.findRequiredView(source, 2131492938, "field 'recyclerView_history'");
-    target.recyclerView_history = finder.castView(view, 2131492938, "field 'recyclerView_history'");
-    view = finder.findRequiredView(source, 2131492936, "method 'startNewTrainPlan'");
+    view = finder.findRequiredView(source, 2131492928, "field 'fullScrollView'");
+    target.fullScrollView = finder.castView(view, 2131492928, "field 'fullScrollView'");
+    view = finder.findRequiredView(source, 2131492936, "field 'numberTrainDays'");
+    target.numberTrainDays = finder.castView(view, 2131492936, "field 'numberTrainDays'");
+    view = finder.findRequiredView(source, 2131492937, "field 'numberTrainMils'");
+    target.numberTrainMils = finder.castView(view, 2131492937, "field 'numberTrainMils'");
+    view = finder.findRequiredView(source, 2131492940, "field 'recyclerView_history'");
+    target.recyclerView_history = finder.castView(view, 2131492940, "field 'recyclerView_history'");
+    view = finder.findRequiredView(source, 2131492938, "method 'startNewTrainPlan'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(

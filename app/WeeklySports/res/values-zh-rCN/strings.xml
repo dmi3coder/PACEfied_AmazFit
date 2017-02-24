@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeeklySports</string>
+    <string name="weeklysports_title">运动周报</string>
+    <string name="weeklysports_totalnumber_front">共运动</string>
+    <string name="weeklysports_totalstep_front">共走</string>
+    <string name="weeklysports_totaltime">运动总用时</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">运动总消耗</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">运动总里程</string>
+    <string name="weeklysports_totalmileage_unit">km</string>
+    <string name="weeklysports_averageheart">运动平均心率</string>
+    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_runerrate">跑步配速成绩</string>
+    <string name="weeklysports_outdoorrunrate">户外跑平均配速</string>
+    <string name="weeklysports_insiderunrate">室内跑平均配速</string>
+    <string name="weeklysports_crossrunrate">越野跑平均配速</string>
+    <string name="weeklysports_runerrate_unit">/km</string>
+    <string name="weeklysports_ridingrate">骑行速度成绩</string>
+    <string name="weeklysports_outdoorriding_average">户外骑行平均速度</string>
+    <string name="weeklysports_outdoorriding_max">户外骑行最大速度</string>
+    <string name="weeklysports_outdoorriding_unit">km/h</string>
+    <string name="weeklysports_activity">活动</string>
+    <string name="weeklysports_running">跑步</string>
+    <string name="weeklysports_walking">健走</string>
+    <string name="weeklysports_riding">骑行</string>
+    <string name="weekly_step_attained_rate">达标天数</string>
+    <string name="weekly_sports_notification_content">上周运动周报已生成</string>
+</resources>

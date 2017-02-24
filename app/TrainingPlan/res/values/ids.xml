@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="fullScrollView">false</item>
     <item type="id" name="finshReasonTitle">false</item>
-    <item type="id" name="recyclearView">false</item>
+    <item type="id" name="listView">false</item>
     <item type="id" name="fragment_container">false</item>
     <item type="id" name="activity_main">false</item>
     <item type="id" name="sendNotification">false</item>
+    <item type="id" name="recyclearView">false</item>
     <item type="id" name="rl_widget_container">false</item>
     <item type="id" name="train_record_title">false</item>
     <item type="id" name="train_plan_remind">false</item>
@@ -80,7 +82,6 @@
     <item type="id" name="rl_middle_container">false</item>
     <item type="id" name="day_train_record_copywrite">false</item>
     <item type="id" name="day_train_record_rich_title">false</item>
-    <item type="id" name="fullScrollView">false</item>
     <item type="id" name="current_week_number">false</item>
     <item type="id" name="recyclear_view">false</item>
     <item type="id" name="anchor_view">false</item>

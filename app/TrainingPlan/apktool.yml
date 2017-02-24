@@ -14,6 +14,7 @@ sharedLibrary: false
 unknownFiles:
   com/huami/watch/train/ui/activity/FinishTrainReasonActivity$$ViewBinder.java: '8'
   com/huami/watch/train/ui/activity/TrainWidgetRemindActivity$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainFinishReasonAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainPlanAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainRecordDetailAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainSelectDetailAdapter$ViewHolder$$ViewBinder.java: '8'
@@ -22,6 +23,7 @@ unknownFiles:
   com/huami/watch/train/ui/fragment/TrainPlanSelectDetailFragment$$ViewBinder.java: '8'
   com/huami/watch/train/ui/fragment/TrainRecordDetailFragment$$ViewBinder.java: '8'
   com/huami/watch/train/ui/fragment/TrainWeeklyRecordDetailFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/listviewadapter/TrainFinishReasonListAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/listviewadapter/TrainPlanListAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/test/TestProvider$$ViewBinder.java: '8'
   com/ingenic/iwds/DeviceDescriptor.aidl: '8'
@@ -53,8 +55,8 @@ unknownFiles:
 usesFramework:
   ids:
   - 1
-  tag: 1.2.8
+  tag: 1.2.9
 version: 2.2.1
 versionInfo:
   versionCode: '22'
-  versionName: 5.1-97
+  versionName: 5.1-102

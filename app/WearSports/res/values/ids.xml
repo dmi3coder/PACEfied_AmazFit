@@ -78,28 +78,38 @@
     <item type="id" name="history_detail_sport_move_cost_time">false</item>
     <item type="id" name="history_detail_sport_pace_desc">false</item>
     <item type="id" name="history_detail_sport_pace">false</item>
+    <item type="id" name="history_detail_sport_pace_unit">false</item>
     <item type="id" name="history_detail_sport_move_pace_desc">false</item>
     <item type="id" name="history_detail_move_sport_pace">false</item>
+    <item type="id" name="history_detail_move_sport_pace_unit">false</item>
     <item type="id" name="history_detail_sport_best_pace_desc">false</item>
     <item type="id" name="history_detail_sport_best_pace">false</item>
+    <item type="id" name="history_detail_sport_best_pace_unit">false</item>
     <item type="id" name="history_detail_sport_speed_desc">false</item>
     <item type="id" name="history_detail_sport_speed">false</item>
+    <item type="id" name="history_detail_sport_speed_unit">false</item>
     <item type="id" name="history_detail_sport_move_speed_desc">false</item>
     <item type="id" name="history_detail_sport_move_speed">false</item>
+    <item type="id" name="history_detail_sport_move_speed_unit">false</item>
     <item type="id" name="history_detail_sport_max_speed_desc">false</item>
     <item type="id" name="history_detail_sport_max_speed">false</item>
+    <item type="id" name="history_detail_sport_max_speed_unit">false</item>
     <item type="id" name="history_detail_sport_step_freq_desc">false</item>
     <item type="id" name="history_detail_sport_step_freq">false</item>
     <item type="id" name="history_detail_sport_high_step_freq_desc">false</item>
     <item type="id" name="history_detail_sport_high_step_freq">false</item>
     <item type="id" name="history_detail_sport_climb_up_desc">false</item>
     <item type="id" name="history_detail_sport_climb_up">false</item>
+    <item type="id" name="history_detail_sport_climb_up_unit">false</item>
     <item type="id" name="history_detail_sport_climb_down_desc">false</item>
     <item type="id" name="history_detail_sport_climb_down">false</item>
+    <item type="id" name="history_detail_sport_climb_down_unit">false</item>
     <item type="id" name="history_detail_sport_high_altitude_desc">false</item>
     <item type="id" name="history_detail_sport_high_altitude">false</item>
+    <item type="id" name="history_detail_sport_high_altitude_unit">false</item>
     <item type="id" name="history_detail_sport_low_altitude_desc">false</item>
     <item type="id" name="history_detail_sport_low_altitude">false</item>
+    <item type="id" name="history_detail_sport_low_altitude_unit">false</item>
     <item type="id" name="history_detail_sport_trail">false</item>
     <item type="id" name="history_detail_sport_anim_trail">false</item>
     <item type="id" name="sport_trail_loading">false</item>
@@ -145,11 +155,15 @@
     <item type="id" name="history_detail_sport_pause_cost_time">false</item>
     <item type="id" name="history_detail_sport_climb_disascend_desc">false</item>
     <item type="id" name="history_detail_sport_climb_up_disascend">false</item>
+    <item type="id" name="history_detail_sport_climb_up_disascend_unit">false</item>
     <item type="id" name="speed_container">false</item>
     <item type="id" name="history_detail_speed_graph">false</item>
     <item type="id" name="history_detail_speed">false</item>
     <item type="id" name="speed_cache_view">false</item>
+    <item type="id" name="graph_unit_first">false</item>
+    <item type="id" name="graph_unit_second">false</item>
     <item type="id" name="heart_rate_split_line_three">false</item>
+    <item type="id" name="graph_unit_third">false</item>
     <item type="id" name="content_root">false</item>
     <item type="id" name="paused_text">false</item>
     <item type="id" name="paused_time">false</item>
@@ -223,6 +237,7 @@
     <item type="id" name="history_detail_sport_walking_cost_time_desc">false</item>
     <item type="id" name="history_detail_sport_walking_cost_time">false</item>
     <item type="id" name="history_detail_max_sport_speed">false</item>
+    <item type="id" name="history_detail_max_sport_speed_unit">false</item>
     <item type="id" name="time_unit">false</item>
     <item type="id" name="main_list">false</item>
     <item type="id" name="sport_info_trail_title">false</item>
