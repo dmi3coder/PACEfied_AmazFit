@@ -12,7 +12,8 @@
     <string name="day_train_record_stag">%1$s - %2$d Week - %3$d Day</string>
     <string name="day_train_record_stag_simple">- %1$d Week - %2$d Day</string>
     <string name="day_train_record_train_stage">-%1$sDay</string>
-    <string name="remind_train_first_text">"Systemic training can help you improve your running.  Let's get started！"</string>
+    <string name="remind_train_first_text">"Systemic training can help you improve your running.
+Let's get started！"</string>
     <string name="train_start">Start Training</string>
     <string name="hidtory_train_start_date">Start %1$s</string>
     <string name="hidtory_train_end_date">End %1$s</string>
@@ -28,9 +29,9 @@
     <string name="day_train_plan_record_marked">Mark</string>
     <string name="train_plan_recode_finished">Finish</string>
     <string name="train_mileage">Training Distance(km)</string>
-    <string name="train_days">Tarining Days</string>
-    <string name="train_finish">Training Finish</string>
-    <string name="train_finished">Training Finished</string>
+    <string name="train_days">Training Days</string>
+    <string name="train_finish">Give up</string>
+    <string name="train_finished">Finished</string>
     <string name="today">Today</string>
     <string name="train_complete_rate">Completion Rate</string>
     <string name="assing_train_plan">%1$s</string>
