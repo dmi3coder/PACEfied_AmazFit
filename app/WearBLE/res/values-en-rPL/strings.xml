@@ -7,9 +7,9 @@
     <string name="install_companion_tip">Instalowanie asystenta zegarak w telefonie</string>
     <string name="simplified_chinese">Chiński(Tradycyjny)</string>
     <string name="english_usa">English(US)</string>
-    <string name="low_battery">Słaba bateria, podłącz zasilanie by kontynuować</string>
+    <string name="low_battery">Słaba bateria, podł.zasilanie by kontynuować</string>
     <string name="battery_low_title">Słaba bateria</string>
-    <string name="battery_low_plz_charge">Słaba bateria, podłącz ładowarkę</string>
+    <string name="battery_low_plz_charge">Słaba bateria, podł. ładowarkę</string>
     <string name="scan_to_bind">Skanuj Kod QR</string>
     <string name="function_unavailable_tip">Niektóre funkcje będą niedostępne, kontynuować?</string>
     <string name="cancel_bind">Anuluj</string>

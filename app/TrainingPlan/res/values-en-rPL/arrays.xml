@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekdays">
-        <item>Poniedziałek</item>
-        <item>Wtorek</item>
-        <item>Środa</item>
-        <item>Czwartek</item>
-        <item>Piątek</item>
-        <item>Sobota</item>
-        <item>Niedziela</item>
-        <item>第八周</item>
+        <item>Tydzień 1</item>
+        <item>Tydzień 2</item>
+        <item>Tydzień 3</item>
+        <item>Tydzień 4</item>
+        <item>Tydzień 5</item>
+        <item>Tydzień 6</item>
+        <item>Tydzień 7</item>
+        <item>Tydzień 8</item>
     </string-array>
     <string-array name="simple_weekdays">
         <item>Nie</item>

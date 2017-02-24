@@ -10,9 +10,9 @@
     <string name="credential_password">Wpisz hasło, aby wyodrębnić certyfikaty.</string>
     <string name="credential_info">Pakiet zawiera:</string>
     <string name="p12_description">Certyfikaty w magazynie kluczy PKCS12.</string>
-    <string name="one_userkey">Jeden klucz użytkownika</string>
-    <string name="one_usercrt">jeden certyfikat użytkownika</string>
-    <string name="one_cacrt">Jeden certyfikat CA</string>
+    <string name="one_userkey">klucz użytkownika</string>
+    <string name="one_usercrt">certyfikat użytkownika</string>
+    <string name="one_cacrt">certyfikat CA</string>
     <string name="n_cacrts">%d certyfikaty CA</string>
     <string name="password_error">Wpisz poprawne hasło.</string>
     <string name="password_empty_error">Wpisz hasło.</string>
@@ -20,10 +20,10 @@
     <string name="name_char_error">Wpisz nazwę, która zawiera tylko litery i cyfry.</string>
     <string name="storage_error">"Nie udało się zapisać certyfikatu. Dotknij OK, aby ponowić próbę."</string>
     <string name="unable_to_save_cert">"Nie udało się zapisać certyfikatu. Magazyn poświadczeń nie jest włączony lub poprawnie zainicjowany."</string>
-    <string name="cert_not_saved">Certyfikat nie jest zainstalowany.</string>
-    <string name="no_cert_to_saved">Brak certyfikatu do zainstalowania.</string>
+    <string name="cert_not_saved">Certyfikat nie jest zainstal.</string>
+    <string name="no_cert_to_saved">Brak certyfikatu do zainstal.</string>
     <string name="invalid_cert">Certyfikat jest nieprawidłowy.</string>
-    <string name="cert_is_added">%s jest zainstalowany</string>
+    <string name="cert_is_added">%s jest zainstal.</string>
     <string name="cert_too_large_error">"Nie można zainstalować, ponieważ rozmiar certyfikatu jest zbyt duży."</string>
     <string name="cert_missing_error">"Nie można zainstalować, ponieważ nie można zlokalizować pliku certyfikatu."</string>
     <string name="cert_read_error">"Nie można zainstalować, ponieważ nie można odczytać pliku certyfikatu."</string>

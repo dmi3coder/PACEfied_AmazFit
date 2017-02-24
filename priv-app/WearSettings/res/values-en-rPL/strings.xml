@@ -4,8 +4,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdź</string>
     <string name="picker_default_nagetive_text">Wył.</string>
-    <string name="no_heartrate_data_hint">Nie wykryto danych tętna</string>
-    <string name="no_altitude_hint">Nie wykryto danych wysokości</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna</string>
+    <string name="no_altitude_hint">Brak danych o wysokości</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
@@ -15,19 +15,19 @@
     <string name="dlg_cancel">Anuluj</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Ustawienia</string>
-    <string name="find_phone">Znajdź mój telefon</string>
+    <string name="find_phone">Znajdź telefon</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Aktualizacja</string>
     <string name="change_language">Język</string>
-    <string name="reset_factory">Ustawienia fabryczne</string>
+    <string name="reset_factory">Ust.fabryczne</string>
     <string name="shut_down">Wyłącz</string>
     <string name="about">O urządzeniu</string>
-    <string name="wear_habit">Która ręka</string>
+    <string name="wear_habit">Wybór ręki</string>
     <string name="bugreport">Report błędów</string>
     <string name="light_change">Podświetlenie</string>
     <string name="auto_nodisturb">Tryb Cichy</string>
-    <string name="double_click_wakeup">Tap to Wake</string>
+    <string name="double_click_wakeup">Dot.by obudź.</string>
     <string name="vibration_intensity">Wibracje</string>
 	<string name="flight_mode">Tryb samolot.</string>
     <string name="hm_lab">Huami Lab</string>
@@ -53,13 +53,13 @@
     <string name="lab">Lab</string>
     <string name="nodisturb_open_string">Wł.</string>
     <string name="nodisturb_close_string">Wył.</string>
-	 <string name="air_plane_mode_note">"Tryb samolotowy
-Funkcja ta powoduje wyłączenie funkcji Bluetooth, Wi-Fi, Alipay i innych funkcji. Aby skorzystać z powyższych funkcji, należy wyłączyć tryb samolotowy w konfiguracji systemu .."</string>
+	<string name="air_plane_mode_note">"Tryb samol.wył. BT i Wi-Fi w zegarku, aby oszczędz.energię. 
+Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.tryb samol. w ust. systemowych"</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Nie przeszkadzać</string>
     <string name="auto_nodisturb_start_time_string">Czas rozpoczęcia</string>
     <string name="auto_nodisturb_end_time_string">Czas końca</string>
-    <string name="time_to">" do "</string>
+    <string name="time_to">" i "</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Wyszukiwanie...</string>
     <string name="blt_bound_stat_bonded">Sparowany</string>
@@ -72,7 +72,7 @@ Funkcja ta powoduje wyłączenie funkcji Bluetooth, Wi-Fi, Alipay i innych funkc
 Niepołączony?"</string>
     <string name="blt_hint_connect">"%1s
 Połączony?"</string>
-    <string name="blt_hint_connect_fail">Połączenie nie powiodło się, proszę połączyć ponownie </string>
+    <string name="blt_hint_connect_fail">Poł. nie powiodło się, proszę poł.ponownie</string>
     <string name="blt_type_ear">Zestaw słuchawkowy</string>
     <string name="blt_speaker">Audio</string>
     <string name="blt_car_system">Zamontowany w pojeździe</string>
@@ -81,38 +81,38 @@ Połączony?"</string>
     <string name="bluetooth_pair_tips">Kod parowania</string>
     <string name="button_enter">OK</string>
     <string name="button_cancel">Anuluj</string>
-    <string name="blt_cancel_paring">Parowanie anulowane</string>
+    <string name="blt_cancel_paring">Parowanie anul.</string>
     <string name="bluetooth_pairing_error_message">Parowanie nie powiodło się</string>
     <string name="bluetooth_connecting">Podłączanie...</string>
     <string name="bluetooth_disconnecting">Rozłączanie...</string>
     <string name="blt_hint_paring">"%1s  sparować?"</string>
-    <string name="blt_paring_fail_hint">"Upewnij się, że urządzenie
-  włączone i jest w zasięgu"</string>
+    <string name="blt_paring_fail_hint">"Upewnij się, że urządz.
+  wł. i jest w zasięgu"</string>
     <string name="blt_hint_disconnect_device">Odłączony</string>
     <string name="blt_hint_ignore_device">Ignoruj</string>
     <string name="blt_hint_connect_device">Połącz</string>
 	<string name="bluetooth_connected">Połączony</string>
     <string name="bluetooth_disconnected">Rozłączony</string>
-    <string name="bluetooth_connecting_error_message">"Nie można połączyć się %1$s."</string>
+    <string name="bluetooth_connecting_error_message">"Nie można poł.się %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Nie udało się powiązać z %1$s zpowodu błędnego PINu zub hasła."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Nie można się skomunikować z %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Parowanie odrzucone przez %1$s.</string>
-	<string name="bluetooth_turning_on">Włączanie Bluetooth...</string>
-    <string name="bluetooth_turning_off">Włączanie Bluetooth...</string>
+	<string name="bluetooth_turning_on">Wł.Bluetooth...</string>
+    <string name="bluetooth_turning_off">Wył.Bluetooth...</string>
     <string name="bluetooth_enabled">Bluetooth Wł.</string>
     <string name="bluetooth_disabled">Bluetooth Wył.</string>
     <string name="bluetooth_unknown">Stan Bt nieznany</string>
-    <string name="blt_confirm_ignore">Czy na pewno chcesz, aby zignorować to urządzenie?</string>
-    <string name="phone_finding">Lokalizowanie telefonu...</string>
+    <string name="blt_confirm_ignore">Czy na pewno chcesz, aby zignorować to urządz?</string>
+    <string name="phone_finding">Lokal. telefonu...</string>
     <string name="phone_found">Znaleziono telefon</string>
-    <string name="phone_not_connected">Telefon nie jest podłączony</string>
+    <string name="phone_not_connected">Telefon nie jest podł.</string>
     <string name="phone_not_found">Telefon nie został znaleziony</string>
 	<string name="start_testing">Start</string>
     <string name="light_off">Wył.</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Zawsze wł</string>
-    <string name="rise_no_bl_under_slpt">Tylko odblokowany</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto po odblokowaniu</string>
+    <string name="rise_no_bl_under_slpt">Tylko odblok.</string>
+    <string name="subtitle_of_raise_hand_no_bl">Auto po odblok.</string>
     <string name="locale_title">Język</string>
     <string name="locale_applying">Zazstosuj język</string>
     <string name="zh_cn">Chiński (Simplified)</string>
@@ -120,16 +120,16 @@ Połączony?"</string>
     <string name="zh_tw">Chiński (Traditional)</string>
     <string name=".">"Zmień język na 
 %1$s?"</string>
-    <string name="reset_factory_hint">Reset do ustawień fabrycznych?</string>
+    <string name="reset_factory_hint">Reset do ust.fabrycznych?</string>
     <string name="strong">silne</string>
     <string name="mid">średnie</string>
     <string name="weak">słabe</string>
     <string name="confirm_shutdown">Wyłączyć?</string>
-    <string name="app_name">Ustawienia zegarka</string>
+    <string name="app_name">Ust. zegarka</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-	<string name="unknown">Nieznane urządzenie</string>
-    <string name="upgrade_checking">Sprawdzanie aktualizacji...</string>
+	<string name="unknown">Nieznane urządz.</string>
+    <string name="upgrade_checking">Sprawdzanie aktual....</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
 </resources>

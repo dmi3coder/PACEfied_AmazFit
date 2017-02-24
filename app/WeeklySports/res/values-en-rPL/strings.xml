@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeeklySports</string>
+    <string name="enter">Wejdź</string>
+    <string name="weeklysports_title">Spotowy tydzień</string>
+    <string name="weeklysports_totalnumber_front">Całkowity ruch</string>
+    <string name="weeklysports_totalstep_front">Całkowita ilość kroków</string>
+    <string name="weeklysports_totaltime">Całkowity czas ruchu</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Całkowita il.kalorii</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">Całkowity dystans</string>
+    <string name="weeklysports_totalmileage_unit">km</string>
+    <string name="weeklysports_averageheart">Średnie rętno</string>
+    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_runerrate">Tempo biegu</string>
+    <string name="weeklysports_outdoorrunrate">Tempo biegu na zewnatrz</string>
+    <string name="weeklysports_insiderunrate">Tempo biegu wewnątrz</string>
+    <string name="weeklysports_crossrunrate">Średnie tempo biegania</string>
+    <string name="weeklysports_runerrate_unit">/km</string>
+    <string name="weeklysports_ridingrate">Szybkość jazdy na rowerze</string>
+    <string name="weeklysports_outdoorriding_average">Średnia pręd; jazdy na zewnątrz</string>
+    <string name="weeklysports_outdoorriding_max">Maksymalna pręd; jazdy na zewnątrz</string>
+    <string name="weeklysports_outdoorriding_unit">km/h</string>
+    <string name="weeklysports_frequency">Częstotliwość</string>
+    <string name="weeklysports_step">Krok</string>
+    <string name="weeklysports_day">Dzień</string>
+    <string name="weeklysports_activity">Aktywność</string>
+    <string name="weeklysports_running">Bieganie</string>
+    <string name="weeklysports_walking">Chodzenie</string>
+    <string name="weeklysports_riding">Jazda rowerem</string>
+    <string name="weekly_step_percent">%s%%</string>
+    <string name="weekly_step_attained_rate">Osiągniety etap</string>
+    <string name="weekly_sports_notification_content">Raport tygniowych osiągnięć sportowych</string>
+</resources>

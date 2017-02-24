@@ -85,12 +85,12 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Doskonałe powietrze</item>
-        <item>Dobre powietrze</item>
-        <item>Mała zanieczyszczenie</item>
-        <item>Umiarkowane zanieczyszczenie</item>
-        <item>Duże zanieczyszczenie</item>
-        <item>Poważne zanieczyszczenie</item>
+        <item>Doskonałe powiet.</item>
+        <item>Dobre powiet.</item>
+        <item>Mała zanieczy.</item>
+        <item>Umiark. zaniecz.</item>
+        <item>Duże zaniecz.</item>
+        <item>Poważne zaniecz.</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
@@ -107,7 +107,7 @@
         <item>Deszczowo</item>
         <item>Burze</item>
         <item>Lekkie opady</item>
-        <item>Umiarkowane opady</item>
+        <item>Umiark.opady</item>
         <item>Intensywne opady</item>
         <item>Ulewa</item>
         <item>Ulewa</item>
@@ -115,8 +115,8 @@
         <item>Marznący deszcz</item>
         <item>Grad</item>
         <item>Lekkie opady śniegu</item>
-        <item>Umiarkowane opady śniegu</item>
-        <item>Intensywne opady śniegu</item>
+        <item>Umiark.opady śniegu</item>
+        <item>Inten.opady śniegu</item>
         <item>Zamieć</item>
         <item>Śnieg</item>
         <item>Kurzawa</item>

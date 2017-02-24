@@ -6,9 +6,10 @@
     <string name="notification_unread_num">Nieprzeczytane %s</string>
 	<string name="notification_click_upgrade">Kliknij Instaluj</string>
     <string name="notification_click_download">Kliknij tutaj, aby pobrać</string>
-    <string name="notification_wechat_red_envelop_title">WeChat czerwone przypomnienie</string>
-    <string name="notification_alipay_red_envelop_title">Alipay czerwone przypomnienie</string>
-    <string name="notification_qq_red_envelop_title">QQ czerwone przypomnienie</string>
+	<string name="notification_click_open">Kliknij tutaj, aby wyświetlić</string>
+    <string name="notification_wechat_red_envelop_title">WeChat czerwone przypom.</string>
+    <string name="notification_alipay_red_envelop_title">Alipay czerwone przypom.</string>
+    <string name="notification_qq_red_envelop_title">QQ czerwone przypom.</string>
     <string name="notification_red_envelop_content">%s Czerwone przyp., otwórz telefon, aby je szybko zobaczyć!</string>
     <string name="notification_red_envelop_default_content">Otwórz telefon, aby je szybko zobaczyć!</string>
     <string name="notification_alipay_default_group">Hangout</string>
@@ -20,17 +21,22 @@
     <string name="notification_alipay_default_title">Alipay</string>
     <string name="notification_alipay_default_pattern">Alipay</string>
     <string name="notification_alipay_group_red_pattern">Czerwone powiad. $ w czacie grupowym</string>
-    <string name="notification_alipay_red_pattern">发来一个红包$</string>
-	<string name="delete_all_notifications">Usuń wszystkie powiadomienia</string>
+    <string name="notification_alipay_red_pattern">Wysłano powiadom. $</string>
+	<string name="delete_all_notifications">Usuń wszystkie powiadom.</string>
     <string name="delete_all_notifications_confrim_content">Po usunięciu zgłoszenie nie może być przywrócone, kontynuować?</string>
-    <string name="quick_settings_no_disturb_mode">Tryb cichy: %1$s</string>
+    <string name="quick_settings_airplane_mode">Tyyb samol: %1$s</string>
+    <string name="quick_settings_no_disturb_mode">Cichy: %1$s</string>>
     <string name="quick_settings_auto_light_mode">Podświetlenie: %1$s</string>
     <string name="quick_settings_more_settings">Więcej ustawień</string>
-    <string name="quick_settings_switch_auto">Auto</string>
+    <string name="quick_settings_switch_auto">Tryb auto.</string>
+    <string name="quick_settings_switch_awake">Tryb budz.</string>
+    <string name="quick_settings_switch_always">Zawsze</string>
     <string name="quick_settings_switch_on">Wł.</string>
     <string name="quick_settings_switch_off">Wył.</string>
+	<string name="quick_settings_toast_on">Włączony</string>
+    <string name="quick_settings_toast_off">Wyłączony</string>
     <string name="quick_settings_status">Niepołączony</string>
-    <string name="quick_settings_no_disturb_toast">Powiadomienia nie będą widoczne</string>
+    <string name="quick_settings_no_disturb_toast">Powiadom.nie będą wyświetl.</string>
     <string name="quick_settings_auto_light_toast">Podświetlanie ekranu, zwiększa zużycie energii</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
@@ -39,19 +45,18 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">Sylwester</string>
-    <string name="seconed_confirm_nodisturb">"Tryb cichy Wł.
-Nowe powiadomienia nie pkażą się."</string>
-    <string name="quick_settings_battery_charging_full">W pełni naładowana</string>
+    <string name="seconed_confirm_nodisturb">"Tryb Cich. wł.
+Nowe powiad.nie będą pokazywane!"</string>
+    <string name="quick_settings_battery_charging_full">Wpełni naład.</string>
     <string name="quick_settings_battery_is_charging">Ładowanie...</string>
-    <string name="quick_settings_battery_hasnot_charged">Bateria nie jest naładowana</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d dni %2$d godzin od naładowania</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dni od naładowania</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">%d godzin od naładowania</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Mniej niż 1 godzina
-od naładowania"</string>
-    <string name="quick_settings_battery_sportString">Żywotność baterii w trybie GPS</string>
-    <string name="quick_settings_battery_sporttime_hour_unit">godzina</string>
-    <string name="quick_settings_battery_sporttime_KM_unit">km</string>
+    <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d dni %2$d godz. od naładow</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dni od naładow</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d godz. od naładow</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Mniej niż 1h od naładow.",</string>
+    <string name="quick_settings_battery_sportString">Żywot.baterii w trybie Sport</string><string name="quick_settings_battery_sporttime_hour_unit">godz.</string>
+    <string name="quick_settings_battery_sporttime_hour_unit">godz.</string>
+	<string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="health_def_value" />
@@ -59,7 +64,7 @@ od naładowania"</string>
     <string name="health_title_def_value">Dzisiaj przeszedłem</string>
     <string name="splash_hint">Inicjowanie...</string>
     <string name="header_incomming_call_name" />
-    <string name="header_incomming_call_hint">Połączenie przychodzące</string>
+    <string name="header_incomming_call_hint">Poł. przychodzące</string>
     <string name="header_incomming_call_mobilephone">Telefon</string>
     <string name="header_incomming_call_landlinephone">Stacjonarny</string>
     <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
@@ -69,23 +74,23 @@ od naładowania"</string>
     <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
     <string name="header_incomming_call_service_hotline">Service hotline</string>
     <string name="header_incomming_call_localcall">Rozmowa miejscowa</string>
-    <string name="header_incomming_call_unknowncall">Połączenie nieznane</string>
-    <string name="air_good">Dobra jakość powietrza</string>
-    <string name="air_perfect">Najwyższa jakość powietrza</string>
-    <string name="air_heavily_polluted">Duże zanieczyszczenie</string>
-    <string name="air_lightly_polluted">Lekkie zanieczyszczenie</string>
-    <string name="air_moderate_polluted">Umiarkowane zanieczyszczenie</string>
-    <string name="air_severely_polluted">Poważne zanieczyszczenie</string>
+    <string name="header_incomming_call_unknowncall">Poł. nieznane</string>
+    <string name="air_good">Dobra jakość powie.</string>
+    <string name="air_perfect">Najwyż.jakość powie.</string>
+    <string name="air_heavily_polluted">Duże zaniecz.</string>
+    <string name="air_lightly_polluted">Lekkie zaniecz.</string>
+    <string name="air_moderate_polluted">Umiark.zaniecz.</string>
+    <string name="air_severely_polluted">Poważne zaniecz.</string>
     <string name="detailed">Dane pogodowe</string>
-    <string name="fetch_failed">Nie można zaktualizować pogody</string>
-    <string name="fetch_failed_msg">Należy upewnić się, że zegarek jest podłączony do aplikacji Amazfit i została wybrana właściwa lokalizacja.</string>
-    <string name="fetch_failed_title">Nie można uzyskać informacji pogodowych</string>
+    <string name="fetch_failed">Nie można zaktual. pogody</string>
+    <string name="fetch_failed_msg">Należy upewnić się, że zegarek jest podłączony do aplikacji Amazfit i została wybrana właściwa lokal.</string>
+    <string name="fetch_failed_title">Nie można uzyskać info. pogodowych</string>
     <string name="fetching">Ładowanie</string>
     <string name="forecast">Prognoza pogody</string>
     <string name="forecast_today">Dzisiaj</string>
     <string name="forecast_tomorrow">Jutro</string>
     <string name="moisture">Wilgotność</string>
-    <string name="no_aqi">Nie można uzyskać danych jakości powietrza</string>
+    <string name="no_aqi">Nie można uzyskać danych jakości powiet.</string>
     <string name="no_outdoor_info">Unable to obtain movement index</string>
     <string name="outdoor_info_notsuit">Nie nadaje się do uprawiania sportów</string>
     <string name="outdoor_info_suit">Nadaje się do uprawiania sportów</string>
@@ -94,17 +99,17 @@ od naładowania"</string>
     <string name="weather_warning">Wstępne ostrzeżenie</string>
     <string name="wind_strength">Siła wiatru</string>
     <string name="wathc_disconnection_title">Niepołączony</string>
-    <string name="wathc_disconnection_content">Niepołączony z telefonem</string>
+    <string name="wathc_disconnection_content">Niepoł. z telef.</string>
     <string name="notification_block">Blok</string>
     <string name="notification_block_cancel">Anuluj</string>
     <string name="notification_block_ok">Zatwierdź</string>
     <string name="notification_more_settings">Więcej ustawień</string>
     <string name="notification_time_day">%s dni temu</string>
-    <string name="notification_time_hour">%s godzin temu</string>
+    <string name="notification_time_hour">%s godz. temu</string>
     <string name="notification_time_just">Dopiero co</string>
-    <string name="notification_time_minute">%s minut temu</string>
+    <string name="notification_time_minute">%s min. temu</string>
     <string name="notification_time_yesterday">Wczoraj</string>
-    <string name="notificaton_empty_message">Brak wyboru</string>
+    <string name="notificaton_empty_message">Brak wiad.</string>
     <string name="date_time_format">MM-dd</string>
     <string name="amazing_dialog_btn_confirm_text">Zatwierdź</string>
     <string name="amazing_dialog_btn_cancel_text">Anuluj</string>
@@ -112,11 +117,11 @@ od naładowania"</string>
     <string name="action_failure">"Niestety, to nie działa"</string>
     <string name="action_success">Sukces!</string>
     <string name="action_working">W trakcie...</string>
-    <string name="activity_not_found">Wystąpił problem z ukończeniem wymaganych działań.</string>
+    <string name="activity_not_found">Wystąpił problem z ukoń.wymaganych działań.</string>
     <string name="data_checkfail_match">Typy pól nie pasują</string>
-    <string name="data_checkfail_temp">Temperatura poza zakresem</string>
+    <string name="data_checkfail_temp">Temp. poza zakresem</string>
     <string name="data_checkfail_type">Nie można rozpoznać typu pogody</string>
-    <string name="notification_block_message">Powiadomienia nie będą już wyświetlane</string>
+    <string name="notification_block_message">Powiadom. nie będą już wyświetlane</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Kilometry</string>
     <string name="hm_watch_sports_notification_sports">Sporty</string>
@@ -128,24 +133,24 @@ od naładowania"</string>
     <string name="create_calendar_title">Tworzenie zdarzenia kalendarza</string>
     <string name="create_calendar_message">Pozwolić stworzyć wydarzenie w kalendarzu?</string>
     <string name="common_google_play_services_notification_ticker">Błąd usługi Google Play</string>
-    <string name="common_google_play_services_notification_needs_installation_title">Aplikacja wymaga zainstalowania usług Google Play.</string>
-    <string name="common_google_play_services_notification_needs_update_title">Aplikacja wymaga aktualizacji dla usług Google Play.</string>
-    <string name="common_android_wear_notification_needs_update_text">Aplikacja wymaga aktualizacji aplikacji Android Wear.</string>
-    <string name="common_google_play_services_needs_enabling_title">Aplikacja wymaga włączenia usług Google Play.</string>
+    <string name="common_google_play_services_notification_needs_installation_title">aplik. wymaga zainstalowania usług Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">aplik. wymaga aktual. dla usług Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">aplik. wymaga aktual. aplikacji Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">aplik. wymaga włączenia usług Google Play.</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Na wniosek %1$s</string>
     <string name="common_google_play_services_install_title">Uzyskaj usługi Google Play</string>
-    <string name="common_google_play_services_install_text_phone">"Ta aplikacja nie będzie działać bez usług Google Play, których brakuje w telefonie."</string>
-    <string name="common_google_play_services_install_text_tablet">"Ta aplikacja nie będzie działać bez usług Google Play, których brakuje na tablecie."</string>
+    <string name="common_google_play_services_install_text_phone">"Ta aplik. nie będzie działać bez usług Google Play, których brakuje w telefonie."</string>
+    <string name="common_google_play_services_install_text_tablet">"Ta aplik. nie będzie działać bez usług Google Play, których brakuje na tablecie."</string>
     <string name="common_google_play_services_install_button">Uzyskaj usługi Google Play</string>
-    <string name="common_google_play_services_enable_title">Włącz usługi Google Play</string>
-    <string name="common_google_play_services_enable_text">"Ta aplikacja nie będzie działać, jeśli nie włączysz usług Google Play."</string>
-    <string name="common_google_play_services_enable_button">Włącz usługi Google Play</string>
-    <string name="common_google_play_services_update_title">Zaktualizuj usługi Google Play</string>
-    <string name="common_android_wear_update_title">Zaktualizuj Android Wear</string>
-    <string name="common_google_play_services_update_text">"Ta aplikacja nie będzie działać, bez zaktualizowania usług Google Play."</string>
-    <string name="common_android_wear_update_text">"TTa aplikacja nie będzie działać, bez aktualizzacji aplikacji Android Wear."</string>
+    <string name="common_google_play_services_enable_title">Wł. usługi Google Play</string>
+    <string name="common_google_play_services_enable_text">"Ta aplik. nie będzie działać, jeśli nie włączysz usług Google Play."</string>
+    <string name="common_google_play_services_enable_button">Wł. usługi Google Play</string>
+    <string name="common_google_play_services_update_title">Zaktual. usługi Google Play</string>
+    <string name="common_android_wear_update_title">Zaktual. Android Wear</string>
+    <string name="common_google_play_services_update_text">"Ta aplik. nie będzie działać, bez zaktual.usług Google Play."</string>
+    <string name="common_android_wear_update_text">"Ta aplik. nie będzie działać, bez aktual. aplikacji Android Wear."</string>
     <string name="common_google_play_services_network_error_title">Błąd sieci</string>
-    <string name="common_google_play_services_network_error_text">Transfer danych wymagany do podłączenia do usług Google Play.</string>
+    <string name="common_google_play_services_network_error_text">Transfer danych wymagany do podł. do usług Google Play.</string>
     <string name="common_google_play_services_invalid_account_title">Błędne konto</string>
     <string name="common_google_play_services_invalid_account_text">Podane konto nie istnieje na tym urządzeniu. Proszę wybrać inne konto.</string>
     <string name="common_google_play_services_unknown_issue">Nieznany problem z usługą Google Play.</string>
@@ -177,7 +182,7 @@ od naładowania"</string>
     <string name="retail_turn_by_turn">Turn-by-turn directions on your wrist.</string>
     <string name="retail_slideshow_traffic">Get traffic info for your route to work.</string>
     <string name="retail_british_airways">British Airways 873</string>
-    <string name="retail_departs_in">Departs in 4 hours</string>
+    <string name="retail_departs_in">Departs in 4 godz.</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
     <string name="retail_slideshow_music">Control music playing on your phone.</string>
     <string name="retail_loading">Loading retail mode…</string>
@@ -213,10 +218,8 @@ od naładowania"</string>
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">All day</string>
-    <string name="cal_all_day_line_break">"All
-day"</string>
-    <string name="cal_multi_day_line_break">"Multi
-day"</string>
+    <string name="cal_all_day_line_break">"All day"</string>
+    <string name="cal_multi_day_line_break">"Multi day"</string>
     <string name="cal_mail_all">Email all guests</string>
     <string name="cal_navigate_to">Navigate to %s</string>
     <string name="cal_navigate">Navigate</string>
@@ -244,9 +247,7 @@ day"</string>
     <string name="troubleshoot_use_android_wear">Install the Android Wear app from the Play Store. Then launch the Android Wear app to connect to the watch.</string>
     <string name="troubleshoot_internet">Make sure your phone has an Internet connection.</string>
     <string name="troubleshoot_tethering">Try turning on Bluetooth tethering on your phone.</string>
-    <string name="troubleshoot_online_help">"To get more help, go to 
-%s
-"</string>
+    <string name="troubleshoot_online_help">"To get more help, go to %s"</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Retry</string>
     <string name="restart_action">Restart</string>
@@ -302,7 +303,7 @@ day"</string>
     <string name="play_music_help4">by Grizzly Bear</string>
     <string name="cue_menu_alarm">Set an alarm</string>
     <string name="cue_menu_alarm_help1">for 6 this evening</string>
-    <string name="cue_menu_alarm_help2">for 3 hours from now</string>
+    <string name="cue_menu_alarm_help2">for 3 godz. from now</string>
     <string name="cue_menu_alarm_help3">for 7am</string>
     <string name="cue_menu_show_alarms">Show alarms</string>
     <string name="cue_menu_taxi">Call a car</string>
@@ -393,9 +394,7 @@ day"</string>
     <string name="server_error">"Can't reach Google at the moment."</string>
     <string name="audio_error">"Can't open microphone."</string>
     <string name="null_result_error">Your search did not match any documents</string>
-    <string name="no_answer_error">"%s
-
-Sorry, Google can't help you with that"</string>
+    <string name="no_answer_error">"%s Sorry, Google can't help you with that"</string>
     <string name="no_companion_error">"Can't connect to your paired device."</string>
     <string name="gsa_update_needed">Open Google Play on your phone or tablet and update the Google Search app.</string>
     <string name="gsa_install_needed">Open Google Play on your phone or tablet and install the Google Search app.</string>
@@ -474,8 +473,7 @@ Sorry, Google can't help you with that"</string>
     <string name="watchface_picker_more">More</string>
     <string name="watchface_picker_recent">Recent</string>
     <string name="watchface_picker_all">All</string>
-    <string name="airplane_mode">"Airplane mode
-On"</string>
+    <string name="airplane_mode">"Airplane mode On"</string>
     <string name="airplane_mode_cue_card">Airplane mode</string>
     <string name="disconnected">Disconnected</string>
     <string name="timed_out_state">Timed out</string>
@@ -535,7 +533,7 @@ On"</string>
     <string name="example_query_email_2">"Send an email to Eve, I'm going to be in town this weekend"</string>
     <string name="example_query_email_3">Email Jim saying good luck in the race on Saturday</string>
     <string name="example_query_set_alarm_1">Set an alarm for 6 this evening</string>
-    <string name="example_query_set_alarm_2">Set an alarm for 3 hours from now</string>
+    <string name="example_query_set_alarm_2">Set an alarm for 3 godz. from now</string>
     <string name="example_query_set_alarm_3">Set an alarm for 7am</string>
     <string name="example_query_navigate_1">Navigate to a gas station nearby</string>
     <string name="example_query_navigate_2">Navigate to the nearest hardware store</string>
@@ -586,6 +584,7 @@ On"</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
     <string name="quick_settings_notifications_priority">Priority only</string>
     <string name="quick_settings_notifications_all">Show all</string>
+	<string name="quick_settings_unbound">Please pair first</string>
     <string name="state_on">On</string>
     <string name="state_off">Off</string>
     <string name="quick_settings_sunlight_title">Sunlight mode</string>
@@ -599,11 +598,11 @@ On"</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> to </string>
-    <string name="not_avalible_type">No Data</string>
+    <string name="type_to"> i </string>
+    <string name="not_avalible_type">Brak danych</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Air quality </string>
-    <string name="weather_title">Weather Today</string>
+    <string name="air_quality">Jakość powiet.</string>
+    <string name="weather_title">Pogoda dziś</string>
     <string name="dot"> </string>
     <string name="weather_warning_level_blue">Blue</string>
     <string name="weather_warning_level_orange">Orange</string>
@@ -627,7 +626,7 @@ On"</string>
     <string name="weather_warning_ice">Icy roads</string>
     <string name="weather_warning_snowstorm">Snowstorm</string>
     <string name="data_check_log">"+------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-	<string name="data_checkfail_json">Błąd formatu JSON </string>
+    <string name="data_checkfail_json">Błąd formatu JSON </string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdż</string>

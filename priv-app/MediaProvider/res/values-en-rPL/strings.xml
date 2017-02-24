@@ -2,10 +2,10 @@
 <resources>
     <string name="uid_label">Multimedia</string>
     <string name="app_label">Pamięć multimediów</string>
-    <string name="upgrade_msg">Aktualizacja bazy multimediów.</string>
+    <string name="upgrade_msg">Aktual. bazy multimediów.</string>
     <string name="artist_label">Artysta</string>
     <string name="ringtone_default">Domyślny dzwonek</string>
-    <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
+    <string name="notification_sound_default">Domyślny dźwięk powiad.</string>
     <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
     <string name="root_images">Obrazy</string>
     <string name="root_videos">Filmy</string>

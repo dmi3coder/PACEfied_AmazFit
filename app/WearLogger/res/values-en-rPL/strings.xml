@@ -16,7 +16,7 @@
     <string name="uploading">Przesyłanie...</string>
     <string name="compressing">Generowanie raportu...</string>
     <string name="upload_finish">Przesyłanie Logu zakończone</string>
-    <string name="upload_failed">Błąd przesyłania, spróbuj ponownie</string>
+    <string name="upload_failed">Błąd przesyłu, spróbuj ponownie</string>
     <string name="open_wifi_hint">Otwieranie Wi-Fi...</string>
     <string name="please_keep_wifi_connected">"Proszę zostaw zegarek 
 podłączony do WiFi"</string>
@@ -48,17 +48,17 @@ podłączony do WiFi"</string>
     <string name="app_name">Logger</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Ustawienia</string>
-    <string name="watch_ota">Akrualiz.zegarka</string>
+    <string name="watch_ota">Aktual.zegarka</string>
     <string name="wifi_disconnect">Wi-Fi rozłączone</string>
     <string name="connect_phone_wifi">Połączenie Wi-Fi w toku</string>
     <string name="please_update_rom">"Znaleziono nową wersję,
 zaktualizuj"</string>
     <string name="connect_phone_input_wifi">"Bieżące połączenie,
 wprowadź hasło Wi-Fi"</string>
-    <string name="checking_rom">Szukanie aktualizacji</string>
+    <string name="checking_rom">Szukanie aktual.</string>
     <string name="checking_rom_failed">Limit czasu, spróbuj ponownie</string>
     <string name="current_is_new">Aktualny</string>
-    <string name="has_new_rom">"Znaleziono nowe oprogramowanie"</string>
+    <string name="has_new_rom">"Znaleziono nowe oprogram."</string>
     <string name="input_passwor_on_mobile">"%1$s
 Wpisz hasło w telefonie"</string>
     <string name="processbar_downloading_rom">Pobieranie</string>
@@ -95,13 +95,13 @@ zaktualizuj"</string>
     <string name="wifi_wait_password">Wprowadź hasło...</string>
     <string name="toast_please_update_first">Proszę uaktualnić</string>
     <string name="wifi_turnon_going">Otwieranie Wi-Fi</string>
-    <string name="system_update_title">Aktualizacja zakończona</string>
-    <string name="system_update_content">Zaktualizowany do wersji %1$s</string>
+    <string name="system_update_title">Aktual. zakoń.</string>
+    <string name="system_update_content">Zaktual.do wersji %1$s</string>
     <string name="password_error">"%1$s Błędne hasło,
 Wpisz ponownie"</string>
     <string name="wifi_connect_fail">"Błąd podłączenia Wi-Fi, 
 spróbuj ponownie"</string>
     <string name="searching">Wyszukiwanie...</string>
-    <string name="hasNewUpdateTitle">Aktualizacje systemu</string>
+    <string name="hasNewUpdateTitle">Aktual. systemu</string>
     <string name="hasNewUpdateContent">Nowa wersja %1$s, zainstalować teraz?</string>
 </resources>

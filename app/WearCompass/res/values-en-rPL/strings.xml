@@ -2,12 +2,12 @@
 <resources>
     <string name="app_name">Kompas</string>
     <string name="action_settings">Ustawienia</string>
-    <string name="north_latitude">Szer.geog.Płn.</string>
-    <string name="south_latitude">Szer.geog.Poł.</string>
-    <string name="east_longitude">Dł.geog.Wsch.</string>
-    <string name="west_longitude">Dł.geog.Zach.</string>
-    <string name="altitude">Wysokość(m)</string>
-    <string name="atmospheric_pressure">Ciś.powietrza</string>
+    <string name="north_latitude">Szr.geog.Pn.</string>
+    <string name="south_latitude">Szr.geog.Pł.</string>
+    <string name="east_longitude">Dł.geog.Ws.</string>
+    <string name="west_longitude">Dł.geog.Zc.</string>
+    <string name="altitude">Wysok.(m)</string>
+    <string name="atmospheric_pressure">Ciś.powiet.</string>
     <string name="ori_north">Pn.</string>
     <string name="ori_northeast">Pn.Ws.</string>
     <string name="ori_east">Ws.</string>
@@ -17,8 +17,8 @@
     <string name="ori_west">Zc.</string>
     <string name="ori_northwest">Pn.Zc.</string>
     <string name="correcting">Kalibracja</string>
-    <string name="correcting_line1">Zmień nadgarstek</string>
-    <string name="correcting_line2">Kręć kulką</string>
+    <string name="correcting_line1">Ruszaj nadgarstkiem aby</string>
+    <string name="correcting_line2">kręcić kulką</string>
     <string name="value_default">-</string>
     <string name="loading">Ładowanie</string>
     <string name="degree">°</string>
