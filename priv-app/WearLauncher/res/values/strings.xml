@@ -24,38 +24,42 @@
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">删除所有通知</string>
     <string name="delete_all_notifications_confrim_content">删除后的通知不可恢复，是否继续？</string>
-    <string name="quick_settings_no_disturb_mode">Theater Mode: %1$s</string>
+    <string name="quick_settings_airplane_mode">Airplane: %1$s</string>
+    <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>
-    <string name="quick_settings_switch_auto">Auto</string>
+    <string name="quick_settings_switch_auto">Auto Mode</string>
+    <string name="quick_settings_switch_awake">Awake Mode</string>
+    <string name="quick_settings_switch_always">Always Mode</string>
     <string name="quick_settings_switch_on">ON</string>
     <string name="quick_settings_switch_off">OFF</string>
+    <string name="quick_settings_toast_on">Enabled</string>
+    <string name="quick_settings_toast_off">Disabled</string>
     <string name="quick_settings_status">Disconnected</string>
-    <string name="quick_settings_no_disturb_toast">Notice will not be reminded</string>
+    <string name="quick_settings_no_disturb_toast">Notification will not be shown</string>
     <string name="quick_settings_auto_light_toast">Screen highlighting, will increase the power consumption</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
-    <string name="quick_settings_connected">CN</string>
-    <string name="quick_settings_disconnect">NC</string>
+    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_disconnect">Disconnected</string>
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">New Year Eve</string>
-    <string name="seconed_confirm_nodisturb">"No Disturb Mode On
-New Notification will NOT show any more!"</string>
-    <string name="quick_settings_battery_charging_full">It has charged full</string>
-    <string name="quick_settings_battery_is_charging">It is charging</string>
-    <string name="quick_settings_battery_hasnot_charged">It has not charged</string>
-    <string name="quick_settings_battery_charging_intervalDay">last charging%1$dday%2$dhour</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"last charging
-%dday"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"last charging
-%dhour"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"last charging
-lacking one hour"</string>
-    <string name="quick_settings_battery_sportString">It can running</string>
+    <string name="seconed_confirm_nodisturb">"Silent Mode On
+New notification will not show any more."</string>
+    <string name="quick_settings_battery_charging_full">Fully charged</string>
+    <string name="quick_settings_battery_is_charging">Charging...</string>
+    <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d days %2$d hours since charge</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d days since charge</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d hours since charge</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
+since charge"</string>
+    <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
-    <string name="quick_settings_battery_sporttime_KM_unit">kilometer</string>
+    <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
+    <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="health_def_value" />
     <string name="health_def_hint" />
     <string name="health_title_def_value">今日走了</string>
@@ -293,7 +297,7 @@ day"</string>
     <string name="voice_action_navigating">Navigating…</string>
     <string name="voice_action_open">Open</string>
     <string name="voice_action_opening">Opening…</string>
-    <string name="action_working">Working…</string>
+    <string name="action_working">On the way...</string>
     <string name="action_success">Success!</string>
     <string name="action_failure">"Sorry, that didn't work"</string>
     <string name="voice_action_contact_upload_needed">To complete this action, turn on contact recognition on your phone</string>
@@ -564,11 +568,12 @@ On"</string>
     <string name="state_on">On</string>
     <string name="state_off">Off</string>
     <string name="quick_settings_sunlight_title">Sunlight mode</string>
-    <string name="theater_mode">Theater mode</string>
+    <string name="theater_mode">Silent mode</string>
     <string name="theater_mode_toast_button">To turn screen back on, press side button</string>
-    <string name="theater_mode_toast_no_button">To turn screen back on, touch screen twice</string>
+    <string name="theater_mode_toast_no_button">To turn screen back on, double-tap the screen</string>
     <string name="more_on_weather_domain">More on %s</string>
     <string name="activity_not_found">There was a problem completing the requested action.</string>
+    <string name="quick_settings_unbound">Please pair first</string>
     <string name="batteryLevelUnit">%</string>
     <string name="watchface_custom_btn_title">Settings</string>
     <string name="temp_unit_centigrade">℃</string>

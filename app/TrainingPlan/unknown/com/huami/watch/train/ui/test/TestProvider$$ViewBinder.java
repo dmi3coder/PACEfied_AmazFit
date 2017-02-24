@@ -8,7 +8,7 @@ import butterknife.ButterKnife.ViewBinder;
 public class TestProvider$$ViewBinder<T extends com.huami.watch.train.ui.test.TestProvider> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492880, "method 'testSendNofication'");
+    view = finder.findRequiredView(source, 2131492881, "method 'testSendNofication'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(

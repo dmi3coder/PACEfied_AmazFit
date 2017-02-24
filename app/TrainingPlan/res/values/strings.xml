@@ -23,9 +23,11 @@
     <string name="day_train_record_status_finish">完成</string>
     <string name="day_train_record_statis_un_finish">未完成</string>
     <string name="dialog_day_train_plan_is_complete">是否将今天的训练计划标记为已完成?</string>
+    <string name="dialog_delete_history_record">是否删除此条记录，删除后将不可恢复。</string>
     <string name="dialog_train_plan_is_complete">提前结束本次训练计划,将不再记录本次训练进度,是否结束?</string>
     <string name="last_day_rest_remind">训练即将结束,休息一天|有助于缓解身体疲劳。</string>
     <string name="cancel">否</string>
+    <string name="dialog_delete">删除</string>
     <string name="day_train_plan_record_marked">标记</string>
     <string name="train_plan_recode_finished">结束</string>
     <string name="train_mileage">训练里程(km)</string>

@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainPlanInitSelectFragment$$ViewBinder<T extends com.huami.watch.train.ui.fragment.TrainPlanInitSelectFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492877, "field 'recyclerView'");
-    target.recyclerView = finder.castView(view, 2131492877, "field 'recyclerView'");
-    view = finder.findRequiredView(source, 2131492926, "field 'fullScrollView'");
-    target.fullScrollView = finder.castView(view, 2131492926, "field 'fullScrollView'");
+    view = finder.findRequiredView(source, 2131492882, "field 'recyclerView'");
+    target.recyclerView = finder.castView(view, 2131492882, "field 'recyclerView'");
+    view = finder.findRequiredView(source, 2131492928, "field 'fullScrollView'");
+    target.fullScrollView = finder.castView(view, 2131492928, "field 'fullScrollView'");
   }
 
   @Override public void unbind(T target) {

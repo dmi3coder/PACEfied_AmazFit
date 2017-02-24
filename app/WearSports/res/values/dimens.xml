@@ -113,6 +113,7 @@
     <dimen name="delete_btn_margin_bottom">20.0dip</dimen>
     <dimen name="modify_btn_width">80.0dip</dimen>
     <dimen name="modify_btn_height">30.0dip</dimen>
+    <dimen name="history_walking_length">70.0dip</dimen>
     <dimen name="gps_search_progress_arc_stroke_width">4.0dip</dimen>
     <dimen name="gps_search_line_final_length">15.0px</dimen>
     <dimen name="gps_search_line_max_length">25.0px</dimen>

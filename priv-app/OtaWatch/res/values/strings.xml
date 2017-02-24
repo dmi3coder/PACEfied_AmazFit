@@ -61,7 +61,7 @@ please upgrade"</string>
     <string name="toast_please_update_first">Please update first</string>
     <string name="wifi_turnon_going">Turning on Wi-Fi...</string>
     <string name="system_update_title">Update successful</string>
-    <string name="system_update_content">The system has been updated to version %1$s</string>
+    <string name="system_update_content">The system has been upgraded to version %1$s</string>
     <string name="password_error">"Incorrect Wi-Fi password,
 please re-enter"</string>
     <string name="wifi_connect_fail">"Cannot connect to this

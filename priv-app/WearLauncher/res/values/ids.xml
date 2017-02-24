@@ -381,11 +381,22 @@
     <item type="id" name="sub_action_text">false</item>
     <item type="id" name="status_text_line1">false</item>
     <item type="id" name="status_text_line2">false</item>
-    <item type="id" name="status_text_battery">false</item>
     <item type="id" name="status_text_connect">false</item>
     <item type="id" name="status_text_weather">false</item>
     <item type="id" name="status_text_temp">false</item>
     <item type="id" name="status_img_weather">false</item>
+    <item type="id" name="status_battery_text">false</item>
+    <item type="id" name="status_battery_img">false</item>
+    <item type="id" name="status_settings">false</item>
+    <item type="id" name="status_settings_light">false</item>
+    <item type="id" name="status_settings_nodisturb">false</item>
+    <item type="id" name="status_settings_airplane">false</item>
+    <item type="id" name="status_settings_view">false</item>
+    <item type="id" name="status_text_outdoor_tip">false</item>
+    <item type="id" name="status_img_unit">false</item>
+    <item type="id" name="status_temp_view">false</item>
+    <item type="id" name="status_weather_view">false</item>
+    <item type="id" name="status_text_date">false</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="watchface_content">false</item>
     <item type="id" name="gallery">false</item>
@@ -462,14 +473,6 @@
     <item type="id" name="batteryLevel">false</item>
     <item type="id" name="batteryCharging">false</item>
     <item type="id" name="batteryChargeStatusTwo">false</item>
-    <item type="id" name="status_text_date">false</item>
-    <item type="id" name="fetch_successful">false</item>
-    <item type="id" name="status_temp_view">false</item>
-    <item type="id" name="status_img_unit">false</item>
-    <item type="id" name="aqi_icon">false</item>
-    <item type="id" name="aqi">false</item>
-    <item type="id" name="can_not_fetch">false</item>
-    <item type="id" name="weather_unknown_icon">false</item>
     <item type="id" name="weather_no_data_dialog">false</item>
     <item type="id" name="tvTitleToast">false</item>
     <item type="id" name="reply_title">false</item>

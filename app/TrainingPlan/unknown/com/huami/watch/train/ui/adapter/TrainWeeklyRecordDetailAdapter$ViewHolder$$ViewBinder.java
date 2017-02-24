@@ -8,14 +8,14 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainWeeklyRecordDetailAdapter$ViewHolder$$ViewBinder<T extends com.huami.watch.train.ui.adapter.TrainWeeklyRecordDetailAdapter.ViewHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492894, "field 'trainDetailWeek'");
-    target.trainDetailWeek = finder.castView(view, 2131492894, "field 'trainDetailWeek'");
-    view = finder.findRequiredView(source, 2131492895, "field 'dayTrainContent'");
-    target.dayTrainContent = finder.castView(view, 2131492895, "field 'dayTrainContent'");
-    view = finder.findRequiredView(source, 2131492896, "field 'iconFinish'");
-    target.iconFinish = finder.castView(view, 2131492896, "field 'iconFinish'");
-    view = finder.findRequiredView(source, 2131492897, "field 'finishStatus'");
-    target.finishStatus = finder.castView(view, 2131492897, "field 'finishStatus'");
+    view = finder.findRequiredView(source, 2131492896, "field 'trainDetailWeek'");
+    target.trainDetailWeek = finder.castView(view, 2131492896, "field 'trainDetailWeek'");
+    view = finder.findRequiredView(source, 2131492897, "field 'dayTrainContent'");
+    target.dayTrainContent = finder.castView(view, 2131492897, "field 'dayTrainContent'");
+    view = finder.findRequiredView(source, 2131492898, "field 'iconFinish'");
+    target.iconFinish = finder.castView(view, 2131492898, "field 'iconFinish'");
+    view = finder.findRequiredView(source, 2131492899, "field 'finishStatus'");
+    target.finishStatus = finder.castView(view, 2131492899, "field 'finishStatus'");
   }
 
   @Override public void unbind(T target) {

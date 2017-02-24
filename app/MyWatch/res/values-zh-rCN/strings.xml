@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_low_title">测试：电量低!</string>
+    <string name="battery_low_plz_charge">电量不足，请连接电源充电。</string>
+    <string name="rest_time">测试：休息时间</string>
+    <string name="take_a_rest">坐太久了, 起来活动一分钟吧。</string>
+    <string name="reach_goal">测试：目标达成</string>
+    <string name="reach_goal_content">走了8000步，已达到今日活动目标。</string>
+    <string name="get_medal">测试：成就勋章</string>
+    <string name="get_medal_firstly">首次达成活动目标, 赢得此勋章。</string>
+    <string name="schedule_reminder">测试：日程提醒</string>
+    <string name="schedule_birthday_party">今晚我的生日聚餐。</string>
+    <string name="daily_weather">测试：今日天气</string>
+    <string name="daily_weather_cloudy_to_sunny">多云转晴 25/28°</string>
+</resources>

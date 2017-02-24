@@ -11,8 +11,7 @@
     <string name="sport_music_settings">Sports music</string>
     <string name="opened">On</string>
     <string name="closed">Off</string>
-    <string name="air_plane_mode_note">"Connection failed
-Turn off Airplane mode and retry the connection"</string>
+    <string name="air_plane_mode_note">Cannot connect to the phone. Please retry after turning off airplane mode.</string>
     <string name="app_name">WearAirPlaneModeDialog</string>
     <string name="action_settings">Settings</string>
 </resources>

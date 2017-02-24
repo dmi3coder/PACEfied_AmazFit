@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainPlanListAdapter$ViewHolder$$ViewBinder<T extends com.huami.watch.train.ui.listviewadapter.TrainPlanListAdapter.ViewHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492890, "field 'imageView'");
-    target.imageView = finder.castView(view, 2131492890, "field 'imageView'");
-    view = finder.findRequiredView(source, 2131492891, "field 'train_plan'");
-    target.train_plan = finder.castView(view, 2131492891, "field 'train_plan'");
+    view = finder.findRequiredView(source, 2131492892, "field 'imageView'");
+    target.imageView = finder.castView(view, 2131492892, "field 'imageView'");
+    view = finder.findRequiredView(source, 2131492893, "field 'train_plan'");
+    target.train_plan = finder.castView(view, 2131492893, "field 'train_plan'");
   }
 
   @Override public void unbind(T target) {
