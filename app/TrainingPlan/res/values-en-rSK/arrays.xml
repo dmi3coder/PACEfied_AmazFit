@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>1. týždeň</item>
+        <item>2. týždeň</item>
+        <item>3. týždeň</item>
+        <item>4. týždeň</item>
+        <item>5. týždeň</item>
+        <item>6. týždeň</item>
+        <item>7. týždeň</item>
+        <item>8. týždeň</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>Nespĺňa očakávanie</item>
+        <item>Plán je príliš dlhý</item>
+        <item>Slabá fyzická kondícia</item>
+        <item>Príliš ťažké</item>
+        <item>Príliš ľahké</item>
+        <item>Súťaž zrušená</item>
+        <item>Nesedí mi</item>
+        <item>Iné</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>

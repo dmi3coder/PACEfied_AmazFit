@@ -151,4 +151,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavenia</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="stretch_dialog_title">Strečing</string>
+    <string name="stretch_dialog_subtitle">It is too long for a long time today</string>
+    <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
+    <string name="stretch_dialog_cancel">Zrušiť</string>
+    <string name="stretch_dialog_start">Spustiť video</string>
+    <string name="stretch_connection_failed_title">Nedá sa spojiť s telefónom</string>
+    <string name="stretch_connection_failed_content">Uistite sa, že je aktívne spojenie Bluetooth, nechajte spustenú aplikáciu Amazfit a skúste znovu.</string>
+    <string name="open_xiaomi_app_failed_title">Open millet movement failed</string>
+    <string name="open_xiaom_app_failed_content">Nainštalujte si millet sports aplikáciu.</string>
 </resources>
