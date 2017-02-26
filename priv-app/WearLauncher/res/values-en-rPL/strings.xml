@@ -83,7 +83,7 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="air_severely_polluted">Poważne zaniecz.</string>
     <string name="detailed">Dane pogodowe</string>
     <string name="fetch_failed">Nie można zaktual. pogody</string>
-    <string name="fetch_failed_msg">Należy upewnić się, że zegarek jest podłączony do aplikacji Amazfit i została wybrana właściwa lokal.</string>
+    <string name="fetch_failed_msg">Upewnij się, że zegarek jest podł. do apl. Amazfit i wybrano właś.lokal.</string>
     <string name="fetch_failed_title">Nie można uzyskać info. pogodowych</string>
     <string name="fetching">Ładowanie</string>
     <string name="forecast">Prognoza pogody</string>
@@ -91,7 +91,7 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="forecast_tomorrow">Jutro</string>
     <string name="moisture">Wilgotność</string>
     <string name="no_aqi">Nie można uzyskać danych jakości powiet.</string>
-    <string name="no_outdoor_info">Unable to obtain movement index</string>
+    <string name="no_outdoor_info">Brak informacji o ruchu</string>
     <string name="outdoor_info_notsuit">Nie nadaje się do uprawiania sportów</string>
     <string name="outdoor_info_suit">Nadaje się do uprawiania sportów</string>
     <string name="uv">Promieniowanie UV</string>
