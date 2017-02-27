@@ -24,12 +24,12 @@
     <string name="notification_alipay_red_pattern">Wysłano powiadom. $</string>
 	<string name="delete_all_notifications">Usuń wszystkie powiadom.</string>
     <string name="delete_all_notifications_confrim_content">Po usunięciu zgłoszenie nie może być przywrócone, kontynuować?</string>
-    <string name="quick_settings_airplane_mode">Tyyb samol: %1$s</string>
+    <string name="quick_settings_airplane_mode">Tryb samol: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Cichy: %1$s</string>
     <string name="quick_settings_auto_light_mode">Podświetlenie: %1$s</string>
     <string name="quick_settings_more_settings">Więcej ustawień</string>
-    <string name="quick_settings_switch_auto">Tryb auto.</string>
-    <string name="quick_settings_switch_awake">Tryb budz.</string>
+    <string name="quick_settings_switch_auto">Automatyczne</string>
+    <string name="quick_settings_switch_awake">Gdy odblok.</string>
     <string name="quick_settings_switch_always">Zawsze</string>
     <string name="quick_settings_switch_on">Wł.</string>
     <string name="quick_settings_switch_off">Wył.</string>
