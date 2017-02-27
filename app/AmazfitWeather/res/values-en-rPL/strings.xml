@@ -29,7 +29,7 @@
     <string name="weather_warning_rainstorm">Ulewa</string>
     <string name="weather_warning_cold">Zimno</string>
     <string name="weather_warning_gale">Wichura</string>
-    <string name="weather_warning_sandstorm">Burza piaskowa</string>
+    <string name="weather_warning_sandstorm">Burza pias.</string>
     <string name="weather_warning_temperature">Wysoka temp.</string>
     <string name="weather_warning_drought">Susza</string>
     <string name="weather_warning_thunder">Grzmot</string>
@@ -40,8 +40,8 @@
     <string name="weather_warning_ice">Lód</string>
     <string name="weather_warning_snowstorm">Burza śnieżna</string>
     <string name="no_aqi">Nie można uzyskać danych o jakości powie.</string>
-    <string name="air_perfect">Powitrze idealne</string>
-    <string name="air_good">Powie. dobre</string>
+    <string name="air_perfect">Powie.idealne</string>
+    <string name="air_good">Powie.dobre</string>
     <string name="air_lightly_polluted">Lekko zaniecz.</string>
     <string name="air_moderate_polluted">Umiark.zaniecz.</string>
     <string name="air_heavily_polluted">Mocno zaniecz.</string>
@@ -58,11 +58,11 @@
     <string name="fetch_failed">Pobieranie nieudane</string>
     <string name="unknown">nieznany</string>
     <string name="fetch_failed_title">Nie można uzyskać informacji o pogodzie</string>
-    <string name="fetch_failed_msg">Należy upewnić się, że zegarek jest podłą. do aplikacji Amazfit i została wybrana właściwa lokali.</string>
+    <string name="fetch_failed_msg">Upewnij się, że zegarek jest podłą.do apli.Amazfit i wybrano właś.lokali.</string>
     <string name="date_time_format">MM-dd</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Zła suma kontrolna danych pogodowych！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Typ Pogody Nierozpoznany</string>
-    <string name="data_checkfail_temp">Temp. poza zakresem</string>
+    <string name="data_checkfail_type">Typ Pogody nierozpoz.</string>
+    <string name="data_checkfail_temp">Temp.poza zakresem</string>
     <string name="data_checkfail_match">Typy pól nie pasują</string>
     <string name="data_checkfail_json">Błąd formatu JSON</string>
 </resources>
