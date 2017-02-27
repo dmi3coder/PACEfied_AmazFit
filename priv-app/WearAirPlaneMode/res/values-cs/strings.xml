@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<resources>
+  <string name="action_settings">Nastavení</string>
+  <string name="air_plane_mode_note">Připojení se nezdařilo, vypněte mód letadlo a zkuste znovu.</string>
+  <string name="app_name">WearAirPlaneModeDialog</string>
+  <string name="average_text">Avg</string>
+  <string name="closed">Vypnuto</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="no_altitude_hint">Nadmořská výška nedostupná</string>
+  <string name="no_heartrate_data_hint">Tepová frekvence nedostupná</string>
+  <string name="opened">Zapnuto</string>
+  <string name="picker_default_nagetive_text">Vypnuto</string>
+  <string name="picker_default_positive_text">Potvrdit</string>
+  <string name="sport_music_settings">Sportovni hudba</string>
+  <string name="title_settings">Nastavení</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+</resources>

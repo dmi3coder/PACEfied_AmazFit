@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<resources>
+  <string name="action_settings">Nastavení</string>
+  <string name="alarm_delete">Vymazat</string>
+  <string name="alarm_list">Budíky</string>
+  <string name="alarm_off">Vypnutý</string>
+  <string name="alarm_open">Zapnutý</string>
+  <string name="alarm_repeat">Opakovat</string>
+  <string name="alarm_repeat_setting">Opakování</string>
+  <string name="app_name">HmDeskClock</string>
+  <string name="average_text">Avg</string>
+  <string name="day">1 den</string>
+  <string name="day_concat">/</string>
+  <string name="days">%s dní</string>
+  <string name="default_label">Budík</string>
+  <string name="dimiss_button">Vypnutý</string>
+  <string name="edit_alarm">Upravit budík</string>
+  <string name="every_day">Každý den</string>
+  <string name="hello_world">Ahoj světe!</string>
+  <string name="hour">1 hodina</string>
+  <string name="hour_unit">Hodina</string>
+  <string name="hours">%s hodin</string>
+  <string name="locale_title">Výběr jazyka</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="minute">1 minuta</string>
+  <string name="minute_unit">Minuta</string>
+  <string name="minutes">%s minut</string>
+  <string name="more">Seznam budíků</string>
+  <string name="never">Nikdy</string>
+  <string name="new_alarm">Nový budík</string>
+  <string name="next_alarm">Další budík</string>
+  <string name="no_altitude_hint">Nadmorská výška nedostupná</string>
+  <string name="no_heartrate_data_hint">Tepová frekvence nedostupná</string>
+  <string name="once_time">Jednou</string>
+  <string name="picker_default_nagetive_text">Vypnutý</string>
+  <string name="picker_default_positive_text">Potvrdit</string>
+  <string name="please_edit_alarm">Upravit čas</string>
+  <string name="snooze_button">Odložit</string>
+  <string name="sport_music_settings">Sports music</string>
+  <string name="stop_watch_default_lap">Stopky</string>
+  <string name="stop_watch_default_lap_time">00:00.00</string>
+  <string name="stop_watch_lap_list_title_text">%d Okruh(ov)</string>
+  <string name="stop_watch_lap_text">%d okruh(ov)</string>
+  <string name="stop_watch_left_button_negative">Reset</string>
+  <string name="stop_watch_left_button_positive">Okruh</string>
+  <string name="stop_watch_right_button_negative">Stop</string>
+  <string name="stop_watch_right_button_positive">Start</string>
+  <string name="stop_watch_start_button">Start</string>
+  <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
+  <string name="title_activity_stopwatch">StopwatchActivity</string>
+  <string name="title_settings">Nastavení</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="work_days">Pracovní dny</string>
+</resources>

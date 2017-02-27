@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Plná záloha</string>
+    <string name="restore_confirm_title">Plné obnovení</string>
+    <string name="backup_confirm_text">"Úplné zálohování všech dat na pøipojeném poèítaèi bylo požádáno. Pøejete si, aby se tak stalo?
+
+Pokud jste nepožádali nebude vytvoøena záloha, neumožòuje v operaci pokraèovat."</string>
+    <string name="allow_backup_button_label">Záloha mojích dat</string>
+    <string name="deny_backup_button_label">Nezálohovat</string>
+    <string name="restore_confirm_text">"Kompletní obnovení všech dat z pøipojeného stolního poèítaèe bylo požádáno. Pøejete si, aby se tak stalo?
+
+Pokud jste nepožádali o obnovení, neumožòuje v operaci pokraèovat.  Nahradí to všechna data aktuálnì na vašem pøístroji!"</string>
+    <string name="allow_restore_button_label">Obnovit svoje data</string>
+    <string name="deny_restore_button_label">Neobnovit</string>
+    <string name="current_password_text">Prosím, zadejte svoje aktuální záložní heslo:</string>
+    <string name="device_encryption_restore_text">Zadejte heslo pro šifrování vašeho zaøízení.</string>
+    <string name="device_encryption_backup_text">Zadejte heslo pro šifrování vašeho zaøízení. To bude také použito k zašifrování zálohy.</string>
+    <string name="backup_enc_password_text">Prosím zadejte heslo pro šifrování pro úplnou zálohu dat. Je-li toto prázdné, bude vaše aktuální heslo pro zálohy použít:</string>
+    <string name="backup_enc_password_optional">Chcete-li šifrovat úplné zálohování dat, zadejte následující heslo:</string>
+    <string name="backup_enc_password_required">Vzhledem k tomu, že vaše zaøízení je šifrováno, jste povinni zašifrovat zálohu. Prosím, zadejte níže heslo:</string>
+    <string name="restore_enc_password_text">Je-li potøeba obnovit data šifrována, zadejte následující heslo:</string>
+    <string name="toast_backup_started">Zalohování zaèalo...</string>
+    <string name="toast_backup_ended">Zalohování dokonèeno</string>
+    <string name="toast_restore_started">Obnovit zálohu...</string>
+    <string name="toast_restore_ended">Obnovení dokonèeno</string>
+    <string name="toast_timeout">Operace vypršela</string>
+</resources>
