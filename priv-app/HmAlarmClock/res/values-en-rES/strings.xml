@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmDeskClock</string>
+    <string name="every_day">Todos los días</string>
+    <string name="never">Nunca</string>
+    <string name="day_concat">/</string>
+    <string name="default_label">Alarma</string>
+    <string name="day">1 día</string>
+    <string name="days">%s dias</string>
+    <string name="hour">1 hora</string>
+    <string name="hours">%s horas</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">%s minutos</string>
+    <string name="new_alarm">Nueva Alarma</string>
+    <string name="please_edit_alarm">Editar</string>
+    <string name="more">Lista de Alarmas</string>
+    <string name="next_alarm">Siguiente Alarma</string>
+    <string name="alarm_list">Todas las alarmas</string>
+    <string name="edit_alarm">Editar una Alarma</string>
+    <string name="alarm_repeat">Repetir</string>
+    <string name="alarm_off">Desactivada</string>
+    <string name="alarm_open">Activada</string>
+    <string name="alarm_delete">Eliminar</string>
+    <string name="alarm_repeat_setting">Repetición</string>
+    <string name="once_time">Una vez</string>
+    <string name="work_days">Días Laborables</string>
+    <string name="hour_unit">H</string>
+    <string name="minute_unit">M</string>
+    <string name="snooze_button">Más tarde</string>
+    <string name="dimiss_button">Cerrar</string>
+    <string name="stop_watch_left_button_positive">Parcial</string>
+    <string name="stop_watch_left_button_negative">Borrar</string>
+    <string name="stop_watch_right_button_positive">Continuar</string>
+    <string name="stop_watch_start_button">Iniciar</string>
+    <string name="stop_watch_right_button_negative">Pausar</string>
+    <string name="short_week_prefix">Semana</string>
+    <string name="stop_watch_lap_text">%d Parcial</string>
+    <string name="stop_watch_default_lap">Cronometro</string>
+    <string name="stop_watch_default_lap_time">00:00.00</string>
+    <string name="stop_watch_lap_list_title_text">En cuenta%dsecundario</string>
+    <string name="title_activity_stopwatch">Actividad del Cronómetro</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_stop_watch_lap_list">Información de las vueltas del cronómetro</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Seleccione el idioma</string>
+    <string name="average_text">Promedio</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Apagado</string>
+    <string name="no_heartrate_data_hint">Datos de la frecuencia cardiaca no detectados</string>
+    <string name="no_altitude_hint">Datos de altitud no detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="sport_music_settings">Música deportiva</string>
+</resources>

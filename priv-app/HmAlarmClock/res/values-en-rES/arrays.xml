@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="day_of_weak">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>La alarma sonará en menos de 1 minuto</item>
+        <item>La alarma sonará en %1$s</item>
+        <item>La alarma sonará en %2$s</item>
+        <item>La alarma sonará en %1$s y %2$s</item>
+        <item>La alarma sonará en %3$s</item>
+        <item>La alarma sonará en %1$s y %3$s</item>
+        <item>La alarma sonará en %2$s y %3$s</item>
+        <item>La alarma sonará en %1$s , %2$s y %3$s.</item>
+    </string-array>
+    <string-array name="repeat_description">
+        <item>solo una vez</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string-array name="short_week_days">
+        <item></item>
+        <item>D</item>
+        <item>L</item>
+        <item>M</item>
+        <item>X</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="stopwatch_format_set">
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+</resources>

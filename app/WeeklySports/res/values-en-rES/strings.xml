@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deporte Semanal</string>
+    <string name="weeklysports_title">Historial de Deporte Semanal</string>
+    <string name="weeklysports_totalnumber_front">Entrenamientos Totales</string>
+    <string name="weeklysports_totalstep_front">Andando</string>
+    <string name="weeklysports_totaltime">Tiempo total transcurrido</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Calorias Totales</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">Distancia Total</string>
+    <string name="weeklysports_totalmileage_unit">km</string>
+    <string name="weeklysports_averageheart">Promedio R.Cardiaco</string>
+    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_runerrate">Ritmo de carrera</string>
+    <string name="weeklysports_outdoorrunrate">Carrera al aire libre</string>
+    <string name="weeklysports_insiderunrate">Carrera en cinta</string>
+    <string name="weeklysports_crossrunrate">Carrera campo en monte</string>
+    <string name="weeklysports_runerrate_unit">/km</string>
+    <string name="weeklysports_ridingrate">Velocidad en bicicleta</string>
+    <string name="weeklysports_outdoorriding_average">Promedio vel. en bicicleta</string>
+    <string name="weeklysports_outdoorriding_max">Max Velocidad en bicicleta.</string>
+    <string name="weeklysports_outdoorriding_unit">km/h</string>
+    <string name="weeklysports_activity">Move</string>
+    <string name="weeklysports_running">Correr</string>
+    <string name="weeklysports_walking">Andar</string>
+    <string name="weeklysports_riding">Ciclismo</string>
+    <string name="weekly_step_attained_rate">Dias de objetivo de pasos conseguido </string>
+    <string name="weekly_sports_notification_content">Las estadísticas de entrenamiento semanal estan listas.</string>
+</resources>
