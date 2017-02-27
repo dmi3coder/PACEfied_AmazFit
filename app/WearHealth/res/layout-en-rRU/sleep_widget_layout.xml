@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="18.699982sp" android:id="@id/today_sleep_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="40.0px" android:text="@string/today_sleep_info" android:layout_centerHorizontal="true" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/loading_group" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="18.699982dip" android:layout_below="@id/today_sleep_title" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/loading_icon" android:background="@drawable/loading_icon" android:layout_width="90.0px" android:layout_height="90.0px" android:src="@drawable/sleep_animate_icon_z" android:scaleType="matrix" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/loading_sleep_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="@string/loading_sleep_info" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/no_sleep_info" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="18.699982dip" android:layout_below="@id/today_sleep_title">
+        <ImageView android:id="@id/no_sleep_icon" android:background="@drawable/widget_no_sleep_info" android:layout_width="90.0px" android:layout_height="90.0px" android:src="@drawable/sleep_animate_icon_z" android:scaleType="matrix" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/sleep_widget_icon_empty" android:scaleType="fitCenter" />
+            <TextView android:textSize="14.0sp" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.6999817dip" android:text="@string/no_sleep_info" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@id/sleep_info_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/today_sleep_title">
+        <TextView android:textSize="16.0sp" android:id="@id/sleep_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0px" android:layout_centerHorizontal="true" />
+        <com.huami.watch.health.ui.SleepBarChartView android:id="@id/sleep_chart" android:clickable="true" android:layout_width="181.69998dip" android:layout_height="42.0dip" android:layout_marginTop="53.0px" android:layout_centerHorizontal="true" app:deepSleepDrawable="@drawable/status_sleep_deep_shape" app:lightSleepDrawable="@drawable/status_sleep_light_shape" app:awakeDrawable="@drawable/status_sleep_awake_shape" app:deepSleepHeight="22.699982dip" app:lightSleepHeight="33.299988dip" app:awakeHeight="41.299988dip" />
+        <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:id="@id/sleep_start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0px" android:layout_below="@id/sleep_chart" android:layout_alignLeft="@id/sleep_chart" />
+        <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:id="@id/sleep_stop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0px" android:layout_below="@id/sleep_chart" android:layout_alignRight="@id/sleep_chart" />
+        <TextView android:textSize="12.0sp" android:textColor="@android:color/white" android:id="@id/deep_sleep" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="55.299988dip" android:layout_marginTop="34.0dip" android:text="@string/total_deep_sleep" android:layout_below="@id/sleep_chart" />
+        <ImageView android:background="@color/deep_sleep_sign" android:layout_width="9.299988dip" android:layout_height="9.299988dip" android:layout_marginLeft="42.69998dip" android:layout_marginTop="38.0dip" android:layout_below="@id/sleep_chart" />
+        <TextView android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/deep_sleep_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="127.29999dip" android:layout_marginTop="32.69998dip" android:layout_below="@id/sleep_chart" />
+    </RelativeLayout>
+</RelativeLayout>

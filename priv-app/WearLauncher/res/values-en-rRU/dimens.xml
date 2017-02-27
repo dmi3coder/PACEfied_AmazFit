@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_content_title_textsize">15.0sp</dimen>
+    <dimen name="notification_content_time_textsize">13.3sp</dimen>
+    <dimen name="notification_content_text_textsize">14.0sp</dimen>
+</resources>

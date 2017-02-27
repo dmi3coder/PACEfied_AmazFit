@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string name="about">О часах...</string>
+  <string name="about_title">О часах</string>
+  <string name="air_plane_mode_note">Режим полета\nЭта функция позволяет отключить Bluetooth и Wi-Fi Интернет, Alipay и другие функции. Для использования этих функций, пожалуйста, отключите режим полета в настройках системы..</string>
+  <string name="app_name">Watch Settings</string>
+  <string name="ard_version">Версия Android</string>
+  <string name="auto_nodisturb">Авто \"не беспокоить\"</string>
+  <string name="auto_nodisturb_end_time_string">Конец</string>
+  <string name="auto_nodisturb_start_time_string">Начало</string>
+  <string name="auto_nodisturb_title_string">Авто не беспокоить</string>
+  <string name="average_text">Avg</string>
+  <string name="blt_bound_stat_bonded">Соединен</string>
+  <string name="blt_bound_stat_bonding">Соединение...</string>
+  <string name="blt_bound_stat_connected">Подключен</string>
+  <string name="blt_bound_stat_disconnect">Отключены</string>
+  <string name="blt_bound_stat_none">Доступен</string>
+  <string name="blt_cancel_paring">Соединение отменено</string>
+  <string name="blt_car_system">Vehicle-mounted</string>
+  <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
+  <string name="blt_default_name">Unnamed</string>
+  <string name="blt_hint_connect">%1s\nConnect?</string>
+  <string name="blt_hint_connect_device">Connect</string>
+  <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
+  <string name="blt_hint_disconnect">%1s\nDisconnect?</string>
+  <string name="blt_hint_disconnect_device">Disconnect</string>
+  <string name="blt_hint_ignore_device">Ignore</string>
+  <string name="blt_hint_paring">%1s\n to pair?</string>
+  <string name="blt_mac_addr">Bluetooth MAC</string>
+  <string name="blt_not_support">[Only test]</string>
+  <string name="blt_paring_fail_hint">Make sure device power on\nand is nearby</string>
+  <string name="blt_speaker">Audio</string>
+  <string name="blt_type_ear">Headset</string>
+  <string name="blt_type_mabiao">MW</string>
+  <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
+  <string name="bluetooth_connected">Connected</string>
+  <string name="bluetooth_connecting">Connecting...</string>
+  <string name="bluetooth_connecting_error_message">Couldn\'t connect to %1$s.</string>
+  <string name="bluetooth_dev">Bluetooth</string>
+  <string name="bluetooth_disabled">Bluetooth выключен</string>
+  <string name="bluetooth_disconnected">Disconnected</string>
+  <string name="bluetooth_disconnecting">Disconnecting...</string>
+  <string name="bluetooth_enabled">Bluetooth включен</string>
+  <string name="bluetooth_pair_tips">Pairing code</string>
+  <string name="bluetooth_pairing_device_down_error_message">Can\'t communicate with %1$s.</string>
+  <string name="bluetooth_pairing_error_message">Couldn\'t pair with %1$s.</string>
+  <string name="bluetooth_pairing_pin_error_message">Couldn\'t pair with %1$s because of an incorrect PIN or passkey.</string>
+  <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
+  <string name="bluetooth_turning_off">Выключение Bluetooth…</string>
+  <string name="bluetooth_turning_on">Включение Bluetooth…</string>
+  <string name="bluetooth_unknown">Неизвестное состояние</string>
+  <string name="bugreport">Сообщить об ошибке</string>
+  <string name="build_desc">[DEBUG]Build description</string>
+  <string name="build_time">[DEBUG]Build time</string>
+  <string name="button_cancel">Cancel</string>
+  <string name="button_enter">OK</string>
+  <string name="change_language">Язык</string>
+  <string name="check_for_update">Обновить ПО</string>
+  <string name="closed">Выкл</string>
+  <string name="cmiit_id">CMIIT ID</string>
+  <string name="confirm_change_locale">Change language to \n%1$s?</string>
+  <string name="confirm_shutdown">Завершение работы?</string>
+  <string name="dev_desc">Amazfit Sport Watch</string>
+  <string name="dev_name">Имя</string>
+  <string name="dlg_cancel">Отмена</string>
+  <string name="dlg_confirm">ОК</string>
+  <string name="double_click_wakeup">Вкл по экрану</string>
+  <string name="double_click_wakeup_close">Выкл</string>
+  <string name="double_click_wakeup_open">Вкл</string>
+  <string name="en">English(US)</string>
+  <string name="find_phone">Найти тел.</string>
+  <string name="flash_capacity">Емкость диска</string>
+  <string name="flash_free_capacity">Свободно на диске</string>
+  <string name="flight_mode">Режим полета</string>
+  <string name="hm_lab">Huami Lab</string>
+  <string name="lab">Lab</string>
+  <string name="lab_desc">Соберите часть средств отладки</string>
+  <string name="left_hand">Левая</string>
+  <string name="legal">Please check in the Amazfit Sport</string>
+  <string name="legal2">Watch Wear Assist</string>
+  <string name="license">Лицензия</string>
+  <string name="light_auto">Авто</string>
+  <string name="light_change">Подсветка</string>
+  <string name="light_off">Выкл</string>
+  <string name="light_on">Вкл свет</string>
+  <string name="locale_applying">Language applying</string>
+  <string name="locale_title">Language</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="mid">mid</string>
+  <string name="model">Модель</string>
+  <string name="more">Настройки</string>
+  <string name="no_altitude_hint">Altitude data not detected</string>
+  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+  <string name="nodisturb_close_string">Выкл</string>
+  <string name="nodisturb_open_string">Активно</string>
+  <string name="nodisturb_timepicker_connect_symbol">:</string>
+  <string name="nothing">Пусто</string>
+  <string name="opened">Вкл</string>
+  <string name="phone_finding">Поиск телефона...</string>
+  <string name="phone_found">Телефон найден</string>
+  <string name="phone_not_connected">Телефон не подключен</string>
+  <string name="phone_not_found">Телефон не найден</string>
+  <string name="picker_default_nagetive_text">Нет</string>
+  <string name="picker_default_positive_text">Да</string>
+  <string name="reset_factory">Полный сброс</string>
+  <string name="reset_factory_hint">Возврат к заводским установкам?</string>
+  <string name="right_hand">Правая</string>
+  <string name="rise_no_bl_under_slpt">Не включать жестом руки</string>
+  <string name="rom_hint_dev">ROM (Develop Ver)</string>
+  <string name="rom_version">Версия ROM</string>
+  <string name="scanning_blt_devices">Поиск...</string>
+  <string name="serial_no">SN</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="shut_down">Выключить</string>
+  <string name="sport_music_settings">Музыка</string>
+  <string name="start_testing">Начать</string>
+  <string name="strong">сильный</string>
+  <string name="subtitle_of_raise_hand_no_bl">(Авто)Не включать жестом руки</string>
+  <string name="time_to">-</string>
+  <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
+  <string name="title_settings">Настройки</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="unknown">Неизвестное устройство</string>
+  <string name="upgrade_checking">Поиск обновлений...</string>
+  <string name="vibration_intensity">Вибрация</string>
+  <string name="weak">слабый</string>
+  <string name="wear_habit">Рука</string>
+  <string name="wifi_dev">Wi-Fi</string>
+  <string name="wlan_addr">WLAN Address</string>
+  <string name="zh_cn">Chinese (Simplified)</string>
+  <string name="zh_tw">Chinese (Traditional)</string>
+</resources>

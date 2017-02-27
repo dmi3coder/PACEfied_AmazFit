@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string name="action_settings">Settings</string>
+  <string name="add_wifi">Add Wi-Fi</string>
+  <string name="app_name">otawatch</string>
+  <string name="btn_install_later">Напомнить в следующий раз</string>
+  <string name="btn_install_now">Установить сейчас</string>
+  <string name="btn_upgrade_now">Обновить сейчас</string>
+  <string name="cancel_download">Загрузка пакета обновления,\n отмена?</string>
+  <string name="checking_rom">Проверка на наличие новых версий</string>
+  <string name="checking_rom_failed">Сетевое подключение истекло,\nпожалуйста, повторите попытку</string>
+  <string name="connect_phone_input_wifi">Please connect the\nAmazfit watch App to input\nWi-Fi password for the watch</string>
+  <string name="connect_phone_wifi">Please check the phone\nnetwork to help the \nwatch check for update</string>
+  <string name="current_is_new">Последняя версия</string>
+  <string name="download_rom_faild">Загрузка пакета обновления не удалась,\n пожалуйста, попробуйте снова.</string>
+  <string name="download_rom_success">ROM downloading successful, please install</string>
+  <string name="has_new_rom">New version found,\nupdate to %1$s version?</string>
+  <string name="hasNewUpdateCheckContent">The %1$s version can be updated, update now?</string>
+  <string name="hasNewUpdateInstallContent">The %1$s version can be installed, install now?</string>
+  <string name="hasNewUpdateTitle">System updates</string>
+  <string name="input_passwor_on_mobile">Please input Wi-Fi password \nin the Amazfit watch App</string>
+  <string name="low_battery_message">Update pack downloaded, the power should be kept above %1$s%% to install</string>
+  <string name="low_battery_title">Please charge first</string>
+  <string name="low_mem">Capacity required for upgrade insufficient, another %1$sM needed, please clean up first</string>
+  <string name="new_rom_please_install">System update is available, \nplease upgrade</string>
+  <string name="password_error">Incorrect Wi-Fi password,\nplease re-enter</string>
+  <string name="please_keep_wifi_connect">Please keep the watch \nconnected to WiFi</string>
+  <string name="please_update_rom">New system version found, please update</string>
+  <string name="processbar_downloading_default">0</string>
+  <string name="processbar_downloading_rom">Downloading...</string>
+  <string name="processbar_downloading_tips">%</string>
+  <string name="progressbar_percent">%1$d%%</string>
+  <string name="progressbar_tips">Checking for new versions....</string>
+  <string name="searching">Searching...</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="system_update_content">The system has been upgraded to version %1$s</string>
+  <string name="system_update_title">Update successful</string>
+  <string name="toast_please_update_first">Please update first</string>
+  <string name="update_network_error">Update check failed, please \nretry later</string>
+  <string name="watch_ota">Watch Update</string>
+  <string name="wifi_add_item">Please connect the\nAmazfit watch App to add\nnew Wi-Fi hotspot for the watch</string>
+  <string name="wifi_auth">Verifying password...</string>
+  <string name="wifi_connect_fail">Cannot connect to this\nWiFi network. Please try \nanother Wi-Fi hotspot</string>
+  <string name="wifi_connected">Connected</string>
+  <string name="wifi_connecting">Connecting...</string>
+  <string name="wifi_disconnect">Please connect the\nAmazfit watch App to help \nthe watch check for update</string>
+  <string name="wifi_get_ip">Obtaining IP address...</string>
+  <string name="wifi_has_password">Encrypted</string>
+  <string name="wifi_link_fail">Connecting failed...</string>
+  <string name="wifi_no_password">Unencrypted</string>
+  <string name="wifi_password_error">Password incorrect</string>
+  <string name="wifi_title">Connect to Wi-Fi</string>
+  <string name="wifi_turnon_going">Turning on Wi-Fi...</string>
+  <string name="wifi_wait_password">Waiting for password input...</string>
+</resources>

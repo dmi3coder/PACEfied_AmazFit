@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string-array name="hour_select_labels">
+    <item>0</item>
+    <item>6</item>
+    <item>12</item>
+    <item>18</item>
+    <item>24</item>
+  </string-array>
+  <string-array name="spring_depend">
+    <item>com.huami.watch.health/com.huami.watch.health.widget.HeartLauncherView</item>
+    <item>com.huami.watch.health/com.huami.watch.health.widget.StepLauncherView</item>
+    <item>com.huami.watch.health/com.huami.watch.health.widget.SleepWidgetView</item>
+  </string-array>
+  <string-array name="subject_typenfreqs">
+    <item>Шаги сегодня</item>
+    <item>Шаги за неделю</item>
+    <item>Калории сегодня</item>
+    <item>Калории за неделю</item>
+  </string-array>
+  <string-array name="weekday_names">
+    <item>Пн</item>
+    <item>Вт</item>
+    <item>Ср</item>
+    <item>Чт</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Вс</item>
+  </string-array>
+</resources>

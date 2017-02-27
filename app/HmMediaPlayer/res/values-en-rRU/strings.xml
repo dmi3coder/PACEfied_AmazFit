@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string name="action_listen">Listen</string>
+  <string name="app_name">HM Media Player</string>
+  <string name="average_text">Avg</string>
+  <string name="background_image_str">Фоновое изображение для обложки альбома</string>
+  <string name="browse_genre_subtitle">Композиции по жанру</string>
+  <string name="browse_genres">Жанры</string>
+  <string name="browse_musics_by_genre_subtitle">%1$s песни</string>
+  <string name="casting_to_device">Играем на %1$s</string>
+  <string name="check_network">Проверка сети</string>
+  <string name="close_content_drawer">Закройте главное меню</string>
+  <string name="confirm_exit">Плейлист загружается, остановить?</string>
+  <string name="currently_playing_artist">Автор текущей песни</string>
+  <string name="currently_playing_extra_info">Дополнительная информация для воспроизводимой композиции</string>
+  <string name="currently_playing_song">Сейчас играет</string>
+  <string name="drawer_allmusic_title">Вся музыка</string>
+  <string name="drawer_playlists_title">Плайлист</string>
+  <string name="error_loading_media">Ошибка загрузки</string>
+  <string name="error_no_connection">Нет связи с сервером.</string>
+  <string name="error_no_metadata">Невозможно получить метаданные.</string>
+  <string name="favorite">Избранное</string>
+  <string name="home_title">Home</string>
+  <string name="label_next">След.</string>
+  <string name="label_pause">Пауза</string>
+  <string name="label_play">Играть</string>
+  <string name="label_previous">Пред.</string>
+  <string name="loading">Загрузка…</string>
+  <string name="locale_title">Select Language</string>
+  <string name="media_route_menu_title">Запустить на…</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="music_continue_downloading">Продолжить загрузку</string>
+  <string name="music_douban_offline">Watercress FM офлайн</string>
+  <string name="music_down_not_complete_content">Вы можете в настройках запустить загрузку Watercress FM</string>
+  <string name="music_down_not_complete_title">Композиция не загружена полностью</string>
+  <string name="music_download" formatted="false">%1d/%2d</string>
+  <string name="music_download_cancel">Загрузка отменена.</string>
+  <string name="music_download_fail_content">Ошибка сетевого соединения, в результате чего композиция не может быть загружена. Пожалуйста, подключитесь к сети и попробуйте снова.</string>
+  <string name="music_download_fail_title">Ошибка загрузки композиции</string>
+  <string name="music_download_in_progress">Музыка скачивается</string>
+  <string name="music_download_not_complete_content">Ошибка подключения к сети, в результате чего композиция загружена не полностью. В настоящее время возможно только играть песни, которые были загружены. (Подключение к Wi-Fi, будет автоматически загружать все песни)</string>
+  <string name="music_download_not_complete_title">Композиции загружены не полностью</string>
+  <string name="music_download_success">Музыка успешно загружена</string>
+  <string name="music_downloading">Композиции загружаются</string>
+  <string name="music_downloading_noting">-/-</string>
+  <string name="music_fetch_list">Загрузка списка</string>
+  <string name="music_init_not_done">Ошибка инициализации</string>
+  <string name="music_list_title">Настройка</string>
+  <string name="music_name">Watercress FM</string>
+  <string name="music_no_douban_resource">Нет локальных композиций, загрузить?</string>
+  <string name="music_no_local_resource">Не найдены локальные композиции, пожалуйста, загрузите их через usb.</string>
+  <string name="music_no_resource">Никто не слушает музыку</string>
+  <string name="music_no_wifi_content">Не подлючено к сети Wi-Fi, невозможно загрузить композиции.</string>
+  <string name="music_no_wifi_title">Не могу скачать</string>
+  <string name="music_play_mode">Режим воспроизведения</string>
+  <string name="music_play_source">Источник</string>
+  <string name="music_source_all">Все композиции</string>
+  <string name="music_source_douban">Watercress FM</string>
+  <string name="music_source_local">Локальные композиции</string>
+  <string name="music_start_tips">Подключите Bluetooth наушники. Сделать это сейчас?</string>
+  <string name="music_title">Музыка</string>
+  <string name="music_volumn_control">Громкость</string>
+  <string name="no_altitude_hint">Altitude data not detected</string>
+  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+  <string name="no_search_results">Нет Результатов Поиска.</string>
+  <string name="now_playing">Сейчас играет</string>
+  <string name="open_content_drawer">Откройте главное меню</string>
+  <string name="picker_default_nagetive_text">Нет</string>
+  <string name="picker_default_positive_text">Да</string>
+  <string name="placeholder_message">This is a placeholder for your application code.</string>
+  <string name="play_item">Играть</string>
+  <string name="play_pause">Играть или пауза</string>
+  <string name="random_queue_title">Случайное воспроизведение</string>
+  <string name="related_content_header">Вам также может понравиться</string>
+  <string name="search_queue_title">Результаты поиска</string>
+  <string name="skip_next">переход к следующему</string>
+  <string name="skip_prev">переход к предыдущему</string>
+  <string name="sport_music_settings">Спорт музыка</string>
+  <string name="stop_casting">Стоп</string>
+  <string name="title_settings">Настройки</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+</resources>

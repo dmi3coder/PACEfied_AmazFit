@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string name="app_name">SetupWizard</string>
+  <string name="lang_en_us">English(US)</string>
+  <string name="lang_zh_cn">中文(简体)</string>
+  <string name="locale_title">Select Language</string>
+  <string name="pair_scan_qr">Отсканируйте QR код</string>
+  <string name="pair_skip">Пропустить</string>
+  <string name="tip_binding_failed">Ошибка соединения</string>
+  <string name="tip_binding_failed_restart">Отключено, попробуйте снова</string>
+  <string name="tip_install_wear_companion">Установите \"Amazfit Watch\" на телефон</string>
+  <string name="tip_low_battery">Менее 5% от батареи, пожалуйста, подключите питание, чтобы продолжить.</string>
+  <string name="tip_no_bluetooth_adapter">Ошибка Bluetooth</string>
+  <string name="tip_pair_skip">Некоторые функции будут недоступны, продолжить?</string>
+  <string name="tip_restoring">Восстановление</string>
+  <string name="tip_wear_hand">На какой руке вы носите часы?</string>
+</resources>

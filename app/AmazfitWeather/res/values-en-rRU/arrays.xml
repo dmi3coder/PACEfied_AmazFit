@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Сегодня</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Чистый воздух</item>
+        <item>Нормальный воздух</item>
+        <item>Легкое загрязнение</item>
+        <item>Среднее загрязнение</item>
+        <item>Сильное загрязнение</item>
+        <item>Серьезное загрязнение</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Хорошо для спорта</item>
+        <item>Плохо для спорта</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Смог</item>
+        <item>Ливень</item>
+        <item>Грозовой ливень</item>
+        <item>Легкий дождик</item>
+        <item>Дождь</item>
+        <item>Сильный дождь</item>
+        <item>Шквальный ливень</item>
+        <item>Torrential rain</item>
+        <item>Дождь со снегом</item>
+        <item>Ледяной дождь</item>
+        <item>Град</item>
+        <item>Мелкий снег</item>
+        <item>Снег</item>
+        <item>Сильный снег</item>
+        <item>Снегопад</item>
+        <item>Метель</item>
+        <item>Пыль</item>
+        <item>Ветер с песком</item>
+        <item>Песчанная буря</item>
+        <item>Песчанный ураган</item>
+        <item>Нет данных</item>
+    </string-array>
+</resources>

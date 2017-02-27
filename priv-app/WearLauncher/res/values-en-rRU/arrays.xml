@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <array name="appload_drawables">
+    <item>-1</item>
+    <item>@drawable/sport_start_loading</item>
+  </array>
+  <string-array name="jazzy_effects">
+    <item>Standard</item>
+    <item>Tablet</item>
+    <item>CubeIn</item>
+    <item>CubeOut</item>
+    <item>FlipVertical</item>
+    <item>FlipHorizontal</item>
+    <item>Stack</item>
+    <item>ZoomIn</item>
+    <item>ZoomOut</item>
+    <item>RotateUp</item>
+    <item>RotateDown</item>
+    <item>Accordion</item>
+  </string-array>
+  <string-array name="localapps">
+    <item>com.huami.watch.launcher</item>
+    <item>com.huami.watch.sport</item>
+  </string-array>
+  <string-array name="quick_settings_status_chineseNumber">
+    <item>Yi</item>
+    <item>Er</item>
+    <item>San</item>
+    <item>Si</item>
+    <item>Wu</item>
+    <item>Liu</item>
+    <item>Qi</item>
+    <item>Ba</item>
+    <item>Jiu</item>
+    <item>Shi</item>
+    <item>ShiYi</item>
+    <item>ShiEr</item>
+  </string-array>
+  <string-array name="quick_settings_status_chineseTen">
+    <item>Chu</item>
+    <item>Shi</item>
+    <item>Er</item>
+    <item>San</item>
+  </string-array>
+  <string-array name="quick_settings_status_principleTerm">
+    <item>Great cold</item>
+    <item>The rains</item>
+    <item>Vernal Equinox</item>
+    <item>Grain rain</item>
+    <item>Grain buds</item>
+    <item>Summer solstice</item>
+    <item>Great heat</item>
+    <item>Stopping the heat</item>
+    <item>Autumn Equinox</item>
+    <item>Hoar-frost falls</item>
+    <item>Light snow</item>
+    <item>Winter Solstice</item>
+  </string-array>
+  <string-array name="quick_settings_status_sectionalTerm">
+    <item>Легкий холод</item>
+    <item>Весна начинается</item>
+    <item>Насекомые пробуждаются</item>
+    <item>Четкий и яркий</item>
+    <item>Лето начинается</item>
+    <item>Зерно в ухо</item>
+    <item>Легкое тепло</item>
+    <item>Осень начинается</item>
+    <item>Белые росы</item>
+    <item>Холодная роса</item>
+    <item>Зима начинается</item>
+    <item>Сильный снег</item>
+  </string-array>
+  <string-array name="quick_settings_status_weather">
+    <item>Ясно</item>
+    <item>Облачно</item>
+    <item>Пасмурно</item>
+    <item>Туман</item>
+    <item>Смог</item>
+    <item>Ливень</item>
+    <item>Грозовой ливень</item>
+    <item>Легкий дождик</item>
+    <item>Дождь</item>
+    <item>Сильный дождь</item>
+    <item>Шквальный ливень</item>
+    <item>Torrential rain</item>
+    <item>Дождь со снегом</item>
+    <item>Ледяной дождь</item>
+    <item>Град</item>
+    <item>Мелкий снег</item>
+    <item>Снег</item>
+    <item>Сильный снег</item>
+    <item>Снегопад</item>
+    <item>Метель</item>
+    <item>Пыль</item>
+    <item>Ветер с песком</item>
+    <item>Песчанная буря</item>
+    <item>Песчанный ураган</item>
+    <item>Нет данных</item>
+  </string-array>
+  <string-array name="quick_settings_status_week">
+    <item>Вс</item>
+    <item>Пт</item>
+    <item>Вт</item>
+    <item>Ср</item>
+    <item>Чт</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Сегодня</item>
+  </string-array>
+  <string-array name="weather_card_aqilevel">
+    <item>Чистый воздух</item>
+    <item>Нормальный воздух</item>
+    <item>Легкое загрязнение</item>
+    <item>Среднее загрязнение</item>
+    <item>Сильное загрязнение</item>
+    <item>Серьезное загрязнение</item>
+    <item />
+  </string-array>
+  <string-array name="weather_card_quality">
+    <item>Хорошо для спорта</item>
+    <item>Плохо для спорта</item>
+    <item />
+  </string-array>
+</resources>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2016 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2016
+          Android Localizer (aiLocalizer)
+        -->
+<resources>
+  <string name="app_name">TrainCenter</string>
+  <string name="app_train_center">Центр тренировок</string>
+  <string name="assing_train_plan">%1$s</string>
+  <string name="average_text">Avg</string>
+  <string name="cancel">Отмена</string>
+  <string name="day_train_plan_record_marked">отметка</string>
+  <string name="day_train_record_stag">%1$s - %2$d нед %3$d дн</string>
+  <string name="day_train_record_stag_simple">%1$d нед %2$d дн</string>
+  <string name="day_train_record_statis_un_finish">Не завершено</string>
+  <string name="day_train_record_status_finish">Завершено</string>
+  <string name="day_train_record_train_stage">%1$s дн</string>
+  <string name="day_train_status_done">Завершено</string>
+  <string name="dialog_day_train_plan_is_complete">Отметить или нет сегодняшний план тренировки как завершенный?</string>
+  <string name="dialog_train_plan_is_complete">Заранее закончить данный план тренировок? Больше не делать записи о прогрессе данной тренировки?</string>
+  <string name="hidtory_train_end_date">Конец %1$s</string>
+  <string name="hidtory_train_start_date">Начало %1$s</string>
+  <string name="last_day_rest_remind">Тренировка заканчивается, отдохните один день, чтобы уменьшить усталость тела</string>
+  <string name="locale_title">Select Language</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="my_train">Моя тренировка</string>
+  <string name="no_altitude_hint">Altitude data not detected</string>
+  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+  <string name="notificaiton_train_content">Сегодняшняя тренировка еще не окончена,приложите все усилия, поднажмите-ка!</string>
+  <string name="notification_title">Центр тренировок</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="picker_default_positive_text">Confirm</string>
+  <string name="please_select_train_plan">Выберите план</string>
+  <string name="remind_train_first_text">Тренировки могут улучшить ваше состояние\nНачать!</string>
+  <string name="sport_music_settings">Sports music</string>
+  <string name="start_new_train">Новая тренировка</string>
+  <string name="this_train_record_finish">Эта тренировка завершена</string>
+  <string name="title_settings">Settings</string>
+  <string name="today">Сегодня</string>
+  <string name="train_center">Центр тренировок</string>
+  <string name="train_complete_rate">Процент выполнения</string>
+  <string name="train_days">Кол-во тренирововчных дней</string>
+  <string name="train_detail">Детали</string>
+  <string name="train_detail_number_weekly">%1$d-я неделя</string>
+  <string name="train_finish">Конец тренировки</string>
+  <string name="train_finish_reason">Причина завершения</string>
+  <string name="train_finished">Тренировка закончена</string>
+  <string name="train_mileage">Процесс тренировки (км)</string>
+  <string name="train_plan_already_assgn">Настроено</string>
+  <string name="train_plan_recode_finished">Завершено</string>
+  <string name="train_record_complete_percent">Завершено</string>
+  <string name="train_start">Начать</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeeklySports</string>
+    <string name="enter">Ввод</string>
+    <string name="weeklysports_title">Спорт</string>
+    <string name="weeklysports_totalnumber_front">"Кол-во: "</string>
+    <string name="weeklysports_totalstep_front">"Шаги: "</string>
+    <string name="weeklysports_totaltime">Общее время</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Всего калорий</string>
+    <string name="weeklysports_totalcalories_unit">ккал</string>
+    <string name="weeklysports_totalmileage">Пробег</string>
+    <string name="weeklysports_totalmileage_unit">км</string>
+    <string name="weeklysports_averageheart">Средний пульс</string>
+    <string name="weeklysports_averageheart_unit">уд/м</string>
+    <string name="weeklysports_runerrate">Темп бега</string>
+    <string name="weeklysports_outdoorrunrate">Бег, средний темп</string>
+    <string name="weeklysports_insiderunrate">Темп на дорожке</string>
+    <string name="weeklysports_crossrunrate">Средний темп</string>
+    <string name="weeklysports_runerrate_unit">/км</string>
+    <string name="weeklysports_ridingrate">Темп вело</string>
+    <string name="weeklysports_outdoorriding_average">Велосипед, средняя скорость</string>
+    <string name="weeklysports_outdoorriding_max">Велосипед, макс. скорость</string>
+    <string name="weeklysports_outdoorriding_unit">км/ч</string>
+    <string name="weeklysports_frequency">" р."</string>
+    <string name="weeklysports_step">ш</string>
+    <string name="weeklysports_day">дн.</string>
+    <string name="weeklysports_activity">Тип:</string>
+    <string name="weeklysports_running">Бег</string>
+    <string name="weeklysports_walking">Шаг</string>
+    <string name="weeklysports_riding">Вело</string>
+    <string name="weekly_step_percent">%s%%</string>
+    <string name="weekly_step_attained_rate">Достижения шагов</string>
+    <string name="weekly_sports_notification_content">Дневник занятий</string>
+</resources>

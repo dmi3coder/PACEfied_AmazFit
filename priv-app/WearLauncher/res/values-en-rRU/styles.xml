@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LauncherCardText" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/notification_content_text_textsize</item>
+        <item name="android:textColor">@color/notification_content_color</item>
+        <item name="android:lineSpacingExtra">1.0dip</item>
+    </style>
+ </resources>

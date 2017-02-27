@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Начинающий</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>От хотьбы к бегу. Позволяет адаптировать организм к движению.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 км</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Для начинающих бегунов. Позволяет отточить технику бега.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 км</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Подходит для продвинутых бегунов. Улучшает аэробные способности и мышечную силу.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Полумарафон</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Подготовка к полумарафону. Помогает натренировать бег на длинные дистанции.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Полный марафон</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Подготовка к соревнованиям. Позволяет спланировать свой собственный темп и стратегию гонки.</copyWrite>
+        </trainplan>
+</trainplans>

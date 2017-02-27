@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Бег</runType>
+            <trainContent>Бег</trainContent>
+            <copyWrite>Бег 800м, пешком 200м за один цикл. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Бег</runType>
+            <trainContent>Восстановление</trainContent>
+            <copyWrite>Легкий бег трусцой, чтобы завершить тренировку. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Бег</runType>
+            <trainContent>Простой бег</trainContent>
+            <copyWrite>Подготовка к бегу с определенной скоростью. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Бег</runType>
+            <trainContent>Продвинутый бег</trainContent>
+            <copyWrite>Бег с ускорениями. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Бег</runType>
+            <trainContent>Фартлек</trainContent>
+            <copyWrite>Обучение легким сменам скорости бега. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Бег</runType>
+            <trainContent>Бег по холмам</trainContent>
+            <copyWrite>Выбирайте бег по спускам и подъемам. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Бег</runType>
+            <trainContent>Темп</trainContent>
+            <copyWrite>Поддержание равномерной скорости. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Бег</runType>
+            <trainContent>Интервальный бег (короткий)</trainContent>
+            <copyWrite>Бег 800м, хотьба 800м каждый цикл.Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Бег</runType>
+            <trainContent>Интервальный бег (длинный)</trainContent>
+            <copyWrite>Бег 2.4км, хотьба 800м каждый цикл. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Отдых</runType>
+            <trainContent></trainContent>
+            <copyWrite>Сегодня сделайте перерыв. Еще %1$d дн.</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Плавание</runType>
+            <trainContent></trainContent>
+            <copyWrite>Плавание восстановит физическое состояние. После завершения нажмите здесь.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Велоспорт</runType>
+            <trainContent></trainContent>
+            <copyWrite>Кросс-тренинг может повысить уровень и восстановить силы. Рекомендуемый пульс %1$d-%2$d уд/м</copyWrite>
+        </runremind>
+</runreminds>
+
+
