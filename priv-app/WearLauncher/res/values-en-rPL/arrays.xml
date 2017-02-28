@@ -87,8 +87,8 @@
     <string-array name="weather_card_aqilevel">
         <item>Doskonałe powiet.</item>
         <item>Dobre powiet.</item>
-        <item>Mała zanieczy.</item>
-        <item>Umiark. zaniecz.</item>
+        <item>Małe zaniecz.</item>
+        <item>Umiark.zaniecz.</item>
         <item>Duże zaniecz.</item>
         <item>Poważne zaniecz.</item>
         <item></item>
@@ -100,7 +100,7 @@
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Słonecznie</item>
-        <item>Mętnie</item>
+        <item>Pochmurno</item>
         <item>Pochmurno</item>
         <item>Mgła</item>
         <item>Smog</item>
@@ -108,21 +108,21 @@
         <item>Burze</item>
         <item>Lekkie opady</item>
         <item>Umiark.opady</item>
-        <item>Intensywne opady</item>
+        <item>Inten.opady</item>
         <item>Ulewa</item>
         <item>Ulewa</item>
-        <item>Deszcz ze śniegiem</item>
+        <item>Deszcz ze śnieg.</item>
         <item>Marznący deszcz</item>
         <item>Grad</item>
-        <item>Lekkie opady śniegu</item>
-        <item>Umiark.opady śniegu</item>
-        <item>Inten.opady śniegu</item>
+        <item>Lekkie op.śniegu</item>
+        <item>Umiark.op.śniegu</item>
+        <item>Inten.op.śniegu</item>
         <item>Zamieć</item>
         <item>Śnieg</item>
         <item>Kurzawa</item>
-        <item>Lotny piasek</item>
-        <item>Burza piaskowa</item>
-        <item>Silna burza piaskowa</item>
+        <item>Lotny pias.</item>
+        <item>Burza pias.</item>
+        <item>Silna burza pias.</item>
         <item>Brak danych</item>
     </string-array>
 </resources>
