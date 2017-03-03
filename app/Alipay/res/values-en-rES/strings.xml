@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">"Alipay"</string>
+    <string name="confirm_unbind">"Desconectado"</string>
+    <string name="unbind_warning">"Las funciones de Alipay no estará disponible si se desconecta el dispositivo."</string>
+    <string name="bind_my_watch">"Conectar el reloj"</string>
+    <string name="user_hint">"Abre la aplicación Alipay (9.3 o posterior), ir a Mi perfil&gt; Configuración&gt; Configuración de seguridad&gt; smartwhatches."</string>
+    <string name="bind_im">"Verano"</string>
+    <string name="bind_from_qr">"Asociación QR"</string>
+    <string name="bind_qr_code">"Se conecta a través de QR"</string>
+    <string name="user_hint_title">"Consejos"</string>
+    <string name="loading">"Cargando"</string>
+    <string name="title">"Alipay"</string>
+    <string name="widget_title">"Alipay"</string>
+    <string name="tip">"Abre la aplicación Alipay (9.3 o posterior), ir a Mi perfil&gt; Configuración&gt; Configuración de seguridad&gt; smartwhatches."</string>
+    <string name="ios_unsupport_tips">"(Alipay no está soportado en iOS)"</string>
+    <string name="button_start_bind">"Conectar"</string>
+    <string name="bind_usage">"Escanear QR"</string>
+    <string name="bar_code_tip">"Pago completado"</string>
+    <string name="qr_code_tip">"Detalles de transferencia"</string>
+    <string name="bind_success_title">"Conectado"</string>
+    <string name="unbind_tip">"Utilizar un smartphone para conectarse"</string>
+    <string name="button_ok">"OK"</string>
+    <string name="confirm_unbind_title">"Desconectar"</string>
+    <string name="unbind_alert_message">"Si desconecta el dispositivo las funciones Alipay no estarán disponibles, ¿Desconectar?"</string>
+    <string name="not_available">"Función no disponible temporalmente"</string>
+    <string name="airplane_mode_tips">"Para utilizar Alipay desactivar el modo avión"</string>
+    <string name="debug_nickname">""</string>
+    <string name="debug_username">""</string>
+    <string name="debug_paycode_string">""</string>
+</resources>
