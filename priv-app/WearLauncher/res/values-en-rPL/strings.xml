@@ -611,7 +611,7 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="weather_warning_level_def">Ostrzeżenie</string>
     <string name="weather_warning_level_white">Biały</string>
     <string name="weather_warning_level_black">Czarny</string>
-    <string name="weather_warning_typhoon">Tajfun</string>\
+    <string name="weather_warning_typhoon">Tajfun</string>
     <string name="weather_warning_rainstorm">Ulewa</string>
     <string name="weather_warning_cold">Zimno</string>
     <string name="weather_warning_gale">Wichura</string>
