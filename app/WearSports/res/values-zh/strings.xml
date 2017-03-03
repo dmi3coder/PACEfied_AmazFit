@@ -36,6 +36,8 @@
     <string name="safe_hearate_remind_content">高于%1dbpm提醒</string>
     <string name="settings_safe_heart_rate_hint">(安全心率)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="elliptical">椭圆机</string>
+    <string name="elliptical_in_progress">椭圆机中</string>
     <string name="experience_title">请先设置个人信息否则数据会有较大偏差</string>
     <string name="indoor_run_progressing">室内跑中</string>
     <string name="music_title">音乐</string>

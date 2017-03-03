@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item type="id" name="main_setting_list">-1</item>
+    <item type="id" name="update_online">0</item>
+    <item type="id" name="update_local">1</item>
+    <item type="id" name="main_list">false</item>
+    <item type="id" name="dialog">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="confirm_1_title">false</item>
+    <item type="id" name="confirm_1_text">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="confirm_2_text">false</item>
     <item type="id" name="fragment_progress_bar">false</item>
     <item type="id" name="image">false</item>
     <item type="id" name="wave_progress">false</item>
     <item type="id" name="downloading_textview">false</item>
     <item type="id" name="keep_wifi_textview">false</item>
     <item type="id" name="download_percent">false</item>
-    <item type="id" name="content">false</item>
     <item type="id" name="message">false</item>
-    <item type="id" name="footer">false</item>
-    <item type="id" name="negativeButton">false</item>
-    <item type="id" name="positiveButton">false</item>
     <item type="id" name="low_battery_layout">false</item>
     <item type="id" name="title">false</item>
     <item type="id" name="layout_wifi">false</item>

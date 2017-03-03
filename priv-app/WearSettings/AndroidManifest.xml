@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-102">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-106">
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY"/>
@@ -63,6 +63,14 @@
                 <action android:name="com.huami.watch.Launcher.BOOT_NOW"/>
             </intent-filter>
         </receiver>
+        <receiver android:exported="true" android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.end"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
         <activity android:launchMode="singleTask" android:name="com.huami.moblie.watchsettings.actions.bluetooth.DevicePickerActivity">
             <intent-filter>
                 <action android:name="com.huami.moblie.watchsettings.actions.bluetooth.DevicePicker"/>
@@ -70,5 +78,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneTimePickerActivity"/>
     </application>
 </manifest>

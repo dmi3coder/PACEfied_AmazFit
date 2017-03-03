@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res-auto/com.huami.watch.health">
+    <FrameLayout android:id="@id/step_container" android:paddingTop="@dimen/widget_size_screen_bottom_cut" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:id="@id/percent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/widget_size_arc_padding" />
+        <com.huami.watch.health.ui.RelativeLayout2 android:id="@id/health_content_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="@dimen/widget_size_title_font" android:id="@id/step" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_size_subject_title_margin_top" android:text="@string/widget_label_step" android:shadowColor="@color/widget_color_shadow" android:shadowDy="@integer/widget_size_shadow_dy1" android:shadowRadius="@integer/widget_size_shadow_radius1" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="@dimen/widget_size_value_font" android:textColor="@color/widget_step_color" android:id="@id/step_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:maxLines="1" android:shadowColor="@color/widget_color_shadow" android:shadowDy="@integer/widget_size_shadow_dy0" android:shadowRadius="@integer/widget_size_shadow_radius0" android:layout_below="@id/step" android:fontFamily="lato" custom:layout_belowCenter="@id/step" />
+            <TextView android:textSize="@dimen/widget_size_unit_font" android:id="@id/step_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_label_step_unit" android:shadowColor="@color/widget_color_shadow" android:shadowDy="@integer/widget_size_shadow_dy1" android:shadowRadius="@integer/widget_size_shadow_radius1" android:layout_alignBaseline="@id/step_value" android:layout_marginStart="2.0dip" android:layout_toEndOf="@id/step_value" />
+            <TextView android:textSize="@dimen/widget_size_step_target" android:id="@id/step_target" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:maxLines="1" android:shadowColor="@color/widget_color_shadow" android:shadowDy="@integer/widget_size_shadow_dy0" android:shadowRadius="@integer/widget_size_shadow_radius0" android:layout_below="@id/step_value" custom:layout_belowCenter="@id/step_value" />
+        </com.huami.watch.health.ui.RelativeLayout2>
+    </FrameLayout>
+    <com.huami.watch.health.widget.SplashView android:id="@id/splash" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

@@ -11,6 +11,7 @@
     <item type="id" name="start_achievement">7</item>
     <item type="id" name="start_outdoor_riding">8</item>
     <item type="id" name="start_indoor_riding">9</item>
+    <item type="id" name="start_ellipticals">10</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="container">false</item>
     <item type="id" name="fragment_container">false</item>
@@ -134,15 +135,15 @@
     <item type="id" name="item_container_two">false</item>
     <item type="id" name="running_pager">false</item>
     <item type="id" name="indicator">false</item>
-    <item type="id" name="root">false</item>
     <item type="id" name="history_detail_runnig_sport_cost_time_desc">false</item>
     <item type="id" name="history_detail_sport_running_cost_time">false</item>
     <item type="id" name="history_detail_sport_pause_time_desc">false</item>
     <item type="id" name="history_detail_sport_pause_time">false</item>
+    <item type="id" name="cache_view">false</item>
+    <item type="id" name="root">false</item>
     <item type="id" name="history_detail_sport_max_step_freq_desc">false</item>
     <item type="id" name="history_detail_sport_max_step_freq">false</item>
     <item type="id" name="modify_btn">false</item>
-    <item type="id" name="cache_view">false</item>
     <item type="id" name="info_container_one">false</item>
     <item type="id" name="info_container_two">false</item>
     <item type="id" name="info_container_three">false</item>

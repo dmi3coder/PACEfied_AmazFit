@@ -69,4 +69,16 @@
     <string name="hasNewUpdateTitle">系统有更新</string>
     <string name="hasNewUpdateInstallContent">%1$s版本已可以安装,是否现在安装？</string>
     <string name="hasNewUpdateCheckContent">%1$s版本已可以升级,是否现在升级？</string>
+    <string name="update_title">请选择升级方式</string>
+    <string name="update_online">在线升级</string>
+    <string name="update_local">本地升级</string>
+    <string name="local_update_confirm_1_title">注意事项</string>
+    <string name="local_update_confirm_1_msg">"为确保本地升级后的版
+本兼容性问题,我们将清空所
+有数据后安装升级包,安装
+前请务必同步重要数据."</string>
+    <string name="local_update_confirm_2_msg">"请再次确保重要数据
+都已经同步.开始安装后未
+同步的数据将被清空不可恢
+复,是否继续安装?"</string>
 </resources>

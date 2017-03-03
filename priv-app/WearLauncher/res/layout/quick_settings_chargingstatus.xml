@@ -11,7 +11,7 @@
     <ImageView android:id="@id/batterySplit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="48.0dip" android:src="@drawable/lan_quicksettings_line" android:layout_below="@id/batterySportImage" android:layout_centerHorizontal="true" />
     <com.huami.watch.launcher.watchstatusbar.CircleProgressView android:id="@id/circleProgressbar" android:layout_width="40.899994dip" android:layout_height="44.19998dip" android:layout_marginLeft="45.099976dip" android:layout_marginTop="138.0dip" android:layout_alignParentTop="true" />
     <TextView android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/batteryLevel" android:layout_width="35.299988dip" android:layout_height="21.299988dip" android:layout_marginLeft="48.299988dip" android:layout_marginTop="150.0dip" android:includeFontPadding="false" android:layout_alignParentTop="true" />
-    <RelativeLayout android:id="@id/batteryCharging" android:layout_width="73.29999dip" android:layout_height="40.0dip" android:layout_marginLeft="98.69998dip" android:layout_marginTop="138.69998dip" android:layout_alignParentTop="true">
+    <RelativeLayout android:id="@id/batteryCharging" android:layout_width="95.0dip" android:layout_height="40.0dip" android:layout_marginLeft="98.69998dip" android:layout_marginTop="138.69998dip" android:layout_alignParentTop="true">
         <TextView android:textSize="14.0sp" android:textColor="@color/white" android:id="@id/batteryChargeStatusTwo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_centerInParent="true" android:lineSpacingExtra="6.6999817dip" />
     </RelativeLayout>
 </RelativeLayout>

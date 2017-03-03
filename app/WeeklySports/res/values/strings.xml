@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Settings</string>
+    <string name="sport_music_settings">Sports music</string>
     <string name="app_name">WeeklySports</string>
     <string name="weeklysports_title">Weekly activity summary</string>
     <string name="weeklysports_totalnumber_front">Total workout</string>
@@ -9,18 +18,21 @@
     <string name="weeklysports_totalcalories">Total calories</string>
     <string name="weeklysports_totalcalories_unit">kCal</string>
     <string name="weeklysports_totalmileage">Total distance</string>
-    <string name="weeklysports_totalmileage_unit">km</string>
+    <string name="weeklysports_totalmileage_unit_zh">km</string>
+    <string name="weeklysports_totalmileage_unit_en">mi</string>
     <string name="weeklysports_averageheart">Ave heart rate</string>
     <string name="weeklysports_averageheart_unit">bpm</string>
     <string name="weeklysports_runerrate">Running pace</string>
     <string name="weeklysports_outdoorrunrate">Outdoor run ave pace</string>
     <string name="weeklysports_insiderunrate">Indoor run ave pace</string>
     <string name="weeklysports_crossrunrate">Cross-country run ave pace</string>
-    <string name="weeklysports_runerrate_unit">/km</string>
+    <string name="weeklysports_runerrate_unit_zh">/km</string>
+    <string name="weeklysports_runerrate_unit_en">/mi</string>
     <string name="weeklysports_ridingrate">Biking speed</string>
     <string name="weeklysports_outdoorriding_average">Outdoor bike ave speed</string>
     <string name="weeklysports_outdoorriding_max">Outdoor bike max speed</string>
-    <string name="weeklysports_outdoorriding_unit">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_activity">Move</string>
     <string name="weeklysports_running">Run</string>
     <string name="weeklysports_walking">Walk</string>
