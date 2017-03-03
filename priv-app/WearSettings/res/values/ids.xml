@@ -19,6 +19,15 @@
     <item type="id" name="vibration_intensity">14</item>
     <item type="id" name="flight_mode">15</item>
     <item type="id" name="hm_lab">16</item>
+    <item type="id" name="personal_info">17</item>
+    <item type="id" name="time_zone_clock">18</item>
+    <item type="id" name="bind_app">19</item>
+    <item type="id" name="time_format">20</item>
+    <item type="id" name="connect">21</item>
+    <item type="id" name="common">22</item>
+    <item type="id" name="device">23</item>
+    <item type="id" name="nodisturb">24</item>
+    <item type="id" name="auto_plane">25</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="main_list">false</item>

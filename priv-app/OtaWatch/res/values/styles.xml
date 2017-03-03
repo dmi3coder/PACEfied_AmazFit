@@ -22,4 +22,7 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowSwipeToDismiss">false</item>
     </style>
+    <style name="HmDialogText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
 </resources>

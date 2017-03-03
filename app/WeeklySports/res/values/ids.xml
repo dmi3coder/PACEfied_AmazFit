@@ -21,27 +21,36 @@
     <item type="id" name="weekly_totaltime">false</item>
     <item type="id" name="weekly_totalcalories">false</item>
     <item type="id" name="weekly_totalmileage">false</item>
+    <item type="id" name="weeklysports_totalmileage_unit_tx">false</item>
     <item type="id" name="weekly_averageheart">false</item>
     <item type="id" name="weekly_performance_run">false</item>
     <item type="id" name="weekly_outdoorrun_cons_tx">false</item>
     <item type="id" name="weekly_outdoorrun_li">false</item>
     <item type="id" name="weekly_outdoorrunrate_tx">false</item>
     <item type="id" name="weekly_outdoorrunrate_ig">false</item>
+    <item type="id" name="weeklysports_runerrate_unit_tx">false</item>
     <item type="id" name="weekly_insiderun_cons_tx">false</item>
     <item type="id" name="weekly_insiderun_li">false</item>
     <item type="id" name="weekly_insiderunrate_tx">false</item>
     <item type="id" name="weekly_insiderunrate_ig">false</item>
+    <item type="id" name="weeklysports_insiderunerrate_unit_tx">false</item>
     <item type="id" name="weekly_crossrun_cons_tx">false</item>
     <item type="id" name="weekly_crossrun_li">false</item>
     <item type="id" name="weekly_crossrunrate_tx">false</item>
     <item type="id" name="weekly_crossrunrate_ig">false</item>
+    <item type="id" name="weeklysports_crossrunerrate_unit_tx">false</item>
     <item type="id" name="weekly_performance_riding">false</item>
     <item type="id" name="weekly_outdoorridding_cons_av">false</item>
     <item type="id" name="weekly_outdoorridding_av_li">false</item>
     <item type="id" name="weekly_outdoorriding_average_tx">false</item>
     <item type="id" name="weekly_outdoorriding_average_ig">false</item>
+    <item type="id" name="weeklysports_outdoorriding_unit_tx">false</item>
     <item type="id" name="weekly_outdoorridding_cons_ma">false</item>
     <item type="id" name="weekly_outdoorridding_ma_li">false</item>
     <item type="id" name="weekly_outdoorriding_max_tx">false</item>
     <item type="id" name="weekly_outdoorriding_max_ig">false</item>
+    <item type="id" name="weeklysports_outdoorridingma_unit">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
 </resources>

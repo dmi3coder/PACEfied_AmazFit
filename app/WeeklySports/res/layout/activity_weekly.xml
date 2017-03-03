@@ -60,7 +60,7 @@
                     <TextView android:text="@string/weeklysports_totalmileage" android:drawableLeft="@mipmap/sport_weekly_icon_km" style="@style/weeklysports_text12sp" />
                     <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
                         <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_totalmileage" style="@style/weeklysportsdata" />
-                        <TextView android:text="@string/weeklysports_totalmileage_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_totalmileage_unit_tx" style="@style/weeklysports_text16sp" />
                     </LinearLayout>>
 <TextView android:layout_marginTop="14.699982dip" android:text="@string/weeklysports_averageheart" android:drawableLeft="@mipmap/sport_weekly_icon_hr" style="@style/weeklysports_text12sp" />
                     <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
@@ -78,7 +78,7 @@
                     <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_outdoorrunrate_tx" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/weeklysports_text40sp" />
                     <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
                         <ImageView android:layout_gravity="center_horizontal" android:id="@id/weekly_outdoorrunrate_ig" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/sport_weekly_up" />
-                        <TextView android:text="@string/weeklysports_runerrate_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_runerrate_unit_tx" style="@style/weeklysports_text16sp" />
                     </LinearLayout>
                 </LinearLayout>
                 <TextView android:id="@id/weekly_insiderun_cons_tx" android:layout_marginTop="12.699982dip" android:text="@string/weeklysports_insiderunrate" style="@style/weeklysports_text10sp" />
@@ -86,7 +86,7 @@
                     <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_insiderunrate_tx" style="@style/weeklysports_text40sp" />
                     <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
                         <ImageView android:layout_gravity="center_horizontal" android:id="@id/weekly_insiderunrate_ig" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/sport_weekly_up" />
-                        <TextView android:text="@string/weeklysports_runerrate_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_insiderunerrate_unit_tx" style="@style/weeklysports_text16sp" />
                     </LinearLayout>
                 </LinearLayout>
                 <TextView android:id="@id/weekly_crossrun_cons_tx" android:layout_marginTop="12.699982dip" android:text="@string/weeklysports_crossrunrate" style="@style/weeklysports_text10sp" />
@@ -94,7 +94,7 @@
                     <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_crossrunrate_tx" style="@style/weeklysports_text40sp" />
                     <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
                         <ImageView android:layout_gravity="center_horizontal" android:id="@id/weekly_crossrunrate_ig" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/sport_weekly_up" />
-                        <TextView android:text="@string/weeklysports_runerrate_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_crossrunerrate_unit_tx" style="@style/weeklysports_text16sp" />
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
@@ -107,7 +107,7 @@
                     <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_outdoorriding_average_tx" style="@style/weeklysports_text40sp" />
                     <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
                         <ImageView android:layout_gravity="center_horizontal" android:id="@id/weekly_outdoorriding_average_ig" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/sport_weekly_up" />
-                        <TextView android:text="@string/weeklysports_outdoorriding_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_outdoorriding_unit_tx" style="@style/weeklysports_text16sp" />
                     </LinearLayout>
                 </LinearLayout>
                 <TextView android:id="@id/weekly_outdoorridding_cons_ma" android:layout_marginTop="12.699982dip" android:text="@string/weeklysports_outdoorriding_max" style="@style/weeklysports_text10sp" />
@@ -115,7 +115,7 @@
                     <com.huami.watch.weeklysports.selfview.DataTextView android:id="@id/weekly_outdoorriding_max_tx" style="@style/weeklysports_text40sp" />
                     <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
                         <ImageView android:layout_gravity="center_horizontal" android:id="@id/weekly_outdoorriding_max_ig" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/sport_weekly_up" />
-                        <TextView android:text="@string/weeklysports_outdoorriding_unit" style="@style/weeklysports_text16sp" />
+                        <TextView android:id="@id/weeklysports_outdoorridingma_unit" style="@style/weeklysports_text16sp" />
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
