@@ -134,4 +134,8 @@
     <item type="id" name="step_unit">false</item>
     <item type="id" name="step_target">false</item>
     <item type="id" name="splash">false</item>
+    <item type="id" name="stretch_cancel">false</item>
+    <item type="id" name="stretch_start">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="retry">false</item>
 </resources>

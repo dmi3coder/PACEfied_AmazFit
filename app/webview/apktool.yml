@@ -16,8 +16,8 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: huanghe-1.2.6a
+  tag: 1.3.1m
 version: 2.2.1
 versionInfo:
   versionCode: '300004'
-  versionName: 39 (87-mips)
+  versionName: 39 (26-mips)

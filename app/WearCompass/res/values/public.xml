@@ -31,27 +31,28 @@
     <public type="string" name="east_longitude" id="0x7f080004" />
     <public type="string" name="west_longitude" id="0x7f080005" />
     <public type="string" name="altitude" id="0x7f080006" />
-    <public type="string" name="atmospheric_pressure" id="0x7f080007" />
-    <public type="string" name="ori_north" id="0x7f080008" />
-    <public type="string" name="ori_northeast" id="0x7f080009" />
-    <public type="string" name="ori_east" id="0x7f08000a" />
-    <public type="string" name="ori_southeast" id="0x7f08000b" />
-    <public type="string" name="ori_south" id="0x7f08000c" />
-    <public type="string" name="ori_southwest" id="0x7f08000d" />
-    <public type="string" name="ori_west" id="0x7f08000e" />
-    <public type="string" name="ori_northwest" id="0x7f08000f" />
-    <public type="string" name="correcting" id="0x7f080010" />
-    <public type="string" name="correcting_line1" id="0x7f080011" />
-    <public type="string" name="correcting_line2" id="0x7f080012" />
-    <public type="string" name="value_default" id="0x7f080013" />
-    <public type="string" name="loading" id="0x7f080014" />
-    <public type="string" name="degree" id="0x7f080015" />
-    <public type="string" name="zero" id="0x7f080016" />
-    <public type="string" name="latitude_longitude_value_format_str" id="0x7f080017" />
-    <public type="string" name="gps_tip" id="0x7f080018" />
-    <public type="string" name="confirm" id="0x7f080019" />
-    <public type="string" name="unknown" id="0x7f08001a" />
-    <public type="string" name="compass_roll_tip" id="0x7f08001b" />
+    <public type="string" name="altitude_ft" id="0x7f080007" />
+    <public type="string" name="atmospheric_pressure" id="0x7f080008" />
+    <public type="string" name="ori_north" id="0x7f080009" />
+    <public type="string" name="ori_northeast" id="0x7f08000a" />
+    <public type="string" name="ori_east" id="0x7f08000b" />
+    <public type="string" name="ori_southeast" id="0x7f08000c" />
+    <public type="string" name="ori_south" id="0x7f08000d" />
+    <public type="string" name="ori_southwest" id="0x7f08000e" />
+    <public type="string" name="ori_west" id="0x7f08000f" />
+    <public type="string" name="ori_northwest" id="0x7f080010" />
+    <public type="string" name="correcting" id="0x7f080011" />
+    <public type="string" name="correcting_line1" id="0x7f080012" />
+    <public type="string" name="correcting_line2" id="0x7f080013" />
+    <public type="string" name="value_default" id="0x7f080014" />
+    <public type="string" name="loading" id="0x7f080015" />
+    <public type="string" name="degree" id="0x7f080016" />
+    <public type="string" name="zero" id="0x7f080017" />
+    <public type="string" name="latitude_longitude_value_format_str" id="0x7f080018" />
+    <public type="string" name="gps_tip" id="0x7f080019" />
+    <public type="string" name="confirm" id="0x7f08001a" />
+    <public type="string" name="unknown" id="0x7f08001b" />
+    <public type="string" name="compass_roll_tip" id="0x7f08001c" />
     <public type="style" name="AppTheme" id="0x7f090000" />
     <public type="style" name="AppTheme.NoAnimation" id="0x7f090001" />
     <public type="style" name="Animation.NoAnimation" id="0x7f090002" />
@@ -77,8 +78,9 @@
     <public type="id" name="view" id="0x7f0a0013" />
     <public type="id" name="latitude_title" id="0x7f0a0014" />
     <public type="id" name="north_latitude_text" id="0x7f0a0015" />
-    <public type="id" name="altitude_text" id="0x7f0a0016" />
-    <public type="id" name="longitude_title" id="0x7f0a0017" />
-    <public type="id" name="east_longitude_text" id="0x7f0a0018" />
-    <public type="id" name="atmospheric_pressure_text" id="0x7f0a0019" />
+    <public type="id" name="altitude_tip_text" id="0x7f0a0016" />
+    <public type="id" name="altitude_text" id="0x7f0a0017" />
+    <public type="id" name="longitude_title" id="0x7f0a0018" />
+    <public type="id" name="east_longitude_text" id="0x7f0a0019" />
+    <public type="id" name="atmospheric_pressure_text" id="0x7f0a001a" />
 </resources>

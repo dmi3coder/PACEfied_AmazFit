@@ -22,8 +22,8 @@
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim]蓝牙HCI snoop日志</item>
-        <item>[sum]打开或关闭bt snoop log</item>
+        <item>[prim]BT HCI snoop log</item>
+        <item>[sum]Capture Bluetooth HCI log</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">

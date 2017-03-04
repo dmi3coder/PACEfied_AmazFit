@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SetupWizard</string>
+    <string name="locale_title">Select Language</string>
     <string name="lang_zh_cn">中文(简体)</string>
     <string name="lang_en_us">English(US)</string>
-    <string name="tip_install_wear_companion">Please install wear companion in your phone.</string>
-    <string name="tip_low_battery">Less than 5% of battery,please connect the power to continue.</string>
-    <string name="pair_scan_qr">用“Amazfit手表”App扫描</string>
+    <string name="tip_install_wear_companion">Please install \"Amazfit Watch\" App on your phone</string>
+    <string name="tip_low_battery">Less than 5% of battery, please connect the power to continue</string>
+    <string name="pair_scan_qr">Scan the QR code with the \"Amazfit Watch\" App</string>
     <string name="pair_skip">Skip</string>
-    <string name="tip_pair_skip">会有部分功能不可用，跳过吗？</string>
-    <string name="tip_restoring">恢复备份中</string>
-    <string name="tip_binding_failed">绑定失败</string>
-    <string name="tip_binding_failed_restart">连接已断开，请重新开始</string>
-    <string name="tip_no_bluetooth_adapter">本机没有找到蓝牙硬件或驱动</string>
-    <string name="tip_wear_hand">"你习惯将手表佩戴
-在哪只手腕？"</string>
+    <string name="tip_pair_skip">Some features will be disabled, continue?</string>
+    <string name="tip_restoring">Restoring</string>
+    <string name="tip_binding_failed">Pairing failed</string>
+    <string name="tip_binding_failed_restart">Disconnected, please retry</string>
+    <string name="tip_no_bluetooth_adapter">Bluetooth Error</string>
+    <string name="tip_wear_hand">Which hand would you like to wear it?</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Select Language</string>
 </resources>

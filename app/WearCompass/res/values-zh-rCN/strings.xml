@@ -7,6 +7,7 @@
     <string name="east_longitude">东经</string>
     <string name="west_longitude">西经</string>
     <string name="altitude">海拔(m)</string>
+    <string name="altitude_ft">海拔(ft)</string>
     <string name="atmospheric_pressure">气压(hPa)</string>
     <string name="ori_north">北</string>
     <string name="ori_northeast">东北</string>

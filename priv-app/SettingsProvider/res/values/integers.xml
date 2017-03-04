@@ -19,4 +19,5 @@
     <integer name="def_lock_screen_show_notifications">1</integer>
     <integer name="def_heads_up_enabled">1</integer>
     <integer name="def_captive_portal_detection_enabled">0</integer>
+    <integer name="def_key_measurement">1</integer>
 </resources>

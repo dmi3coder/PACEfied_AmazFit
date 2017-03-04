@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.huami.watch.common.widget.HmViewPager android:id="@id/pager" android:background="@drawable/main_background_light_dark" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</FrameLayout>

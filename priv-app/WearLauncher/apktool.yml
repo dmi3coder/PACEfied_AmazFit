@@ -3,6 +3,7 @@ apkFileName: WearLauncher.apk
 compressionType: false
 doNotCompress:
 - arsc
+- bin
 - zip
 isFrameworkApk: false
 packageInfo:
@@ -16,7 +17,7 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: huanghe-1.2.6a
+  tag: 1.3.1m
 version: 2.2.1
 versionInfo:
   versionCode: '16777218'

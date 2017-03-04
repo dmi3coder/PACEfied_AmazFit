@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <include android:id="@id/heart_rate_normal" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/activity_heart_rate" />
-    <include android:id="@id/heart_rate_full_day" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/activity_all_day_heart" />
-</FrameLayout>

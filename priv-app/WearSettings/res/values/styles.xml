@@ -49,4 +49,7 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowSwipeToDismiss">false</item>
     </style>
+    <style name="NoSwipeActivity" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
 </resources>

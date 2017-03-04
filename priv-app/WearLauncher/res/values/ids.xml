@@ -413,6 +413,7 @@
     <item type="id" name="dlg_hint_container">false</item>
     <item type="id" name="dlg_hint">false</item>
     <item type="id" name="dlg_note">false</item>
+    <item type="id" name="delete_all_notifications">false</item>
     <item type="id" name="notification_first_row">false</item>
     <item type="id" name="notification_first_view">false</item>
     <item type="id" name="notification_first">false</item>
@@ -426,8 +427,8 @@
     <item type="id" name="notification_icon_only_one">false</item>
     <item type="id" name="notification_text_only_one">false</item>
     <item type="id" name="empty_notification">false</item>
-    <item type="id" name="line">false</item>
     <item type="id" name="text">false</item>
+    <item type="id" name="line">false</item>
     <item type="id" name="notification_action_icon">false</item>
     <item type="id" name="notification_action_title">false</item>
     <item type="id" name="notification_peek_icon">false</item>
@@ -445,6 +446,7 @@
     <item type="id" name="horizonal_slider">false</item>
     <item type="id" name="notification_update_click">false</item>
     <item type="id" name="notification_click_message">false</item>
+    <item type="id" name="notification_click_drawable">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="28.0px" android:textColor="@android:color/white" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="80.0px" android:text="@string/tip_wear_hand" />
+    <TextView android:textSize="28.0px" android:textColor="@android:color/white" android:gravity="center_horizontal" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="80.0px" android:text="@string/tip_wear_hand" />
     <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="29.0px">
         <com.huami.watch.common.widget.HmHaloImageView android:background="@drawable/btn_wear_hand_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:onClick="onWearHandLeftClicked" />
         <com.huami.watch.common.widget.HmHaloImageView android:background="@drawable/btn_wear_hand_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0px" android:onClick="onWearHandRightClicked" />
