@@ -20,8 +20,6 @@
     <string name="auto_nodisturb">自动勿扰</string>
     <string name="double_click_wakeup">双击屏幕解锁</string>
     <string name="vibration_intensity">震动强度</string>
-    <string name="flight_mode">飞行模式</string>
-    <string name="hm_lab">华米实验室</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -39,13 +37,9 @@
     <string name="license">法律声明</string>
     <string name="build_time">[DEBUG]编译时间</string>
     <string name="build_desc">[DEBUG]版本描述</string>
-    <string name="legal">请在华米手表</string>
+    <string name="legal">请在Amazfit手表</string>
     <string name="legal2">App内查看</string>
     <string name="lab">实验室</string>
-    <string name="opened">已开启</string>
-    <string name="closed">已关闭</string>
-    <string name="air_plane_mode_note">"飞行模式
-飞行模式将禁用手表蓝牙、Wi-Fi和支付宝等功能。如需使用以上功能，请在【系统设置】中关闭飞行模式。"</string>
     <string name="nodisturb_open_string">已开启</string>
     <string name="nodisturb_close_string">已关闭</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -75,7 +69,7 @@
     <string name="button_enter">确认</string>
     <string name="button_cancel">取消</string>
     <string name="blt_cancel_paring">取消了配对</string>
-    <string name="bluetooth_pairing_error_message">无法与“%1$s”进行配对。</string>
+    <string name="bluetooth_pairing_error_message">配对失败</string>
     <string name="bluetooth_connecting">连接中...</string>
     <string name="bluetooth_disconnecting">断开连接中...</string>
     <string name="blt_hint_paring">"%1s
@@ -85,18 +79,11 @@
     <string name="blt_hint_disconnect_device">断开连接</string>
     <string name="blt_hint_ignore_device">忽略设备</string>
     <string name="blt_hint_connect_device">连接</string>
-    <string name="bluetooth_connected">已连接</string>
-    <string name="bluetooth_disconnected">已断开连接</string>
-    <string name="bluetooth_connecting_error_message">无法连接到%1$s。</string>
-    <string name="bluetooth_pairing_pin_error_message">PIN码或配对密钥不正确，无法与%1$s配对。</string>
-    <string name="bluetooth_pairing_device_down_error_message">无法与“%1$s”进行通信。</string>
-    <string name="bluetooth_pairing_rejected_error_message">%1$s 已拒绝配对。</string>
     <string name="blt_confirm_ignore">确定忽略此设备吗？</string>
     <string name="phone_finding">手机查找中...</string>
     <string name="phone_found">已找到</string>
     <string name="phone_not_connected">未连接手机</string>
     <string name="phone_not_found">未找到手机</string>
-    <string name="start_testing">开始测试</string>
     <string name="light_off">关闭</string>
     <string name="light_auto">自动模式</string>
     <string name="light_on">常亮模式</string>
@@ -116,7 +103,6 @@
     <string name="confirm_shutdown">确定关机吗?</string>
     <string name="app_name">手表设置</string>
     <string name="lab_desc">集合部分调试工具等</string>
-    <string name="unknown">未知设备</string>
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>

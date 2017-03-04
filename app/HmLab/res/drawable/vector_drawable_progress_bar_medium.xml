@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <group android:name="root" android:pivotX="24.0" android:pivotY="24.0">
-        <path android:name="progressBar" android:fillColor="#ffffffff" android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" android:strokeWidth="2.0" android:fillAlpha="1.0" />
-    </group>
-</vector>

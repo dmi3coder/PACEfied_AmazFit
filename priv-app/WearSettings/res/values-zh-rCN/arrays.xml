@@ -32,10 +32,4 @@
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
-    <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]信号强度</item>
-        <item>[sum]信号强度检测</item>
-        <item>[pkg]com.huami.mobile.watchsettings</item>
-        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
-    </string-array>
 </resources>

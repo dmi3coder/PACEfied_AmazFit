@@ -32,16 +32,13 @@
     <dimen name="size_linechart_width">148.0dip</dimen>
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
-    <dimen name="pickview_unit_size">12.0sp</dimen>
+    <dimen name="pickview_unit_size">10.0sp</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>
     <dimen name="card_content_padding_rect_top">4.0dip</dimen>
     <dimen name="close_button_diameter">104.0dip</dimen>
     <dimen name="dismiss_padding">16.0dip</dimen>
-    <dimen name="hmdialog_text_size">11.0sp</dimen>
-    <dimen name="hmdialog_text_lineSpacingExtra">2.0dip</dimen>
-    <dimen name="hmdiloag_text_padding">15.0dip</dimen>
     <dimen name="settings_item_layout_drawing_top">-70.0dip</dimen>
     <dimen name="sub_title_label_adj">-16.0dip</dimen>
     <dimen name="sub_title_label_adj_bottom">-59.0dip</dimen>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearlogger" platformBuildVersionCode="22" platformBuildVersionName="5.1-87">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearlogger" platformBuildVersionCode="22" platformBuildVersionName="5.1-12">
     <uses-permission android:name="android.permission.READ_LOGS"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
-    <uses-permission android:name="android.permission.BLUETOOTH_STACK"/>
     <application android:label="WearLogger">
         <activity android:label="@string/dump" android:name="com.huami.watch.wearlogger.DumpActivity"/>
         <activity android:name="com.huami.watch.wearlogger.MainActivity"/>

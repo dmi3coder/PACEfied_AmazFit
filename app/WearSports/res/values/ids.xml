@@ -28,8 +28,6 @@
     <item type="id" name="control_button">false</item>
     <item type="id" name="end_sport_text">false</item>
     <item type="id" name="parentPanel">false</item>
-    <item type="id" name="loading_red_dot">false</item>
-    <item type="id" name="le_conn_container">false</item>
     <item type="id" name="buttonAnim">false</item>
     <item type="id" name="contentPanel">false</item>
     <item type="id" name="message">false</item>
@@ -101,12 +99,10 @@
     <item type="id" name="heart_container">false</item>
     <item type="id" name="history_detail_heartrate_graph">false</item>
     <item type="id" name="history_detail_heartrate">false</item>
-    <item type="id" name="heart_cache_view">false</item>
     <item type="id" name="heart_rate_split_line_sec">false</item>
     <item type="id" name="altitude_container">false</item>
     <item type="id" name="history_detail_altitude_graph">false</item>
     <item type="id" name="history_detail_altitude">false</item>
-    <item type="id" name="altitude_cache_view">false</item>
     <item type="id" name="delete_summary_container">false</item>
     <item type="id" name="delete_summary">false</item>
     <item type="id" name="dialog_delete_sport_summary">false</item>
@@ -126,7 +122,6 @@
     <item type="id" name="history_detail_sport_max_step_freq_desc">false</item>
     <item type="id" name="history_detail_sport_max_step_freq">false</item>
     <item type="id" name="modify_btn">false</item>
-    <item type="id" name="cache_view">false</item>
     <item type="id" name="info_container_one">false</item>
     <item type="id" name="info_container_two">false</item>
     <item type="id" name="info_container_three">false</item>
@@ -142,7 +137,6 @@
     <item type="id" name="speed_container">false</item>
     <item type="id" name="history_detail_speed_graph">false</item>
     <item type="id" name="history_detail_speed">false</item>
-    <item type="id" name="speed_cache_view">false</item>
     <item type="id" name="heart_rate_split_line_three">false</item>
     <item type="id" name="content_root">false</item>
     <item type="id" name="paused_text">false</item>
@@ -272,13 +266,11 @@
     <item type="id" name="remind_type_text_desc">false</item>
     <item type="id" name="second_remind_type_text_tint">false</item>
     <item type="id" name="second_remind_value">false</item>
-    <item type="id" name="remind_type_text_unit">false</item>
     <item type="id" name="root_id">false</item>
     <item type="id" name="medal_bg">false</item>
     <item type="id" name="detail_container">false</item>
     <item type="id" name="history_viewpager_container">false</item>
     <item type="id" name="sport_control_container">false</item>
-    <item type="id" name="train_container">false</item>
     <item type="id" name="settings_item_icon">false</item>
     <item type="id" name="settings_item_title">false</item>
     <item type="id" name="settings_item_value">false</item>

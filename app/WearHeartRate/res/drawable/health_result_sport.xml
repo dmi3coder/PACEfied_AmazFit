@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<level-list
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/health_result_sport_low" android:maxLevel="0" />
-    <item android:drawable="@drawable/health_result_sport_normal" android:maxLevel="1" />
-    <item android:drawable="@drawable/health_result_sport_high" android:maxLevel="2" />
-    <item android:drawable="@drawable/health_result_sport_super" android:maxLevel="3" />
-</level-list>

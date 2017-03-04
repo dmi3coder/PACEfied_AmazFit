@@ -27,7 +27,7 @@
     <string name="music_down_not_complete_title">歌单未完全下载, 是否退出？</string>
     <string name="music_no_douban_resource">本地无可播放歌曲, 是否现在下载？</string>
     <string name="music_no_local_resource">本地无可播放音乐, 请连接USB导入。</string>
-    <string name="music_start_tips">连接蓝牙耳机才可以收听音乐, 是否现在连接？</string>
+    <string name="music_start_tips">连接蓝牙耳机才可以收听音乐. 是否现在连接？</string>
     <string name="music_down_not_complete_content">退出后可在“音乐设置-豆瓣FM离线”更新歌曲。</string>
     <string name="confirm_exit">"歌单未完全下载,
 是否退出?"</string>

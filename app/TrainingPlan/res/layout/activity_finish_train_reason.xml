@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.huami.watch.train.ui.widget.FullScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <TextView android:id="@id/finshReasonTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/train_finish_reason" />
-        <android.support.v7.widget.RecyclerView android:id="@id/recyclearView" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-    </LinearLayout>
-</com.huami.watch.train.ui.widget.FullScrollView>

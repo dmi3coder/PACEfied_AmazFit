@@ -143,16 +143,6 @@
     <dimen name="settings_about_item_height">65.0dip</dimen>
     <dimen name="settings_item_layout_drawing_top">-70.0dip</dimen>
     <dimen name="lock_margin">55.0dip</dimen>
-    <dimen name="reminder_image_size">43.0dip</dimen>
-    <dimen name="reminder_image_margin_top">45.0dip</dimen>
-    <dimen name="reminder_pace_img_margin_top">35.0dip</dimen>
-    <dimen name="reminder_target_distance_margin_top">38.0dip</dimen>
-    <dimen name="reminder_first_title_margin">12.0dip</dimen>
-    <dimen name="reminder_trainning_first_title_margin">14.0dip</dimen>
-    <dimen name="reminder_second_title_margin">4.5dip</dimen>
-    <dimen name="reminder_trainning_second_title_margin">8.0dip</dimen>
-    <dimen name="reminder_title_text_size">28.0sp</dimen>
-    <dimen name="reminder_title_small_text_size">16.0sp</dimen>
     <dimen name="widget_header_txt_dimen">19.0sp</dimen>
     <dimen name="widget_header_title_height">58.0dip</dimen>
     <dimen name="widget_header_height_scaled">54.0dip</dimen>
@@ -189,7 +179,7 @@
     <dimen name="size_linechart_width">148.0dip</dimen>
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
-    <dimen name="pickview_unit_size">12.0sp</dimen>
+    <dimen name="pickview_unit_size">10.0sp</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>

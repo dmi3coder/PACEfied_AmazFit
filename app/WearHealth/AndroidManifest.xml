@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-87">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-12">
     <uses-feature android:name="android.hardware.type.watch"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
@@ -59,10 +59,5 @@
         <activity android:launchMode="singleInstance" android:name="com.huami.watch.heartrate.AllRateListActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
         <activity android:launchMode="singleInstance" android:name="com.huami.watch.heartrate.TodayHeartRateInforActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
         <provider android:authorities="com.huami.watch.health.heartrate" android:exported="true" android:name="com.huami.watch.heartrate.database.AllDayHeartRatProvider"/>
-        <receiver android:name="com.huami.watch.heartrate.HeartRateBroadcastRecevicer">
-            <intent-filter>
-                <action android:name="com.huami.watch.health.action.restoredata.success"/>
-            </intent-filter>
-        </receiver>
     </application>
 </manifest>

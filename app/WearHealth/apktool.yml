@@ -11,37 +11,11 @@ sdkInfo:
   minSdkVersion: '21'
   targetSdkVersion: '23'
 sharedLibrary: false
-unknownFiles:
-  com/ingenic/iwds/DeviceDescriptor.aidl: '8'
-  com/ingenic/iwds/app/INotificationProxyService.aidl: '8'
-  com/ingenic/iwds/app/INotificationServiceBackend.aidl: '8'
-  com/ingenic/iwds/app/Note.aidl: '8'
-  com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl: '8'
-  com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl: '8'
-  com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl: '8'
-  com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl: '8'
-  com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl: '8'
-  com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl: '8'
-  com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl: '8'
-  com/ingenic/iwds/remotedevice/RemotePackageStats.aidl: '8'
-  com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl: '8'
-  com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl: '8'
-  com/ingenic/iwds/slpt/IWatchFaceService.aidl: '8'
-  com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl: '8'
-  com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl: '8'
-  com/ingenic/iwds/smartsense/IRemoteSensorService.aidl: '8'
-  com/ingenic/iwds/smartsense/ISensorEventCallback.aidl: '8'
-  com/ingenic/iwds/smartsense/ISensorService.aidl: '8'
-  com/ingenic/iwds/smartsense/Sensor.aidl: '8'
-  com/ingenic/iwds/smartsense/SensorEvent.aidl: '8'
-  com/ingenic/iwds/smartvibrate/IVibrateService.aidl: '8'
-  com/ingenic/iwds/uniconnect/IConnection.aidl.bak: '8'
-  com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak: '8'
-  com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak: '8'
+unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: huanghe-1.2.6a
+  tag: 1.3.0n
 version: 2.2.1
 versionInfo:
   versionCode: '1'

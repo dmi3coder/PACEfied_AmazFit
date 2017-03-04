@@ -44,9 +44,4 @@
     <style name="SwipeDismissDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
         <item name="android:windowSwipeToDismiss">true</item>
     </style>
-    <style name="NoSwipeDialog">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowFullscreen">true</item>
-        <item name="android:windowSwipeToDismiss">false</item>
-    </style>
 </resources>

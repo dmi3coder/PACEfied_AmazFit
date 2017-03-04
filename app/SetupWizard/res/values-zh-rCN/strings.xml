@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="tip_install_wear_companion">请先在手机上安装“华米手表”App。</string>
+    <string name="locale_title">选择语言</string>
+    <string name="tip_install_wear_companion">请先在手机上安装“Amazfit手表”App。</string>
     <string name="tip_low_battery">电量需大于5%才可绑定</string>
-    <string name="pair_scan_qr">用“华米手表”App扫描</string>
+    <string name="pair_scan_qr">用“Amazfit手表”App扫描</string>
     <string name="pair_skip">跳过</string>
     <string name="tip_restoring">恢复备份中</string>
+    <string name="tip_binding_failed">绑定失败</string>
+    <string name="tip_binding_failed_restart">连接已断开，请重新开始</string>
+    <string name="tip_no_bluetooth_adapter">本机没有找到蓝牙硬件或驱动</string>
+    <string name="tip_wear_hand">你习惯将手表佩戴在哪只手腕？</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
-    <string name="locale_title">选择语言</string>
 </resources>

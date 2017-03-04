@@ -27,7 +27,6 @@
     <color name="outdoor_speed_end_color">#ff00ff55</color>
     <color name="outdoor_heart_start_color">#00ff2700</color>
     <color name="outdoor_heart_end_color">#ffff2700</color>
-    <color name="pace_txt_color">#ff06e224</color>
     <color name="bench_green_color">#ff32ff00</color>
     <color name="bench_yellow_color">#ffffa100</color>
     <color name="bench_red_color">#ffff2000</color>

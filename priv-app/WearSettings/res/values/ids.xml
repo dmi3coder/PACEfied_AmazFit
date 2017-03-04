@@ -17,18 +17,9 @@
     <item type="id" name="auto_nodisturb">12</item>
     <item type="id" name="double_clk_wk">13</item>
     <item type="id" name="vibration_intensity">14</item>
-    <item type="id" name="flight_mode">15</item>
-    <item type="id" name="hm_lab">16</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="main_list">false</item>
-    <item type="id" name="test_start">false</item>
-    <item type="id" name="test_status">false</item>
-    <item type="id" name="content">false</item>
-    <item type="id" name="message">false</item>
-    <item type="id" name="footer">false</item>
-    <item type="id" name="negativeButton">false</item>
-    <item type="id" name="positiveButton">false</item>
     <item type="id" name="dialog">false</item>
     <item type="id" name="pair_title">false</item>
     <item type="id" name="pair_key">false</item>
@@ -42,6 +33,7 @@
     <item type="id" name="error_message">false</item>
     <item type="id" name="action_success">false</item>
     <item type="id" name="animation">false</item>
+    <item type="id" name="message">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="btn_panel">false</item>
@@ -49,6 +41,10 @@
     <item type="id" name="right_btn">false</item>
     <item type="id" name="leftTextView">false</item>
     <item type="id" name="rightTextView">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="positiveButton">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>

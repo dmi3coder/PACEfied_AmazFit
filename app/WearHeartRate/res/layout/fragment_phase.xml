@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:id="@id/root_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <include android:id="@id/heart_result" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/group_result" />
-    <include android:id="@id/dialog_mood" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/group_phase" />
-    <ImageView android:id="@id/img_btn_tmp" android:visibility="invisible" android:layout_width="@dimen/size_dialog_button_width" android:layout_height="@dimen/size_dialog_button_width" />
-</FrameLayout>

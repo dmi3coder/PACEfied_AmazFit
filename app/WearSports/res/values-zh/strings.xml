@@ -32,7 +32,7 @@
     <string name="crossing_remind_target_individual_title">第 %1d 圈</string>
     <string name="crossing_remind_target_individual_cost_time">用时</string>
     <string name="crossing_remind_target_individual_pace">配速</string>
-    <string name="agps_time_out">搜星辅助已过期, 将导致GPS搜索过慢, 请连接华米手表App更新。</string>
+    <string name="agps_time_out">搜星辅助已过期, 将导致GPS搜索过慢, 请连接Amazfit手表App更新。</string>
     <string name="safe_hearate_remind_content">高于%1dbpm提醒</string>
     <string name="settings_safe_heart_rate_hint">(安全心率)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
@@ -44,7 +44,7 @@
     <string name="music_open_fm">开启音乐功能, 即可在运动中收听音乐</string>
     <string name="music_explain_title">说明</string>
     <string name="music_explain_content">豆瓣FM需要将歌曲下载到本地, 并连接蓝牙耳机收听.</string>
-    <string name="music_start_tips">连接蓝牙耳机才可以收听音乐, 是否现在连接？</string>
+    <string name="music_start_tips">连接蓝牙耳机才可以收听音乐. 是否现在连接？</string>
     <string name="music_not_known">未知</string>
     <string name="music_update_content">歌曲更新</string>
     <string name="music_update_tips_content">豆瓣FM会定时更新歌曲, 更新歌曲会替换曲库, 确定现在更新吗?</string>
@@ -62,7 +62,7 @@
     <string name="sport_widget_title_indoor_riding">室内骑行</string>
     <string name="outdoor_riding_progressing">户外骑行中</string>
     <string name="indoor_riding_progressing">室内骑行中</string>
-    <string name="outdoor_climb_distance">累计上坡距离</string>
+    <string name="outdoor_climb_distance">累计爬升距离</string>
     <string name="outdoor_climb_altitude">累计上升海拔</string>
     <string name="outdoor_max_cadence">最大踏频</string>
     <string name="outdoor_ave_cadence">平均踏频</string>
@@ -70,11 +70,9 @@
     <string name="outdoor_graph_unit">里程(km)</string>
     <string name="outdoor_speed_graph_title">速度(km/h)</string>
     <string name="not_testing_speed_data">未检测到速度数据</string>
-    <string name="con_leqi_table_title">手表已支持乐骑码表,是否绑定?</string>
+    <string name="con_leqi_table_title">手表已支持乐骑码表,是否绑定</string>
     <string name="con_leqi_table_subtitle">(可在系统设置-蓝牙设备进行绑定)</string>
     <string name="unit_cadence">rpm</string>
-    <string name="remind_target_riding_km_title_format">已骑行%1$d公里</string>
-    <string name="indoor_riding_time_too_short">运动时间过短，无法保存，确定结束吗？</string>
     <string name="sport_widget_title">运 动</string>
     <string name="sport_widget_title_run">跑 步</string>
     <string name="sport_widget_title_walk">健 走</string>
@@ -157,7 +155,6 @@
     <string name="settings_item_title_target_use_time_remind">目标用时</string>
     <string name="settings_item_title_target_distance_remind">目标里程</string>
     <string name="settings_item_title_pace_remind">配速提醒</string>
-    <string name="settings_item_title_Leqi_remind">码表连接提醒</string>
     <string name="settings_item_value_open">已开启</string>
     <string name="settings_item_value_closed">已关闭</string>
     <string name="settings_item_value_target_use_time">%1$d小时%2$d分</string>
@@ -246,13 +243,6 @@
     <string name="delete_sport_summary_tips">是否删除本次运动记录?</string>
     <string name="reminder_wear_not_tight_0">将手表远离手腕处</string>
     <string name="reminder_wear_not_tight_1">并保持戴紧手表</string>
-    <string name="gps_time_out_re_rearch">GPS已过期,请重新搜索.</string>
-    <string name="complete_training_project">训练计划已完成</string>
-    <string name="reminder_speed_unit">/小时</string>
-    <string name="remind_target_distance_training_title_format">跑步%1s公里</string>
-    <string name="remind_target_time_training_title_format">骑行%1$d分钟</string>
-    <string name="complete_training_target_tips">是否将本次跑步保存至今日训练计划?</string>
-    <string name="not_complete_train_task">今日训练还未达成，是否结束运动？</string>
     <string name="average_text">平均</string>
     <string name="picker_default_positive_text">确定</string>
     <string name="picker_default_nagetive_text">关闭</string>

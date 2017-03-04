@@ -42,13 +42,11 @@
     <dimen name="digital_sport_one_battery_centery">50.669983dip</dimen>
     <dimen name="digital_sport_one_date_centerx">36.0dip</dimen>
     <dimen name="digital_sport_one_date_centery">105.32999dip</dimen>
-    <dimen name="digital_sport_one_week_x">30.0px</dimen>
-    <dimen name="digital_sport_one_week_y">164.0px</dimen>
+    <dimen name="digital_sport_one_week_centery">119.32999dip</dimen>
     <dimen name="digital_sport_one_total_km_centerx">64.649994dip</dimen>
     <dimen name="digital_sport_one_today_km_centerx">148.65dip</dimen>
     <dimen name="digital_sport_one_km_centery">62.69998dip</dimen>
     <dimen name="digital_sport_one_km_text_offsety">5.3299866dip</dimen>
-    <dimen name="digital_sport_one_unit_text_offsety">-9.0px</dimen>
     <dimen name="digital_sport_font_hour_size">69.29999sp</dimen>
     <dimen name="digital_sport_font_minute_size">69.29999sp</dimen>
     <dimen name="digital_sport_font_second_size">32.0sp</dimen>
