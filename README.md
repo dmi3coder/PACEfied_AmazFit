@@ -5,11 +5,11 @@ The project is in its early stages, although a first custom ROM is already publi
 ## Goals
 This project is meant to provide sources for building custom ROMs for the above mentioned smartwatches (models A1602 / A1612). The following roadmap is planned:
 
-1 English translated stock chinese firmware (mostly done)
+1 English translated stock chinese firmware [done]
 
-2 adding custom fonts (e.g. Hebrew) and additional libraries (e.g. wear)
+2 adding custom fonts (e.g. Hebrew) [done] and additional libraries (e.g. wear)
 
-3 add other languages via Android localization with the help of the community, leading to one multi-language ROM
+3 add other languages via Android localization with the help of the community, leading to one multi-language ROM [so far Russian, Polish, Czech, Italian, Spanish, Slovak]
 
 4 if necessary, build additional localized custom ROMs (e.g. because of hard-coded texts)
 
