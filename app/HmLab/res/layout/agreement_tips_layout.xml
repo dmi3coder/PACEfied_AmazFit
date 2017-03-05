@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/background_dark" android:paddingTop="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="17.299988sp" android:gravity="center" android:id="@id/tips_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/agreement_title" />
+    <TextView android:textSize="13.299988sp" android:gravity="center" android:id="@id/tips_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:text="@string/message" android:layout_below="@id/tips_title" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/hm_button_parent" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_below="@id/tips_message">
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/exit" android:background="@drawable/settings_laboratory_cancel" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="18.099976dip" />
+        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/allow" android:background="@drawable/settings_laboratory_determine" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginLeft="12.0dip" />
+    </LinearLayout>
+</RelativeLayout>

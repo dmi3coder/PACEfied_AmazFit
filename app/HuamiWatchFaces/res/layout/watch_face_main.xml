@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/scale_container" android:layout_width="320.0px" android:layout_height="320.0px" android:layout_marginBottom="10.0dip">
+        <ImageView android:layout_gravity="center" android:id="@id/bottom_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+        <ImageView android:layout_gravity="center" android:id="@id/top_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+        <ImageView android:layout_gravity="center" android:id="@id/bottom_scale_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+        <ImageView android:layout_gravity="center" android:id="@id/top_scale_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+        <FrameLayout android:id="@id/custom_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:layout_gravity="center" android:id="@id/bottom_point_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+        <ImageView android:layout_gravity="center" android:id="@id/top_point_img" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/top_bottom_center_margin_top" />
+    </FrameLayout>
+    <android.support.v4.view.ViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:textSize="9.299988sp" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/title" android:background="@drawable/watchface_custom_title_text_bg" android:layout_width="wrap_content" android:layout_height="23.0px" android:layout_marginTop="22.0dip" android:text="@string/custom_title" />
+    <RelativeLayout android:gravity="center_horizontal" android:id="@id/save_btn_container" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="160.0dip" android:layout_centerHorizontal="true">
+        <Button android:textSize="14.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/save_btn" android:background="@drawable/custom_button_selector" android:focusable="false" android:clickable="false" android:layout_width="106.69998dip" android:layout_height="32.0dip" android:text="@string/custom_confirm" />
+    </RelativeLayout>
+    <com.huami.watch.indicator.ViewPagerPageIndicator android:id="@id/indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/tips" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/watchface_custom_tips" />
+</FrameLayout>
