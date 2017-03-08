@@ -14,12 +14,12 @@
         <item>Dzisiaj</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Doskon.powie.</item>
+        <item>Dosk.powie.</item>
         <item>Dobre powie.</item>
         <item>Małe zaniecz.</item>
-        <item>Umiark.zaniecz.</item>
-        <item>Duże zaniecz.</item>
-        <item>Poważne zaniecz.</item>
+        <item>Um.zaniecz.</item>
+        <item>D.zaniecz.</item>
+        <item>Pow.zaniecz.</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
@@ -28,30 +28,30 @@
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Słonecznie</item>
-        <item>Pochmurno</item>
-        <item>Pochmurno</item>
+        <item>Słonecz.</item>
+        <item>Pochm.</item>
+        <item>Pochm.</item>
         <item>Mgła</item>
         <item>Smog</item>
-        <item>Deszczowo</item>
+        <item>Deszcz.</item>
         <item>Burze</item>
-        <item>Lekkie opady</item>
-        <item>Umiark.opady</item>
-        <item>Inten.opady</item>
+        <item>Lek.opady</item>
+        <item>Um.opady</item>
+        <item>Int.opady</item>
         <item>Ulewa</item>
         <item>Ulewa</item>
-        <item>Deszcz ze śnieg</item>
-        <item>Marznący deszcz</item>
+        <item>Desz.ze śnieg</item>
+        <item>Marz.deszcz</item>
         <item>Grad</item>
-        <item>Lekkie op.śniegu</item>
-        <item>Umiark.op.śniegu</item>
-        <item>Inten.op.śniegu</item>
+        <item>Lek.op.śniegu</item>
+        <item>Um.op.śniegu</item>
+        <item>Int.op.śniegu</item>
         <item>Zamieć</item>
         <item>Śnieg</item>
         <item>Kurzawa</item>
         <item>Lotny piasek</item>
         <item>Burza pias.</item>
-        <item>Silna burza pias.</item>
+        <item>Sil.burza pias.</item>
         <item>Brak danych</item>
     </string-array>
 </resources>
