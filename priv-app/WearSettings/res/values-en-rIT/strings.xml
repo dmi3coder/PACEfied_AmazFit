@@ -31,6 +31,16 @@
     <string name="vibration_intensity">Vibrazione</string>
     <string name="flight_mode">Modalità aereo</string>
     <string name="hm_lab">Laboratorio</string>
+    <string name="bind_app">Associa</string>
+    <string name="amazfit_app">Amazfit Watch App</string>
+    <string name="personal_info">Informazioni personali</string>
+    <string name="time_zone_clock">Impostazioni ora</string>
+    <string name="setting_time_format">Formato ora</string>
+    <string name="connect">Connettivita\’</string>
+    <string name="common">Varie</string>
+    <string name="device">Dispositivo</string>
+    <string name="nodisturb">Silenzioso</string>
+    <string name="auto_airplane">Modo aereo auto</string>
     <string name="nothing">Vuoto</string>
     <string name="about_title">Info</string>
     <string name="model">Modello</string>

@@ -38,6 +38,9 @@
     <string name="safe_hearate_remind_content">Se superiore a %1d</string>
     <string name="settings_safe_heart_rate_hint">(valori sicuri bpm)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="elliptical">Ellittica</string>
+    <string name="elliptical_in_progress">Ellittica in avanzamento</string>
+    <string name="experience_title">Prego inserire le informazioni personali o dati verranno fortemente falsati</string>
     <string name="indoor_run_progressing">Corsa</string>
     <string name="music_title">Musica</string>
     <string name="music_local_title">Musica da allenamento</string>
@@ -75,6 +78,12 @@
     <string name="con_leqi_table_title">Amazfit supporta il Sesore LEQI per la cadenza, vuoi connetterlo adesso?</string>
     <string name="con_leqi_table_subtitle">(Effettua l\'associazione in Impostazioni-Bluetooth)</string>
     <string name="unit_cadence">rpm</string>
+     <string name="remind_target_riding_km_title_format">Completati %1$d km</string>
+    <string name="indoor_riding_time_too_short">Il tempo dell\’esercizio e\’ troppo breve per salvare. Sicuro di fermare?</string>
+    <string name="outdoor_climb_down_altitude">Differenza altimetrica</string>
+    <string name="outdoor_climb_down_distance">Distanza discesa</string>
+    <string name="outdoor_climb_down_distance_time">Tempo discesa</string>
+    <string name="outdoor_climb_distance_time">Tempo ascesa</string>
     <string name="sport_widget_title">Sport</string>
     <string name="sport_widget_title_run">Corsa</string>
     <string name="sport_widget_title_walk">Passeggio</string>
