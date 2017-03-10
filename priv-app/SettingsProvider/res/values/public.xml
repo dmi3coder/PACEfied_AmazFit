@@ -79,7 +79,8 @@
     <public type="string" name="def_immersive_mode_confirmations" id="0x7f06000f" />
     <public type="string" name="def_device_name" id="0x7f060010" />
     <public type="string" name="def_device_name_simple" id="0x7f060011" />
-    <public type="string" name="app_label" id="0x7f060012" />
+    <public type="string" name="def_time_12_24" id="0x7f060012" />
+    <public type="string" name="app_label" id="0x7f060013" />
     <public type="fraction" name="def_window_animation_scale" id="0x7f070000" />
     <public type="fraction" name="def_window_transition_scale" id="0x7f070001" />
     <public type="fraction" name="def_accessibility_display_magnification_scale" id="0x7f070002" />

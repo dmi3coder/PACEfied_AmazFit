@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:sharedUserId="android.uid.system" android:versionCode="22" android:versionName="5.1-106" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-106"
+<manifest android:sharedUserId="android.uid.system" android:versionCode="22" android:versionName="5.1-33" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-33"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -27,6 +27,11 @@
             <intent-filter>
                 <action android:name="com.huami.watch.transport.DataTransportService" />
                 <action android:name="action.huami.ble.set_status" />
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.wifitrans.control.server.WifiTransServer" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.huami.watch.wearservices.WIFI_TRANS_SERVICE" />
             </intent-filter>
         </service>
         <service android:name="com.huami.watchface.SlptWatchService" android:enabled="true" />

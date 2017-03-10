@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppBaseTheme" parent="@android:style/Theme.Material.NoActionBar.Fullscreen" />
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light" />
     <style name="VendorTextViewStyle" parent="@android:style/Widget.TextView">
         <item name="android:textColor">@color/color_white</item>
         <item name="android:shadowColor">@color/color_shadow</item>
@@ -8,7 +8,8 @@
     <style name="HealthMainTheme" parent="@style/AppBaseTheme">
         <item name="android:colorBackground">@android:color/transparent</item>
         <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:textViewStyle">@style/VendorTextViewStyle</item>
+        <item name="android:textColor">@color/color_white</item>
+        <item name="android:shadowColor">@color/color_shadow</item>
         <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowReturnTransitionOverlap">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">false</item>

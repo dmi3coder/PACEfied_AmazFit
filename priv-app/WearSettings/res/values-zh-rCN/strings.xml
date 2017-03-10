@@ -32,6 +32,7 @@
     <string name="device">设备</string>
     <string name="nodisturb">勿扰</string>
     <string name="auto_airplane">自动飞行</string>
+    <string name="wifi_upload">数据上传</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -129,7 +130,27 @@
     <string name="zh_tw">中文(繁體)</string>
     <string name="confirm_change_locale">"确定将系统语言改为
 %1$s吗?"</string>
+    <string name="gender">性别</string>
+    <string name="birth_year">出生年份</string>
+    <string name="height">身高</string>
+    <string name="weight">体重</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="centimeter">厘米</string>
+    <string name="birth_year_unit">"出生 
+年份"</string>
+    <string name="height_unit">"身高 
+厘米"</string>
+    <string name="weight_unit">"体重 
+公斤"</string>
     <string name="reset_factory_hint">确定恢复出厂吗?</string>
+    <string name="time_zone">时区</string>
+    <string name="date">日期</string>
+    <string name="time">时间</string>
+    <string name="date_ymd">日期(年/月/日)</string>
+    <string name="time_hms">时间(时/分/秒)</string>
+    <string name="time_format">时间制式</string>
+    <string name="hour_system">%s小时制</string>
     <string name="strong">较强</string>
     <string name="mid">适中</string>
     <string name="weak">较弱</string>
@@ -137,6 +158,8 @@
     <string name="app_name">手表设置</string>
     <string name="lab_desc">集合部分调试工具等</string>
     <string name="unknown">未知设备</string>
+    <string name="bind_tips_title">"请先绑定
+便于更安全的保护数据"</string>
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>

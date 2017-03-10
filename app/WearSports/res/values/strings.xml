@@ -282,6 +282,8 @@
     <string name="walking_step_count">Step</string>
     <string name="walking_step">step</string>
     <string name="waling_steps">steps</string>
+    <string name="date_am">AM</string>
+    <string name="date_pm">PM</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>
@@ -298,7 +300,7 @@
     <string name="km_metric_remind_target_km_walking_title_format">Completed %1$d km</string>
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
-    <string name="meter_metric_crossing_vertical_velocity_unit">meter/h</string>
+    <string name="meter_metric_crossing_vertical_velocity_unit">meter/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Altitude(meter)</string>
     <string name="km_metric_outdoor_speed_graph_title">Speed(km/h)</string>
     <string name="km_metric_settings_item_value_target_distance">%.2fkm</string>
@@ -312,7 +314,7 @@
     <string name="km_imperial_remind_target_km_walking_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_riding_km_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_distance_training_title_format">Completed %1s mi</string>
-    <string name="meter_imperial_crossing_vertical_velocity_unit">feet/h</string>
+    <string name="meter_imperial_crossing_vertical_velocity_unit">feet/min</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>

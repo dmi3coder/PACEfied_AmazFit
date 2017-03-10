@@ -48,6 +48,9 @@
     <dimen name="auto_nodisturb_title_size">22.0dip</dimen>
     <dimen name="auto_nodisturb_title_relativey">13.299988dip</dimen>
     <dimen name="auto_nodisturb_timepicker_size">36.69998dip</dimen>
+    <dimen name="time_zone_clock_timezonepicker_size">18.0dip</dimen>
+    <dimen name="person_info_picker_size">24.0sp</dimen>
+    <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
     <dimen name="dlg_header_txt_size">16.0sp</dimen>
     <dimen name="header_txt_size">21.299988sp</dimen>
     <dimen name="header_content_size">12.0sp</dimen>
