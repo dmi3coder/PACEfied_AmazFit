@@ -49,7 +49,7 @@
     <string name="no_outdoor_info">"Impossibile ottenere l\'indice di movimento"</string>
     <string name="outdoor_info_notsuit">"Non adatto per gli sport all\'aria aperta"</string>
     <string name="outdoor_info_suit">"Adatto per gli sport all\'aria aperta"</string>
-    <string name="wind_strength">"Potenza del vento"</string>
+    <string name="wind_strength">"Forza del vento"</string>
     <string name="moisture">"Umidità"</string>
     <string name="uv">"Raggi UV"</string>
     <string name="detailed">"Dettagli"</string>
@@ -57,12 +57,12 @@
     <string name="fetching">"Caricamento in corso"</string>
     <string name="fetch_failed">"Download non riuscito"</string>
     <string name="unknown">"Sconosciuto"</string>
-    <string name="fetch_failed_title">"Non può ottenere informazioni meteo"</string>
-    <string name="fetch_failed_msg">"L\'orologio deve essere collegato al App Amazfit e selezionare una posizione valida."</string>
+    <string name="fetch_failed_title">"Impossibile ottenere info meteo"</string>
+    <string name="fetch_failed_msg">"L\'orologio deve essere collegato all\'app Amazfit dove selezionare una posizione valida."</string>
     <string name="date_time_format">"MM-dd"</string>
     <string name="data_check_log">"+ ------------------------ + ▂▃▄▅▆▇█▉天气数据校验出错! % %1$s ▉█▇ ▆▅▄▃▂ + ------------------------ +"</string>
-    <string name="data_checkfail_type">"天气 类型 无法 识别"</string>
-    <string name="data_checkfail_temp">"天气 温度 超出 范围"</string>
-    <string name="data_checkfail_match">"天气 类型 字段 不 匹配"</string>
-    <string name="data_checkfail_json">"JSON 格式 错误"</string>
+    <string name="data_checkfail_type">"Tipo Tempo ND"</string>
+    <string name="data_checkfail_temp">"Temperatura fuori range"</string>
+    <string name="data_checkfail_match">"Tipo meteo ND"</string>
+    <string name="data_checkfail_json">"Errore formato JSON"</string>
 </resources>
