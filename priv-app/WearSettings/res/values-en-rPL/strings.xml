@@ -15,22 +15,32 @@
     <string name="dlg_cancel">Anuluj</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Ustawienia</string>
-    <string name="find_phone">Znajdź telefon</string>
+    <string name="find_phone">Znajdź mój tel.</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
-    <string name="check_for_update">Aktualizacja</string>
+    <string name="check_for_update">Aktualizacje</string>
     <string name="change_language">Język</string>
     <string name="reset_factory">Ust.fabryczne</string>
     <string name="shut_down">Wyłącz</string>
     <string name="about">O urządzeniu</string>
     <string name="wear_habit">Wybór ręki</string>
-    <string name="bugreport">Report błędów</string>
+    <string name="bugreport">Report Błędów</string>
     <string name="light_change">Podświetlenie</string>
-    <string name="auto_nodisturb">Tryb Cichy</string>
+    <string name="auto_nodisturb">Aut.Tr.cichy</string>
     <string name="double_click_wakeup">Dot.by obudź.</string>
     <string name="vibration_intensity">Wibracje</string>
 	<string name="flight_mode">Tryb samolot.</string>
     <string name="hm_lab">Huami Lab</string>
+    <string name="bind_app">Powiązania</string>
+    <string name="amazfit_app">Aplik.Amazfit</string>
+    <string name="personal_info">Info.Osobiste</string>
+    <string name="time_zone_clock">Ust.czasu</string>
+    <string name="setting_time_format">Format czasu</string>
+    <string name="connect">Połączenia</string>
+    <string name="common">Wspólne</string>
+    <string name="device">Urządzenie</string>
+    <string name="nodisturb">Tryb Cichy</string>
+    <string name="auto_airplane">Aut.Tr.samol.</string>
     <string name="nothing">Pusty</string>
     <string name="about_title">O</string>
     <string name="model">Model</string>
@@ -48,8 +58,8 @@
     <string name="license">Informacje prawne</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
-    <string name="legal">Proszę sprawdzić w Amazfit</string>
-    <string name="legal2">Watch App</string>
+    <string name="legal">Proszę sprawdzić w aplik.</string>
+    <string name="legal2">Amazfit</string>
     <string name="lab">Lab</string>
     <string name="nodisturb_open_string">Wł.</string>
     <string name="nodisturb_close_string">Wył.</string>
@@ -72,8 +82,8 @@ Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.try
 Niepołączony?"</string>
     <string name="blt_hint_connect">"%1s
 Połączony?"</string>
-    <string name="blt_hint_connect_fail">Poł. nie powiodło się, proszę poł.ponownie</string>
-    <string name="blt_type_ear">Zestaw słuchawkowy</string>
+    <string name="blt_hint_connect_fail">Poł.nie powiodło się, proszę poł.ponownie</string>
+    <string name="blt_type_ear">Zestaw słuch.</string>
     <string name="blt_speaker">Audio</string>
     <string name="blt_car_system">Zamontowany w pojeździe</string>
     <string name="blt_type_mabiao">MW</string>
@@ -86,8 +96,8 @@ Połączony?"</string>
     <string name="bluetooth_connecting">Podłączanie...</string>
     <string name="bluetooth_disconnecting">Rozłączanie...</string>
     <string name="blt_hint_paring">"%1s  sparować?"</string>
-    <string name="blt_paring_fail_hint">"Upewnij się, że urządz.
-  wł. i jest w zasięgu"</string>
+    <string name="blt_paring_fail_hint">"Upewnij się, że urządz.jest 
+wł. i jest w zasięgu"</string>
     <string name="blt_hint_disconnect_device">Odłączony</string>
     <string name="blt_hint_ignore_device">Ignoruj</string>
     <string name="blt_hint_connect_device">Połącz</string>
@@ -97,8 +107,8 @@ Połączony?"</string>
     <string name="bluetooth_pairing_pin_error_message">"Nie udało się powiązać z %1$s zpowodu błędnego PINu zub hasła."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Nie można się skomunikować z %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Parowanie odrzucone przez %1$s.</string>
-	<string name="bluetooth_turning_on">Wł.Bluetooth...</string>
-    <string name="bluetooth_turning_off">Wył.Bluetooth...</string>
+	<string name="bluetooth_turning_on">Włączanie BT..</string>
+    <string name="bluetooth_turning_off">Wyłączanie BT...</string>
     <string name="bluetooth_enabled">Bluetooth Wł.</string>
     <string name="bluetooth_disabled">Bluetooth Wył.</string>
     <string name="bluetooth_unknown">Stan Bt nieznany</string>
@@ -107,7 +117,12 @@ Połączony?"</string>
     <string name="phone_found">Znaleziono telefon</string>
     <string name="phone_not_connected">Telefon nie jest podł.</string>
     <string name="phone_not_found">Telefon nie został znaleziony</string>
-	<string name="start_testing">Start</string>
+    <string name="start_testing">Start</string>
+    <string name="lab_wifi_test_tip_retry">Spróbuj ponownie!!</string>
+    <string name="lab_wifi_test_tip_testing">Testowanie…</string>
+    <string name="lab_wifi_test_tip_pass">Powodzenie!!</string>
+    <string name="lab_wifi_test_tip_fail">Błąd!!</string>
+    <string name="lab_wifi_test_tip_open_wifi">Otwarcie WIFI</string>
     <string name="light_off">Wył.</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Zawsze wł</string>
@@ -120,12 +135,12 @@ Połączony?"</string>
     <string name="zh_tw">Chiński (Traditional)</string>
     <string name=".">"Zmień język na 
 %1$s?"</string>
-    <string name="reset_factory_hint">Reset do ust.fabrycznych?</string>
+    <string name="reset_factory_hint">Reset do ust.fabrycz?</string>
     <string name="strong">silne</string>
     <string name="mid">średnie</string>
     <string name="weak">słabe</string>
     <string name="confirm_shutdown">Wyłączyć?</string>
-    <string name="app_name">Ust. zegarka</string>
+    <string name="app_name">Ust.zegarka</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
 	<string name="unknown">Nieznane urządz.</string>
