@@ -48,7 +48,7 @@
     <string name="quick_settings_battery_charging_full">"Ricarica completata"</string>
     <string name="quick_settings_battery_is_charging">"In carica..."</string>
     <string name="quick_settings_battery_hasnot_charged">"Non è stato caricato"</string>
-    <string name="quick_settings_battery_charging_intervalDay”>”Dall\’ultima ricarica: %1$d giorni %2$d ore"</string>
+    <string name="quick_settings_battery_charging_intervalDay">"Dall\’ultima ricarica: %1$d giorni %2$d ore"</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"Dall\’ultima ricarica: %d giorni"</string>
     <string name="quick_settings_battery_charging_intervalDayLess">"Dall\’ultima ricarica: %d ore"</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Meno di 1 dalla ricarica”</string>
@@ -57,7 +57,7 @@
     <string name="quick_settings_battery_sporttime_hour_unit">"ora"</string>
     <string name="quick_settings_battery_sporttime_KM_unit">"km"</string>
     <string name="quick_settings_battery_level_unit">"%"</string>
-    <string name="quick_settings_battery_sporttime_MI_unit”>”km"</string>
+    <string name="quick_settings_battery_sporttime_MI_unit">"km"</string>
     <string name="health_def_value" />
     <string name="health_def_hint" />
     <string name="health_title_def_value">"Oggi hai camminato"</string>
@@ -94,7 +94,6 @@
     <string name="notification_block_cancel">Annulla blocco notifiche</string>
     <string name="notification_block_message">Non riceverai piu\’ notifiche</string>
     <string name="notification_more_settings">Altre impostazioni</string>
-    <string name="notitification_wechat_red_content_pattern_two">: \\[Buste micro-lettera\\]</string>
     <string name="store_picture_title">"Salva immagine"</string>
     <string name="store_picture_message">"Consenti di memorizzare immagini nella galleria d'immagini?"</string>
     <string name="decline">"Rifiuta"</string>
@@ -557,13 +556,12 @@
     <string name="state_off">"Off"</string>
     <string name="quick_settings_sunlight_title">"Luce del sole"</string>
     <string name="theater_mode">"Modalità silenziosa"</string>
-    <string name="theater_mode_toast_button”>”Per riattivare lo schermo,premere il bottone a lato"</string>
+    <string name="theater_mode_toast_button">"Per riattivare lo schermo,premere il bottone a lato"</string>
     <string name="theater_mode_toast_no_button">"Per riattivare lo schermo, doppio tap sullo schermo"</string>
-    <string name="more_on_weather_domain”>”Di piu\’ %s"</string>
+    <string name="more_on_weather_domain">"Di piu\’ %s"</string>
     <string name="activity_not_found">C\’e\’ stato un problema nel completare l\’azione richiesta.</string>
     <string name="quick_settings_unbound">Prego prima accoppiare</string>
     <string name="batteryLevelUnit">"%"</string>
-    <string name="watchface_custom_btn_title">Impostazioni</string>
     <string name="temp_unit_centigrade">"℃"</string>
     <string name="temp_unit_fahrenheit">"°F"</string>
     <string name="temp_unit_degree">"°"</string>
