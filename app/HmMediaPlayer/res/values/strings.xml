@@ -15,6 +15,7 @@
     <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Check the network</string>
     <string name="music_continue_downloading">Songs will continue to be downloaded</string>
+    <string name="music_service_unavalible">DouBan service is Unavailable</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Playback settings</string>
     <string name="music_volumn_control">Volume</string>

@@ -3,6 +3,7 @@
     <integer name="config_activityShortDur">150</integer>
     <integer name="config_activityDefaultDur">220</integer>
     <integer name="notification_content_max_num">500</integer>
+    <integer name="notification_title_max_ems">15</integer>
     <integer name="google_play_services_version">6759000</integer>
     <integer name="home_screen_off_time">5000</integer>
     <integer name="home_screen_off_time_after_activity">10000</integer>

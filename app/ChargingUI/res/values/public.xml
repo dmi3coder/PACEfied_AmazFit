@@ -14,6 +14,8 @@
     <public type="string" name="hello_world" id="0x7f070001" />
     <public type="string" name="action_settings" id="0x7f070002" />
     <public type="string" name="unit" id="0x7f070003" />
+    <public type="string" name="am" id="0x7f070004" />
+    <public type="string" name="pm" id="0x7f070005" />
     <public type="style" name="AppBaseTheme" id="0x7f080000" />
     <public type="style" name="AppTheme" id="0x7f080001" />
     <public type="style" name="charging_text_style" id="0x7f080002" />

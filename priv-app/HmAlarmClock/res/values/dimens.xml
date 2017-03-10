@@ -35,6 +35,9 @@
     <dimen name="stopwatch_list_bottom_spacing">72.0dip</dimen>
     <dimen name="body_font_padding">4.0dip</dimen>
     <dimen name="sw_item_space">16.0dip</dimen>
+    <dimen name="venus_sub_text_size">11.0dip</dimen>
+    <dimen name="venus_text_margin_left">4.0dip</dimen>
+    <dimen name="venus_icon_margin_left">2.0dip</dimen>
     <dimen name="settings_icon_rx">12.699982dip</dimen>
     <dimen name="settings_label_rx">89.399994dip</dimen>
     <dimen name="header_txt_size">21.299988sp</dimen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LauncherCardTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/notification_content_title_textsize</item>
+        <item name="android:textColor">@color/notification_title_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxEms">@integer/notification_title_max_ems</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

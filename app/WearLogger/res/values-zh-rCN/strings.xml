@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">上传</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Log Path:</string>
+    <string name="preparing">生成报告中</string>
+    <string name="collecting">生成报告中</string>
+    <string name="uploading">上传中</string>
+    <string name="compressing">生成报告中</string>
+    <string name="upload_finish">Log上传完成</string>
+    <string name="upload_failed">上传失败，请重试</string>
+    <string name="open_wifi_hint">正在打开Wi-Fi...</string>
+    <string name="please_keep_wifi_connected">请保持Wi-Fi连接</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">当前有未上传的错误报告，请选择继续上传或重新抓取。</string>
+    <string name="upload_failed_token_title">上传失败</string>
+    <string name="upload_failed_token_message">用户信息已过期，无法访问服务器。请连接手表助手App更新后重试。</string>
+    <string name="re_collecting">重新生成</string>
+    <string name="continue_upload">继续上传</string>
+    <string name="alllog">抓取全部log</string>
+    <string name="moreoptions">更多选项</string>
+    <string name="allupload">全部上传</string>
+    <string name="pleass_upload">Log未上传</string>
+    <string name="start_collection">开始搜集</string>
+    <string name="close_wifi_hint">Wi-Fi已经关闭</string>
+    <string name="open_wifi_before_upload">上传前请先连接Wi-Fi</string>
+    <string name="packed_path">本地打包路径：</string>
+    <string name="c_bugreport">抓取bugreport</string>
+    <string name="upload_timeout">上传超时，请重试</string>
+    <string name="uploading_wait">正在上传，稍等...</string>
+    <string name="collect_logcat">正在搜集logcat信息</string>
+    <string name="collect_dropbox">正在搜集dropbox信息</string>
+    <string name="collect_anr">正在搜集ANR信息</string>
+    <string name="collect_dumpsys">正在搜集dumpsys信息</string>
+    <string name="collect_bugreport">正在搜集bugreport信息</string>
+    <string name="next_upload_message">错误报告已生产，请上传。</string>
+    <string name="please_upload">错误已成功抓取，请上传。</string>
+</resources>

@@ -257,6 +257,8 @@
     <string name="walking_step_count">步数</string>
     <string name="walking_step">步</string>
     <string name="waling_steps">步</string>
+    <string name="date_am">上午</string>
+    <string name="date_pm">下午</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>
@@ -273,7 +275,7 @@
     <string name="km_metric_remind_target_km_walking_title_format">已走%1$d公里</string>
     <string name="km_metric_remind_target_distance_training_title_format">骑行%1s公里</string>
     <string name="km_metric_remind_target_riding_km_title_format">已骑行%1$d公里</string>
-    <string name="meter_metric_crossing_vertical_velocity_unit">米/时</string>
+    <string name="meter_metric_crossing_vertical_velocity_unit">米/分</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">海拔(米)</string>
     <string name="km_metric_outdoor_speed_graph_title">速度(公里/时)</string>
     <string name="km_metric_settings_item_value_target_distance">%.2f公里</string>
@@ -287,7 +289,7 @@
     <string name="km_imperial_remind_target_km_walking_title_format">已走%1$d英里</string>
     <string name="km_imperial_remind_target_riding_km_title_format">已骑行%1$d英里</string>
     <string name="km_imperial_remind_target_distance_training_title_format">骑行%1s英里</string>
-    <string name="meter_imperial_crossing_vertical_velocity_unit">英尺/时</string>
+    <string name="meter_imperial_crossing_vertical_velocity_unit">英尺/分</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">海拔(英尺)</string>
     <string name="km_imperial_outdoor_speed_graph_title">速度(英里/时)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2f英里</string>

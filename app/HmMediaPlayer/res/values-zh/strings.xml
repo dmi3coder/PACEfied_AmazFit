@@ -13,6 +13,7 @@
     <string name="music_fetch_list">歌单获取中</string>
     <string name="check_network">检查网络</string>
     <string name="music_continue_downloading">歌曲继续将下载</string>
+    <string name="music_service_unavalible">此功能暂时无法使用</string>
     <string name="music_list_title">播放设置</string>
     <string name="music_volumn_control">音量控制</string>
     <string name="music_douban_offline">豆瓣FM离线</string>

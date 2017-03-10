@@ -22,6 +22,7 @@
     <item type="id" name="view">false</item>
     <item type="id" name="latitude_title">false</item>
     <item type="id" name="north_latitude_text">false</item>
+    <item type="id" name="altitude_tip_text">false</item>
     <item type="id" name="altitude_text">false</item>
     <item type="id" name="longitude_title">false</item>
     <item type="id" name="east_longitude_text">false</item>
