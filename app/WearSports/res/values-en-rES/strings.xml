@@ -38,6 +38,8 @@
     <string name="safe_hearate_remind_content">Si superas % 1d bpm</string>
     <string name="settings_safe_heart_rate_hint">F. cardiaca segura</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="elliptical">Elíptica</string>
+    <string name="elliptical_in_progress">Elíptica</string>
     <string name="experience_title">Por favor, configure información personal, o los datos tendrán una gran desviación</string>
     <string name="indoor_run_progressing">Carrera Indoor</string>
     <string name="music_title">Música</string>
@@ -116,7 +118,7 @@
     <string name="running_calorie_desc">Consumo</string>
     <string name="running_step_freq_desc">Frecuencia de paso</string>
     <string name="running_speed_desc">Velocidad</string>
-    <string name="running_distance_desc">kilometraje</string>
+    <string name="running_distance_desc">Kilometraje</string>
     <string name="running_heartrate_desc">Ritmo cardíaco</string>
     <string name="running_avg_pace_desc">Ritmo promedio</string>
     <string name="running_avg_speed_desc">Velocidad media</string>
@@ -211,7 +213,7 @@
     <string name="title_activity_sport_medal_detail">Detalles de medallas de actividad</string>
     <string name="action_settings">Ajustes</string>
     <string name="notification_title_medal">Records deportivos</string>
-    <string name="history_heart_rate_graph_desc">Curva de la frecuencia cardíaca</string>
+    <string name="history_heart_rate_graph_desc">Gráfica F. Cardíaca</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="sport_medal_desc_first_sport">Has completado un entrenamiento de Carrera la 1ª vez</string>
     <string name="sport_medal_desc_one_5_km">Insignia de Bronce has corrido + de de 5 km</string>
