@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="settings_item_high_light_scale_factor">0.5</string>
-    <string name="app_name">Otawatch</string>
+    <string name="app_name">OtaWatch</string>
     <string name="action_settings">Ustawienia</string>
     <string name="watch_ota">Aktual.Zegarka</string>
     <string name="wifi_disconnect">"Proszę połączyć się z
-aplikacją Amazfit aby uzyskać pomoc
-w sprawdzeniu aktual.zegarka"</string>
+aplik.Amazfit aby uzyskać pomoc
+w sprawdz.aktual.zegarka"</string>
     <string name="connect_phone_wifi">"Proszę sprawdzić sieć w
 telefonie aby uzyskać pomoc
-w sprawdzeniu aktual.zegarka"</string>
+w sprawdz.aktual.zegarka"</string>
     <string name="connect_phone_input_wifi">"Proszę połączyć się z
 aplikacją Amazfit aby wprowadzić
 hasło do Wi-Fi dla zegarka"</string>
@@ -21,10 +21,10 @@ w aplikacji Amazfit"</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">Znaleziono nową wersję systemu, proszę zaktual.</string>
     <string name="checking_rom">Sprawdzanie nowych wersji</string>
-    <string name="checking_rom_failed">"Przekroczono limit czasu połączenia sieciowego, spróbuj ponownie"</string>
+    <string name="checking_rom_failed">"Przekroczono limit czasu poł.sieciowego, spróbuj ponownie"</string>
     <string name="current_is_new">Najnowsza wersja jest uruchomiona</string>
     <string name="has_new_rom">"Nowa wersja została znaleziona,
-aktualizować do wersji %1$s?"</string>
+aktual.do wersji %1$s?"</string>
     <string name="processbar_downloading_rom">Pobieranie...</string>
     <string name="please_keep_wifi_connect">"Proszę zostawić zegarek 
 podłączony do WiFi"</string>
@@ -37,10 +37,10 @@ podłączony do WiFi"</string>
     <string name="low_battery_title">Proszę naładuj najpierw</string>
     <string name="progressbar_tips">Sprawdzanie nowych wersji....</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">Za mało miejsca aby dokonać aktual., potrzebne %1$sM, oczyść najpierw</string>
+    <string name="low_mem">Za mało miejsca aby dokonać aktual, potrzebne %1$sM, oczyść najpierw</string>
     <string name="update_network_error">"Sprawdzenie aktual.nie powiodło się, proszę
 spróbuj później"</string>
-    <string name="cancel_download">"Pobieranie aktual., 
+    <string name="cancel_download">"Pobieranie aktual, 
  anulować?"</string>
     <string name="new_rom_please_install">"Aktual.systemu jest dostępna,
 prosimy o zaktual."</string>
@@ -67,7 +67,19 @@ wprowadź ponownie "</string>
 siecią. Spróbuj z
 inną siecią Wi-Fi"</string>
     <string name="searching">Wyszukiwanie...</string>
-    <string name="hasNewUpdateTitle">Aktual. systemu</string>
-    <string name="hasNewUpdateInstallContent">%1$s wersja może być zainstal., zainstal.teraz?</string>
-    <string name="hasNewUpdateCheckContent">%1$s wersja może być zaktual., zaktual.teraz?</string>
+    <string name="hasNewUpdateTitle">Aktual.systemu</string>
+    <string name="hasNewUpdateInstallContent">%1$s wersja może być zainstal, zainstal.teraz?</string>
+    <string name="hasNewUpdateCheckContent">%1$s wersja może być zaktual, zaktual.teraz?</string>
+    <string name="update_title">Wybierz jeddną z następ.opcji</string>
+    <string name="update_online">Aktual.online</string>
+    <string name="update_local">Aktual.z lokal.pliku zip</string>
+    <string name="local_update_confirm_1_title">Przeczytaj</string>
+    <string name="local_update_confirm_1_msg">"Aby nowa wersja
+działa prawidłowo, wszystkie Dane użytkownika
+po aktual.zostaną skasowane. Proszę w aplik.
+Amazfit utworzyć kopię zapasową wszyst.danych przed aktual."</string>
+    <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie 
+Dane użtkown.są skopiowane. Aktual.spowoduje 
+usunięcie wszystkich plików
+danych z zegarka, kontynuować?"</string>
 </resources>
