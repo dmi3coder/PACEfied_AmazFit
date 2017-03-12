@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="quick_settings_airplane_mode">Airplane: %1$s</string>
+	<string name="quick_settings_switch_awake">Awake Mode</string>
+	<string name="quick_settings_switch_always">Always Mode</string>
+	<string name="notification_time_day">%sdays ago</string>
+	<string name="notification_time_minute">%smin agi</string>
+	<string name="notification_time_hour">%sh ago</string>
+</resources>

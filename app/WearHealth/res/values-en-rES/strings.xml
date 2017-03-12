@@ -7,10 +7,10 @@
     <string name="app_name">Salud</string>
     <string name="label_heartrate">Frecuencia cardíaca</string>
     <string name="label_heartrate_unit">Latidos / min</string>
-    <string name="heartrate_gauging">Midiendo...</string>
+<!--     <string name="heartrate_gauging">Midiendo...</string>
     <string name="heartrate_gauge_failure">Por favor, ajustase bien el reloj , para una medición más precisa.</string>
     <string name="label_badge">Logros de salud</string>
-    <string name="notif_health_badge_title">Medalla de la salud</string>
+    <string name="notif_health_badge_title">Medalla de la salud</string>-->
     <string name="settings_step_unit">Pasos</string>
     <string name="settings_step_target">Objetivo pasos</string>
     <string name="settings_target_reach_reminder">Aviso objetivo</string>

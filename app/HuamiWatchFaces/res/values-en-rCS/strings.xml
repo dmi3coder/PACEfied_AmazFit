@@ -5,7 +5,6 @@
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_week_path">guard/shiguanglicheng/en/watchface_slpt_number_week_%d.png</string>
-    <string name="digital_sport_one_week_typeface_path">typeface/huamifont.ttf</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon life</string>
     <string name="watch_label_sport_two">I’m Runner</string>

@@ -22,9 +22,7 @@
     <string name="weeklysports_outdoorriding_average">Велосипед, средняя скорость</string>
     <string name="weeklysports_outdoorriding_max">Велосипед, макс. скорость</string>
     <string name="weeklysports_outdoorriding_unit">км/ч</string>
-    <string name="weeklysports_frequency">" р."</string>
     <string name="weeklysports_step">ш</string>
-    <string name="weeklysports_day">дн.</string>
     <string name="weeklysports_activity">Тип:</string>
     <string name="weeklysports_running">Бег</string>
     <string name="weeklysports_walking">Шаг</string>

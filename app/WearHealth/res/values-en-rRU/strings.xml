@@ -16,8 +16,8 @@
   <string name="heart_rate_distribution">Распределение</string>
   <string name="heart_rate_history">Статистика</string>
   <string name="heart_rate_no_data">Нет данных</string>
-  <string name="heartrate_gauge_failure">Пожалуйста, держите часы ближе к руке, чтобы измерить пульс.</string>
-  <string name="heartrate_gauging">Измеряем...</string>
+<!--  <string name="heartrate_gauge_failure">Пожалуйста, держите часы ближе к руке, чтобы измерить пульс.</string>
+  <string name="heartrate_gauging">Измеряем...</string>-->
   <string name="heartrate_wear_before_gauging">Пожалуйста, наденьте часы на руку перед измерениеями.</string>
   <string name="high_strength_heart_rate">Высокая нагр.</string>
   <string name="label_active_fast">Высокая нагр.</string>
@@ -51,7 +51,7 @@
   <string name="label_all_day_heartrate_waring">Постоянное измерение пульса потребляет больше энергии, продолжить?</string>
   <string name="label_all_day_quite">Покой</string>
   <string name="label_all_day_recently">Последнее</string>
-  <string name="label_badge">Достижения по здоровью</string>
+<!--  <string name="label_badge">Достижения по здоровью</string>-->
   <string name="label_burning_active">Калории</string>
   <string name="label_burning_basic">Базовое сжигание</string>
   <string name="label_burning_ratio_today">Уровень сжигания</string>
@@ -95,7 +95,7 @@
   <string name="no_sleep_info">Нет данных о сне</string>
   <string name="non_movement_heart_rate">Бездействие</string>
   <string name="notif_detail_view">Посмотреть детали</string>
-  <string name="notif_health_badge_title">Медаль здоровья</string>
+<!--  <string name="notif_health_badge_title">Медаль здоровья</string>-->
   <string name="notif_long_sit_desc">Вы слишком долго сидите, вставайте и подвигайтесь минутку.</string>
   <string name="notif_long_sit_title">Пора двигаться</string>
   <string name="notif_target_half_reach_desc">Вы уже на полпути к дневной цели по шагам.</string>

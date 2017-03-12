@@ -33,9 +33,7 @@
     <string name="weeklysports_outdoorriding_max">Maks.pręd; jazdy na zew.</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_frequency">Częstotliw.</string>
     <string name="weeklysports_step">Krok</string>
-    <string name="weeklysports_day">Dzień</string>
     <string name="weeklysports_activity">Aktywność</string>
     <string name="weeklysports_running">Bieganie</string>
     <string name="weeklysports_walking">Chodzenie</string>

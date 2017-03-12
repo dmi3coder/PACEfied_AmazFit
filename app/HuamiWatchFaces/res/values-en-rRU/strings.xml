@@ -31,7 +31,7 @@
   <string name="custom_data_widget_title_calorie">Калории</string>
   <string name="custom_data_widget_title_date">Дата</string>
   <string name="custom_data_widget_title_default">Данные</string>
-  <string name="custom_data_widget_title_heart_rate ">Пульс</string>
+  <string name="custom_data_widget_title_heart_rate">Пульс</string>
   <string name="custom_data_widget_title_msg">Сообщения</string>
   <string name="custom_data_widget_title_nothing">Не отображать</string>
   <string name="custom_data_widget_title_step">Шаги</string>

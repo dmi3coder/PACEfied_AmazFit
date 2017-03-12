@@ -23,7 +23,7 @@
     <string name="custom_data_widget_title_today_dis">distancia</string>
     <string name="custom_data_widget_title_total_dis">distancia total</string>
     <string name="custom_data_widget_title_calorie">calorias</string>
-    <string name="custom_data_widget_title_heart_rate ">ritmo cardiaco</string>
+    <string name="custom_data_widget_title_heart_rate">ritmo cardiaco</string>
     <string name="custom_data_widget_title_weather">tiempo</string>
     <string name="custom_data_widget_title_aq">calidad de aire</string>
     <string name="custom_data_widget_title_battery">bateria</string>
