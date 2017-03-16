@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appid_messages">信息</string>
+    <string name="appid_wechat">微信</string>
+    <string name="appid_contacts">通讯录</string>
+    <string name="appid_camera">相机</string>
+    <string name="appid_videos">视频</string>
+    <string name="appid_maps">地图</string>
+    <string name="appid_calculator">计算器</string>
+    <string name="appid_photos">照片</string>
+    <string name="appid_fmf1">查找朋友</string>
+    <string name="appid_fmip1">查找 iPhone</string>
+    <string name="appid_preferences">设置</string>
+    <string name="appid_tips">提示</string>
+    <string name="appid_mobiletimer">时钟</string>
+    <string name="appid_compass">指南针</string>
+    <string name="appid_mobilenotes">备忘录</string>
+    <string name="appid_music">音乐</string>
+    <string name="appid_voicememos">语音备忘录</string>
+    <string name="appid_health">健康</string>
+    <string name="appid_stocks">股市</string>
+    <string name="appid_weather">天气</string>
+    <string name="appid_reminders">提醒事项</string>
+    <string name="appid_mobilecal">日历</string>
+    <string name="appid_mobilemail">邮件</string>
+</resources>
