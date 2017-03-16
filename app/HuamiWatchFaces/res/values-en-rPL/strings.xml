@@ -69,6 +69,4 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-	<string name="custom_none_custom_background_title">Nic</string>
-	<string name="custom_none_custom_background_content">Nic</string>
 </resources>

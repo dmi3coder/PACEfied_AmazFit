@@ -85,7 +85,7 @@
     <string name="wifi_wait_password">Počkat na heslo...</string>
     <string name="toast_please_update_first">Prosím inovaci</string>
     <string name="wifi_turnon_going">正在打开Wi-Fi</string>
-    <string name="system_update_title">Inovace uspěšná/string>
+    <string name="system_update_title">Inovace uspěšná</string>
     <string name="system_update_content">Systém byl aktualizován na verzi %1$s</string>
     <string name="password_error">"%1$s heslo je nesprávné zadejte znova"</string>
     <string name="wifi_connect_fail">"Chyba WI-FI připojení, připojte"</string>
