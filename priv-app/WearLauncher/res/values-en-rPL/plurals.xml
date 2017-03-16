@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_time_day">
+        <item quantity="other">%s dni temu</item>
+        <item quantity="one">%s dzień temu</item>
+    </plurals>
+    <plurals name="notification_time_hour">
+        <item quantity="other">%s godzin temu</item>
+        <item quantity="one">%s godzinę temu</item>
+    </plurals>
+    <plurals name="notification_time_minute">
+        <item quantity="other">%s minut temu</item>
+        <item quantity="one">%s minutę temu</item>
+    </plurals>
+</resources>

@@ -10,8 +10,12 @@
     <string name="custom_none_selected">Wybierz</string>
     <string name="custom_selected_confirm">Zatwierdź</string>
     <string name="custom_exit_delete">Wyjdź i usuń</string>
+	<string name="custom_none_custom_background_title">Brak obrazu</string>
+    <string name="custom_none_custom_background_content">Proszę dodać obrazy tła z aplikacji Amazfit Watch.</string>
+    <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_0.png</string>
     <string name="custom_title_bg">Tło</string>
     <string name="custom_title_graduation">Stopniowo</string>
+	<string name="custom_title_timehand">Ręce</string>
     <string name="custom_title_date">Data</string>
     <string name="custom_data_widget_title_default">Dane</string>
     <string name="custom_data_widget_title_nothing">Ukryj</string>

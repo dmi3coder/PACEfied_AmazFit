@@ -18,5 +18,6 @@
     <string name="def_immersive_mode_confirmations" />
     <string name="def_device_name">%1$s %2$s</string>
     <string name="def_device_name_simple">%1$s</string>
+	<string name="def_time_12_24">12</string>
     <string name="app_label">Ustawienia pamięci</string>
 </resources>

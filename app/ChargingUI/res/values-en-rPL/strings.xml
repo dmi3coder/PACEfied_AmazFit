@@ -4,4 +4,6 @@
     <string name="hello_world">Witaj Świecie!</string>
     <string name="action_settings">Ustawienia</string>
     <string name="unit">%</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
 </resources>

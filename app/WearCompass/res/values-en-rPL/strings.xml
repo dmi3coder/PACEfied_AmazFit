@@ -7,6 +7,7 @@
     <string name="east_longitude">Dł.geog.Ws.</string>
     <string name="west_longitude">Dł.geog.Zc.</string>
     <string name="altitude">Wysok.(m)</string>
+	<string name="altitude_ft">Wysok.(st)</string>
     <string name="atmospheric_pressure">Ciś.powiet.</string>
     <string name="ori_north">Pn.</string>
     <string name="ori_northeast">Pn.Ws.</string>

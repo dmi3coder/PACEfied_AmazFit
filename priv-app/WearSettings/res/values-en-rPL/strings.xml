@@ -41,6 +41,7 @@
     <string name="device">Urządzenie</string>
     <string name="nodisturb">Tryb Cichy</string>
     <string name="auto_airplane">Aut.Tr.samol.</string>
+    <string name="wifi_upload">Preślij</string>
     <string name="nothing">Pusty</string>
     <string name="about_title">O</string>
     <string name="model">Model</string>
@@ -48,7 +49,7 @@
     <string name="dev_desc">Amazfit Sports Watch</string>
     <string name="ard_version">Wersja Androida</string>
     <string name="rom_version">Wersja ROM-u</string>
-    <string name="rom_hint_dev">ROM (Dev Edition)</string>
+    <string name="rom_hint_dev">ROM (Wyd.Dewelop.)</string>
     <string name="flash_capacity">Pamięć</string>
     <string name="flash_free_capacity">Wolna pamięć</string>
     <string name="blt_mac_addr">Bluetooth MAC</string>
@@ -59,12 +60,14 @@
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Proszę sprawdzić w aplik.</string>
-    <string name="legal2">Amazfit</string>
+    <string name="legal2">Amazfit Watch</string>
     <string name="lab">Lab</string>
-    <string name="nodisturb_open_string">Wł.</string>
-    <string name="nodisturb_close_string">Wył.</string>
+    <string name="opened">Wł.</string>
+    <string name="closed">Wył.</string>
 	<string name="air_plane_mode_note">"Tryb samol.wył. BT i Wi-Fi w zegarku, aby oszczędz.energię. 
 Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.tryb samol. w ust. systemowych"</string>
+    <string name="nodisturb_open_string">Wł.</string>
+    <string name="nodisturb_close_string">Wył.</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Nie przeszkadzać</string>
     <string name="auto_nodisturb_start_time_string">Czas rozpoczęcia</string>
@@ -74,12 +77,12 @@ Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.try
     <string name="scanning_blt_devices">Wyszukiwanie...</string>
     <string name="blt_bound_stat_bonded">Sparowany</string>
     <string name="blt_bound_stat_connected">Połączony</string>
-    <string name="blt_bound_stat_disconnect">Niepołączony</string>
+    <string name="blt_bound_stat_disconnect">Rozłączony</string>
     <string name="blt_bound_stat_bonding">Parowanie...</string>
     <string name="blt_bound_stat_none">Dostępny</string>
     <string name="blt_default_name">Anonimowy</string>
     <string name="blt_hint_disconnect">"%1s
-Niepołączony?"</string>
+Rozłączony?"</string>
     <string name="blt_hint_connect">"%1s
 Połączony?"</string>
     <string name="blt_hint_connect_fail">Poł.nie powiodło się, proszę poł.ponownie</string>
@@ -133,9 +136,29 @@ wł. i jest w zasięgu"</string>
     <string name="zh_cn">Chiński (Simplified)</string>
     <string name="en">Angielski(US)</string>
     <string name="zh_tw">Chiński (Traditional)</string>
-    <string name=".">"Zmień język na 
+    <string name="confirm_change_locale">"Zmień język na 
 %1$s?"</string>
+    <string name="gender">Płeć</string>
+    <string name="birth_year">Rok Urodz.</string>
+    <string name="height">Wzrost</string>
+    <string name="weight">Waga</string>
+    <string name="male">Mężcz.</string>
+    <string name="female">Kobieta</string>
+    <string name="centimeter">cm</string>
+    <string name="birth_year_unit">"Rok
+Urodz."</string>
+    <string name="height_unit">"Wzrost 
+cm"</string>
+    <string name="weight_unit">"Waga 
+kg"</string>
     <string name="reset_factory_hint">Reset do ust.fabrycz?</string>
+    <string name="time_zone">Strefa czas.</string>
+    <string name="date">Data</string>
+    <string name="time">Czas</string>
+    <string name="date_ymd">Data(Y/M/D)</string>
+    <string name="time_hms">Czas(H/M/S)</string>
+    <string name="time_format">Format Czasu</string>
+    <string name="hour_system">%s-hour system</string>
     <string name="strong">silne</string>
     <string name="mid">średnie</string>
     <string name="weak">słabe</string>
@@ -144,7 +167,8 @@ wł. i jest w zasięgu"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
 	<string name="unknown">Nieznane urządz.</string>
-    <string name="upgrade_checking">Sprawdzanie aktual....</string>
+    <string name="bind_tips_title">Powiąż n aby chronić swoje dane bardziej bezp.</string>
+    <string name="upgrade_checking">Sprawdz.aktual...</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
 </resources>

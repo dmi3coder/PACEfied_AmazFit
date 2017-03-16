@@ -12,7 +12,7 @@
     <string name="day_train_record_stag">%1$s - %2$d Tydzień - %3$d Dzień</string>
     <string name="day_train_record_stag_simple">- %1$d Tydzień - %2$d Dzień</string>
     <string name="day_train_record_train_stage">-%1$sDay</string>
-    <string name="remind_train_first_text">"Regularny Trening może pomóc poprawić twój bieg. Zaczynamy!"</string>
+    <string name="remind_train_first_text">"Regularny Trening może pomóc poprawić twój bieg. Zaczynamy!"</string>	
     <string name="train_start">Rozpocznij trening</string>
     <string name="hidtory_train_start_date">Start %1$s</string>
     <string name="hidtory_train_end_date">Koniec %1$s</string>
@@ -22,9 +22,11 @@
     <string name="day_train_record_status_finish">Zakończony</string>
     <string name="day_train_record_statis_un_finish">Niedokończony</string>
     <string name="dialog_day_train_plan_is_complete">Zaznacz dzisiejszy trening jako kompletny?</string>
+	<string name="dialog_delete_history_record">Usuń ten rekord, nie może będzie przywrócić.</string>
     <string name="dialog_train_plan_is_complete">Po zakoń. treningu nie będzie już rejestracji postępu, zakończyć trening?</string>
     <string name="last_day_rest_remind">Trening zakończony! Weź dzień wolny!</string>
     <string name="cancel">Anuluj</string>
+	<string name="dialog_delete">Usuń</string>
     <string name="day_train_plan_record_marked">Ocena</string>
     <string name="train_plan_recode_finished">Koniec</string>
     <string name="train_mileage">Dystans(km)</string>

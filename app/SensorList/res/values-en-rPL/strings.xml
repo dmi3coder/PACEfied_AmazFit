@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Czujniki</string>
+    <string name="app_name">SensorData</string>
     <string name="hello_world">Wybierz:ACC PPG</string>
     <string name="action_settings">Ustawienia</string>
     <string name="title_activity_sensor_list">ListaAktywnychCzuj</string>
     <string name="title_activity_view_list">PodglądAktywnejListy</string>
     <string name="title_activity_graph_list">WykresAktywnejListy</string>
+	<string name="completed">Zakoń. %1$s</string>
+    <string name="upload_failed">błąd przesyłu!</string>
+    <string name="upload_success">przesył zakoń.!</string>
+    <string name="uploading">przesyłanie!</string>
+    <string name="no_uploaded_files">brak plików do wysł.!</string>
+    <string name="open_wifi_failed">błąd otwarcia wifi!</string>
+    <string name="connect_APP">Połącz się za aplik.!</string>
 </resources>
