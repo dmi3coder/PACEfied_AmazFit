@@ -38,8 +38,8 @@
     <string name="safe_hearate_remind_content">When above %1d</string>
     <string name="settings_safe_heart_rate_hint">(safe heart rate)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
-    <string name="elliptical">Elliptical machine</string>
-    <string name="elliptical_in_progress">Ellipticaling</string>
+    <string name="elliptical">Elliptical</string>
+    <string name="elliptical_in_progress">Elliptical in progress</string>
     <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
     <string name="indoor_run_progressing">Running</string>
     <string name="music_title">Music</string>
