@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoř</string>
+    <string name="main_title">Laboratoř</string>
+    <string name="agreement_title">HR vždy aktivní</string>
+    <string name="message">"Pro zlepšení služeb poskytovaných měření tepové frekvence budou uloženy a přenášeny.
+Tyto údaje budou použity pouze pro výzkumné účely.
+Spotřeba energie by se mohl zvýšit"</string>
+    <string name="allow">Povolit</string>
+    <string name="exit">Odhlášení</string>
+    <string name="heart_rate_collection_on">On</string>
+    <string name="heart_rate_collection_off">Off</string>
+    <string name="saving_data">Uložit</string>
+    <string name="upload_data">Předložit</string>
+    <string name="upload_success">Zasílání vyplněných</string>
+    <string name="upload_failed">Selhalo odeslání</string>
+    <string name="air_mode_alert_title">Připojení se nezdařilo</string>
+    <string name="air_mode_alert_message">Opakovat připojení. Zakázání režimu Letadlo</string>
+    <string name="average_text">Průměrný</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrzení</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Parazit nebyla detekována</string>
+    <string name="no_altitude_hint">Nezjištěný nadmořská výška</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Sports music</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Vybrat jazyk</string>
+</resources>

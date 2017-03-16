@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">天气</string>
+    <string name="app_name">počasí</string>
     <string name="action_settings">Nastavení</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
