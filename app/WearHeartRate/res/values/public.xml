@@ -351,6 +351,13 @@
     <public type="string" name="ui_lib_name" id="0x7f070092" />
     <public type="string" name="title_settings" id="0x7f070093" />
     <public type="string" name="sport_music_settings" id="0x7f070094" />
+    <public type="string" name="widget_currentstep_title" id="0x7f070095" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f070096" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f070097" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f070098" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f070099" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07009a" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f07009b" />
     <public type="color" name="main_bg_color" id="0x7f080000" />
     <public type="color" name="blt_setting_bg_color" id="0x7f080001" />
     <public type="color" name="loading_txt_color" id="0x7f080002" />
@@ -573,25 +580,27 @@
     <public type="dimen" name="menu_touch_area" id="0x7f09005d" />
     <public type="dimen" name="size_shadow_dy1" id="0x7f09005e" />
     <public type="dimen" name="size_shadow_radius1" id="0x7f09005f" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f090060" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f090061" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f090062" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f090063" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f090064" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f090065" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f090066" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f090067" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f090068" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f090069" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f09006a" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f09006b" />
-    <public type="dimen" name="size_linechart_width" id="0x7f09006c" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f09006d" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f09006e" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f09006f" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f090070" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f090071" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f090072" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f090060" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f090061" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f090062" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f090063" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f090064" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f090065" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f090066" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f090067" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f090068" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f090069" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f09006a" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f09006b" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f09006c" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f09006d" />
+    <public type="dimen" name="size_linechart_width" id="0x7f09006e" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f09006f" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f090070" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f090071" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f090072" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f090073" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f090074" />
     <public type="id" name="item_touch_helper_previous_elevation" id="0x7f0a0000" />
     <public type="id" name="one" id="0x7f0a0001" />
     <public type="id" name="three" id="0x7f0a0002" />

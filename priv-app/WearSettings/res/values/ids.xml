@@ -29,6 +29,7 @@
     <item type="id" name="nodisturb">24</item>
     <item type="id" name="auto_plane">25</item>
     <item type="id" name="wifi_upload">21</item>
+    <item type="id" name="replace_watchface">26</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="view_pager">false</item>
@@ -69,6 +70,7 @@
     <item type="id" name="layout">false</item>
     <item type="id" name="progress_text">false</item>
     <item type="id" name="info_view">false</item>
+    <item type="id" name="apm_picker">false</item>
     <item type="id" name="picker1">false</item>
     <item type="id" name="picker2">false</item>
     <item type="id" name="picker3">false</item>

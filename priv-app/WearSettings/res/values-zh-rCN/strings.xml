@@ -33,6 +33,7 @@
     <string name="nodisturb">勿扰</string>
     <string name="auto_airplane">自动飞行</string>
     <string name="wifi_upload">数据上传</string>
+    <string name="replace_watchface">更换表盘</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -151,6 +152,8 @@
     <string name="time_hms">时间(时/分/秒)</string>
     <string name="time_format">时间制式</string>
     <string name="hour_system">%s小时制</string>
+    <string name="am">上午</string>
+    <string name="pm">下午</string>
     <string name="strong">较强</string>
     <string name="mid">适中</string>
     <string name="weak">较弱</string>

@@ -157,6 +157,7 @@
     <string name="no_gps_content">当前无法准确记录里程，请到室外开阔场地。</string>
     <string name="no_gps_button_text">确定</string>
     <string name="settings_item_title_km_remind">每公里提醒</string>
+    <string name="settings_item_title_mi_remind">每英里提醒</string>
     <string name="settings_item_title_km_voice_remind">语音提醒</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">燃脂心率提醒</string>
     <string name="settings_item_title_safe_heartrate_remind">心率提醒</string>
@@ -202,6 +203,11 @@
     <string name="sport_medal_desc_total_50_km">运动里程达到50公里</string>
     <string name="sport_medal_desc_total_300_km">运动里程达到300公里</string>
     <string name="sport_medal_desc_total_1000_km">运动里程达到1000公里</string>
+    <string name="sport_medal_desc_one_5_mi">单次运动达到3.1英里</string>
+    <string name="sport_medal_desc_one_10_mi">单次运动达到6.2英里</string>
+    <string name="sport_medal_desc_total_50_mi">运动里程达到31英里</string>
+    <string name="sport_medal_desc_total_300_mi">运动里程达到186英里</string>
+    <string name="sport_medal_desc_total_1000_mi">运动里程达到621英里</string>
     <string name="sport_medal_desc_half_marathon">完成一次半马</string>
     <string name="sport_medal_desc_marathon">完成一次马拉松</string>
     <string name="sport_medal_desc_continuous_7_days_sport">连续运动7天</string>
@@ -300,4 +306,11 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>

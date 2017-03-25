@@ -445,25 +445,27 @@
     <public type="dimen" name="menu_touch_area" id="0x7f080043" />
     <public type="dimen" name="size_shadow_dy1" id="0x7f080044" />
     <public type="dimen" name="size_shadow_radius1" id="0x7f080045" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f080046" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f080047" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f080048" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f080049" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f08004a" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f08004b" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f08004c" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f08004d" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f08004e" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f08004f" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f080050" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f080051" />
-    <public type="dimen" name="size_linechart_width" id="0x7f080052" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080053" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080054" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f080055" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f080056" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080057" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f080058" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f080046" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f080047" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f080048" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f080049" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f08004a" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f08004b" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f08004c" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f08004d" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f08004e" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f08004f" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f080050" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f080051" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f080052" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f080053" />
+    <public type="dimen" name="size_linechart_width" id="0x7f080054" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080055" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080056" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f080057" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f080058" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080059" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f08005a" />
     <public type="array" name="day_of_weak" id="0x7f090000" />
     <public type="array" name="spring_depend" id="0x7f090001" />
     <public type="array" name="alarm_set" id="0x7f090002" />
@@ -523,6 +525,13 @@
     <public type="string" name="ui_lib_name" id="0x7f0a0031" />
     <public type="string" name="title_settings" id="0x7f0a0032" />
     <public type="string" name="sport_music_settings" id="0x7f0a0033" />
+    <public type="string" name="widget_currentstep_title" id="0x7f0a0034" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f0a0035" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0a0036" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0a0037" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a0038" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a0039" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f0a003a" />
     <public type="plurals" name="alarm_alert_snooze_set" id="0x7f0b0000" />
     <public type="plurals" name="Nhours_description" id="0x7f0b0001" />
     <public type="plurals" name="Nminutes_description" id="0x7f0b0002" />

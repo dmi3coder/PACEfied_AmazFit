@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <daytrainplans>
         <daytrainplan id="0">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -12,8 +12,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="1">
-            <desc>Foundation Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -23,8 +23,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="2">
-            <desc>Fartlek Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Fartlek 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -34,8 +34,8 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="3">
-            <desc>Foundation Run 3.2km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -45,8 +45,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="4">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -56,8 +56,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="5">
-            <desc>Technical Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Progression Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -68,7 +68,7 @@
         </daytrainplan>
         <daytrainplan id="6">
             <desc>Recovery Run 3.2km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -78,8 +78,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="7">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -89,8 +89,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="8">
-            <desc>Foundation Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -100,8 +100,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="9">
-            <desc>Fartlek Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Fartlek 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -111,8 +111,8 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="10">
-            <desc>Swim 20-30 Minutes</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -124,8 +124,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="11">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -135,8 +135,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="12">
-            <desc>Technical Run 8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Progression Run 8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -147,7 +147,7 @@
         </daytrainplan>
         <daytrainplan id="13">
             <desc>Recovery Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -157,8 +157,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="14">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -168,8 +168,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="15">
-            <desc>Foundation Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -179,8 +179,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="16">
-            <desc>Hill Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Hill Repeats 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -190,8 +190,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="17">
-            <desc>Foundation Run 3.2km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -201,8 +201,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="18">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -213,7 +213,7 @@
         </daytrainplan>
         <daytrainplan id="19">
             <desc>Tempo Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -224,7 +224,7 @@
         </daytrainplan>
         <daytrainplan id="20">
             <desc>Recovery Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -234,8 +234,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="21">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -245,8 +245,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="22">
-            <desc>Foundation Run 8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -256,8 +256,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="23">
-            <desc>Hill Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Hill Repeats 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -267,8 +267,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="24">
-            <desc>Bike 20-30 Min</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>骑行20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -280,8 +280,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="25">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -292,7 +292,7 @@
         </daytrainplan>
         <daytrainplan id="26">
             <desc>Tempo Run 8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -303,7 +303,7 @@
         </daytrainplan>
         <daytrainplan id="27">
             <desc>Recovery Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -313,8 +313,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="28">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -324,8 +324,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="29">
-            <desc>Foundation Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -335,8 +335,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="30">
-            <desc>Hill Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Hill Repeats 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -346,8 +346,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="31">
-            <desc>Foundation Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -357,8 +357,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="32">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -368,8 +368,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="33">
-            <desc>Intervals（Long）12.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Long intervals 12.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>12.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -380,7 +380,7 @@
         </daytrainplan>
         <daytrainplan id="34">
             <desc>Recovery Run 4.8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -390,8 +390,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="35">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -401,8 +401,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="36">
-            <desc>Foundation Run 8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Base Run 8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -413,7 +413,7 @@
         </daytrainplan>
         <daytrainplan id="37">
             <desc>Tempo Run 8km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -423,8 +423,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="38">
-            <desc>Swim 20-30 Minutes</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -436,8 +436,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="39">
-            <desc>Rest Day</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -447,8 +447,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="40">
-            <desc>Intervals（Long）9.6km</desc>
-            <stageDesc>Workout</stageDesc>
+            <desc>Long intervals 9.6km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>9.6</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -459,7 +459,7 @@
         </daytrainplan>
         <daytrainplan id="41">
             <desc>Recovery Run 6.5km</desc>
-            <stageDesc>Workout</stageDesc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -469,8 +469,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="42">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -480,8 +480,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="43">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -491,8 +491,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="44">
-            <desc>Intervals（Short）8km</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Short intervals 8km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -502,8 +502,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="45">
-            <desc>Foundation Run 3.2km</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Base Run 3.2km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -513,8 +513,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="46">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -525,7 +525,7 @@
         </daytrainplan>
         <daytrainplan id="47">
             <desc>Tempo Run 9.1km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>9.1</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -536,7 +536,7 @@
         </daytrainplan>
         <daytrainplan id="48">
             <desc>Recovery Run 4.8km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -546,8 +546,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="49">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -557,8 +557,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="50">
-            <desc>Foundation Run 6.5km</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -568,8 +568,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="51">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -580,7 +580,7 @@
         </daytrainplan>
         <daytrainplan id="52">
             <desc>Recovery Run 3.2km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -590,8 +590,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="53">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -601,8 +601,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="54">
-            <desc>Race Day! 10km</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>finish 10km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>10.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -612,8 +612,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>Rest Day</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -623,3 +623,5 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
 </daytrainplans>
+
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-35">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-119">
     <uses-feature android:name="android.hardware.type.watch"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
@@ -67,5 +67,28 @@
                 <action android:name="com.huami.watch.health.action.restoredata.success"/>
             </intent-filter>
         </receiver>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.reports.DataCenterActivity">
+            <intent-filter>
+                <action android:name="com.huami.watch.report.daily"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.reports.WeeklyReportsActivity"/>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.huami.watch.reports.DailyReportListActivity">
+            <intent-filter>
+                <action android:name="com.huami.watch.report.daily"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.huami.watch.reports.ReportsHistoryDetailActivity"/>
+        <service android:exported="true" android:name="com.huami.watch.reports.MondayAlarmService"/>
+        <receiver android:name="com.huami.watch.reports.MondayAlarmReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="com.huami.watch.reports.report"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.huami.watch.reports.database.DataReportProvider" android:exported="true" android:name="com.huami.watch.reports.database.DataReportProvider"/>
     </application>
 </manifest>

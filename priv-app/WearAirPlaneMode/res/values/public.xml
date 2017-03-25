@@ -207,28 +207,30 @@
     <public type="dimen" name="menu_touch_area" id="0x7f06000d" />
     <public type="dimen" name="size_shadow_dy1" id="0x7f06000e" />
     <public type="dimen" name="size_shadow_radius1" id="0x7f06000f" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f060010" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f060011" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f060012" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f060013" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f060014" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f060015" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f060016" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f060017" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f060018" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f060019" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f06001a" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f06001b" />
-    <public type="dimen" name="size_linechart_width" id="0x7f06001c" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f06001d" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f06001e" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f06001f" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f060020" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f060021" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f060022" />
-    <public type="dimen" name="hmdialog_text_padding" id="0x7f060023" />
-    <public type="dimen" name="hmdialog_text_size" id="0x7f060024" />
-    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f060025" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f060010" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f060011" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f060012" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f060013" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f060014" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f060015" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f060016" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f060017" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f060018" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f060019" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f06001a" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f06001b" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f06001c" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f06001d" />
+    <public type="dimen" name="size_linechart_width" id="0x7f06001e" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f06001f" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f060020" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f060021" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f060022" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f060023" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f060024" />
+    <public type="dimen" name="hmdialog_text_padding" id="0x7f060025" />
+    <public type="dimen" name="hmdialog_text_size" id="0x7f060026" />
+    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f060027" />
     <public type="string" name="average_text" id="0x7f070000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f070001" />
     <public type="string" name="picker_default_positive_text" id="0x7f070002" />
@@ -238,11 +240,18 @@
     <public type="string" name="ui_lib_name" id="0x7f070006" />
     <public type="string" name="title_settings" id="0x7f070007" />
     <public type="string" name="sport_music_settings" id="0x7f070008" />
-    <public type="string" name="opened" id="0x7f070009" />
-    <public type="string" name="closed" id="0x7f07000a" />
-    <public type="string" name="air_plane_mode_note" id="0x7f07000b" />
-    <public type="string" name="app_name" id="0x7f07000c" />
-    <public type="string" name="action_settings" id="0x7f07000d" />
+    <public type="string" name="opened" id="0x7f070010" />
+    <public type="string" name="closed" id="0x7f070011" />
+    <public type="string" name="air_plane_mode_note" id="0x7f070012" />
+    <public type="string" name="app_name" id="0x7f070013" />
+    <public type="string" name="action_settings" id="0x7f070014" />
+    <public type="string" name="widget_currentstep_title" id="0x7f070009" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f07000a" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f07000b" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07000c" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07000d" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07000e" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f07000f" />
     <public type="style" name="PromptDialog" id="0x7f080000" />
     <public type="style" name="HMProgressBar" id="0x7f080001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f080002" />

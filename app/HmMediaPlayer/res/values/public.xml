@@ -445,27 +445,29 @@
     <public type="dimen" name="menu_touch_area" id="0x7f080040" />
     <public type="dimen" name="size_shadow_dy1" id="0x7f080041" />
     <public type="dimen" name="size_shadow_radius1" id="0x7f080042" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f080043" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f080044" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f080045" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f080046" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f080047" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f080048" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f080049" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f08004a" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f08004b" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f08004c" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f08004d" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f08004e" />
-    <public type="dimen" name="size_linechart_width" id="0x7f08004f" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080050" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080051" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f080052" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f080053" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080054" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f080055" />
-    <public type="dimen" name="header_title_size" id="0x7f080056" />
-    <public type="dimen" name="header_hint_size" id="0x7f080057" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f080043" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f080044" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f080045" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f080046" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f080047" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f080048" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f080049" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f08004a" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f08004b" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f08004c" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f08004d" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f08004e" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f08004f" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f080050" />
+    <public type="dimen" name="size_linechart_width" id="0x7f080051" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080052" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080053" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f080054" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f080055" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080056" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f080057" />
+    <public type="dimen" name="header_title_size" id="0x7f080058" />
+    <public type="dimen" name="header_hint_size" id="0x7f080059" />
     <public type="style" name="AppTheme" id="0x7f09000f" />
     <public type="style" name="NoSwipeDismissDialog" id="0x7f090010" />
     <public type="style" name="PromptDialog" id="0x7f090011" />
@@ -660,6 +662,13 @@
     <public type="string" name="ui_lib_name" id="0x7f0b004d" />
     <public type="string" name="title_settings" id="0x7f0b004e" />
     <public type="string" name="sport_music_settings" id="0x7f0b004f" />
-    <public type="string" name="locale_title" id="0x7f0b0050" />
+    <public type="string" name="locale_title" id="0x7f0b0057" />
+    <public type="string" name="widget_currentstep_title" id="0x7f0b0050" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f0b0051" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0b0052" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0b0053" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0b0054" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0b0055" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f0b0056" />
     <public type="array" name="spring_depend" id="0x7f0c0000" />
 </resources>

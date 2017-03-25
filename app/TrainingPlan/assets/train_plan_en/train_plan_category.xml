@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <trainplans>
         <trainplan id="1">
-            <title>New Runner</title>
+            <title>Beginner</title>
             <type>1</type>
             <orderId>1</orderId>
-            <copyWrite>Beginners from walking to jogging.  This training course help you become a runner.</copyWrite>
+            <copyWrite>Suitable for the first run from walking to jogging. This training can help you step by step to adapt to running.</copyWrite>
             <totalLength>85.6</totalLength>
             <totalDays>56</totalDays>
         </trainplan>
         <trainplan id="2">
-            <title>5K</title>
+            <title>5 km</title>
             <type>2</type>
             <orderId>2</orderId>
             <totalLength>148</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Novice Runners. This course help you improve your running technique.</copyWrite>
+            <copyWrite>Suitable for entry runners. This training can help you get better movement.</copyWrite>
         </trainplan>
         <trainplan id="3">
-            <title>10K</title>
+            <title>10 km</title>
             <type>3</type>
             <orderId>3</orderId>
             <totalLength>212</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Advanced Runners.  This course help you improve your aerobic and strength conditioning.</copyWrite>
+            <copyWrite>Suitable for advanced runners. This training helps to improve your aerobic fitness and muscle strength.</copyWrite>
         </trainplan>
         <trainplan id="4">
-            <title>Half Marathon</title>
+            <title>Half marathon</title>
             <type>4</type>
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Half Marathon Race Training.  Course to improve your running endurance.  </copyWrite>
+            <copyWrite>Suitable for half racing. This training helps to improve your ability to run for a long time.</copyWrite>
         </trainplan>
         <trainplan id="5">
-            <title>Full Marathon</title>
+            <title>Marathon</title>
             <type>5</type>
             <orderId>5</orderId>
             <totalLength>436.0</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Full Marathon Race Training.  Help predict your time and plan your race strategy.</copyWrite>
+            <copyWrite>Suitable for all races. This training can help you predict your performance and help you plan your own pace and match strategy.</copyWrite>
         </trainplan>
 </trainplans>

@@ -3,61 +3,63 @@
         <runremind id="0">
             <runType>Run</runType>
             <trainContent>Jog</trainContent>
-            <copyWrite>Jog 800m/Walk 200m interval. Target HR%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m easy jogging + 200m walking then repeat. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="1">
             <runType>Run</runType>
             <trainContent>Recovery Run</trainContent>
-            <copyWrite>Easy Jog. Target HR%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Easy joggying. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Run</runType>
-            <trainContent>Foundation Run</trainContent>
-            <copyWrite>Run at conversational pace.  Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Base Run</trainContent>
+            <copyWrite>Run at conversational pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
             <runType>Run</runType>
-            <trainContent>Technical Run</trainContent>
-            <copyWrite>Little faster than normal pace. Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Progression Run</trainContent>
+            <copyWrite>Start at a slow and comfortable pace then gradually increase your normal running pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
             <runType>Run</runType>
-            <trainContent>Fartlek Run</trainContent>
-            <copyWrite>Free run - mix of fast and slow pace. Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>A base run that mixes in intervals of varying duration or distance. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Run</runType>
-            <trainContent>Hill Run</trainContent>
-            <copyWrite>Select a section with hilly terrain. Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Hill Repeats</trainContent>
+            <copyWrite>Run on a uphill at a steady, moderate gradient of 4 to 6 percent.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
             <runType>Run</runType>
             <trainContent>Tempo Run</trainContent>
-            <copyWrite>Mantain at a constant speed. Target HR%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Run at a normal and steady pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="7">
             <runType>Run</runType>
-            <trainContent>Intervals（Short)</trainContent>
-            <copyWrite>Fast 800m/Walk 800m inerval. Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Short intervals</trainContent>
+            <copyWrite>800m fast run + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="8">
             <runType>Run</runType>
-            <trainContent>Intervals（Long)</trainContent>
-            <copyWrite>Fast 2.4km/Walk 800m interval. Target HR%1$d-%2$dbpm</copyWrite>
+            <trainContent>Long intervals</trainContent>
+            <copyWrite>2.4km jogging + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="9">
             <runType>Rest</runType>
             <trainContent></trainContent>
-            <copyWrite>Take a break, No training today. %1$d day from start of training</copyWrite>
+            <copyWrite>Rest today.%1$d day(s) to next workout</copyWrite>
         </runremind>
         <runremind id="10">
             <runType>Swim</runType>
             <trainContent></trainContent>
-            <copyWrite>Swimming can help recovery.  Mark here when finished.</copyWrite>
+            <copyWrite>Swimming helps recovery from speedwork. Remember to mark today as complete after swim.</copyWrite>
         </runremind>
         <runremind id="11">
             <runType>Bike</runType>
             <trainContent></trainContent>
-            <copyWrite>Cross training can increase energy and sped recovery. Target HR%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Cross-training improves performance and helps recovery from intense speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
 </runreminds>
+
+
