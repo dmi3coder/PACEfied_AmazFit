@@ -42,6 +42,7 @@
     <string name="nodisturb">Silent</string>
     <string name="auto_airplane">Auto Airplane</string>
     <string name="wifi_upload">Upload</string>
+    <string name="replace_watchface">Replace WatchFace</string>
     <string name="nothing">Empty</string>
     <string name="about_title">About</string>
     <string name="model">Model</string>
@@ -160,6 +161,8 @@ kg"</string>
     <string name="time_hms">Time(H/M/S)</string>
     <string name="time_format">Time Format</string>
     <string name="hour_system">%s-hour system</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="strong">strong</string>
     <string name="mid">mid</string>
     <string name="weak">weak</string>

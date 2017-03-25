@@ -10,7 +10,7 @@
             </LinearLayout>
             <View android:background="@color/white_alpha_66" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="7.0dip" style="@style/base_gray_line" />
             <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                <TextView android:textColor="@color/white_alpha_cc" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/train_mileage" android:textAlignment="center" style="@style/train_plan_detail_train_title" />
+                <TextView android:textColor="@color/white_alpha_cc" android:layout_gravity="center_horizontal" android:id="@id/train_mileage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/train_mileage" android:textAlignment="center" style="@style/train_plan_detail_train_title" />
                 <com.huami.watch.train.ui.widget.NumberTextView android:layout_gravity="center_horizontal" android:id="@id/number_train_mils" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center" style="@style/train_plan_detail_train_number" />
             </LinearLayout>
         </LinearLayout>

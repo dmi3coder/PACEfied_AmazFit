@@ -444,7 +444,9 @@
     <dimen name="menu_touch_area">25.0dip</dimen>
     <dimen name="size_shadow_dy1">2.0dip</dimen>
     <dimen name="size_shadow_radius1">2.0dip</dimen>
+    <dimen name="size_shadow_radius2">4.0dip</dimen>
     <dimen name="size_xaxis_label_font">13.329987sp</dimen>
+    <dimen name="size_xaxis_label_font2">12.0sp</dimen>
     <dimen name="size_linechart_line_width">3.0dip</dimen>
     <dimen name="size_linechart_minmax_font">16.0dip</dimen>
     <dimen name="size_ybar_radius">1.3299866dip</dimen>
@@ -459,7 +461,7 @@
     <dimen name="size_linechart_width">148.0dip</dimen>
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
-    <dimen name="pickview_unit_size">12.0sp</dimen>
+    <dimen name="pickview_unit_size">10.0sp</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>

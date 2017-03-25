@@ -62,6 +62,7 @@
     <item type="id" name="train_center_title">false</item>
     <item type="id" name="rl_container">false</item>
     <item type="id" name="number_train_days">false</item>
+    <item type="id" name="train_mileage">false</item>
     <item type="id" name="number_train_mils">false</item>
     <item type="id" name="start_new_train_plan">false</item>
     <item type="id" name="recyclearView_up_line">false</item>

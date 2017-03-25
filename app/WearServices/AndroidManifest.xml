@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-35">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-119">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -96,6 +96,14 @@
             <intent-filter>
                 <action android:name="android.intent.action.DROPBOX_ENTRY_ADDED"/>
                 <action android:name="com.huami.watch.crashmonitor.UPLOAD_CRASH"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.transport.WifiUploadAlarmBroadCastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+                <action android:name="android.intent.action.DATE_CHANGED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="com.huami.watch.wifiupload.AUTOMATIC_UPLOAD"/>
             </intent-filter>
         </receiver>
     </application>

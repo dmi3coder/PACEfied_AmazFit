@@ -12,10 +12,11 @@
     <string name="custom_exit_delete">退出删除</string>
     <string name="custom_none_custom_background_title">暂无图片</string>
     <string name="custom_none_custom_background_content">请在华米手表App的表盘列表页上传</string>
-    <string name="custom_widget_preview_date">\@assets/datawidget/preview_6_0.png</string>
+    <string name="custom_widget_preview_date">\@assets/datawidget/preview_6_%d.png</string>
     <string name="custom_title_bg">背景</string>
     <string name="custom_title_graduation">刻度</string>
     <string name="custom_title_timehand">指针</string>
+    <string name="custom_title_timedigital">数字时间</string>
     <string name="custom_title_date">日期</string>
     <string name="custom_data_widget_title_default">数据</string>
     <string name="custom_data_widget_title_nothing">不显示</string>
@@ -29,6 +30,7 @@
     <string name="custom_data_widget_title_battery">电量</string>
     <string name="custom_data_widget_title_msg">未读消息</string>
     <string name="custom_data_widget_title_date">日期</string>
+    <string name="custom_data_widget_date_2">datawidget/date_2/week_%d.png</string>
     <string name="cube_month">月</string>
     <string name="cube_day">日</string>
     <string name="digital_sport_eight_week_path">guard/shiguanglicheng/watchface_slpt_number_week_%d.png</string>
@@ -62,4 +64,11 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>

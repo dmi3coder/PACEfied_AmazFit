@@ -10,10 +10,10 @@ public class TrainWeeklyRecordDetailFragment$$ViewBinder<T extends com.huami.wat
     View view;
     view = finder.findRequiredView(source, 2131492884, "field 'trainRecordTitle'");
     target.trainRecordTitle = finder.castView(view, 2131492884, "field 'trainRecordTitle'");
-    view = finder.findRequiredView(source, 2131492957, "field 'currentWeekNumber'");
-    target.currentWeekNumber = finder.castView(view, 2131492957, "field 'currentWeekNumber'");
-    view = finder.findRequiredView(source, 2131492958, "field 'recyclearView'");
-    target.recyclearView = finder.castView(view, 2131492958, "field 'recyclearView'");
+    view = finder.findRequiredView(source, 2131492958, "field 'currentWeekNumber'");
+    target.currentWeekNumber = finder.castView(view, 2131492958, "field 'currentWeekNumber'");
+    view = finder.findRequiredView(source, 2131492959, "field 'recyclearView'");
+    target.recyclearView = finder.castView(view, 2131492959, "field 'recyclearView'");
     view = finder.findRequiredView(source, 2131492876, "field 'fullScrollView'");
     target.fullScrollView = finder.castView(view, 2131492876, "field 'fullScrollView'");
   }

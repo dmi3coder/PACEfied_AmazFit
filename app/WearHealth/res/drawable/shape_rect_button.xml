@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/widget_title_color_30white" />
+    <corners android:topLeftRadius="10.0dip" android:topRightRadius="10.0dip" android:bottomLeftRadius="10.0dip" android:bottomRightRadius="10.0dip" />
+    <size android:height="32.0dip" android:width="106.69998dip" />
+</shape>

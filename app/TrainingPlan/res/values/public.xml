@@ -295,26 +295,38 @@
     <public type="string" name="day_train_plan_record_marked" id="0x7f07001b" />
     <public type="string" name="train_plan_recode_finished" id="0x7f07001c" />
     <public type="string" name="train_mileage" id="0x7f07001d" />
-    <public type="string" name="train_days" id="0x7f07001e" />
-    <public type="string" name="train_finish" id="0x7f07001f" />
-    <public type="string" name="train_finished" id="0x7f070020" />
-    <public type="string" name="today" id="0x7f070021" />
-    <public type="string" name="train_complete_rate" id="0x7f070022" />
-    <public type="string" name="assing_train_plan" id="0x7f070023" />
-    <public type="string" name="train_plan_already_assgn" id="0x7f070024" />
-    <public type="string" name="notification_title" id="0x7f070025" />
-    <public type="string" name="notificaiton_train_content" id="0x7f070026" />
-    <public type="string" name="this_train_record_finish" id="0x7f070027" />
-    <public type="string" name="train_finish_reason" id="0x7f070028" />
-    <public type="string" name="average_text" id="0x7f070029" />
-    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f07002a" />
-    <public type="string" name="picker_default_positive_text" id="0x7f07002b" />
-    <public type="string" name="picker_default_nagetive_text" id="0x7f07002c" />
-    <public type="string" name="no_heartrate_data_hint" id="0x7f07002d" />
-    <public type="string" name="no_altitude_hint" id="0x7f07002e" />
-    <public type="string" name="ui_lib_name" id="0x7f07002f" />
-    <public type="string" name="title_settings" id="0x7f070030" />
-    <public type="string" name="sport_music_settings" id="0x7f070031" />
+    <public type="string" name="train_mileage_mils" id="0x7f07001e" />
+    <public type="string" name="train_days" id="0x7f07001f" />
+    <public type="string" name="train_finish" id="0x7f070020" />
+    <public type="string" name="train_finished" id="0x7f070021" />
+    <public type="string" name="today" id="0x7f070022" />
+    <public type="string" name="train_complete_rate" id="0x7f070023" />
+    <public type="string" name="assing_train_plan" id="0x7f070024" />
+    <public type="string" name="train_plan_already_assgn" id="0x7f070025" />
+    <public type="string" name="notification_title" id="0x7f070026" />
+    <public type="string" name="notificaiton_train_content" id="0x7f070027" />
+    <public type="string" name="this_train_record_finish" id="0x7f070028" />
+    <public type="string" name="train_finish_reason" id="0x7f070029" />
+    <public type="string" name="length_unit_km" id="0x7f07002a" />
+    <public type="string" name="length_unit_miles" id="0x7f07002b" />
+    <public type="string" name="unit_yinli" id="0x7f07002c" />
+    <public type="string" name="unit_gongli" id="0x7f07002d" />
+    <public type="string" name="average_text" id="0x7f07002e" />
+    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f07002f" />
+    <public type="string" name="picker_default_positive_text" id="0x7f070030" />
+    <public type="string" name="picker_default_nagetive_text" id="0x7f070031" />
+    <public type="string" name="no_heartrate_data_hint" id="0x7f070032" />
+    <public type="string" name="no_altitude_hint" id="0x7f070033" />
+    <public type="string" name="ui_lib_name" id="0x7f070034" />
+    <public type="string" name="title_settings" id="0x7f070035" />
+    <public type="string" name="sport_music_settings" id="0x7f070036" />
+    <public type="string" name="widget_currentstep_title" id="0x7f070037" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f070038" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f070039" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07003a" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07003b" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07003c" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f07003d" />
     <public type="color" name="main_bg_color" id="0x7f080000" />
     <public type="color" name="blt_setting_bg_color" id="0x7f080001" />
     <public type="color" name="loading_txt_color" id="0x7f080002" />
@@ -482,28 +494,30 @@
     <public type="dimen" name="menu_touch_area" id="0x7f090026" />
     <public type="dimen" name="size_shadow_dy1" id="0x7f090027" />
     <public type="dimen" name="size_shadow_radius1" id="0x7f090028" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f090029" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f09002a" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f09002b" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f09002c" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f09002d" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f09002e" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f09002f" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f090030" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f090031" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f090032" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f090033" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f090034" />
-    <public type="dimen" name="size_linechart_width" id="0x7f090035" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f090036" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f090037" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f090038" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f090039" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f09003a" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f09003b" />
-    <public type="dimen" name="card_content_padding_rect_top" id="0x7f09003c" />
-    <public type="dimen" name="close_button_diameter" id="0x7f09003d" />
-    <public type="dimen" name="dismiss_padding" id="0x7f09003e" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f090029" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f09002a" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f09002b" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f09002c" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f09002d" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f09002e" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f09002f" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f090030" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f090031" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f090032" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f090033" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f090034" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f090035" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f090036" />
+    <public type="dimen" name="size_linechart_width" id="0x7f090037" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f090038" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f090039" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f09003a" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f09003b" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f09003c" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f09003d" />
+    <public type="dimen" name="card_content_padding_rect_top" id="0x7f09003e" />
+    <public type="dimen" name="close_button_diameter" id="0x7f09003f" />
+    <public type="dimen" name="dismiss_padding" id="0x7f090040" />
     <public type="array" name="weekdays" id="0x7f0a0000" />
     <public type="array" name="simple_weekdays" id="0x7f0a0001" />
     <public type="array" name="train_finish_reason_strs" id="0x7f0a0002" />
@@ -628,44 +642,45 @@
     <public type="id" name="train_center_title" id="0x7f0c0046" />
     <public type="id" name="rl_container" id="0x7f0c0047" />
     <public type="id" name="number_train_days" id="0x7f0c0048" />
-    <public type="id" name="number_train_mils" id="0x7f0c0049" />
-    <public type="id" name="start_new_train_plan" id="0x7f0c004a" />
-    <public type="id" name="recyclearView_up_line" id="0x7f0c004b" />
-    <public type="id" name="list_history_records" id="0x7f0c004c" />
-    <public type="id" name="recyclearView_down_line" id="0x7f0c004d" />
-    <public type="id" name="txt_my_train_title" id="0x7f0c004e" />
-    <public type="id" name="rl_finish_percent" id="0x7f0c004f" />
-    <public type="id" name="txt_train_progress" id="0x7f0c0050" />
-    <public type="id" name="progress_bar" id="0x7f0c0051" />
-    <public type="id" name="left_train_days" id="0x7f0c0052" />
-    <public type="id" name="train_days" id="0x7f0c0053" />
-    <public type="id" name="right_train_miles" id="0x7f0c0054" />
-    <public type="id" name="train_mils" id="0x7f0c0055" />
-    <public type="id" name="list_train_weeklys" id="0x7f0c0056" />
-    <public type="id" name="txt_train_finish" id="0x7f0c0057" />
-    <public type="id" name="day_train_record_stag" id="0x7f0c0058" />
-    <public type="id" name="txt_train_center_detail" id="0x7f0c0059" />
-    <public type="id" name="rl_middle_container" id="0x7f0c005a" />
-    <public type="id" name="day_train_record_copywrite" id="0x7f0c005b" />
-    <public type="id" name="day_train_record_rich_title" id="0x7f0c005c" />
-    <public type="id" name="current_week_number" id="0x7f0c005d" />
-    <public type="id" name="recyclear_view" id="0x7f0c005e" />
-    <public type="id" name="anchor_view" id="0x7f0c005f" />
-    <public type="id" name="picker_listview" id="0x7f0c0060" />
-    <public type="id" name="picker_unit" id="0x7f0c0061" />
-    <public type="id" name="title" id="0x7f0c0062" />
-    <public type="id" name="text" id="0x7f0c0063" />
-    <public type="id" name="init_ll_train_center_init" id="0x7f0c0064" />
-    <public type="id" name="init_train_center_init_remind" id="0x7f0c0065" />
-    <public type="id" name="init_train_center_title" id="0x7f0c0066" />
-    <public type="id" name="task_un_ing_container" id="0x7f0c0067" />
-    <public type="id" name="ll_start_new_train_container" id="0x7f0c0068" />
-    <public type="id" name="txt_start_new_train" id="0x7f0c0069" />
-    <public type="id" name="task_un_ing_train_detail_container" id="0x7f0c006a" />
-    <public type="id" name="tasking_ll_train_center_init" id="0x7f0c006b" />
-    <public type="id" name="task_ing_train_detail_container" id="0x7f0c006c" />
-    <public type="id" name="layer_master_container" id="0x7f0c006d" />
-    <public type="id" name="layer_title" id="0x7f0c006e" />
-    <public type="id" name="loading_red_dot" id="0x7f0c006f" />
-    <public type="id" name="dialog_container" id="0x7f0c0070" />
+    <public type="id" name="train_mileage" id="0x7f0c0049" />
+    <public type="id" name="number_train_mils" id="0x7f0c004a" />
+    <public type="id" name="start_new_train_plan" id="0x7f0c004b" />
+    <public type="id" name="recyclearView_up_line" id="0x7f0c004c" />
+    <public type="id" name="list_history_records" id="0x7f0c004d" />
+    <public type="id" name="recyclearView_down_line" id="0x7f0c004e" />
+    <public type="id" name="txt_my_train_title" id="0x7f0c004f" />
+    <public type="id" name="rl_finish_percent" id="0x7f0c0050" />
+    <public type="id" name="txt_train_progress" id="0x7f0c0051" />
+    <public type="id" name="progress_bar" id="0x7f0c0052" />
+    <public type="id" name="left_train_days" id="0x7f0c0053" />
+    <public type="id" name="train_days" id="0x7f0c0054" />
+    <public type="id" name="right_train_miles" id="0x7f0c0055" />
+    <public type="id" name="train_mils" id="0x7f0c0056" />
+    <public type="id" name="list_train_weeklys" id="0x7f0c0057" />
+    <public type="id" name="txt_train_finish" id="0x7f0c0058" />
+    <public type="id" name="day_train_record_stag" id="0x7f0c0059" />
+    <public type="id" name="txt_train_center_detail" id="0x7f0c005a" />
+    <public type="id" name="rl_middle_container" id="0x7f0c005b" />
+    <public type="id" name="day_train_record_copywrite" id="0x7f0c005c" />
+    <public type="id" name="day_train_record_rich_title" id="0x7f0c005d" />
+    <public type="id" name="current_week_number" id="0x7f0c005e" />
+    <public type="id" name="recyclear_view" id="0x7f0c005f" />
+    <public type="id" name="anchor_view" id="0x7f0c0060" />
+    <public type="id" name="picker_listview" id="0x7f0c0061" />
+    <public type="id" name="picker_unit" id="0x7f0c0062" />
+    <public type="id" name="title" id="0x7f0c0063" />
+    <public type="id" name="text" id="0x7f0c0064" />
+    <public type="id" name="init_ll_train_center_init" id="0x7f0c0065" />
+    <public type="id" name="init_train_center_init_remind" id="0x7f0c0066" />
+    <public type="id" name="init_train_center_title" id="0x7f0c0067" />
+    <public type="id" name="task_un_ing_container" id="0x7f0c0068" />
+    <public type="id" name="ll_start_new_train_container" id="0x7f0c0069" />
+    <public type="id" name="txt_start_new_train" id="0x7f0c006a" />
+    <public type="id" name="task_un_ing_train_detail_container" id="0x7f0c006b" />
+    <public type="id" name="tasking_ll_train_center_init" id="0x7f0c006c" />
+    <public type="id" name="task_ing_train_detail_container" id="0x7f0c006d" />
+    <public type="id" name="layer_master_container" id="0x7f0c006e" />
+    <public type="id" name="layer_title" id="0x7f0c006f" />
+    <public type="id" name="loading_red_dot" id="0x7f0c0070" />
+    <public type="id" name="dialog_container" id="0x7f0c0071" />
 </resources>

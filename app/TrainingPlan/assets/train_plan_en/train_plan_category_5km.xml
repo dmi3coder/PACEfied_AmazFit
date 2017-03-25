@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <daytrainplans>
         <daytrainplan id="0">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -12,8 +12,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="1">
-            <desc>基础跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -23,8 +23,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="2">
-            <desc>法特莱克跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Fartlek 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -34,8 +34,8 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="3">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -45,8 +45,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="4">
-            <desc>游泳 20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Swim 20-30minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -58,8 +58,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="5">
-            <desc>进阶跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Progression Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -69,8 +69,8 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="6">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -80,8 +80,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="7">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -91,8 +91,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="8">
-            <desc>基础跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -102,8 +102,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="9">
-            <desc>进阶跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Progression Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -113,8 +113,8 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="10">
-            <desc>骑行20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Bike20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -126,8 +126,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="11">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -137,8 +137,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="12">
-            <desc>基础跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -148,8 +148,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="13">
-            <desc>恢复跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Recovery Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -159,8 +159,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="14">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -170,8 +170,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="15">
-            <desc>基础跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -181,8 +181,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="16">
-            <desc>节奏跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Tempo Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -192,8 +192,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="17">
-            <desc>游泳 20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -205,8 +205,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="18">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -216,8 +216,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="19">
-            <desc>基础跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -227,8 +227,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="20">
-            <desc>恢复跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Recovery Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -238,8 +238,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="21">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -249,8 +249,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="22">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -260,8 +260,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="23">
-            <desc>坡度跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Hill Repeats 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -271,8 +271,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="24">
-            <desc>骑行20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Bike20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -284,8 +284,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="25">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -295,8 +295,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="26">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -306,8 +306,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="27">
-            <desc>恢复跑 3.2km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Recovery Run 3.2km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -317,8 +317,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="28">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -328,8 +328,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="29">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -339,8 +339,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="30">
-            <desc>坡度跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Hill Repeats 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -350,8 +350,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="31">
-            <desc>游泳 20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -363,8 +363,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="32">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -374,8 +374,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="33">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -385,8 +385,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="34">
-            <desc>恢复跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Recovery Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -396,8 +396,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="35">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -407,8 +407,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="36">
-            <desc>基础跑 8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -418,8 +418,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="37">
-            <desc>间歇跑（短） 6.4km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Short intervals 6.4km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>6.4</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -429,8 +429,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="38">
-            <desc>游泳 20-30分钟</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -442,8 +442,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="39">
-            <desc>休息日</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -453,8 +453,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="40">
-            <desc>基础跑 8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Base Run 8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -464,8 +464,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="41">
-            <desc>恢复跑 4.8km</desc>
-            <stageDesc>基础锻炼</stageDesc>
+            <desc>Recovery Run 4.8km</desc>
+            <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -475,8 +475,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="42">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -486,8 +486,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="43">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -497,8 +497,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="44">
-            <desc>间歇跑（短） 4.8km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Short intervals 4.8km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -508,8 +508,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="45">
-            <desc>游泳 20-30分钟</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Swim 20-30 minute</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -521,8 +521,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="46">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -532,8 +532,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="47">
-            <desc>基础跑 6.5km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Base Run 6.5km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -543,8 +543,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="48">
-            <desc>恢复跑 3.2km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Recovery Run 3.2km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -554,8 +554,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="49">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -565,8 +565,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="50">
-            <desc>基础跑 4.8km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Base Run 4.8km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -576,8 +576,8 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="51">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -587,8 +587,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="52">
-            <desc>恢复跑 3.2km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Recovery Run 3.2km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -598,8 +598,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="53">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -609,8 +609,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="54">
-            <desc>完成一个5km</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>finish 5km</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>5.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -620,8 +620,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>休息日</desc>
-            <stageDesc>减量阶段</stageDesc>
+            <desc>Rest</desc>
+            <stageDesc>Tapering period</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="activity_main">false</item>
+    <item type="id" name="bar">false</item>
+    <item type="id" name="wifi_text">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="message_title">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="success_layout">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="message_top">false</item>
+    <item type="id" name="message_time">false</item>
+    <item type="id" name="message_bottom">false</item>
+    <item type="id" name="upload_layout">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="upload_percent">false</item>
+    <item type="id" name="percent_sign">false</item>
+    <item type="id" name="wifi_icon">false</item>
+    <item type="id" name="please_keep_wifi">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
+</resources>

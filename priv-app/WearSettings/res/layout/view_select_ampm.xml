@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.huami.moblie.watchsettings.actions.timezone.widget.NumberPickerView android:id="@id/apm_picker" android:layout_width="fill_parent" android:layout_height="fill_parent" app:npv_ShowCount="3" app:npv_ShowDivider="false" app:npv_TextSizeNormal="20.0sp" app:npv_TextSizeSelected="28.0sp" app:npv_WrapSelectorWheel="false" app:npv_ItemPaddingHorizontal="5.0dip" app:npv_ItemPaddingVertical="5.0dip" app:npv_RespondChangeInMainThread="false" />
+</LinearLayout>
