@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="permlab_BTShareManager">Udostęp. BT.</string>
-    <string name="permdesc_BTShareManager">Zezwalaj aplikacji na dostęp do menedżera BTShare i używanie go do przesył. plików.</string>
-    <string name="permlab_BTWhitelist">Lista urządzeń z dostępem do BT</string>
-    <string name="permdesc_BTWhitelist">Zezwól aplikacji na tymczasowy dostęp do listy urządzeń z dostępem BT, dzięki czemu urządzenie to ma zgodę na wysyłanie plików do tego urządzenia bez potwierdzenia przez użytkownika.</string>
     <string name="bt_share_picker_label">BT</string>
     <string name="unknown_device">Nieznane urządzenie</string>
     <string name="unknownNumber">Nieznane</string>
@@ -99,16 +95,8 @@
     <string name="transfer_menu_open">Otwórz</string>
     <string name="transfer_menu_clear">Usuń z listy</string>
     <string name="transfer_clear_dlg_title">Usuń</string>
-    <string name="BT_share_file_name">BT_content_share</string>
     <string name="sharedUserId" />
     <string name="process" />
-    <string name="BT_map_email_settings_save">Zapisz</string>
-    <string name="BT_map_email_settings_cancel">Anuluj</string>
-    <string name="BT_map_email_settings_intro">Wybierz konta email, które chcesz udostępnić przez BT. Nadal musisz zaakceptować dostęp do kont podczas podłączania.</string>
-    <string name="BT_map_email_settings_count">Przestrzeń dostępna:</string>
-    <string name="BT_map_email_settings_app_icon">Ikona aplikacji</string>
-    <string name="BT_map_email_settings_title">Udostęp. BT Ustawienia wiadomości</string>
-    <string name="BT_map_email_settings_no_account_slots_left">Nie można wybrać konta.</string>
     <string name="pbap_session_key_dialog_title">Wpisz klucz sesji dla %1$s</string>
     <string name="pbap_session_key_dialog_header">Wymagany klucz sesji BT</string>
     <string name="pbap_acceptance_timeout_message">Koniec czasu na akceptację połączenia z %1$s</string>

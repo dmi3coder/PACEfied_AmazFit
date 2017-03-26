@@ -81,10 +81,7 @@
     <string name="hm_generic_notification_iconified_content_line">Soy fan de Amazfit</string>
     <string name="notification_action_more">Más</string>
     <string name="notification_time_just">ahora</string>
-    <string name="notification_time_minute">hace %s min</string>
-    <string name="notification_time_hour">hace %s h.</string>
     <string name="notification_time_yesterday">ayer</string>
-    <string name="notification_time_day">hace %s días</string>
     <string name="wathc_disconnection_title">No esta conectado</string>
     <string name="wathc_disconnection_content">Desconectado</string>
     <string name="notificaton_empty_message">Sin avisos</string>

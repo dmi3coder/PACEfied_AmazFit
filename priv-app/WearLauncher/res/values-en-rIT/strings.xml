@@ -82,10 +82,7 @@
     <string name="hm_generic_notification_iconified_content_line">"Ciao, io sono un fan di Huami"</string>
     <string name="notification_action_more">"Altro"</string>
      <string name="notification_time_just">Proprio</string>
-    <string name="notification_time_minute">%s minuti fa</string>
-    <string name="notification_time_hour">%s ore fa</string>
     <string name="notification_time_yesterday">Ieri</string>
-    <string name="notification_time_day">%s giorni prima</string>
     <string name="wathc_disconnection_title">Collegamento</string>
     <string name="wathc_disconnection_content">Scollegato dal telefono</string>
     <string name="notificaton_empty_message">Nessuna notifica</string>

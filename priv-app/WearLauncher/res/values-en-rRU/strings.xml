@@ -274,10 +274,7 @@
   <string name="notification_click_open">Открыть</string>
   <string name="notification_click_upgrade">Установить</string>
   <string name="notification_more_settings">Настройки</string>
-  <string name="notification_time_day">%s дней назад</string>
-  <string name="notification_time_hour">%s час. назад</string>
   <string name="notification_time_just">сейчас</string>
-  <string name="notification_time_minute">%s мин. назад</string>
   <string name="notification_time_yesterday">вчера</string>
   <string name="notification_unread_num">Новых %s</string>
   <string name="notificaton_empty_message">Пусто</string>

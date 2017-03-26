@@ -76,10 +76,7 @@ Nové Upoyornění se již nebudou zobrazovat."</string>
     <string name="hm_generic_notification_iconified_content_line">Dobrý den, já jsem fanoušek čínské rýže :D</string>
     <string name="notification_action_more">Více</string>
     <string name="notification_time_just">jen</string>
-    <string name="notification_time_minute">%spřed minutou</string>
-    <string name="notification_time_hour">%spřed několika hodinami</string>
     <string name="notification_time_yesterday">včera</string>
-    <string name="notification_time_day">%spřed pár dny</string>
     <string name="wathc_disconnection_title">není připojen</string>
     <string name="wathc_disconnection_content">Odpojen od telefonu</string>
     <string name="notificaton_empty_message">žádné zprávy</string>

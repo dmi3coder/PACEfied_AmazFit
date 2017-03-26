@@ -32,7 +32,6 @@
     <string name="stop_watch_left_button_negative">Reset</string>
     <string name="stop_watch_right_button_positive">Start</string>
     <string name="stop_watch_start_button">Start</string>
-    <string name="short_week_prefix">Settimana</string>
     <string name="stop_watch_right_button_negative">Stop</string>
     <string name="stop_watch_lap_text">%d giro(i)</string>
     <string name="stop_watch_default_lap">Cronometro</string>

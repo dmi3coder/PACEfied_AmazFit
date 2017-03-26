@@ -77,10 +77,7 @@ lacking one hour"</string>
     <string name="hm_generic_notification_iconified_content_line">你好我是華米的粉絲</string>
     <string name="notification_action_more">Viac</string>
     <string name="notification_time_just">刚刚</string>
-    <string name="notification_time_minute">%s分钟前</string>
-    <string name="notification_time_hour">%s小时前</string>
     <string name="notification_time_yesterday">昨天</string>
-    <string name="notification_time_day">%s天前</string>
     <string name="wathc_disconnection_title">未连接</string>
     <string name="wathc_disconnection_content">已与手机断开连接</string>
     <string name="notificaton_empty_message">暂无通知</string>

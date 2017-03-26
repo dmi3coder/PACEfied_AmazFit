@@ -33,7 +33,6 @@
     <string name="stop_watch_right_button_positive">Continuar</string>
     <string name="stop_watch_start_button">Iniciar</string>
     <string name="stop_watch_right_button_negative">Pausar</string>
-    <string name="short_week_prefix">Semana</string>
     <string name="stop_watch_lap_text">%d Parcial</string>
     <string name="stop_watch_default_lap">Cronometro</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
