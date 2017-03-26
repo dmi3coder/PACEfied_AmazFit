@@ -2,12 +2,12 @@
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Seleccionar Idioma</string>
-    <string name="app_name">Centro de Formación</string>
-    <string name="app_train_center">Centro de Formación</string>
+    <string name="app_name">Centro de \nFormación</string>
+    <string name="app_train_center">Centro de \nFormación</string>
     <string name="my_train">Mi Formación</string>
     <string name="please_select_train_plan">Seleccionar plan de Formación</string>
     <string name="start_new_train">Empezar Plan de Formación</string>
-    <string name="train_center">Centro de Formación</string>
+    <string name="train_center">Centro de \nFormación</string>
     <string name="train_detail">Detalle</string>
     <string name="day_train_record_stag">%1$s - %2$d Semana - %3$d Day</string>
     <string name="day_train_record_stag_simple">- %1$d Semana - %2$d Day</string>

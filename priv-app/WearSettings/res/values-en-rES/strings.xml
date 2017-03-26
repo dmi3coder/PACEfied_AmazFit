@@ -35,6 +35,7 @@
     <string name="about_title">Acerca de</string>
     <string name="model">Modelo</string>
     <string name="dev_name">Nombre</string>
+    <string name="setting_time_format">Formato de Hora</string>
     <string name="dev_desc">Amazfit Pacefield *Alain*</string>
     <string name="connect">Conexiones</string>
     <string name="common">Ajustes</string>
@@ -140,4 +141,23 @@ y esté cerca"</string>
     <string name="upgrade_checking">Comprobación de actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="hour_system">Formato %s</string>
 </resources>
