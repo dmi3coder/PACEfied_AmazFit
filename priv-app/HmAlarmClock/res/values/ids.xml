@@ -9,6 +9,7 @@
     <item type="id" name="more_alrams">false</item>
     <item type="id" name="add_deskclock">false</item>
     <item type="id" name="alarm_header">false</item>
+    <item type="id" name="am_pm">false</item>
     <item type="id" name="current_time">false</item>
     <item type="id" name="alarm_animation">false</item>
     <item type="id" name="anchor">false</item>
@@ -43,7 +44,9 @@
     <item type="id" name="list_header_number">false</item>
     <item type="id" name="list_header_time">false</item>
     <item type="id" name="alarm_info">false</item>
+    <item type="id" name="time_container">false</item>
     <item type="id" name="alarm_time">false</item>
+    <item type="id" name="alarm_am_pm">false</item>
     <item type="id" name="repeat_description">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
@@ -60,6 +63,9 @@
     <item type="id" name="stop_watch_bottom_right_button_layout">false</item>
     <item type="id" name="right_button">false</item>
     <item type="id" name="stopwatch_lap_list_view">false</item>
+    <item type="id" name="picker_ampm">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
     <item type="id" name="title">false</item>
     <item type="id" name="text">false</item>
 </resources>

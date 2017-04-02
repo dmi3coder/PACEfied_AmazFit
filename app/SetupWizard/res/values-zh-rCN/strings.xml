@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale_title">选择语言</string>
-    <string name="tip_install_wear_companion">请先在手机上安装“华米手表”App。</string>
+    <string name="tip_install_wear_companion">请先在手机上安装“Amazfit手表”App。</string>
     <string name="tip_low_battery">电量需大于5%才可绑定</string>
-    <string name="pair_scan_qr">用“华米手表”App扫描</string>
+    <string name="pair_scan_qr">用“Amazfit手表”App扫描</string>
     <string name="pair_skip">跳过</string>
     <string name="tip_restoring">恢复备份中</string>
     <string name="tip_binding_failed">绑定失败</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.reports.widget.dateview.WeeklyDateSelector android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.huami.watch.reports.widget.dateview.NumberPickerView android:layout_gravity="center_vertical" android:id="@id/picker1" android:layout_width="80.0px" android:layout_height="fill_parent" app:npv_ShowCount="2" app:npv_ShowDivider="false" app:npv_TextSizeNormal="14.0sp" app:npv_TextSizeSelected="18.599976sp" app:npv_WrapSelectorWheel="false" app:npv_ItemPaddingHorizontal="5.0dip" app:npv_ItemPaddingVertical="2.5dip" app:npv_RespondChangeInMainThread="false" />
+    <com.huami.watch.reports.widget.dateview.NumberPickerView android:layout_gravity="center_vertical" android:id="@id/picker2" android:layout_width="190.0px" android:layout_height="fill_parent" app:npv_ShowCount="2" app:npv_ShowDivider="false" app:npv_TextSizeNormal="14.0sp" app:npv_TextSizeSelected="18.599976sp" app:npv_WrapSelectorWheel="false" app:npv_ItemPaddingHorizontal="2.5dip" app:npv_ItemPaddingVertical="5.0dip" app:npv_RespondChangeInMainThread="false" />
+</com.huami.watch.reports.widget.dateview.WeeklyDateSelector>

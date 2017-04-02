@@ -2,6 +2,6 @@
 <shape android:shape="rectangle"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@color/widget_title_color_30white" />
-    <corners android:topLeftRadius="10.0dip" android:topRightRadius="10.0dip" android:bottomLeftRadius="10.0dip" android:bottomRightRadius="10.0dip" />
+    <corners android:topLeftRadius="35.299988dip" android:topRightRadius="35.299988dip" android:bottomLeftRadius="35.299988dip" android:bottomRightRadius="35.299988dip" />
     <size android:height="32.0dip" android:width="106.69998dip" />
 </shape>

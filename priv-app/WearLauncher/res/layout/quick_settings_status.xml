@@ -19,9 +19,9 @@
         <com.huami.watch.common.widget.HmHaloImageView android:id="@id/status_settings" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/icon_status_settings" android:layout_marginStart="8.0dip" />
     </LinearLayout>
     <View android:background="#4dffffff" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="15.299988dip" android:layout_below="@id/status_settings_view" />
-    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="55.0dip" android:layout_alignParentBottom="true">
-        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:drawablePadding="4.0dip" android:layout_marginStart="48.0dip" />
-        <ImageView android:id="@id/status_battery_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_level_icon" android:layout_marginStart="23.299988dip" />
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="55.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:drawablePadding="4.0dip" />
+        <ImageView android:id="@id/status_battery_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_level_icon" android:layout_marginStart="11.299988dip" />
         <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_battery_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:text="@string/not_avalible_temp" android:layout_marginStart="4.0dip" />
     </LinearLayout>
     <include android:id="@id/weather_no_data_dialog" android:visibility="gone" layout="@layout/weather_no_data_alert_dialog" />

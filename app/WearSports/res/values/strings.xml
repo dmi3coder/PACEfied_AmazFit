@@ -295,6 +295,7 @@
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>
     <string name="remind_target_time_training_title_format">Riding%1$dMin</string>
     <string name="complete_training_target_tips">"Save this running to today's training program?"</string>
+    <string name="complete_training_outdoor_riding_target_tips">"Save this riding to today's training program?"</string>
     <string name="not_complete_train_task">The train is not completed. Are you sure to stop?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">meter</string>

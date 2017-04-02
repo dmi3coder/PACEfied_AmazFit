@@ -22,8 +22,8 @@
     <string name="vibration_intensity">震动强度</string>
     <string name="flight_mode">飞行模式</string>
     <string name="hm_lab">华米实验室</string>
-    <string name="bind_app">绑定</string>
-    <string name="amazfit_app">华米手表App</string>
+    <string name="bind_app">绑定手机</string>
+    <string name="amazfit_app">Amazfit手表App</string>
     <string name="personal_info">个人信息</string>
     <string name="time_zone_clock">时间设置</string>
     <string name="setting_time_format">时间制式</string>
@@ -32,13 +32,13 @@
     <string name="device">设备</string>
     <string name="nodisturb">勿扰</string>
     <string name="auto_airplane">自动飞行</string>
-    <string name="wifi_upload">数据上传</string>
+    <string name="wifi_upload">数据同步</string>
     <string name="replace_watchface">更换表盘</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
     <string name="dev_name">名称</string>
-    <string name="dev_desc">Amazfit 运动手表</string>
+    <string name="dev_desc">Amazfit 手表</string>
     <string name="ard_version">Android版本</string>
     <string name="rom_version">版本</string>
     <string name="rom_hint_dev">版本(开发者)</string>
@@ -51,7 +51,7 @@
     <string name="license">法律声明</string>
     <string name="build_time">[DEBUG]编译时间</string>
     <string name="build_desc">[DEBUG]版本描述</string>
-    <string name="legal">请在华米手表</string>
+    <string name="legal">请在Amazfit手表</string>
     <string name="legal2">App内查看</string>
     <string name="lab">实验室</string>
     <string name="opened">已开启</string>

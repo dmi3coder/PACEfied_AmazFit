@@ -46,4 +46,8 @@
         <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
         <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
     </string-array>
+    <string-array name="am_pm">
+        <item>上午</item>
+        <item>下午</item>
+    </string-array>
 </resources>

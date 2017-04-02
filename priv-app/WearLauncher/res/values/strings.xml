@@ -28,9 +28,9 @@
     <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>
-    <string name="quick_settings_switch_auto">Auto Mode</string>
-    <string name="quick_settings_switch_awake">Awake Mode</string>
-    <string name="quick_settings_switch_always">Always Mode</string>
+    <string name="quick_settings_switch_auto">Auto</string>
+    <string name="quick_settings_switch_awake">Awake</string>
+    <string name="quick_settings_switch_always">Always On</string>
     <string name="quick_settings_switch_on">ON</string>
     <string name="quick_settings_switch_off">OFF</string>
     <string name="quick_settings_toast_on">Enabled</string>

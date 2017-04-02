@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="quick_settings_toast_textsize">18.0sp</dimen>
     <dimen name="quicksettings_aqitext_size">16.0sp</dimen>
     <dimen name="dialog_weahter_no_data_title">18.0sp</dimen>
     <dimen name="dialog_weahter_no_data_msg">16.0sp</dimen>
