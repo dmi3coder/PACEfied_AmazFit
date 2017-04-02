@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Zatwierdź</string>
+    <string name="picker_default_nagetive_text">Wył.</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna</string>
+    <string name="no_altitude_hint">Brak danych o wysokości</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="app_name">WifiUploadData</string>
+    <string name="notice_text_success_top">Przesył danych zakoń.</string>
+    <string name="notice_text_failed_top">Błąd przesłu danych</string>
+    <string name="notice_text_success_bottom">Spojrz na mi sport</string>
+    <string name="date">Dane:</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Proszę trzymać zegarek
+  Podłączony do sieci WiFi"</string>
+    <string name="init_wifi">Połączony Wi-Fi</string>
+    <string name="cannot_acess_server">Nie można uzyskać dostępu do serwera</string>
+    <string name="init_user">Sprawdź użytkownika</string>
+    <string name="cannot_upload_user">Nie można zaktualizować danych</string>
+    <string name="please_upload_assist_version">Zaktualiz. wersję pomocy</string>
+    <string name="init_app">Podłączone aplik.</string>
+    <string name="init_update_user">Zaktualizuj użytkownika</string>
+    <string name="see_after_connect_app_token_faield">Pomoc nie powiodła się.</string>
+    <string name="upload_failed_full">Przesył nie powiedzie się, chcesz się zatrzymać?</string>
+    <string name="zero">0</string>
+    <string name="net_failed">Sprawdź połączenie i spróbuj ponownie</string>
+</resources>
