@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acceso al Portal</string>
+    <string name="action_use_network">¿Desea utilizar esta red?</string>
+    <string name="action_do_not_use_network">No puede usar esta red</string>
+    <string name="action_bar_label">Iniciar sesión en la red</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Hecho</string>
+    <string name="abc_action_bar_home_description">Volver al Inicio</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_toolbar_collapse_description">Fallo</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_search_hint">Búsqueda</string>
+    <string name="abc_searchview_description_query">Búsqueda en curso</string>
+    <string name="abc_searchview_description_clear">Borrar Consulta</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_activitychooserview_choose_application">Elegir una app</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">Auto-Test</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Hola Mundo de sección: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">OK</string>
+    <string name="prev_item">en</string>
+    <string name="next_item">Siguiente</string>
+    <string name="retest">Reintentar</string>
+    <string name="start_ppg">Inicio</string>
+    <string name="start_all">Iniciar todo</string>
+    <string name="mic">Micrófono</string>
+    <string name="start">Comenzar</string>
+    <string name="start_gps_test">Iniciar Test Gps</string>
+    <string name="test_vibrator">Vibración del motor (haga clic de nuevo en Cancelar)</string>
+    <string name="test_tp">Prueba de la pantalla táctil</string>
+</resources>

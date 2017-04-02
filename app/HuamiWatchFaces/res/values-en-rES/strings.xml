@@ -4,31 +4,33 @@
     <string name="analog_thirteen_week_path">guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/android/en/week_%d.png</string>
     <string name="custom_title">Fondo</string>
     <string name="custom_confirm">Guardar</string>
-    <string name="custom_header_title">Fondo subido</string>
+    <string name="custom_header_title">Fondo Personalizado</string>
     <string name="custom_select">Seleccionar</string>
     <string name="custom_exit">Salir</string>
     <string name="custom_none_selected">Seleccionar</string>
     <string name="custom_selected_confirm">Confirmar</string>
-    <string name="custom_exit_delete">Salir borrar</string>
-    <string name="custom_none_custom_background_title">Sin Imagen</string>
+    <string name="custom_exit_delete">Salir y borrar</string>
+    <string name="custom_none_custom_background_title">Sin Imagenes</string>
     <string name="custom_none_custom_background_content">Por favor añade un fondo en la apk de Amazfit Watch.</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_0.png</string>
     <string name="custom_title_bg">Fondo</string>
-    <string name="custom_title_graduation">graduación</string>
-    <string name="custom_title_timehand">manos</string>
-    <string name="custom_title_date">fecha</string>
-    <string name="custom_data_widget_title_default">datos</string>
-    <string name="custom_data_widget_title_nothing">no mostrar</string>
-    <string name="custom_data_widget_title_step">pasos</string>
-    <string name="custom_data_widget_title_today_dis">distancia</string>
-    <string name="custom_data_widget_title_total_dis">distancia total</string>
-    <string name="custom_data_widget_title_calorie">calorias</string>
-    <string name="custom_data_widget_title_heart_rate">ritmo cardiaco</string>
-    <string name="custom_data_widget_title_weather">tiempo</string>
-    <string name="custom_data_widget_title_aq">calidad de aire</string>
-    <string name="custom_data_widget_title_battery">bateria</string>
-    <string name="custom_data_widget_title_msg">mensajes no leidos</string>
+    <string name="custom_title_graduation">Graduación</string>
+    <string name="custom_title_timehand">Analógico</string>
+    <string name="custom_title_timedigital">Digitales</string>
+    <string name="custom_title_date">Fecha</string>
+    <string name="custom_data_widget_title_default">Datos</string>
+    <string name="custom_data_widget_title_nothing">No mostrar</string>
+    <string name="custom_data_widget_title_step">Pasos</string>
+    <string name="custom_data_widget_title_today_dis">Distancia</string>
+    <string name="custom_data_widget_title_total_dis">Distancia total</string>
+    <string name="custom_data_widget_title_calorie">Calorias</string>
+    <string name="custom_data_widget_title_heart_rate">Ritmo cardiaco</string>
+    <string name="custom_data_widget_title_weather">Tiempo</string>
+    <string name="custom_data_widget_title_aq">Calidad deL aire</string>
+    <string name="custom_data_widget_title_battery">Batería</string>
+    <string name="custom_data_widget_title_msg">Mensajes no leidos</string>
     <string name="custom_data_widget_title_date">Fecha</string>
+    <string name="custom_data_widget_date_2">datawidget/date_2/en/week_%d.png</string>
     <string name="cube_month">-</string>
     <string name="cube_day" />
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
@@ -56,11 +58,11 @@
     <string name="watch_label_fourteen">Momento Eterno</string>
     <string name="watch_label_fifteen">Gallo de oro</string>
     <string name="watch_today_step">Pasos de Hoy</string>
-    <string name="sport_step">paso</string>
-    <string name="everyminute_times">latido/min</string>
+    <string name="sport_step">Paso</string>
+    <string name="everyminute_times">Latidos/min</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Seleccionar idioma</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desactivar</string>
@@ -68,5 +70,15 @@
     <string name="no_altitude_hint">Datos de altitud no detectados</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ajustes</string>
-    <string name="sport_music_settings">Musica deporte</string>
+    <string name="sport_music_settings">Musica Deportiva</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centro Datos</string>
+    <string name="widget_currentstep_activities">Pasos hoy</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Datos de Sueño de anoche</string>
+    <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
+    <string name="widget_currentstep_activity_no">¿No entrenas hoy?</string>
+<!--END of missed texts by Huami-->
+</resources>
 </resources>

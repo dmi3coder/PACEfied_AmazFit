@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">x</item>
+        <item quantity="one">x</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Kroků</item>
+        <item quantity="one">Kork</item>
+    </plurals>
+</resources>
