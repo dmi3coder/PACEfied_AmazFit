@@ -60,8 +60,7 @@ prosimy o zaktual."</string>
     <string name="password_error">"Nieprawidłowe hasło Wi-Fi,
 wprowadź ponownie "</string>
     <string name="wifi_connect_fail">"Nie można połączyć się z tą 
-siecią. Spróbuj z
-inną siecią Wi-Fi"</string>
+siecią. Spróbuj z inną siecią Wi-Fi"</string>
     <string name="searching">Wyszukiwanie...</string>
     <string name="hasNewUpdateTitle">Aktual.systemu</string>
     <string name="hasNewUpdateInstallContent">%1$s wersja może być zainstal, zainstal.teraz?</string>
@@ -70,12 +69,10 @@ inną siecią Wi-Fi"</string>
     <string name="update_online">Aktual.online</string>
     <string name="update_local">Aktual.z lokal.pliku zip</string>
     <string name="local_update_confirm_1_title">Przeczytaj</string>
-    <string name="local_update_confirm_1_msg">"Aby nowa wersja
-działa prawidłowo, wszystkie Dane użytkownika
-po aktual.zostaną skasowane. Proszę w aplik.
+    <string name="local_update_confirm_1_msg">"Aby nowa wersja działa prawidłowo, 
+wszystkie Dane użytkownika po aktual.zostaną skasowane. Proszę w aplik.
 Amazfit utworzyć kopię zapasową wszyst.danych przed aktual."</string>
-    <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie 
-Dane użtkown.są skopiowane. Aktual.spowoduje 
-usunięcie wszystkich plików
-danych z zegarka, kontynuować?"</string>
+    <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie Dane użtkown.
+są skopiowane. Aktual.spowoduje usunięcie wszystkich 
+plików danych z zegarka, kontynuować?"</string>
 </resources>
