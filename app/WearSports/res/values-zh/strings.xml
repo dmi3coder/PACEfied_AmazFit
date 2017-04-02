@@ -32,7 +32,7 @@
     <string name="crossing_remind_target_individual_title">第 %1d 圈</string>
     <string name="crossing_remind_target_individual_cost_time">用时</string>
     <string name="crossing_remind_target_individual_pace">配速</string>
-    <string name="agps_time_out">搜星辅助已过期, 将导致GPS搜索过慢, 请连接华米手表App更新。</string>
+    <string name="agps_time_out">搜星辅助已过期, 将导致GPS搜索过慢, 请连接Amazfit手表App更新。</string>
     <string name="safe_hearate_remind_content">高于%1dbpm提醒</string>
     <string name="settings_safe_heart_rate_hint">(安全心率)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
@@ -270,6 +270,7 @@
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>
     <string name="remind_target_time_training_title_format">骑行%1$d分钟</string>
     <string name="complete_training_target_tips">是否将本次跑步保存至今日训练计划?</string>
+    <string name="complete_training_outdoor_riding_target_tips">是否将本次骑行保存至今日训练计划?</string>
     <string name="not_complete_train_task">今日训练还未达成，是否结束运动？</string>
     <string name="km_metric">公里</string>
     <string name="metre_metric">米</string>

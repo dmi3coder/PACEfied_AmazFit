@@ -44,6 +44,7 @@
     <color name="widget_color_arc">#ff00d62e</color>
     <color name="widget_color_end_arc">#ff009f18</color>
     <color name="widget_step_color">#ff00e130</color>
+    <color name="widget_step_shadowcolor">#ff556b2f</color>
     <color name="widget_step_title_color">#ffffffff</color>
     <color name="widget_step_value_color">#ff09ff00</color>
     <color name="widget_step_line_color">#ffffffff</color>

@@ -4,6 +4,7 @@
     <item type="id" name="detail_activity_classify_parent">false</item>
     <item type="id" name="data_detail_date_activivties">false</item>
     <item type="id" name="detail_activities_classifyChart">false</item>
+    <item type="id" name="weeklyreports_container">false</item>
     <item type="id" name="activity_heart_rate_full_day">false</item>
     <item type="id" name="recent_rate">false</item>
     <item type="id" name="reset_rate">false</item>
@@ -127,9 +128,16 @@
     <item type="id" name="weekly_period">false</item>
     <item type="id" name="mychartview">false</item>
     <item type="id" name="weeklysports_linear">false</item>
+    <item type="id" name="weeklysports_get_data_Linear">false</item>
     <item type="id" name="weeklysports_title">false</item>
     <item type="id" name="weeklysports_period">false</item>
     <item type="id" name="weeklysports_chartview">false</item>
+    <item type="id" name="weeklysports_none_data_Linear">false</item>
+    <item type="id" name="weeklysports_title_no">false</item>
+    <item type="id" name="weeklysports_period_no">false</item>
+    <item type="id" name="weeklysports_review_button">false</item>
+    <item type="id" name="weeklysports_root">false</item>
+    <item type="id" name="weekly_reports_review">false</item>
     <item type="id" name="dlg_container_id">false</item>
     <item type="id" name="dlg_container">false</item>
     <item type="id" name="opt_btn">false</item>
@@ -311,4 +319,6 @@
     <item type="id" name="stretch_start">false</item>
     <item type="id" name="content">false</item>
     <item type="id" name="retry">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
 </resources>

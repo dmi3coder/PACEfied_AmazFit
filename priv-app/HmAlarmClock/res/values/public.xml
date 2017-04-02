@@ -1,38 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <public type="attr" name="layout_box" id="0x7f010000" />
-    <public type="attr" name="circle_color" id="0x7f010001" />
-    <public type="attr" name="circle_radius" id="0x7f010002" />
-    <public type="attr" name="circle_radius_pressed" id="0x7f010003" />
-    <public type="attr" name="circle_border_width" id="0x7f010004" />
-    <public type="attr" name="circle_border_color" id="0x7f010005" />
-    <public type="attr" name="circle_padding" id="0x7f010006" />
-    <public type="attr" name="shadow_width" id="0x7f010007" />
-    <public type="attr" name="update_interval" id="0x7f010008" />
-    <public type="attr" name="dotSpacing" id="0x7f010009" />
-    <public type="attr" name="dotRadius" id="0x7f01000a" />
-    <public type="attr" name="dotRadiusSelected" id="0x7f01000b" />
-    <public type="attr" name="dotColor" id="0x7f01000c" />
-    <public type="attr" name="dotColorSelected" id="0x7f01000d" />
-    <public type="attr" name="dotFadeWhenIdle" id="0x7f01000e" />
-    <public type="attr" name="dotFadeOutDelay" id="0x7f01000f" />
-    <public type="attr" name="dotFadeOutDuration" id="0x7f010010" />
-    <public type="attr" name="dotFadeInDuration" id="0x7f010011" />
-    <public type="attr" name="dotShadowColor" id="0x7f010012" />
-    <public type="attr" name="dotShadowRadius" id="0x7f010013" />
-    <public type="attr" name="dotShadowDx" id="0x7f010014" />
-    <public type="attr" name="dotShadowDy" id="0x7f010015" />
-    <public type="attr" name="rectLayout" id="0x7f010016" />
-    <public type="attr" name="roundLayout" id="0x7f010017" />
-    <public type="attr" name="circular_layout_gravity" id="0x7f010018" />
-    <public type="attr" name="circular_text_size" id="0x7f010019" />
-    <public type="attr" name="layoutManager" id="0x7f01001a" />
-    <public type="attr" name="spanCount" id="0x7f01001b" />
-    <public type="attr" name="reverseLayout" id="0x7f01001c" />
-    <public type="attr" name="stackFromEnd" id="0x7f01001d" />
-    <public type="attr" name="centerItemInPage" id="0x7f01001e" />
-    <public type="attr" name="itemCountPerPage" id="0x7f01001f" />
-    <public type="attr" name="hm_layout_box" id="0x7f010020" />
+    <public type="attr" name="npv_ShowCount" id="0x7f010000" />
+    <public type="attr" name="npv_ShowDivider" id="0x7f010001" />
+    <public type="attr" name="npv_DividerColor" id="0x7f010002" />
+    <public type="attr" name="npv_DividerMarginLeft" id="0x7f010003" />
+    <public type="attr" name="npv_DividerMarginRight" id="0x7f010004" />
+    <public type="attr" name="npv_DividerHeight" id="0x7f010005" />
+    <public type="attr" name="npv_TextColorNormal" id="0x7f010006" />
+    <public type="attr" name="npv_TextColorSelected" id="0x7f010007" />
+    <public type="attr" name="npv_TextColorHint" id="0x7f010008" />
+    <public type="attr" name="npv_TextSizeNormal" id="0x7f010009" />
+    <public type="attr" name="npv_TextSizeSelected" id="0x7f01000a" />
+    <public type="attr" name="npv_TextSizeHint" id="0x7f01000b" />
+    <public type="attr" name="npv_TextArray" id="0x7f01000c" />
+    <public type="attr" name="npv_MinValue" id="0x7f01000d" />
+    <public type="attr" name="npv_MaxValue" id="0x7f01000e" />
+    <public type="attr" name="npv_WrapSelectorWheel" id="0x7f01000f" />
+    <public type="attr" name="npv_RespondChangeOnDetached" id="0x7f010010" />
+    <public type="attr" name="npv_HintText" id="0x7f010011" />
+    <public type="attr" name="npv_EmptyItemHint" id="0x7f010012" />
+    <public type="attr" name="npv_MarginStartOfHint" id="0x7f010013" />
+    <public type="attr" name="npv_MarginEndOfHint" id="0x7f010014" />
+    <public type="attr" name="npv_ItemPaddingHorizontal" id="0x7f010015" />
+    <public type="attr" name="npv_ItemPaddingVertical" id="0x7f010016" />
+    <public type="attr" name="npv_RespondChangeInMainThread" id="0x7f010017" />
+    <public type="attr" name="npv_TextEllipsize" id="0x7f010018" />
+    <public type="attr" name="npv_AlternativeTextArrayWithMeasureHint" id="0x7f010019" />
+    <public type="attr" name="npv_AlternativeTextArrayWithoutMeasureHint" id="0x7f01001a" />
+    <public type="attr" name="npv_AlternativeHint" id="0x7f01001b" />
+    <public type="attr" name="layout_box" id="0x7f01001c" />
+    <public type="attr" name="circle_color" id="0x7f01001d" />
+    <public type="attr" name="circle_radius" id="0x7f01001e" />
+    <public type="attr" name="circle_radius_pressed" id="0x7f01001f" />
+    <public type="attr" name="circle_border_width" id="0x7f010020" />
+    <public type="attr" name="circle_border_color" id="0x7f010021" />
+    <public type="attr" name="circle_padding" id="0x7f010022" />
+    <public type="attr" name="shadow_width" id="0x7f010023" />
+    <public type="attr" name="update_interval" id="0x7f010024" />
+    <public type="attr" name="dotSpacing" id="0x7f010025" />
+    <public type="attr" name="dotRadius" id="0x7f010026" />
+    <public type="attr" name="dotRadiusSelected" id="0x7f010027" />
+    <public type="attr" name="dotColor" id="0x7f010028" />
+    <public type="attr" name="dotColorSelected" id="0x7f010029" />
+    <public type="attr" name="dotFadeWhenIdle" id="0x7f01002a" />
+    <public type="attr" name="dotFadeOutDelay" id="0x7f01002b" />
+    <public type="attr" name="dotFadeOutDuration" id="0x7f01002c" />
+    <public type="attr" name="dotFadeInDuration" id="0x7f01002d" />
+    <public type="attr" name="dotShadowColor" id="0x7f01002e" />
+    <public type="attr" name="dotShadowRadius" id="0x7f01002f" />
+    <public type="attr" name="dotShadowDx" id="0x7f010030" />
+    <public type="attr" name="dotShadowDy" id="0x7f010031" />
+    <public type="attr" name="rectLayout" id="0x7f010032" />
+    <public type="attr" name="roundLayout" id="0x7f010033" />
+    <public type="attr" name="circular_layout_gravity" id="0x7f010034" />
+    <public type="attr" name="circular_text_size" id="0x7f010035" />
+    <public type="attr" name="layoutManager" id="0x7f010036" />
+    <public type="attr" name="spanCount" id="0x7f010037" />
+    <public type="attr" name="reverseLayout" id="0x7f010038" />
+    <public type="attr" name="stackFromEnd" id="0x7f010039" />
+    <public type="attr" name="centerItemInPage" id="0x7f01003a" />
+    <public type="attr" name="itemCountPerPage" id="0x7f01003b" />
+    <public type="attr" name="hm_layout_box" id="0x7f01003c" />
     <public type="drawable" name="alarm_activity_dismiss_bg" id="0x7f020000" />
     <public type="drawable" name="alarm_activity_snooze_bg" id="0x7f020001" />
     <public type="drawable" name="alarm_animation" id="0x7f020002" />
@@ -256,9 +284,11 @@
     <public type="layout" name="stopwatch_fragment" id="0x7f030012" />
     <public type="layout" name="stopwatch_laplist_fragment" id="0x7f030013" />
     <public type="layout" name="stopwatch_spacer" id="0x7f030014" />
+    <public type="layout" name="time_12_select2" id="0x7f030015" />
+    <public type="layout" name="time_24_select" id="0x7f030016" />
     <public type="layout" name="confirmation_activity_layout" id="0x7f030009" />
     <public type="layout" name="dismiss_overlay" id="0x7f03000b" />
-    <public type="layout" name="watch_card_content" id="0x7f030015" />
+    <public type="layout" name="watch_card_content" id="0x7f030017" />
     <public type="anim" name="alpha_in" id="0x7f040000" />
     <public type="animator" name="progress_indeterminate_scale_material" id="0x7f050000" />
     <public type="animator" name="time_picker_ok_vector_alpha" id="0x7f050001" />
@@ -473,6 +503,7 @@
     <public type="array" name="short_week_days" id="0x7f090004" />
     <public type="array" name="stopwatch_format_set" id="0x7f090005" />
     <public type="array" name="sw_lap_number_set" id="0x7f090006" />
+    <public type="array" name="am_pm" id="0x7f090007" />
     <public type="string" name="app_name" id="0x7f0a0000" />
     <public type="string" name="every_day" id="0x7f0a0001" />
     <public type="string" name="never" id="0x7f0a0002" />
@@ -584,57 +615,63 @@
     <public type="id" name="more_alrams" id="0x7f0d0011" />
     <public type="id" name="add_deskclock" id="0x7f0d0012" />
     <public type="id" name="alarm_header" id="0x7f0d0013" />
-    <public type="id" name="current_time" id="0x7f0d0014" />
-    <public type="id" name="alarm_animation" id="0x7f0d0015" />
-    <public type="id" name="anchor" id="0x7f0d0016" />
-    <public type="id" name="snooze_button" id="0x7f0d0017" />
-    <public type="id" name="dimiss_button" id="0x7f0d0018" />
-    <public type="id" name="desk_clock_edit_container" id="0x7f0d0019" />
-    <public type="id" name="desk_clock_list_container" id="0x7f0d001a" />
-    <public type="id" name="desk_clock_list_repeat" id="0x7f0d001b" />
-    <public type="id" name="desk_clock_timepicker" id="0x7f0d001c" />
-    <public type="id" name="dlg_container_id" id="0x7f0d001d" />
-    <public type="id" name="dlg_container" id="0x7f0d001e" />
-    <public type="id" name="opt_btn" id="0x7f0d001f" />
-    <public type="id" name="dlg_left_btn" id="0x7f0d0020" />
-    <public type="id" name="dlg_stub" id="0x7f0d0021" />
-    <public type="id" name="dlg_right_btn" id="0x7f0d0022" />
-    <public type="id" name="dlg_hint_container" id="0x7f0d0023" />
-    <public type="id" name="dlg_hint" id="0x7f0d0024" />
-    <public type="id" name="dlg_note" id="0x7f0d0025" />
-    <public type="id" name="action_error" id="0x7f0d0026" />
-    <public type="id" name="error_message" id="0x7f0d0027" />
-    <public type="id" name="action_success" id="0x7f0d0028" />
-    <public type="id" name="animation" id="0x7f0d0029" />
-    <public type="id" name="message" id="0x7f0d002a" />
-    <public type="id" name="header" id="0x7f0d002b" />
-    <public type="id" name="add_alarmclock" id="0x7f0d002c" />
-    <public type="id" name="recent_alarmclock" id="0x7f0d002d" />
-    <public type="id" name="dismiss_overlay_explain" id="0x7f0d002e" />
-    <public type="id" name="dismiss_overlay_button" id="0x7f0d002f" />
-    <public type="id" name="lap_number" id="0x7f0d0030" />
-    <public type="id" name="lap_time" id="0x7f0d0031" />
-    <public type="id" name="lap_total" id="0x7f0d0032" />
-    <public type="id" name="list_header_number" id="0x7f0d0033" />
-    <public type="id" name="list_header_time" id="0x7f0d0034" />
-    <public type="id" name="alarm_info" id="0x7f0d0035" />
-    <public type="id" name="alarm_time" id="0x7f0d0036" />
-    <public type="id" name="repeat_description" id="0x7f0d0037" />
-    <public type="id" name="anchor_view" id="0x7f0d0038" />
-    <public type="id" name="picker_listview" id="0x7f0d0039" />
-    <public type="id" name="picker_unit" id="0x7f0d003a" />
-    <public type="id" name="stopwatch_title" id="0x7f0d003b" />
-    <public type="id" name="stop_watch_lap_list_onclick" id="0x7f0d003c" />
-    <public type="id" name="stopwatch_lapnumber" id="0x7f0d003d" />
-    <public type="id" name="stopwatch_laptime" id="0x7f0d003e" />
-    <public type="id" name="stopwatch_clock" id="0x7f0d003f" />
-    <public type="id" name="bottom_button_layout" id="0x7f0d0040" />
-    <public type="id" name="start_button" id="0x7f0d0041" />
-    <public type="id" name="stop_watch_bottom_left_button_layout" id="0x7f0d0042" />
-    <public type="id" name="left_button" id="0x7f0d0043" />
-    <public type="id" name="stop_watch_bottom_right_button_layout" id="0x7f0d0044" />
-    <public type="id" name="right_button" id="0x7f0d0045" />
-    <public type="id" name="stopwatch_lap_list_view" id="0x7f0d0046" />
-    <public type="id" name="title" id="0x7f0d0047" />
-    <public type="id" name="text" id="0x7f0d0048" />
+    <public type="id" name="am_pm" id="0x7f0d0014" />
+    <public type="id" name="current_time" id="0x7f0d0015" />
+    <public type="id" name="alarm_animation" id="0x7f0d0016" />
+    <public type="id" name="anchor" id="0x7f0d0017" />
+    <public type="id" name="snooze_button" id="0x7f0d0018" />
+    <public type="id" name="dimiss_button" id="0x7f0d0019" />
+    <public type="id" name="desk_clock_edit_container" id="0x7f0d001a" />
+    <public type="id" name="desk_clock_list_container" id="0x7f0d001b" />
+    <public type="id" name="desk_clock_list_repeat" id="0x7f0d001c" />
+    <public type="id" name="desk_clock_timepicker" id="0x7f0d001d" />
+    <public type="id" name="dlg_container_id" id="0x7f0d001e" />
+    <public type="id" name="dlg_container" id="0x7f0d001f" />
+    <public type="id" name="opt_btn" id="0x7f0d0020" />
+    <public type="id" name="dlg_left_btn" id="0x7f0d0021" />
+    <public type="id" name="dlg_stub" id="0x7f0d0022" />
+    <public type="id" name="dlg_right_btn" id="0x7f0d0023" />
+    <public type="id" name="dlg_hint_container" id="0x7f0d0024" />
+    <public type="id" name="dlg_hint" id="0x7f0d0025" />
+    <public type="id" name="dlg_note" id="0x7f0d0026" />
+    <public type="id" name="action_error" id="0x7f0d0027" />
+    <public type="id" name="error_message" id="0x7f0d0028" />
+    <public type="id" name="action_success" id="0x7f0d0029" />
+    <public type="id" name="animation" id="0x7f0d002a" />
+    <public type="id" name="message" id="0x7f0d002b" />
+    <public type="id" name="header" id="0x7f0d002c" />
+    <public type="id" name="add_alarmclock" id="0x7f0d002d" />
+    <public type="id" name="recent_alarmclock" id="0x7f0d002e" />
+    <public type="id" name="dismiss_overlay_explain" id="0x7f0d002f" />
+    <public type="id" name="dismiss_overlay_button" id="0x7f0d0030" />
+    <public type="id" name="lap_number" id="0x7f0d0031" />
+    <public type="id" name="lap_time" id="0x7f0d0032" />
+    <public type="id" name="lap_total" id="0x7f0d0033" />
+    <public type="id" name="list_header_number" id="0x7f0d0034" />
+    <public type="id" name="list_header_time" id="0x7f0d0035" />
+    <public type="id" name="alarm_info" id="0x7f0d0036" />
+    <public type="id" name="time_container" id="0x7f0d0037" />
+    <public type="id" name="alarm_time" id="0x7f0d0038" />
+    <public type="id" name="alarm_am_pm" id="0x7f0d0039" />
+    <public type="id" name="repeat_description" id="0x7f0d003a" />
+    <public type="id" name="anchor_view" id="0x7f0d003b" />
+    <public type="id" name="picker_listview" id="0x7f0d003c" />
+    <public type="id" name="picker_unit" id="0x7f0d003d" />
+    <public type="id" name="stopwatch_title" id="0x7f0d003e" />
+    <public type="id" name="stop_watch_lap_list_onclick" id="0x7f0d003f" />
+    <public type="id" name="stopwatch_lapnumber" id="0x7f0d0040" />
+    <public type="id" name="stopwatch_laptime" id="0x7f0d0041" />
+    <public type="id" name="stopwatch_clock" id="0x7f0d0042" />
+    <public type="id" name="bottom_button_layout" id="0x7f0d0043" />
+    <public type="id" name="start_button" id="0x7f0d0044" />
+    <public type="id" name="stop_watch_bottom_left_button_layout" id="0x7f0d0045" />
+    <public type="id" name="left_button" id="0x7f0d0046" />
+    <public type="id" name="stop_watch_bottom_right_button_layout" id="0x7f0d0047" />
+    <public type="id" name="right_button" id="0x7f0d0048" />
+    <public type="id" name="stopwatch_lap_list_view" id="0x7f0d0049" />
+    <public type="id" name="picker_ampm" id="0x7f0d004a" />
+    <public type="id" name="picker1" id="0x7f0d004b" />
+    <public type="id" name="picker2" id="0x7f0d004c" />
+    <public type="id" name="title" id="0x7f0d004d" />
+    <public type="id" name="text" id="0x7f0d004e" />
 </resources>

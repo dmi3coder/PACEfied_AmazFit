@@ -11,8 +11,8 @@
     <item type="id" name="dlg_hint">false</item>
     <item type="id" name="dlg_note">false</item>
     <item type="id" name="container">false</item>
-    <item type="id" name="item_content">false</item>
     <item type="id" name="item_content_selected">false</item>
+    <item type="id" name="item_content">false</item>
     <item type="id" name="item_deleted">false</item>
     <item type="id" name="recycler_view">false</item>
     <item type="id" name="control_btn_container">false</item>
@@ -26,6 +26,7 @@
     <item type="id" name="watch_face_list">false</item>
     <item type="id" name="hide_img">false</item>
     <item type="id" name="selected_img">false</item>
+    <item type="id" name="watch_face_content">false</item>
     <item type="id" name="scale_container">false</item>
     <item type="id" name="bottom_img">false</item>
     <item type="id" name="top_img">false</item>
@@ -42,4 +43,5 @@
     <item type="id" name="save_btn">false</item>
     <item type="id" name="indicator">false</item>
     <item type="id" name="tips">false</item>
+    <item type="id" name="loading_view">false</item>
 </resources>

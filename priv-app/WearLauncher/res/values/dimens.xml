@@ -19,6 +19,7 @@
     <dimen name="replay_text_drawable_margin">5.0dip</dimen>
     <dimen name="large_icon_mask_bound">128.0px</dimen>
     <dimen name="normal_icon_mask_boud">80.0px</dimen>
+    <dimen name="quick_settings_toast_textsize">13.0sp</dimen>
     <dimen name="quicksettings_aqitext_size">12.0sp</dimen>
     <dimen name="dialog_weahter_no_data_title">14.0sp</dimen>
     <dimen name="dialog_weahter_no_data_msg">12.0sp</dimen>

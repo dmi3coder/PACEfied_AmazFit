@@ -4,15 +4,15 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Settings</string>
     <string name="watch_ota">Watch Update</string>
-    <string name="wifi_disconnect">"请连接华米手表App,
+    <string name="wifi_disconnect">"请连接Amazfit手表App,
 帮助手表检查升级"</string>
     <string name="connect_phone_wifi">"请检查手机网络,
 以帮助手表检查升级"</string>
-    <string name="connect_phone_input_wifi">"请连接华米手表App,
+    <string name="connect_phone_input_wifi">"请连接Amazfit手表App,
 帮助手表输入Wi-Fi密码"</string>
-    <string name="wifi_add_item">"请打开华米手表App
+    <string name="wifi_add_item">"请打开Amazfit手表App
 输入Wi-Fi名称等内容"</string>
-    <string name="input_passwor_on_mobile">"请在华米手表App上
+    <string name="input_passwor_on_mobile">"请在Amazfit手表App上
 输入Wi-Fi密码"</string>
     <string name="add_wifi">添加Wi-Fi</string>
     <string name="please_update_rom">"系统有新版本

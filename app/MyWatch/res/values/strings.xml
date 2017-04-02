@@ -23,7 +23,7 @@
     <string name="confirm">Confirm</string>
     <string name="cancel">Cancel</string>
     <string name="unable_to_send">Unable to send</string>
-    <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
+    <string name="install_companion_tip">请先在手机上安装Amazfit手表助手</string>
     <string name="simplified_chinese">中文(简体)</string>
     <string name="english_usa">English(US)</string>
     <string name="low_battery">电量不足5%，请连接电源以继续。</string>
