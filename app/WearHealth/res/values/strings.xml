@@ -251,5 +251,8 @@
     <string name="widget_sleep_average_calories">Daily ave %1$s kCal</string>
     <string name="widget_sleep_totaltime">Total sleep %1$s h %2$s min</string>
     <string name="widget_sleep_attained_unit">min</string>
+    <string name="currentstep_detail_activity_step_notdo">Not reached</string>
+    <string name="widget_weeklyreports_nodata">No data for last week</string>
+    <string name="widget_weeklyreports_reports_review">Weekly Review</string>
 <!--END of missed texts by Huami-->
 </resources>

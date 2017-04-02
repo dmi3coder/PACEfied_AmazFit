@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Principiante</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Pasar de pasear a trotar. Esta formación le ayudará a convertirse en un corredor.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Corredores novatos. Esta formación le ayudará a mejorar su técnica de carrera</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Corredores Avanzados. Esta formación le ayudará a mejorar su condición aeróbica y fuerza.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Media Maratón</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Preparar una Media Maratóna. Formación para mejorar su resistencia para esta distancia.  </copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Maratón</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Preparar una Maratón.  Le ayudará ha predecir su tiempo y estrategia de carrera .</copyWrite>
+        </trainplan>
+</trainplans>

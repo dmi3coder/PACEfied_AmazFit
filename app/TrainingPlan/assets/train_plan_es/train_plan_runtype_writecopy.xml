@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Carrera</runType>
+            <trainContent>Trotar</trainContent>
+            <copyWrite>Trotar 800m/Caminar 200m intervalos. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Carrera</runType>
+            <trainContent>Carrera de recuperación</trainContent>
+            <copyWrite>Ejercicio fácil. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Carrera</runType>
+            <trainContent>Carrera</trainContent>
+            <copyWrite>Carrera a ritmo de conversación. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Carrera</runType>
+            <trainContent>Técnica de Carrera</trainContent>
+            <copyWrite>Ritmo un poco más rapido que el ritmo normal. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Carrera</runType>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>Carrera Libre - Mezcla de ritmos lentos y rápidos. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Carrera</runType>
+            <trainContent>Carrera en Cuesta</trainContent>
+            <copyWrite>Seleccione una etapa con terreno montañoso. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Carrera</runType>
+            <trainContent>Carrera Tempo</trainContent>
+            <copyWrite>Mantener velocidad constante. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Carrera</runType>
+            <trainContent>Intervalos(Cortos)</trainContent>
+            <copyWrite>Rápido 800m/Caminar 800m inerval. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Carrera</runType>
+            <trainContent>Intervalos(Largos)</trainContent>
+            <copyWrite>Rápido 2.4km/Caminar 800m intervalos. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Descanso</runType>
+            <trainContent></trainContent>
+            <copyWrite>Descansa. Hoy no entrenes %1$d para empezar la formación</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Nadar</runType>
+            <trainContent></trainContent>
+            <copyWrite>Nadar puede ayudar a recuperar. Marque formación aquí cuando termine.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Ciclismo</runType>
+            <trainContent></trainContent>
+            <copyWrite>Variar el entrenamiento puede aumentar la energía y acelerar la recuperación. Objetivo RC%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
