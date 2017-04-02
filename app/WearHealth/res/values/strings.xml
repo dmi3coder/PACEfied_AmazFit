@@ -35,7 +35,7 @@
     <string name="weekly_sports_notification_content">Activity summary from last week is ready.</string>
     <string name="weeklysports_date_format">yyyy MM/dd</string>
     <string name="step_value">%1$s / %2$s</string>
-    <string name="detail_date">%1$s 运动分布图</string>
+    <string name="detail_date">%1$s motion profile</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Health</string>
