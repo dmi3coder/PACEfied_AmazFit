@@ -30,5 +30,5 @@
     <string name="upload_failed_full">Transfer danych nie został zakoń, czy dokoń.synchro?</string>
     <string name="zero">0</string>
     <string name="net_failed">Sprawdź połączenie i spróbuj ponownie</string>
-    <string name="did_not_connect_assist">Połącz sié z aplik.Amazfit. Po podł.info.uwierzytelniania mogą być autom.aktual, można uzyskać dostęp do serwera.</string>
+    <string name="did_not_connect_assist">Połącz się z aplik.Amazfit. Po podł.info.uwierzytelniania mogą być autom.aktual, można uzyskać dostęp do serwera.</string>
 </resources>
