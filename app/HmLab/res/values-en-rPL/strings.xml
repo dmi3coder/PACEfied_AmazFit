@@ -3,7 +3,7 @@
     <string name="app_name">Laboratorium</string>
     <string name="main_title">Laboratorium</string>
     <string name="agreement_title">Ciągły pomiar tętna</string>
-    <string name="message">"Aby poprawić nasze usługi, będą zbierane dane dotycz.tętna. Dane te będą wykorzystywane wyłącznie w celach naukowych. Zużycie energii może wzrosnąć."</string>
+    <string name="message">Aby poprawić nasze usługi, będą zbierane dane dotycz.tętna. Dane te będą wykorzystywane wyłącznie w celach naukowych. Zużycie energii może wzrosnąć.</string>
     <string name="allow">Akceptuj</string>
     <string name="exit">Odrzuć</string>
     <string name="heart_rate_collection_on">Wł.</string>
@@ -23,6 +23,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+	<string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Wybierz język</string>
 </resources>
