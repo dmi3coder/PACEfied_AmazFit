@@ -19,7 +19,7 @@
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Proszę trzymać zegarek
   Podłączony do sieci WiFi"</string>
-    <string name="init_wifi">Połączony Wi-Fi</string>
+    <string name="init_wifi">Łączenie z Wi-Fi</string>
     <string name="cannot_acess_server">Nie można uzyskać dostępu do serwera</string>
     <string name="init_user">Sprawdź użytkownika</string>
     <string name="cannot_upload_user">Nie można zaktualizować danych</string>
