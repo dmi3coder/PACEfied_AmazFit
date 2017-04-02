@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Czasy</item>
+        <item quantity="one">Czas</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Kroki</item>
+        <item quantity="one">Krok</item>
+    </plurals>
+</resources>
