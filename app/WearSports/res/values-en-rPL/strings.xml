@@ -294,7 +294,8 @@
 	<string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Bieg %1sKm</string>
     <string name="remind_target_time_training_title_format">Jazda %1$dMin</string>
-    <string name="complete_training_target_tips">Zapisz ten bieg w dzisiejszym programie trenin?</string>
+    <string name="complete_training_target_tips">Zapisać ten bieg w dzisiejszym programie treningowym?</string>
+    <string name="complete_training_outdoor_riding_target_tips">"Zapisać tą jazdę w dzisiejszym programie treningowym?"</string>
     <string name="not_complete_train_task">Trening nie jest zakończony. Chcesz zakończyć?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metr</string>
