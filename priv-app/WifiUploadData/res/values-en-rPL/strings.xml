@@ -9,9 +9,9 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="app_name">WifiUploadData</string>
-    <string name="notice_text_success_top">Przesył danych zakoń.</string>
-    <string name="notice_text_failed_top">Błąd przesłu danych</string>
+    <string name="app_name">Synch.Wi-Fi</string>
+    <string name="notice_text_success_top">Synchronizacja danych zakoń.</string>
+    <string name="notice_text_failed_top">Błąd synchronizacja danych</string>
     <string name="notice_text_success_bottom">Spojrz na mi sport</string>
     <string name="date">Dane:</string>
     <string name="date_">/</string>
@@ -23,11 +23,12 @@
     <string name="cannot_acess_server">Nie można uzyskać dostępu do serwera</string>
     <string name="init_user">Sprawdź użytkownika</string>
     <string name="cannot_upload_user">Nie można zaktualizować danych</string>
-    <string name="please_upload_assist_version">Zaktualiz. wersję pomocy</string>
-    <string name="init_app">Podłączone aplik.</string>
+    <string name="please_upload_assist_version">Spróbuj ponownie uaktual.do najnow.wersji Aplik.Amazfit.</string>
+    <string name="init_app">Podłączanie aplik.Amazfit</string>
     <string name="init_update_user">Zaktualizuj użytkownika</string>
     <string name="see_after_connect_app_token_faield">Pomoc nie powiodła się.</string>
-    <string name="upload_failed_full">Przesył nie powiedzie się, chcesz się zatrzymać?</string>
+    <string name="upload_failed_full">Transfer danych nie został zakoń, czy dokoń.synchro?</string>
     <string name="zero">0</string>
     <string name="net_failed">Sprawdź połączenie i spróbuj ponownie</string>
+    <string name="did_not_connect_assist">Połącz sié z aplik.Amazfit. Po podł.info.uwierzytelniania mogą być autom.aktual, można uzyskać dostęp do serwera.</string>
 </resources>
