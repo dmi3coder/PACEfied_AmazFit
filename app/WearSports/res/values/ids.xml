@@ -63,6 +63,9 @@
     <item type="id" name="error_message">false</item>
     <item type="id" name="action_success">false</item>
     <item type="id" name="animation">false</item>
+    <item type="id" name="dialog_titile">false</item>
+    <item type="id" name="train_plan_markd_desc">false</item>
+    <item type="id" name="txt_confirm">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="history_detail_root">false</item>
@@ -165,6 +168,23 @@
     <item type="id" name="graph_unit_second">false</item>
     <item type="id" name="heart_rate_split_line_three">false</item>
     <item type="id" name="graph_unit_third">false</item>
+    <item type="id" name="rl_route_container">false</item>
+    <item type="id" name="sport_info_trail_title">false</item>
+    <item type="id" name="sport_info_trail">false</item>
+    <item type="id" name="cur_altitude">false</item>
+    <item type="id" name="climb_up">false</item>
+    <item type="id" name="rl_select_route">false</item>
+    <item type="id" name="rl_route_used">false</item>
+    <item type="id" name="rl_dialog">false</item>
+    <item type="id" name="loading_remind">false</item>
+    <item type="id" name="loading_fail_confirm">false</item>
+    <item type="id" name="compass_view">false</item>
+    <item type="id" name="sport_info_no_trail">false</item>
+    <item type="id" name="param_container">false</item>
+    <item type="id" name="narrow">false</item>
+    <item type="id" name="img_narrow">false</item>
+    <item type="id" name="enlarge">false</item>
+    <item type="id" name="img_enlarge">false</item>
     <item type="id" name="content_root">false</item>
     <item type="id" name="paused_text">false</item>
     <item type="id" name="paused_time">false</item>
@@ -241,9 +261,6 @@
     <item type="id" name="history_detail_max_sport_speed_unit">false</item>
     <item type="id" name="time_unit">false</item>
     <item type="id" name="main_list">false</item>
-    <item type="id" name="sport_info_trail_title">false</item>
-    <item type="id" name="sport_info_no_trail">false</item>
-    <item type="id" name="sport_info_trail">false</item>
     <item type="id" name="history_total_distance_desc">false</item>
     <item type="id" name="history_total_distance">false</item>
     <item type="id" name="total_distance_base">false</item>
