@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="weeklysports_frequency">
-        <item quantity="other">Doba</item>
-        <item quantity="one">Čas</item>
+        <item quantity="other">x</item>
+        <item quantity="one">x</item>
     </plurals>
     <plurals name="weeklysports_step">
-        <item quantity="other">Kroky</item>
-        <item quantity="one">Krok</item>
+        <item quantity="other">kroků</item>
+        <item quantity="one">krok</item>
     </plurals>
     <plurals name="weeklysports_day">
-        <item quantity="other">Dny</item>
-        <item quantity="one">Den</item>
+        <item quantity="other">dny</item>
+        <item quantity="one">den</item>
     </plurals>
 </resources>

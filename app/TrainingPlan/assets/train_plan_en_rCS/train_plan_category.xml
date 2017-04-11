@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Začínající běžec</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Začátek od chůze na pomalý běh. Tento vzdělávací kurz vám pomůže stát se běžcem.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 kilometrů</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Začínající běžci. Tento kurz vám pomůže zlepšit své běžecké techniky.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 kilometrů</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Pokročilí běžci. Tento kurz pomůže zlepšit výdrž.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Půl maraton</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Trénink na půl maraton. Kurz pro zlepšení vytrvalosti.  </copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Celý maraton</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Trénink na maraton.  Pomůže s předpovědí svého času a plánovaní strategie pro závod.</copyWrite>
+        </trainplan>
+</trainplans>
