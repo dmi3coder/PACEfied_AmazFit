@@ -85,12 +85,12 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Aire Óptimo</item>
-        <item>Aire Bueno</item>
-        <item>Contaminación Lumínica</item>
-        <item>Contaminación Moderada</item>
-        <item>Fuerte contaminación del aire.</item>
-        <item>Gran contaminación en el aire.</item>
+	<item>Aire Óptimo</item>
+		<item>Aire Bueno</item>
+		<item>Contaminación Lumínica</item>
+		<item>Contaminación Moderada</item>
+		<item>Fuerte contaminación del aire.</item>
+		<item>Gran contaminación en el aire.</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
