@@ -4,7 +4,7 @@
     <string name="unknown_device">Nieznane urządzenie</string>
     <string name="unknownNumber">Nieznane</string>
     <string name="airplane_error_title">Tryb samolotowy</string>
-    <string name="airplane_error_msg">"Nie można korzystać z funkcji BT w trybie samolotowym."</string>
+    <string name="airplane_error_msg">Nie można korzystać z funkcji BT w trybie samolotowym.</string>
     <string name="bt_enable_title" />
     <string name="bt_enable_line1">Chcąc korzystać z usług BT, należy najpierw włączyć BT.</string>
     <string name="bt_enable_line2">Włączyć BT teraz?</string>
@@ -48,7 +48,7 @@
     <string name="upload_line5">Wysyłanie pliku…</string>
     <string name="upload_succ_line5">Plik wysłany</string>
     <string name="upload_succ_ok">OK</string>
-    <string name="upload_fail_line1">"Plik nie został wysłany do \"%1$s\"."</string>
+    <string name="upload_fail_line1">Plik nie został wysłany do \"%1$s\".</string>
     <string name="upload_fail_line1_2">Plik: %1$s</string>
     <string name="upload_fail_ok">Spróbuj ponownie</string>
     <string name="upload_fail_cancel">Zamknij</string>
@@ -62,24 +62,24 @@
     <string name="enabling_progress_title">Proszę czekać…</string>
     <string name="enabling_progress_content">Włączanie BT...</string>
     <string name="bt_toast_1">Plik zostanie odebrany. Sprawdź postęp w panelu powiadomień.</string>
-    <string name="bt_toast_2">"Plik nie może zostać odebrany."</string>
+    <string name="bt_toast_2">Plik nie może zostać odebrany.</string>
     <string name="bt_toast_3">Zatrzymano odbieranie pliku z \"%1$s\"</string>
     <string name="bt_toast_4">Przesył pliku do \"%1$s\"</string>
     <string name="bt_toast_5">Przesył %1$s plików do \"%2$s\"</string>
     <string name="bt_toast_6">Zatrz. przesył pliku do \"%1$s\"</string>
-    <string name="bt_sm_2_1">"Nie ma wystarczającej ilości miejsca na karcie SD do zapisania pliku z \"%1$s\""</string>
+    <string name="bt_sm_2_1">Nie ma wystarczającej ilości miejsca na karcie SD do zapisania pliku z \"%1$s\"</string>
     <string name="bt_sm_2_2">Przestrzeń potrzebna: %1$s</string>
     <string name="ErrorTooManyRequests">Zbyt wiele żądań jest przetwarzanych. Spróbuj ponownie później.</string>
     <string name="status_pending">Transfer plików nie został jeszcze rozpoczęty.</string>
     <string name="status_running">Transfer plików jest w toku.</string>
     <string name="status_success">Transfer plików zakończony powodzeniem.</string>
-    <string name="status_not_accept">"Zawartość nie jest obsługiwana."</string>
+    <string name="status_not_accept">Zawartość nie jest obsługiwana.</string>
     <string name="status_forbidden">Transfer zabroniony przez urządzenie docelowe.</string>
     <string name="status_canceled">Transfer anulowany przez użytkownika.</string>
     <string name="status_file_error">Problem z kartą pamięci.</string>
     <string name="status_no_sd_card">Brak karty SD. Włóż kartę SD, aby zapisać przesłane pliki.</string>
     <string name="status_connection_error">Połączenie nieudane.</string>
-    <string name="status_protocol_error">"Żądanie nie może być prawidłowo obsługiwane."</string>
+    <string name="status_protocol_error">Żądanie nie może być prawidłowo obsługiwane.</string>
     <string name="status_unknown_error">Nieznany błąd.</string>
     <string name="btopp_live_folder">BT odebrane</string>
     <string name="download_success">%1$s Odbieranie kompletne.</string>
@@ -118,6 +118,16 @@
     <string name="delete_record">Usuń rekord</string>
     <string name="start_server">Uruchom serwer TCP</string>
     <string name="notify_server">Powiadom serwer TCP</string>
-    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6c">false</item>
+    <string name="permlab_bluetoothShareManager">Udostęp. BT.</string>
+    <string name="permdesc_bluetoothShareManager">Zezwalaj aplikacji na dostęp do menedżera BTShare i używanie go do przesył. plików.</string>
+    <string name="permlab_bluetoothWhitelist">Lista urządzeń z dostępem do BT</string>
+    <string name="permdesc_bluetoothWhitelist">Zezwól aplikacji na tymczasowy dostęp do listy urządzeń z dostępem BT, dzięki czemu urządzenie to ma zgodę na wysyłanie plików do tego urządzenia bez potwierdzenia przez użytkownika.</string>
+    <string name="bluetooth_share_file_name">BT_content_share</string>
+    <string name="bluetooth_map_email_settings_save">Zapisz</string>
+    <string name="bluetooth_map_email_settings_cancel">Anuluj</string>
+    <string name="bluetooth_map_email_settings_intro">Wybierz konta email, które chcesz udostępnić przez BT. Nadal musisz zaakceptować dostęp do kont podczas podłączania.</string>
+    <string name="bluetooth_map_email_settings_count">Przestrzeń dostępna:</string>
+    <string name="bluetooth_map_email_settings_app_icon">Ikona aplikacji</string>
+    <string name="bluetooth_map_email_settings_title">Udostęp. BT Ustawienia wiadomości</string>
+    <string name="bluetooth_map_email_settings_no_account_slots_left">Nie można wybrać konta.</string>
 </resources>

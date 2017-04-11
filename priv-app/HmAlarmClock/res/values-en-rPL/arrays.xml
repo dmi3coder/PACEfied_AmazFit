@@ -54,4 +54,8 @@
         <item>\# %d</item>
         <item>\# %02d</item>
     </string-array>
+    <string-array name="am_pm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
 </resources>

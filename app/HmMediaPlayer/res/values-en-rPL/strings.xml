@@ -8,14 +8,14 @@
     <string name="music_download_not_complete_title">Utwory nie pobranych do końca</string>
     <string name="music_no_wifi_content">Brak poł.Wi-Fi, nie można pobrać utw. Połącz się z Wi-Fi przez ust.systemowe - Wi-Fi w zegarku.</string>
     <string name="music_download_fail_content">Błąd poł. z siecią. Nie można pobrac utw. Połącz się z siecią i spróbuj ponownie.</string>
-    <string name="music_download_not_complete_content">Błąd poł.sieci, utwory nie zostały pobrane do końca. Słuchać można tylko pobrane utwory. (Wszystkie utw.zostaną aut. pobrane po poł. z Wi-Fi)</string>	
+    <string name="music_download_not_complete_content">Błąd poł.sieci, utwory nie zostały pobrane do końca. Słuchać można tylko pobrane utwory. (Wszystkie utw.zostaną aut. pobrane po poł. z Wi-Fi)</string>
     <string name="music_download_success">Aktual. utw.zakończona</string>
     <string name="music_downloading">Pobieranie utworu...</string>
     <string name="music_fetch_list">Pozyskiwanie listy utw...</string>
     <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Sprawdź sieć</string>
     <string name="music_continue_downloading">Pobieranie utw. bedzie kontynuowane</string>
-	<string name="music_service_unavalible">Usługa DouBan jest niedostępna</string>
+    <string name="music_service_unavalible">Usługa DouBan jest niedostępna</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Ust.odtwarzania</string>
     <string name="music_volumn_control">Głośność</string>
@@ -80,5 +80,12 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+	<string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
     <string name="locale_title">Wybierz język</string>
 </resources>
