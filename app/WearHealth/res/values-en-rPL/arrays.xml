@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string-array name="chart_x_titles">
+        <item>Pon</item>
+        <item>Wt</item>
+        <item>Śr</item>
+        <item>Czw</item>
+        <item>Pt</item>
+        <item>Sob</item>
+        <item>Nie</item>
+    </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.health/com.huami.watch.health.widget.HeartLauncherView</item>
         <item>com.huami.watch.health/com.huami.watch.health.widget.StepLauncherView</item>

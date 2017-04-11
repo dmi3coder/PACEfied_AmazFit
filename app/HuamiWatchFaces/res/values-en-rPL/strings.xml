@@ -10,12 +10,13 @@
     <string name="custom_none_selected">Wybierz</string>
     <string name="custom_selected_confirm">Zatwierdź</string>
     <string name="custom_exit_delete">Wyjdź i usuń</string>
-	<string name="custom_none_custom_background_title">Brak obrazu</string>
+    <string name="custom_none_custom_background_title">Brak obrazu</string>
     <string name="custom_none_custom_background_content">Proszę dodać obrazy tła z aplikacji Amazfit Watch.</string>
-    <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_0.png</string>
+    <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
     <string name="custom_title_bg">Tło</string>
     <string name="custom_title_graduation">Stopniowo</string>
-	<string name="custom_title_timehand">Ręce</string>
+    <string name="custom_title_timehand">Ręce</string>
+	<string name="custom_title_timedigital">Cyfrowe</string>
     <string name="custom_title_date">Data</string>
     <string name="custom_data_widget_title_default">Dane</string>
     <string name="custom_data_widget_title_nothing">Ukryj</string>
@@ -28,10 +29,11 @@
     <string name="custom_data_widget_title_aq">Jak.powiet.</string>
     <string name="custom_data_widget_title_battery">Batria</string>
     <string name="custom_data_widget_title_msg">Nowe wiad.</string>
-	<string name="custom_data_widget_title_date">Data</string>
+    <string name="custom_data_widget_title_date">Data</string>
+	<string name="custom_data_widget_date_2">datawidget/date_2/en/week_%d.png</string>
     <string name="cube_month">-</string>
     <string name="cube_day" />
-    <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
+    <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_week_path">guard/shiguanglicheng/en/watchface_slpt_number_week_%d.png</string>
     <string name="digital_sport_one_week_path">guard/malasong/en/week_%d.png</string>
@@ -69,4 +71,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+	<string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
 </resources>

@@ -41,7 +41,8 @@
     <string name="device">Urządzenie</string>
     <string name="nodisturb">Tryb Cichy</string>
     <string name="auto_airplane">Aut.Tr.samol.</string>
-    <string name="wifi_upload">Preślij</string>
+    <string name="wifi_upload">Prześlij</string>
+    <string name="replace_watchface">Zmień WatchF.</string>
     <string name="nothing">Pusty</string>
     <string name="about_title">O</string>
     <string name="model">Model</string>
@@ -171,4 +172,13 @@ kg"</string>
     <string name="upgrade_checking">Sprawdz.aktual...</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
+<!--END of missed texts by Huami-->   
 </resources>
