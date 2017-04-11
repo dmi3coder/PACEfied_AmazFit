@@ -228,4 +228,5 @@
     <string name="widget_err_step_shown">错误:(-1)</string>
     <string name="widget_heart_gauged_err">测量失败</string>
     <string name="widget_heart_gauged_err_tips">请保持手表底部紧贴皮肤后, 重新测量</string>
+    <string name="widget_sleep_conment">本周睡的非常好,继续保持哦!</string>
 </resources>

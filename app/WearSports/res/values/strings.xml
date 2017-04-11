@@ -84,6 +84,12 @@
     <string name="outdoor_climb_down_distance">Downhill distance</string>
     <string name="outdoor_climb_down_distance_time">Downhill time</string>
     <string name="outdoor_climb_distance_time">Uphill slope time</string>
+    <string name="route_cur_altitude">Current altitude</string>
+    <string name="route_glevation_gain">Elevation Gain</string>
+    <string name="route_scale_enlarge">Enlarge</string>
+    <string name="route_scale_narrow">Narrow</string>
+    <string name="route_cur_altitude_value">%1dm</string>
+    <string name="route_climb_up_value">%1dm</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Run</string>
     <string name="sport_widget_title_walk">Walk</string>

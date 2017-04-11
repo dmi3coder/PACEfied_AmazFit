@@ -107,10 +107,13 @@
     <item type="id" name="weeklysports_sleep_totaltime">false</item>
     <item type="id" name="detail_sleep_classifyChart">false</item>
     <item type="id" name="current_divideline">false</item>
+    <item type="id" name="weeklysports_sleep_value_par">false</item>
     <item type="id" name="weeklysports_sleep_late_value">false</item>
     <item type="id" name="weeklysports_sleep_deep_leak_value">false</item>
     <item type="id" name="weeklysports_sleep_leak_value">false</item>
     <item type="id" name="weeklysports_sleep_easyawake_value">false</item>
+    <item type="id" name="weeklysports_sleep_well_par">false</item>
+    <item type="id" name="weeklysports_sleep_well_ig">false</item>
     <item type="id" name="picker">false</item>
     <item type="id" name="scroll_view">false</item>
     <item type="id" name="activity_today_heart_rate_infor">false</item>
@@ -317,6 +320,9 @@
     <item type="id" name="splash">false</item>
     <item type="id" name="stretch_cancel">false</item>
     <item type="id" name="stretch_start">false</item>
+    <item type="id" name="health_longsit_error_title">false</item>
+    <item type="id" name="health_longsit_error_content">false</item>
+    <item type="id" name="health_longsit_error_button">false</item>
     <item type="id" name="content">false</item>
     <item type="id" name="retry">false</item>
     <item type="id" name="picker1">false</item>
