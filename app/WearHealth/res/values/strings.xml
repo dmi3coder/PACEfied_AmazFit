@@ -218,8 +218,10 @@
     <string name="stretch_dialog_content">Reasonable activities can help ease sedentary back stiffness, follow the video to do several sets of office stretching training!</string>
     <string name="stretch_dialog_cancel">Cancel</string>
     <string name="stretch_dialog_start">Start video</string>
+    <string name="stretch_dialog_button">Start stretching</string>
     <string name="stretch_connection_failed_title">Cannot connect to the phone</string>
     <string name="stretch_connection_failed_content">Please open the phone Bluetooth connection, keep the app open and try again.</string>
+    <string name="stretch_connection_failed_button">Retry</string>
     <string name="open_xiaomi_app_failed_title">Open millet movement failed</string>
     <string name="open_xiaom_app_failed_content">Please try to install the millet sports App.</string>
     <string name="stretch_notification_subtitle">Sitting too long</string>
