@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.android.inputdevices" platformBuildVersionCode="22" platformBuildVersionName="5.1-137">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.android.inputdevices" platformBuildVersionCode="22" platformBuildVersionName="5.1-144">
     <application android:allowClearUserData="false" android:label="@string/app_label" android:process="system">
         <receiver android:label="@string/keyboard_layouts_label" android:name=".InputDeviceReceiver">
             <intent-filter>
