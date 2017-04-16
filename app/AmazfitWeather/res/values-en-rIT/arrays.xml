@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="spring_depend">
-        <item>"com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView"</item>
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>"Dom"</item>
-        <item>"Lun"</item>
-        <item>"Mar"</item>
-        <item>"Mer"</item>
-        <item>"Gio"</item>
-        <item>"Ven"</item>
-        <item>"Sab"</item>
-        <item>"Oggi"</item>
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Oggi</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>"Aria Eccellente"</item>
-        <item>"Aria Buona"</item>
-        <item>"Inquinamento lieve"</item>
-        <item>"Inquinamento moderato"</item>
-        <item>"Inquinamento elevato"</item>
-        <item>"Inquinamento elevatissimo"</item>
-        <item/>
+        <item>Aria Eccellente</item>
+        <item>Aria Buona</item>
+        <item>Inquinamento lieve</item>
+        <item>Inquinamento moderato</item>
+        <item>Inquinamento elevato</item>
+        <item>Inquinamento elevatissimo</item>
+        <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>"Adatto per lo sport"</item>
-        <item>"Non adatto per lo sport"</item>
-        <item/>
+        <item>Adatto per lo sport</item>
+        <item>Non adatto per lo sport</item>
+        <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>"Soleggiato"</item>
-        <item>"Nuvoloso"</item>
-        <item>"Nuvoloso"</item>
-        <item>"Nebbia"</item>
-        <item>"Smog"</item>
-        <item>"Pioggia"</item>
-        <item>"Pioggia e fulmini"</item>
-        <item>"Pioggerellina"</item>
-        <item>"Pioggerella"</item>
-        <item>"Acquazzone"</item>
-        <item>"Temporale"</item>
-        <item>"Diluvio"</item>
-        <item>"Nevischio"</item>
-        <item>"Grandine"</item>
-        <item>"Grandine"</item>
-        <item>"Nevischio"</item>
-        <item>"Neve moderata"</item>
-        <item>"Forte nevicata"</item>
-        <item>"Tempesta di neve"</item>
-        <item>"Nevicata"</item>
-        <item>"Polvere"</item>
-        <item>"Leggera sabbia"</item>
-        <item>"Tempesta di sabbia"</item>
-        <item>"Forte tempesta di sabbia"</item>
-        <item>"Nessun dato"</item>
+        <item>Soleggiato</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbia</item>
+        <item>Smog</item>
+        <item>Scrosci</item>
+        <item>Scrosci temporaleschi</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Diluvio</item>
+        <item>Nevischio</item>
+        <item>Pioggia gelata</item>
+        <item>Grandine</item>
+        <item>Nevischio</item>
+        <item>Neve moderata</item>
+        <item>Forte nevicata</item>
+        <item>Tempesta di neve</item>
+        <item>Nevicata</item>
+        <item>Polvere</item>
+        <item>Leggera sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Nessun dato</item>
     </string-array>
 </resources>

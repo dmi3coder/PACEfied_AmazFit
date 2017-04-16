@@ -2,15 +2,15 @@
 <resources>
     <string name="app_name">BLE connect</string>
     <string name="action_settings">Impostazioni</string>
-    <string name="heart_rate">HR_COUNTER</string>
-    <string name="hello_world">Emulatore Freq. Cardiaca</string>
-    <string name="install_companion_tip">Installa l\'app dedicata sul telefono</string>
+    <string name="heart_rate">FC</string>
+    <string name="hello_world">Emulatore FC</string>
+    <string name="install_companion_tip">"Installa l\'applicazione dedicata"</string>
     <string name="simplified_chinese">中文(简体)</string>
-    <string name="english_usa">English (US)</string>
+    <string name="english_usa">English(US)</string>
     <string name="low_battery">Batteria inferiore al 5%, collega il caricabatteria per continuare</string>
     <string name="battery_low_title">Batteria in esaurimento!</string>
     <string name="battery_low_plz_charge">Batteria insufficiente. Ricarica per continuare</string>
-    <string name="scan_to_bind">Scansiona il QR per effettuare l\'abbinamento</string>
+    <string name="scan_to_bind">"Scansiona il QR per effettuare l\'abbinamento"</string>
     <string name="function_unavailable_tip">Alcune funzioni non saranno disponibili, continuare?</string>
     <string name="cancel_bind">Annulla</string>
     <string name="skip_bind">Salta</string>

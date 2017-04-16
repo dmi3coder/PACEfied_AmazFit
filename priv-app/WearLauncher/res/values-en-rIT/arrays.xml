@@ -12,43 +12,43 @@
         <item>-1</item>
         <item>@drawable/sport_start_loading</item>
     </array>
-        <string-array name="quick_settings_status_week">
-        <item>"Dom"</item>
-        <item>"lun"</item>
-        <item>"Mar"</item>
-        <item>"Mer"</item>
-        <item>"Gio"</item>
-        <item>"Ven"</item>
-        <item>"Sab"</item>
-        <item>"Oggi"</item>
+    <string-array name="quick_settings_status_week">
+        <item>Dom</item>
+        <item>lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Oggi</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
-        <item>"Freddissimo"</item>
-        <item>"Pioggia"</item>
-        <item>"Equinozio di primavera"</item>
-        <item>”Pioggia grano"</item>
-        <item>”Germogli di grano"</item>
+        <item>Freddissimo</item>
+        <item>Pioggia</item>
+        <item>Equinozio di primavera</item>
+        <item>”Pioggia grano</item>
+        <item>”Germogli di grano</item>
         <item>"Solstizio d'estate"</item>
-        <item>"Caldissimo"</item>
-        <item>"Fine del caldo"</item>
+        <item>Caldissimo</item>
+        <item>Fine del caldo</item>
         <item>"Equinozio d'autunno"</item>
-        <item>”Cadute brina"</item>
-        <item>"Neve leggera"</item>
+        <item>”Cadute brina</item>
+        <item>Neve leggera</item>
         <item>"Solstizio d'inverno"</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>"Lieve freddo"</item>
-        <item>”Inizia la primavera"</item>
-        <item>”Risveglio insetti"</item>
-        <item>"Chiaro e luminoso"</item>
-        <item>"Inizio estate"</item>
-        <item>"Grain in Ear"</item>
-        <item>"Un leggero riscaldamento"</item>
-        <item>"Autunno inizia"</item>
-        <item>”Rugiade bianchi"</item>
-        <item>”Rugiade freddo"</item>
-        <item>”Inizia l\'inverno"</item>
-        <item>"Forte nevicata"</item>
+        <item>Lieve freddo</item>
+        <item>”Inizia la primavera</item>
+        <item>”Risveglio insetti</item>
+        <item>Chiaro e luminoso</item>
+        <item>Inizio estate</item>
+        <item>Grain in Ear</item>
+        <item>Un leggero riscaldamento</item>
+        <item>Autunno inizia</item>
+        <item>”Rugiade bianchi</item>
+        <item>”Rugiade freddo</item>
+        <item>"”Inizia l'inverno"</item>
+        <item>Forte nevicata</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>Chu</item>
@@ -85,44 +85,44 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>"Aria Eccellente"</item>
-        <item>"Aria Buona"</item>
-        <item>"Inquinamento lieve"</item>
-        <item>"Inquinamento moderato"</item>
-        <item>"Inquinamento pesante"</item>
-        <item>"Inquinamento grave"</item>
-        <item/>
+        <item>Aria Eccellente</item>
+        <item>Aria Buona</item>
+        <item>Inquinamento lieve</item>
+        <item>Inquinamento moderato</item>
+        <item>Inquinamento pesante</item>
+        <item>Inquinamento grave</item>
+        <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>"Adatto per lo sport"</item>
-        <item>"Non adatto per lo sport"</item>
-        <item/>
+        <item>Adatto per lo sport</item>
+        <item>Non adatto per lo sport</item>
+        <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>"Soleggiato"</item>
-        <item>"Nuvoloso"</item>
-        <item>"Coperto"</item>
-        <item>"Nebbia"</item>
-        <item>"Smog"</item>
-        <item>”Acquazzone"</item>
-        <item>"Pioggia e fulmini"</item>
-        <item>"Pioggia debole"</item>
-        <item>"Pioggia leggera"</item>
-        <item>"Pioggia forte"</item>
-        <item>"Temporale"</item>
-        <item>"Pioggia torrenziale"</item>
-        <item>"Nevischio"</item>
-        <item>"Grandine"</item>
-        <item>"Grandine"</item>
-        <item>"Neve leggera"</item>
-        <item>"Neve moderata"</item>
-        <item>"Forte nevicata"</item>
-        <item>"Tempesta di neve"</item>
-        <item>"Neve"</item>
-        <item>"Polvere"</item>
-        <item>"Leggera sabbia"</item>
-        <item>"Tempesta di sabbia"</item>
-        <item>"Forte tempesta di sabbia"</item>
-        <item>"Nessun dato"</item>
+        <item>Soleggiato</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbia</item>
+        <item>Smog</item>
+        <item>”Acquazzone</item>
+        <item>Pioggia e fulmini</item>
+        <item>Pioggia debole</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia forte</item>
+        <item>Temporale</item>
+        <item>Pioggia torrenziale</item>
+        <item>Nevischio</item>
+        <item>Grandine</item>
+        <item>Grandine</item>
+        <item>Neve leggera</item>
+        <item>Neve moderata</item>
+        <item>Forte nevicata</item>
+        <item>Tempesta di neve</item>
+        <item>Neve</item>
+        <item>Polvere</item>
+        <item>Leggera sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Nessun dato</item>
     </string-array>
 </resources>

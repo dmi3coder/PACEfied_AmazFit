@@ -16,17 +16,19 @@
     <string name="uploading">Caricamento...</string>
     <string name="compressing">Creazione report...</string>
     <string name="upload_finish">Caricamento log completato</string>
-    <string name="upload_failed">Caricamento fallito, riprova</string>
+    <string name="upload_failed">Caricamento fallito, 
+riprova</string>
     <string name="open_wifi_hint">Attivazione Wi-Fi...</string>
-    <string name="please_keep_wifi_connected">"Mantieni lo smartwatch collegato al WiFi"</string>
+    <string name="please_keep_wifi_connected">Mantieni lo smartwatch 
+collegato al WiFi</string>
     <string name="percent_sign">%</string>
     <string name="zero">0</string>
     <string name="has_log_file_message">Errore nel caricamento del report: vuoi continuare?</string>
     <string name="upload_failed_token_title">Caricamento fallito</string>
     <string name="upload_failed_token_message">Impossibile caricare il report degli errori. Si prega di connettersi tramite app e riprovare</string>
-    <string name="re_collecting">Riconnessione</string>
+    <string name="re_collecting">Ricreo</string>
     <string name="continue_upload">Continua Upload</string>
-    <string name="alllog">tutti i log</string>
+    <string name="alllog">Tutti i log</string>
     <string name="moreoptions">Altre opzioni</string>
     <string name="allupload">Carica tutto</string>
     <string name="pleass_upload">Log non caricato</string>
@@ -47,31 +49,40 @@
     <string name="app_name">Logger</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Impostazioni</string>
-    <string name="watch_ota">Controlla aggiornamenti</string>
+    <string name="watch_ota">Aggiorna orologio</string>
     <string name="wifi_disconnect">Wi-fi Disconnesso</string>
     <string name="connect_phone_wifi">Collegamento wi-fi in corso</string>
-    <string name="please_update_rom">"Trovato nuovo aggioramento"</string>
-    <string name="connect_phone_input_wifi">"Collegamento in corso, inserire password Wi-Fi"</string>
+    <string name="please_update_rom">Trovato nuovo 
+aggioramento</string>
+    <string name="connect_phone_input_wifi">Collegamento in corso,
+inserire password Wi-Fi</string>
     <string name="checking_rom">Verifica nuovo aggiornamento</string>
     <string name="checking_rom_failed">Verifica nuovo aggiornamento fallito</string>
     <string name="current_is_new">AmazFit aggiornato</string>
-    <string name="has_new_rom">"Trovato nuovo firmware"</string>
-    <string name="input_passwor_on_mobile">"%1$s Inserire password sul telefono"</string>
+    <string name="has_new_rom">Trovato nuovo
+firmware</string>
+    <string name="input_passwor_on_mobile">%1$s Inserire password
+sul telefono</string>
     <string name="processbar_downloading_rom">Scaricamento firmware</string>
     <string name="please_keep_wifi_connect">Mantenere la connessione Wi-Fi</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"Download firmware fallito: riprovare"</string>
-    <string name="download_rom_success">"Firmware scaricato con successo"</string>
-    <string name="low_battery_message">"Livello batteria basso, deve essere almeno al 50%"</string>
+    <string name="download_rom_faild">Download firmware fallito,
+riprovare</string>
+    <string name="download_rom_success">Firmware scaricato con
+successo</string>
+    <string name="low_battery_message">Livello batteria basso,
+deve essere almeno al 50%</string>
     <string name="low_battery_title">Batteria scarica</string>
     <string name="progressbar_tips">Controllo...</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Spazio di archiviazione insufficiente%1$sM,liberare spazio"</string>
-    <string name="update_network_error">"Controllo aggiornamento non riuscito"</string>
-    <string name="cancel_download">"Annullare il download?"</string>
-    <string name="new_rom_please_install">"Trovata nuova versione firmware"</string>
-    <string name="btn_install_later">Installa piu\' tardi</string>
+    <string name="low_mem">Spazio di archiviazione insufficiente %1$sM,
+liberare spazio</string>
+    <string name="update_network_error">Controllo aggiornamento non
+riuscito</string>
+    <string name="cancel_download">Annullare il download?</string>
+    <string name="new_rom_please_install">Trovata nuova versione firmware</string>
+    <string name="btn_install_later">"Installa piu' tardi"</string>
     <string name="btn_install_now">Installa ora</string>
     <string name="wifi_no_password">Rete libera</string>
     <string name="wifi_has_password">Rete criptata</string>
@@ -87,8 +98,8 @@
     <string name="wifi_turnon_going">Attivazione Wi-Fi</string>
     <string name="system_update_title">Aggiornamento riuscito</string>
     <string name="system_update_content">Sistema aggiornato a%1$srelease</string>
-    <string name="password_error">"%1$sPassword errata,reinseriscila"</string>
-    <string name="wifi_connect_fail">"Connessione wi-fi non riuscita, riprovare"</string>
+    <string name="password_error">%1$sPassword errata,reinseriscila</string>
+    <string name="wifi_connect_fail">Connessione wi-fi non riuscita, riprovare</string>
     <string name="searching">Ricerca...</string>
     <string name="hasNewUpdateTitle">Trovati aggiornamenti di sistema</string>
     <string name="hasNewUpdateContent">%1$sTrovata nuova versione, installare?</string>

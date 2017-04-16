@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<array name="spring_depend" />
+    <array name="spring_depend" />
     <string-array name="hour_select_labels">
         <item>0</item>
         <item>6</item>
@@ -18,9 +18,9 @@
         <item>Dom</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Oggi</item>
-        <item>Settimana</item>
-        <item>Oggi</item>
-        <item>Settimana</item>
+        <item>Passi odierni</item>
+        <item>Passi settimanali</item>
+        <item>Bruciato oggi</item>
+        <item>Bruciato questa settima</item>
     </string-array>
 </resources>
