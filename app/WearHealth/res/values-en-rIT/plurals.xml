@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Volte</item>
+        <item quantity="one">Volta</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Passi</item>
+        <item quantity="one">Passo</item>
+    </plurals>
+</resources>
