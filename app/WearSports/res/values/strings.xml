@@ -84,6 +84,12 @@
     <string name="outdoor_climb_down_distance">Downhill distance</string>
     <string name="outdoor_climb_down_distance_time">Downhill time</string>
     <string name="outdoor_climb_distance_time">Uphill slope time</string>
+    <string name="route_cur_altitude">Current altitude</string>
+    <string name="route_glevation_gain">Elevation Gain</string>
+    <string name="route_scale_enlarge">Enlarge</string>
+    <string name="route_scale_narrow">Narrow</string>
+    <string name="route_cur_altitude_value">%1dm</string>
+    <string name="route_climb_up_value">%1dm</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Run</string>
     <string name="sport_widget_title_walk">Walk</string>
@@ -342,5 +348,25 @@
     <string name="widget_currentstep_sleep_title">Sleep last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No exercise today?</string>
+    <string name="confirm">Ok</string>
+    <string name="cumulative_climb">Cumul climb</string>
+    <string name="current_altitude">Cur alt</string>
+    <string name="decision_no">No</string>
+    <string name="decision_yes">Yes</string>
+    <string name="gpx_currnet_is_selected">selected</string>
+    <string name="gpx_details_use">Usage</string>
+    <string name="gpx_details_view">Selected</string>
+    <string name="gpx_route_loading">Please wait for track loading</string>
+    <string name="gpx_select_closed">Closed</string>
+    <string name="gpx_select_empty" />
+    <string name="please_become_bigger">Enlarge</string>
+    <string name="please_become_smaller">Shrink</string>
+    <string name="please_start_sport_from_route_start">To ensure the accuracy of the track navigation, start exercise at the real geographical position of the track starting point</string>
+    <string name="settting_sport_gpx_route">Trajectory</string>
+    <string name="sport_back_to_route">Back on track</string>
+    <string name="sport_route_out_of">Deviated from track</string>
+    <string name="sport_setting_gpx_route_selectd_remind">Outdoor sports function will use this trajectory to navigate, if no navigation please select off to close the track navigation</string>
+    <string name="sport_setting_gpx_route_selected">Track selected</string>
+    <string name="use_sport_route_remind">Use the %1$s track?</string>
 <!--END of missed texts by Huami-->
 </resources>

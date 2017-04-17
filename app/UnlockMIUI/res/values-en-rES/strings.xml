@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnlockMIUI</string>
+    <string name="unlock_tips">Permitir, que el reloj desbloquee el telefono?</string>
+</resources>

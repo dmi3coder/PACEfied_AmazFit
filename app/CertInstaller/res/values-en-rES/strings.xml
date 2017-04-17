@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalador de certificado</string>
+    <string name="pick_file_title">Selecciona un certificado</string>
+    <string name="pkcs12_password_dialog_title">Extraer certificado</string>
+    <string name="extracting_pkcs12">Extrayendo…</string>
+    <string name="pkcs12_file_password_dialog_title">Extraer de %s</string>
+    <string name="name_credential_dialog_title">Nombre del certificado</string>
+    <string name="credential_name">Nombre del certificado:</string>
+    <string name="credential_password">Selecciona la password para extraer el certificado.</string>
+    <string name="credential_info">El paquete contiene:</string>
+    <string name="p12_description">Clave del certificado en PKCS12.</string>
+    <string name="one_userkey">Una clave de usuario</string>
+    <string name="one_usercrt">Un certificado de usuario</string>
+    <string name="one_cacrt">Un certificado CA</string>
+    <string name="n_cacrts">%d CA certificado</string>
+    <string name="password_error">introduzca la clave correcta.</string>
+    <string name="password_empty_error">Teclee la clave.</string>
+    <string name="name_empty_error">Teclee un nombre.</string>
+    <string name="name_char_error">Teclee un nombre que contenga solamente letras o numeros.</string>
+    <string name="storage_error">"Imposible guardar certificado. Pulse OK para reintentar."</string>
+    <string name="unable_to_save_cert">"Imposible guardar certificado. Credencial no valida."</string>
+    <string name="cert_not_saved">El certificado no está instalado.</string>
+    <string name="no_cert_to_saved">Ningún certificado instalado.</string>
+    <string name="invalid_cert">Certificado no valido.</string>
+    <string name="cert_is_added">%s está instalado.</string>
+    <string name="cert_too_large_error">"Imposible instalar, el certificado es demasiado grande."</string>
+    <string name="cert_missing_error">"Imposible instalar porque el archivo del certificado no pudo ser localizado."</string>
+    <string name="cert_read_error">"Imposible instalar porque el certificado no pudo ser leido."</string>
+    <string name="no_cert_file_found">No se encuentra ningún ceritificado en la SD card.</string>
+    <string name="sdcard_not_present">"SD card no disponible."</string>
+    <string name="only_primary_user_allowed">Solamente el propietario del dispositivo puede instalar certificado.</string>
+    <string name="credential_usage_label">Inserte credencial:</string>
+</resources>

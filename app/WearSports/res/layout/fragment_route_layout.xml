@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.sport.ui.view.CompassView android:layout_gravity="center" android:id="@id/compass_view" android:layout_width="320.0px" android:layout_height="300.0px" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/sport_info_trail_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sport_trail_route_split_margin" android:text="@string/running_realtime_trail_desc" style="@style/sport_text_style" />
+    <ImageView android:id="@id/sport_info_trail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/sport_info_trail_title" />
+    <com.huami.watch.sport.ui.view.NoTrailView android:id="@id/sport_info_no_trail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/sport_info_trail_title" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/param_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="18.699982dip">
+        <com.huami.watch.common.widget.HmTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/route_cur_altitude" style="@style/sport_route_data_title_style" />
+        <com.huami.watch.common.widget.HmTextView android:id="@id/cur_altitude" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.699982dip" style="@style/sport_route_data_style" />
+        <com.huami.watch.common.widget.HmTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/route_glevation_gain" style="@style/sport_route_data_title_style" />
+        <com.huami.watch.common.widget.HmTextView android:id="@id/climb_up" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_route_data_style" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.699982dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <RelativeLayout android:gravity="center" android:id="@id/narrow" android:background="@drawable/narrow_scale_background_selector" android:layout_width="@dimen/sport_route_scale_bg_width" android:layout_height="@dimen/sport_route_scale_bg_height">
+            <ImageView android:id="@id/img_narrow" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sport_map_btn_icon_narrow" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center" android:id="@id/enlarge" android:background="@drawable/enlarge_scale_background_selector" android:layout_width="@dimen/sport_route_scale_bg_width" android:layout_height="@dimen/sport_route_scale_bg_height" android:layout_marginLeft="1.0dip">
+            <ImageView android:id="@id/img_enlarge" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sport_map_btn_icon_enlarge" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

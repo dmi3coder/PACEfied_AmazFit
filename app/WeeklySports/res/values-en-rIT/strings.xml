@@ -10,8 +10,8 @@
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
     <string name="app_name">WeeklySports</string>
-    <string name="weeklysports_title">Sommario attivita\’ settimanali</string>
-    <string name="weeklysports_totalnumber_front">Totale allenamenti</string>
+    <string name="weeklysports_title">Sommario attività settimanali</string>
+    <string name="weeklysports_totalnumber_front">Totale allenamento</string>
     <string name="weeklysports_totalstep_front">Camminati</string>
     <string name="weeklysports_totaltime">Totale tempo impiegato</string>
     <string name="weeklysports_totaltime_unit">/</string>
@@ -28,15 +28,15 @@
     <string name="weeklysports_crossrunrate">Ritmo medio escursione</string>
     <string name="weeklysports_runerrate_unit_zh">/km</string>
     <string name="weeklysports_runerrate_unit_en">/mi</string>
-    <string name="weeklysports_ridingrate">Velocita\’ bici</string>
-    <string name="weeklysports_outdoorriding_average">Velocita\’ media bici</string>
-    <string name="weeklysports_outdoorriding_max">Velocita\’ massima bici</string>
+    <string name="weeklysports_ridingrate">Velocità bici</string>
+    <string name="weeklysports_outdoorriding_average">Velocità media bici</string>
+    <string name="weeklysports_outdoorriding_max">Velocità massima bici</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_activity">Muoviti</string>
     <string name="weeklysports_running">Corsa</string>
     <string name="weeklysports_walking">Camminata</string>
     <string name="weeklysports_riding">Bicicletta</string>
-    <string name="weekly_step_attained_rate">Giorni per raggiungere l\’obbiettivo passi</string>
-    <string name="weekly_sports_notification_content">Il sommarrio attivita\’ settimanali e\’ pronto.</string>
+    <string name="weekly_step_attained_rate">Giorni per raggiungere obbiettivo passi</string>
+    <string name="weekly_sports_notification_content">Il sommarrio attivita settimanali è pronto.</string>
 </resources>

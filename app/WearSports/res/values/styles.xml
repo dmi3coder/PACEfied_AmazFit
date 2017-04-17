@@ -147,6 +147,20 @@
         <item name="android:textSize">16.0sp</item>
         <item name="android:textColor">@color/default_font_color_white</item>
     </style>
+    <style name="sport_route_data_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_route_data_title_style" parent="@style/sport_text_style">
+        <item name="android:textSize">9.299988sp</item>
+        <item name="android:textColor">#b3ffffff</item>
+    </style>
+    <style name="sport_route_num_style" parent="@style/sport_num_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
     <style name="sport_remind_bottom_style" parent="@style/sport_text_style">
         <item name="android:layout_marginTop">10.0dip</item>
     </style>
@@ -193,6 +207,17 @@
         <item name="android:layout_marginTop">11.0dip</item>
         <item name="android:layout_marginBottom">32.0dip</item>
         <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="base_white_font">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="base_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@color/default_background_black</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
     <style name="PromptDialog">
         <item name="android:windowBackground">@android:color/transparent</item>

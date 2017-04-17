@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Běh</runType>
+            <trainContent>Pomalý běh</trainContent>
+            <copyWrite>Pomalý běh 800m/Chůze 200m interval. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Běh</runType>
+            <trainContent>Lehký běh</trainContent>
+            <copyWrite>Snadný běh. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Běh</runType>
+            <trainContent>Základní běh</trainContent>
+            <copyWrite>Běh konverzační tempem.  Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Běh</runType>
+            <trainContent>Technický běh</trainContent>
+            <copyWrite>Trochu rychleji než normálním tempem. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Běh</runType>
+            <trainContent>Volný běh</trainContent>
+            <copyWrite>Volný běh - mix rychlého a pomalého tempa. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Běh</runType>
+            <trainContent>Běh do kopce</trainContent>
+            <copyWrite>Vyberte trasu v kopcovitém terénu. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Běh</runType>
+            <trainContent>Stejné tempo</trainContent>
+            <copyWrite>Udržovat konstantní rychlost. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Běh</runType>
+            <trainContent>Intervaly（Krátké)</trainContent>
+            <copyWrite>Rychle 800m/Chůze 800m inerval. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Běh</runType>
+            <trainContent>Intervaly（Dlouhé)</trainContent>
+            <copyWrite>Rychle 2.4km/Chůze 800m interval. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Odpočinek</runType>
+            <trainContent></trainContent>
+            <copyWrite>Dej si pauzu, dnes netrénuj. %1$d den od začátku tréninku</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Plavání</runType>
+            <trainContent></trainContent>
+            <copyWrite>Plavání může pomoci zotavení. Označ zde, když máš hotovo.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Kolo</runType>
+            <trainContent></trainContent>
+            <copyWrite>Cross trénink může zvýšit energii a zotavení rychlosti. Cíl HR%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
