@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon_notify_complete" android:background="@drawable/sport_alert_back_trajectory" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="38.0dip" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:id="@id/route_status_remind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="30.0dip" android:text="@string/gpx_offset_route" android:layout_below="@id/icon_notify_complete" android:layout_centerHorizontal="true" android:textAlignment="center" />
+    <View android:id="@id/line_separate" android:background="@color/default_font_color_white" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="10.0dip" android:layout_below="@id/route_status_remind" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:id="@id/look_to_route" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="6.0dip" android:text="@string/dialog_remind_to_look_route" android:layout_below="@id/line_separate" android:layout_centerHorizontal="true" android:textAlignment="center" />
+    <View android:visibility="invisible" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+</RelativeLayout>

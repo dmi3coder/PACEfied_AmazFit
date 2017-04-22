@@ -30,6 +30,7 @@
     <item type="id" name="auto_plane">25</item>
     <item type="id" name="wifi_upload">21</item>
     <item type="id" name="replace_watchface">26</item>
+    <item type="id" name="auto_wifi_trans_switch">28</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="view_pager">false</item>

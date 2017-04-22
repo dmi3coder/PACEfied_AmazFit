@@ -34,6 +34,7 @@
     <string name="auto_airplane">自动飞行</string>
     <string name="wifi_upload">数据同步</string>
     <string name="replace_watchface">更换表盘</string>
+    <string name="wifi_auto_upload_switch">数据自动同步</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -65,6 +66,8 @@
     <string name="auto_nodisturb_start_time_string">开始时间</string>
     <string name="auto_nodisturb_end_time_string">结束时间</string>
     <string name="time_to">至</string>
+    <string name="auto_wifi_trans_on_string">已开启</string>
+    <string name="auto_wifi_trans_off_string">已关闭</string>
     <string name="blue_tooth_dev_in_sub_list">蓝牙设备</string>
     <string name="scanning_blt_devices">正在搜索...</string>
     <string name="blt_bound_stat_bonded">已配对</string>

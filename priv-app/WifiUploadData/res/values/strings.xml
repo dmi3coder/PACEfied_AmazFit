@@ -11,23 +11,26 @@
     <string name="sport_music_settings">Sports music</string>
     <string name="app_name">WifiUploadData</string>
     <string name="notice_text_success_top">upload data success</string>
-    <string name="notice_text_failed_top">upload data failed</string>
     <string name="notice_text_success_bottom">Please look at mi sport</string>
+    <string name="notice_text_failed_top">upload data failed</string>
+    <string name="net_failed">Please check connection and try again</string>
     <string name="date">Data:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">assist token failed.</string>
+    <string name="cannot_acess_server">无法访问服务器</string>
+    <string name="cannot_upload_user">Cannot update data</string>
+    <string name="please_upload_assist_version">Please update assist version</string>
+    <string name="did_not_connect_assist">请先连接Amazfit手表App。连接后可自动更新验证信息，即可访问服务器。</string>
+    <string name="upload_failed_full">Upload for this time cannot success,if you want to stop?</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Please keep the watch 
  connected to WiFi"</string>
     <string name="init_wifi">Connected Wi-Fi</string>
-    <string name="cannot_acess_server">无法访问服务器</string>
     <string name="init_user">Check user</string>
-    <string name="cannot_upload_user">Cannot update data</string>
-    <string name="please_upload_assist_version">Please update assist version</string>
     <string name="init_app">Connected App</string>
     <string name="init_update_user">Update user</string>
-    <string name="see_after_connect_app_token_faield">assist token failed.</string>
-    <string name="upload_failed_full">Upload for this time cannot success,if you want to stop?</string>
     <string name="zero">0</string>
-    <string name="net_failed">Please check connection and try again</string>
 </resources>
