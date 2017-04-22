@@ -234,7 +234,7 @@
     <string name="widget_weeklyreports_totalcalory_title">Bruciato</string>
     <string name="widget_weeklyreports_sports_title">Attività</string>
     <string name="widget_weeklyreports_reports_title">Settimanale</string>
-    <string name="widget_weeklyreports_reports_review">recensione settimanalew</string>
+    <string name="widget_weeklyreports_reports_review">Riepilogo</string>
     <string name="widget_sleep_title">Sonno</string>
     <string name="widget_sleep_late">Sonno tardi</string>
     <string name="widget_sleep_deep_leak">Breve sonno leggero</string>

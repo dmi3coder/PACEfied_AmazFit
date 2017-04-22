@@ -43,7 +43,7 @@
     <string name="personal_info">Informazioni personali</string>
     <string name="time_zone_clock">Impostazioni ora</string>
     <string name="setting_time_format">Formato ora</string>
-    <string name="connect">Connettivita</string>
+    <string name="connect">Connettività</string>
     <string name="common">Varie</string>
     <string name="device">Dispositivo</string>
     <string name="nodisturb">Silenzioso</string>
@@ -104,20 +104,20 @@ Collegare?"</string>
     <string name="button_cancel">Annulla</string>
     <string name="blt_cancel_paring">Accoppiamento annullato</string>
     <string name="bluetooth_pairing_error_message">"Non posso accoppiare con %1$s."</string>
-    <string name="bluetooth_connecting">Collegamento...</string>
+    <string name="bluetooth_connecting">Connessione...</string>
     <string name="bluetooth_disconnecting">Disconnessione...</string>
     <string name="blt_hint_paring">"%1s
  accoppiare?"</string>
-    <string name="blt_paring_fail_hint">Assicurarsi che il dispositivo sia acceso
-e nelle vicinanze</string>
+    <string name="blt_paring_fail_hint">"Assicurarsi che il dispositivo sia acceso
+e nelle vicinanze"</string>
     <string name="blt_hint_disconnect_device">Disconnetti</string>
     <string name="blt_hint_ignore_device">Ignora</string>
     <string name="blt_hint_connect_device">Collega</string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_disconnected">Disconnesso</string>
-    <string name="bluetooth_connecting_error_message">Non posso collegarmi a %1$s.</string>
-    <string name="bluetooth_pairing_pin_error_message">Non posso accoppiare con %1$s: Pin errato.</string>
-    <string name="bluetooth_pairing_device_down_error_message">Non posso comunicare con %1$s.</string>
+    <string name="bluetooth_connecting_error_message">"Non posso collegarmi a %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Non posso accoppiare con %1$s: Pin errato"</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Non posso comunicare con %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Accopiamento rifiutato da %1$s.</string>
     <string name="bluetooth_turning_on">Attivo Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivo Bluetooth…</string>
@@ -136,12 +136,12 @@ e nelle vicinanze</string>
     <string name="lab_wifi_test_tip_fail">Fallito!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Attivo WIFI</string>
     <string name="light_off">Off</string>
-    <string name="light_auto">Automatico</string>
+    <string name="light_auto">Auto</string>
     <string name="light_on">Sempre Acceso</string>
     <string name="rise_no_bl_under_slpt">Solo Sbloccato</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto quando bloccato</string>
     <string name="locale_title">Lingua</string>
-    <string name="locale_applying">Campio Lingua</string>
+    <string name="locale_applying">Campio lingua</string>
     <string name="zh_cn">Cinese (Semplificato)</string>
     <string name="en">Inglese(US)</string>
     <string name="zh_tw">Cinese (Traditionale)</string>
@@ -173,8 +173,8 @@ kg"</string>
     <string name="strong">forte</string>
     <string name="mid">medio</string>
     <string name="weak">debole</string>
-    <string name="confirm_shutdown">Spegnere ?</string>
-    <string name="app_name">"Impostazioni dell'orologio"</string>
+    <string name="confirm_shutdown">Spegnere?</string>
+    <string name="app_name">Impostazioni orologio</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Contiene strumenti utili per il debug</string>
     <string name="upgrade_checking">"Controllo per l\'aggiornamento..."</string>

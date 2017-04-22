@@ -19,15 +19,15 @@
     <string name="ori_northwest">NO</string>
     <string name="correcting">Calibrazione</string>
     <string name="correcting_line1">Inclina il polso</string>
-    <string name="correcting_line2">e ruota l\'idicatore</string>
+    <string name="correcting_line2">"e ruota l\'idicatore"</string>
     <string name="value_default">-</string>
     <string name="loading">Caricamento</string>
     <string name="degree">°</string>
     <string name="zero">0.00</string>
     <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
-    <string name="gps_tip">"GPS FIX Assente, spostati all\'esterno"</string>
+    <string name="gps_tip">"GPS fix assente, spostati all\'esterno"</string>
     <string name="confirm">Conferma</string>
     <string name="unknown">--</string>
     <string name="compass_roll_tip">"Tenere l\'orologio rivolto verso l\'alto
-	per l\'orientamento orizzontale"</string>
+per l\'orientamento orizzontale"</string>
 </resources>
