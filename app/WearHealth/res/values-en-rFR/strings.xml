@@ -226,7 +226,7 @@
     <string name="open_xiaom_app_failed_content">Please try to install the millet sports App.</string>
     <string name="stretch_notification_subtitle">Sitting too long</string>
     <string name="stretch_notification_content">Reasonable activities can ease the sedentary back stiff</string>
-    <string name="widget_label_step">Aujourd'hui</string>
+    <string name="widget_label_step">Aujourd\'hui</string>
     <string name="widget_heart_analysis">Analyze</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
     <string name="widget_step_target_complete">Reached the goal</string>
