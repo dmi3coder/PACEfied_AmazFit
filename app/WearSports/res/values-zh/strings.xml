@@ -332,6 +332,10 @@
     <string name="gpx_details_view">选定</string>
     <string name="gpx_details_use">使用</string>
     <string name="gpx_route_loading">轨迹加载中,请耐心等待</string>
+    <string name="dialog_remind_to_look_route">看轨迹</string>
+    <string name="gpx_offset_route">已偏离轨迹</string>
+    <string name="gpx_back_route">已回归到轨迹</string>
+    <string name="gpx_alreay_offset">已偏离</string>
     <string name="settting_sport_gpx_route">运动轨迹</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>

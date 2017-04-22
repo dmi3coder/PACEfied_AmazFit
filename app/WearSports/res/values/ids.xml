@@ -66,6 +66,10 @@
     <item type="id" name="dialog_titile">false</item>
     <item type="id" name="train_plan_markd_desc">false</item>
     <item type="id" name="txt_confirm">false</item>
+    <item type="id" name="icon_notify_complete">false</item>
+    <item type="id" name="route_status_remind">false</item>
+    <item type="id" name="line_separate">false</item>
+    <item type="id" name="look_to_route">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="history_detail_root">false</item>
@@ -179,6 +183,7 @@
     <item type="id" name="loading_remind">false</item>
     <item type="id" name="loading_fail_confirm">false</item>
     <item type="id" name="compass_view">false</item>
+    <item type="id" name="sport_info_trail_title_remind">false</item>
     <item type="id" name="sport_info_no_trail">false</item>
     <item type="id" name="param_container">false</item>
     <item type="id" name="narrow">false</item>
