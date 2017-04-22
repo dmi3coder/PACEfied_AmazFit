@@ -31,4 +31,11 @@
     <string name="zero">0</string>
     <string name="net_failed">Sprawdź połączenie i spróbuj ponownie</string>
     <string name="did_not_connect_assist">Połącz się z aplik.Amazfit. Po podł.info.uwierzytelniania mogą być autom.aktual, można uzyskać dostęp do serwera.</string>
+    <string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
 </resources>
