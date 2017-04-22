@@ -27,14 +27,14 @@
     <string name="check_network">Check the network</string>
     <string name="music_continue_downloading">Songs will continue to be downloaded</string>
     <string name="music_service_unavalible">DouBan service is Unavailable</string>
-    <string name="downloading_title">下载中</string>
-    <string name="downloaded_title">已下载</string>
-    <string name="pause_all_download_task">全部暂停</string>
-    <string name="start_all_download_task">全部下载</string>
-    <string name="delete_all_download_task">一键删除</string>
-    <string name="delete_all_task_toast">删除后无法恢复，是否继续？</string>
-    <string name="waiting_download">等待中/</string>
-    <string name="download_completed">下载完成</string>
+    <string name="downloading_title">Downloading</string>
+    <string name="downloaded_title">Downloaded</string>
+    <string name="pause_all_download_task">All paused</string>
+    <string name="start_all_download_task">Continue download</string>
+    <string name="delete_all_download_task">Delete download</string>
+    <string name="delete_all_task_toast">Really stop download？</string>
+    <string name="download_completed">Download completed</string>
+    <string name="waiting_download">Waiting/</string>
     <string name="music_list_title">Playback settings</string>
     <string name="music_volumn_control">Volume</string>
     <string name="music_douban_offline">Watercress FM offline</string>
@@ -50,19 +50,19 @@
     <string name="music_init_not_done">The music is initializing ...</string>
     <string name="music_broken">play failed, try re-download.</string>
     <string name="music_no_resource">No songs available</string>
-    <string name="music_no_resource_detail">请在“Amazfit手表App-应用设置-喜马拉雅FM”进行下载。</string>
+    <string name="music_no_resource_detail">Please download the "Amazfit Watch App - Application Settings - Himalayan FM".</string>
     <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
     <string name="music_no_douban_resource">No local songs available to play, download now?</string>
     <string name="music_no_local_resource">No songs to play, please connect USB to import.</string>
     <string name="music_start_tips">Need to connect to a Bluetooth headset for music, connect now?</string>
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
-    <string name="sound_title">声音标题</string>
-    <string name="announcer">主播</string>
+    <string name="sound_title">Song title</string>
+    <string name="announcer">Announcer</string>
     <string name="remain_duration">-28:00</string>
-    <string name="play_mode_single_loop">单曲循环</string>
-    <string name="play_mode_ordered">顺序播放</string>
-    <string name="play_mode_random">随机播放</string>
-    <string name="play_mode_album_loop">专辑内循环</string>
+    <string name="play_mode_single_loop">No repeat</string>
+    <string name="play_mode_ordered">Play sequence</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Repeat album</string>
     <string name="app_name">XimalayaSound</string>
     <string name="hello">Hello</string>
     <string name="favorite">Favorite</string>
@@ -97,11 +97,21 @@
     <string name="media_route_menu_title">Play on…</string>
     <string name="confirm_exit">The playlist is downloading, stop it?</string>
     <string name="music_download_cancel">Song downloading has been stopped</string>
-    <string name="storage_space_g">手表剩余容量%sG</string>
-    <string name="storage_space_mb">手表剩余容量%sMB</string>
+    <string name="storage_space_g">Storage %sG</string>
+    <string name="storage_space_mb">Storage %sMB</string>
     <string name="stop_casting">Stop Casting</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>
     <string name="label_previous">Previous</string>
     <string name="label_next">Next</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Data Center</string>
+    <string name="widget_currentstep_activities">Steps today</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sleep last night</string>
+    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_activity_no">No exercise today?</string>
+<!--END of missed texts by Huami-->
+
 </resources>
