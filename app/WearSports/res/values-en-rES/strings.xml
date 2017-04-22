@@ -37,10 +37,29 @@
     <string name="agps_time_out">AGPS caducado, el GPS sera demasiado lento. Por favor, conecte el reloj App Amazfit para su actualización.</string>
     <string name="safe_hearate_remind_content">Si superas % 1d bpm</string>
     <string name="settings_safe_heart_rate_hint">F. cardiaca segura</string>
-    <string name="settings_safe_heart_rate_unit">bpm</string>
+    <string name="settings_safe_heart_rate_unit">Puls/min</string>
     <string name="elliptical">Elíptica</string>
     <string name="elliptical_in_progress">Elíptica</string>
     <string name="experience_title">Por favor, configure información personal, o los datos tendrán una gran desviación</string>
+    <string name="sport_setting_gpx_route_selected">Seleccionar Ruta</string>
+    <string name="sport_setting_gpx_route_selectd_remind">Su ruta se mostrará en el mapa al iniciar una actividad. Si quiere desactivarla pulse Ajustes / Rutas / Desactivar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="decision_yes">Si</string>
+    <string name="decision_no">No</string>
+    <string name="use_sport_route_remind">Porcentage %1$s de la ruta?</string>
+    <string name="please_start_sport_from_route_start">Para garantizar la exactitud de la navegación de la ruta, comience el ejercicio en la posición geográfica real del punto de partida de la ruta</string>
+    <string name="please_become_bigger">Expandir</string>
+    <string name="please_become_smaller">Contraer</string>
+    <string name="current_altitude">Altitud actual</string>
+    <string name="cumulative_climb">Altitud acumulada</string>
+    <string name="sport_route_out_of">Desviado de la Ruta</string>
+    <string name="sport_back_to_route">Volver a la Ruta</string>
+    <string name="gpx_currnet_is_selected">Seleccionado</string>
+    <string name="gpx_select_closed">Desactivar</string>
+    <string name="gpx_select_empty" />
+    <string name="gpx_details_view">Sel.Ruta</string>
+    <string name="gpx_details_use">Usar</string>
+    <string name="gpx_route_loading">Por favor espere a que se cargue la ruta</string>																			   
     <string name="indoor_run_progressing">Carrera Indoor</string>
     <string name="music_title">Música</string>
     <string name="music_local_title">Música deportiva</string>
@@ -84,7 +103,13 @@
     <string name="outdoor_climb_down_distance">Distancia al descenso</string>
     <string name="outdoor_climb_down_distance_time">Tiempo de descenso</string>
     <string name="outdoor_climb_distance_time">Tiempo cuesta arriba</string>
-    <string name="sport_widget_title">Deportes</string>
+	<string name="route_cur_altitude">Altitud actual</string>
+    <string name="route_glevation_gain">Altitud ganada</string>
+    <string name="route_scale_enlarge">Expandir</string>
+    <string name="route_scale_narrow">Escoger</string>
+    <string name="route_cur_altitude_value">%1dm</string>
+    <string name="route_climb_up_value">%1dm</string>
+   <string name="sport_widget_title">Deportes</string>
     <string name="sport_widget_title_run">Carrera</string>
     <string name="sport_widget_title_walk">Caminar</string>
     <string name="sport_widget_title_cross">Carrera trail</string>
@@ -290,11 +315,13 @@
     <string name="waling_steps">pasos</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
+    <string name="settting_sport_gpx_route">Rutas</string>														   
     <string name="complete_training_project">El programa de formación se ha completado</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Correr %1s Km</string>
     <string name="remind_target_time_training_title_format">Ciclismo %1$d Min</string>
     <string name="complete_training_target_tips">¿Guardar esta carrera con el programa de entrenamiento de hoy?</string>
+    <string name="complete_training_outdoor_riding_target_tips">"Guardar esta carrera al programa de entrenamiento de hoy"</string>
     <string name="not_complete_train_task">Entrenamiento no completado.¿Estás seguro que quieres parar?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metros</string>
@@ -333,7 +360,6 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música deportiva</string>
-<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro de Datos</string>
     <string name="widget_currentstep_activities">Pasos hoy</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -341,5 +367,4 @@
     <string name="widget_currentstep_sleep_title">Sueño noche anterior</string>
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿Sin ejercicio hoy?</string>
-<!--END of missed texts by Huami-->
 </resources>
