@@ -13,42 +13,42 @@
         <item>@drawable/sport_start_loading</item>
     </array>
     <string-array name="quick_settings_status_week">
-        <item>Pon</item>
-        <item>Úte</item>
-        <item>Stř</item>
-        <item>Čtv</item>
-        <item>Pát</item>
-        <item>Sob</item>
-        <item>Neď</item>
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
         <item>Dnes</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Velmi chladno</item>
         <item>Dešte</item>
         <item>Jarní rovnodennost</item>
-        <item>Grain rain</item>
-        <item>Grain buds</item>
+        <item>Dešťové srážky</item>
+        <item>Kvetou pupeny</item>
         <item>Letní slunovrat</item>
-        <item>Great heat</item>
-        <item>Stopping the heat</item>
+        <item>Velké teplo</item>
+        <item>Konec tepla</item>
         <item>Podzimní rovnodennost</item>
-        <item>Hoar-frost falls</item>
-        <item>Light snow</item>
+        <item>Jinovatka</item>
+        <item>Slabé sněžení</item>
         <item>Zimní slunovrat</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Slight cold</item>
-        <item>Spring begins</item>
-        <item>Insects awaken</item>
-        <item>Clear and bright</item>
-        <item>Summer begins</item>
+        <item>Mírný chlad</item>
+        <item>Jaro začíná</item>
+        <item>Hmyz se probouzí</item>
+        <item>Jasno a slunečno</item>
+        <item>Léto začíná</item>
         <item>Grain in ear</item>
-        <item>Slight heat</item>
-        <item>Autumn begins</item>
-        <item>White dews</item>
-        <item>Cold dews</item>
-        <item>Winter begins</item>
-        <item>Heavy snow</item>
+        <item>Mírné teplo</item>
+        <item>Podzim začíná</item>
+        <item>Bílá rosa</item>
+        <item>Studená rosa</item>
+        <item>Zima začíná</item>
+        <item>Silné sněžení</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>Chu</item>
@@ -85,12 +85,12 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Ovzduší Velmi dobré</item>
-        <item>Ovzduší Dobré</item>
-        <item>Ovzduší Uspokojivé</item>
-        <item>Ovzduší Vyhovující</item>
-        <item>Ovzduší Špatné</item>
-        <item>Ovzduší Velmi špatné</item>
+        <item>Ovzduší velmi dobré</item>
+        <item>Ovzduší dobré</item>
+        <item>Ovzduší uspokojivé</item>
+        <item>Ovzduší vyhovující</item>
+        <item>Ovzduší špatné</item>
+        <item>Ovzduší velmi špatné</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
@@ -99,7 +99,7 @@
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-<item>Jasno</item>
+        <item>Jasno</item>
         <item>Zamračeno</item>
         <item>Zataženo</item>
         <item>Mlha</item>
@@ -123,6 +123,6 @@
         <item>Zvířený písek</item>
         <item>Písečná bouře</item>
         <item>Silná písečná bouře</item>
-        <item>No Data</item>
+        <item>Bez dat</item>
     </string-array>
 </resources>

@@ -37,6 +37,6 @@
     <string name="weeklysports_running">Běh</string>
     <string name="weeklysports_walking">Chůze</string>
     <string name="weeklysports_riding">Kolo</string>
-    <string name="weekly_step_attained_rate">Dny k dosažení cíle kroků.</string>
+    <string name="weekly_step_attained_rate">Dnů k dosažení cíle kroků.</string>
     <string name="weekly_sports_notification_content">Souhrn aktivit za poslední týden je připravený.</string>
 </resources>
