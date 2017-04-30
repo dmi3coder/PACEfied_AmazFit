@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-153">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-164">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.VIBRATE"/>

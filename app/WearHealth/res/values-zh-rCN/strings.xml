@@ -209,6 +209,9 @@
     <string name="high_strength_heart_rate">高强度</string>
     <string name="non_movement_heart_rate">非运动</string>
     <string name="sleep_heart_rate">睡眠</string>
+    <string name="heart_name">心率</string>
+    <string name="step_name">活动</string>
+    <string name="sleep_name">睡眠</string>
     <string name="widget_label_step">今日活动</string>
     <string name="widget_heart_analysis">心率分析</string>
     <string name="widget_step_target_txt">目标 <liff>%d</liff>步</string>

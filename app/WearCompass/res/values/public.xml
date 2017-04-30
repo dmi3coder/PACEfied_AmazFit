@@ -8,9 +8,10 @@
     <public type="drawable" name="compass_number_bg" id="0x7f020003" />
     <public type="drawable" name="divider_a" id="0x7f020006" />
     <public type="drawable" name="divider_b" id="0x7f020007" />
-    <public type="drawable" name="main_bg" id="0x7f020008" />
-    <public type="drawable" name="red_dot" id="0x7f020009" />
-    <public type="drawable" name="small_dot" id="0x7f02000a" />
+    <public type="drawable" name="lan_applist_icon_compass" id="0x7f020008" />
+    <public type="drawable" name="main_bg" id="0x7f020009" />
+    <public type="drawable" name="red_dot" id="0x7f02000a" />
+    <public type="drawable" name="small_dot" id="0x7f02000b" />
     <public type="mipmap" name="app_icon_compass" id="0x7f030000" />
     <public type="layout" name="fragment_compass_with_correcting" id="0x7f040000" />
     <public type="layout" name="fragment_geographic_info" id="0x7f040001" />
