@@ -2,7 +2,7 @@
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Wybierz język</string>
-	<string name="weeklysports_title">Spotowy tydz.</string>
+    <string name="weeklysports_title">Spotowy tydz.</string>
     <string name="weeklysports_totalnumber_front">Całkowity ruch</string>
     <string name="weeklysports_totalstep_front">Cał.il.kroków</string>
     <string name="weeklysports_totaltime">Cał.czas ruchu</string>
@@ -246,7 +246,7 @@
     <string name="widget_heart_gauged_err">Nie udało się uzyskać wyniku</string>
     <string name="widget_heart_gauged_err_tips">Noś zegarek powyżej nadgarstka.</string>
     <string name="widget_weeklysports_heartrate_unit">bpm</string>
-	<string name="widget_sleep_conment">Spałeś w tym tyg.bardzo dobrze, zachowaj to!</string>
+    <string name="widget_sleep_conment">Spałeś w tym tyg.bardzo dobrze, zachowaj to!</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zarwierdź</string>
