@@ -213,23 +213,24 @@
     <public type="mipmap" name="current_weekly_mark" id="0x7f030002" />
     <public type="mipmap" name="day_train_right_selected" id="0x7f030003" />
     <public type="mipmap" name="day_train_right_un_selected" id="0x7f030004" />
-    <public type="mipmap" name="lau_notify_icon_training_bg" id="0x7f030006" />
-    <public type="mipmap" name="training_icon_already_custom" id="0x7f030007" />
-    <public type="mipmap" name="training_icon_completed" id="0x7f030008" />
-    <public type="mipmap" name="training_icon_rest" id="0x7f030009" />
-    <public type="mipmap" name="training_icon_riding" id="0x7f03000a" />
-    <public type="mipmap" name="training_icon_run" id="0x7f03000b" />
-    <public type="mipmap" name="training_icon_swimming" id="0x7f03000c" />
-    <public type="mipmap" name="training_list_icon_10km" id="0x7f03000d" />
-    <public type="mipmap" name="training_list_icon_5km" id="0x7f03000e" />
-    <public type="mipmap" name="training_list_icon_all_marathon" id="0x7f03000f" />
-    <public type="mipmap" name="training_list_icon_half_marathon" id="0x7f030010" />
-    <public type="mipmap" name="training_list_icon_novice_road" id="0x7f030011" />
-    <public type="mipmap" name="training_list_new" id="0x7f030012" />
-    <public type="mipmap" name="training_notify_completed" id="0x7f030013" />
-    <public type="mipmap" name="training_notify_icon" id="0x7f030014" />
-    <public type="mipmap" name="training_widget_bg" id="0x7f030015" />
-    <public type="mipmap" name="training_widget_icon" id="0x7f030016" />
+    <public type="mipmap" name="icon_train_plan" id="0x7f030006" />
+    <public type="mipmap" name="lau_notify_icon_training_bg" id="0x7f030007" />
+    <public type="mipmap" name="training_icon_already_custom" id="0x7f030008" />
+    <public type="mipmap" name="training_icon_completed" id="0x7f030009" />
+    <public type="mipmap" name="training_icon_rest" id="0x7f03000a" />
+    <public type="mipmap" name="training_icon_riding" id="0x7f03000b" />
+    <public type="mipmap" name="training_icon_run" id="0x7f03000c" />
+    <public type="mipmap" name="training_icon_swimming" id="0x7f03000d" />
+    <public type="mipmap" name="training_list_icon_10km" id="0x7f03000e" />
+    <public type="mipmap" name="training_list_icon_5km" id="0x7f03000f" />
+    <public type="mipmap" name="training_list_icon_all_marathon" id="0x7f030010" />
+    <public type="mipmap" name="training_list_icon_half_marathon" id="0x7f030011" />
+    <public type="mipmap" name="training_list_icon_novice_road" id="0x7f030012" />
+    <public type="mipmap" name="training_list_new" id="0x7f030013" />
+    <public type="mipmap" name="training_notify_completed" id="0x7f030014" />
+    <public type="mipmap" name="training_notify_icon" id="0x7f030015" />
+    <public type="mipmap" name="training_widget_bg" id="0x7f030016" />
+    <public type="mipmap" name="training_widget_icon" id="0x7f030017" />
     <public type="layout" name="activity_finish_result" id="0x7f040000" />
     <public type="layout" name="activity_finish_train_reason" id="0x7f040001" />
     <public type="layout" name="activity_fragment_container" id="0x7f040002" />

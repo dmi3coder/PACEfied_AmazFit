@@ -228,6 +228,9 @@
     <string name="open_xiaom_app_failed_content">请安装小米运动App后重试。</string>
     <string name="stretch_notification_subtitle">久坐时间过长</string>
     <string name="stretch_notification_content">合理的活动可缓解久坐后的腰背僵硬</string>
+    <string name="heart_name">Heart</string>
+    <string name="step_name">Step</string>
+    <string name="sleep_name">Sleep</string>
     <string name="widget_label_step">Today</string>
     <string name="widget_heart_analysis">Analyze</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
