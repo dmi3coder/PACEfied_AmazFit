@@ -47,7 +47,7 @@
     <string name="watch_label_green">Dashboard</string>
     <string name="watch_label_digital_sunrise">Morning Runner</string>
     <string name="watch_label_sport_seven">Route 50</string>
-    <string name="watch_label_digital_lonely_track">lonely track</string>
+    <string name="watch_label_digital_lonely_track">Lonely track</string>
     <string name="watch_label_sport_five">Strong Beat</string>
     <string name="watch_label_sport_eight">Time travel</string>
     <string name="watch_label_nine">Classic</string>
@@ -66,7 +66,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Battiti non rilevati</string>
+    <string name="no_heartrate_data_hint">FC non rilevata</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.ximalayasound" platformBuildVersionCode="22" platformBuildVersionName="5.1-164">
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.huami.watch.ximalayasound.XimalayaApplication" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <activity android:name="com.huami.watch.ximalayasound.XimalayaActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.huami.watch.ximalayasound.ui.NowPlayingActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.ximalayasound.MusicService">
+            <intent-filter>
+                <action android:name="com.huami.watch.ximalaya.MUSIC"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.humi.watch.ximalaya.MUSIC_SOURCE" android:exported="true" android:name="com.huami.watch.ximalayasound.XimalayaSourceProvider"/>
+        <activity android:launchMode="singleTask" android:name="com.huami.watch.ximalayasound.widget.MusicSettingActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.ximalaya.MUSIC_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.huami.watch.ximalayasound.widget.VolumnActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.huami.watch.ximalaya.MUSIC_SOURCE_VOLUMN_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.huami.watch.ximalayasound.DownloadingActivity"/>
+        <activity android:name="com.huami.watch.ximalayasound.DownloadedAlbumActivity"/>
+        <receiver android:exported="true" android:name="com.huami.watch.ximalayasound.tools.ChargingMonitor">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+                <action android:name="com.huami.watch.amazfitmusic.CORE_SYNC_SERVICE"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.huami.watch.ximalayasound.HimalayanService">
+            <intent-filter>
+                <action android:name="com.huami.watch.ximalayasound.sound_list"/>
+            </intent-filter>
+        </service>
+        <activity android:name="com.huami.watch.ximalayasound.PlayModeSettingActivity"/>
+        <activity android:name="com.huami.watch.ximalayasound.DownloadedMusicListActivity"/>
+        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService"/>
+        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService" android:process=":filedownloader"/>
+    </application>
+</manifest>

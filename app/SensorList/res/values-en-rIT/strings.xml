@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sensors</string>
-    <string name="hello_world">Selected:ACC PPG</string>
-    <string name="action_settings">Preferenze</string>
-    <string name="title_activity_sensor_list">ElencoSensori</string>
-    <string name="title_activity_view_list">ListaMisurazioni</string>
-    <string name="title_activity_graph_list">GraficoMisurazioni</string>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Selezzionati:ACC PPG</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="title_activity_sensor_list">SensorListActivity</string>
+    <string name="title_activity_view_list">ViewListActivity</string>
+    <string name="title_activity_graph_list">GraphListActivity</string>
+    <string name="completed">Completato %1$s</string>
+    <string name="upload_failed">caricamento fallito!</string>
+    <string name="upload_success">caricamento riuscito!</string>
+    <string name="uploading">carico!</string>
+    <string name="no_uploaded_files">Nessun file caricato!</string>
+    <string name="open_wifi_failed">avvio wifi fallito!</string>
+    <string name="connect_APP">Prego collegare  l\'APP!</string>
 </resources>

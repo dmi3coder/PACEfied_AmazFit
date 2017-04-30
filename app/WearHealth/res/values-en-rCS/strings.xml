@@ -33,7 +33,7 @@
     <string name="weeklysports_riding">Kolo</string>
     <string name="weekly_step_attained_rate">Dnů k dosažení cíle kroků</string>
     <string name="weekly_sports_notification_content">Souhrn aktivity z minulého týdne je připraven.</string>
-    <string name="weeklysports_date_format">dd/MM yyyy</string>
+    <string name="weeklysports_date_format">dd.MM.yyyy</string>
     <string name="widget_currentstep_title">Centrum dat</string>
     <string name="widget_currentstep_activities">Kroků dnes</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -149,8 +149,8 @@
     <string name="label_subject_active">Aktivní</string>
     <string name="label_subject_ratio_today">Poměr činností</string>
     <string name="label_subject_sit">Klid</string>
-    <string name="label_when_quiet">Odpočívám  </string>
-    <string name="label_when_active">  V/Po tréninku</string>
+    <string name="label_when_quiet">Odpočívám</string>
+    <string name="label_when_active">V/Po tréninku</string>
     <string name="notif_detail_view">Zobrazit podrobnosti</string>
     <string name="notif_long_sit_desc">Sedíš příliš dlouho. Pojď vstát a nějakou dobu se pohybuj.</string>
     <string name="notif_long_sit_title">Čas vstát</string>
@@ -182,14 +182,14 @@
     <string name="sleep_uniti_hour">hod</string>
     <string name="sleep_duration">%1$s h %2$s min</string>
     <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">Hod&lt;/font> %2$s Min</string>
-    <string name="date_m_d">%2$s/%1$s</string>
+    <string name="date_m_d">%2$s.%1$s.</string>
     <string name="date_today">Dnes</string>
     <string name="sleep_detail_title">Historie</string>
     <string name="dlg_confirm">Potvrď</string>
     <string name="dlg_cancel">Zrušit</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-	<string name="all_day_hearte_rate_button_open">Zapnout průběžné měření TF</string>
+    <string name="all_day_hearte_rate_button_open">Zapnout průběžné měření TF</string>
     <string name="all_day_hearte_rate_button_close">Vypnout průběžné měření TF</string>
     <string name="heart_rate_no_data">Není dostupné</string>
     <string name="label_heart_rate_text">Tepová frekvence</string>
@@ -220,10 +220,14 @@
     <string name="stretch_dialog_content">Přiměřené činnosti můžou pomoci zmírnit sedavou ztuhlost zad, sleduj video, dělej několik sad protažení v kanceláři!</string>
     <string name="stretch_dialog_cancel">Zrušit</string>
     <string name="stretch_dialog_start">Spustit video</string>
+    <string name="stretch_dialog_button">Zahájit stretching</string>
     <string name="stretch_connection_failed_title">Nemůžu se připojit k telefonu.</string>
     <string name="stretch_connection_failed_content">Prosím, otevři telefonní spojení Bluetooth, nechej aplikaci otevřenou a zkus to znovu.</string>
+    <string name="stretch_connection_failed_button">Opakuj</string>
     <string name="open_xiaomi_app_failed_title">Otevření millet movement se nezdařilo</string>
     <string name="open_xiaom_app_failed_content">Prosím, opakuj instalaci millet sports App.</string>
+    <string name="stretch_notification_subtitle">Sedíte příliš dlouho</string>
+    <string name="stretch_notification_content">Rozumné aktivity mohou odstranit sedavé zatuhnutí zad</string>
     <string name="widget_label_step">Dnes</string>
     <string name="widget_heart_analysis">Prozkoumat</string>
     <string name="widget_step_target_txt">Cíl:  <liff>%d</liff></string>
@@ -244,6 +248,7 @@
     <string name="widget_heart_gauged_err">Nepodařilo se změřit tepovou frekvenci</string>
     <string name="widget_heart_gauged_err_tips">Máte hodinky nad zápěstím.</string>
     <string name="widget_weeklysports_heartrate_unit">bpm</string>
+    <string name="widget_sleep_conment">Spánek tento týden je velmi dobrý, jen tak dál!</string>
     <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrď</string>

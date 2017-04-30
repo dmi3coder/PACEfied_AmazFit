@@ -4,7 +4,7 @@
     <string name="locale_title">Seleziona lingua</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
-    <string name="app_name">Freq. cardiaca</string>
+    <string name="app_name">Frequenza cardiaca</string>
     <string name="label_heartrate_today">Curva FC</string>
     <string name="heartrate_wear_before_gauging">Indossare l\'orologio prima di misurare</string>
     <string name="label_subject_ratio_today">Rapporto attività</string>

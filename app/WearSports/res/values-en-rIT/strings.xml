@@ -55,7 +55,7 @@
     <string name="sport_route_out_of">Fuori traccia</string>
     <string name="sport_back_to_route">Rientrato in traccia</string>
     <string name="gpx_currnet_is_selected">selezionato</string>
-    <string name="gpx_select_closed">Chiuso</string>
+    <string name="gpx_select_closed">Nessun file</string>
     <string name="gpx_select_empty" />
     <string name="gpx_details_view">Selezionato</string>
     <string name="gpx_details_use">Utilizzo</string>
@@ -96,7 +96,7 @@
     <string name="not_testing_speed_data">Velocità N/A</string>
     <string name="con_leqi_table_title">Amazfit supporta il Sesore LEQI per la cadenza, vuoi connetterlo adesso?</string>
     <string name="con_leqi_table_subtitle">"(Effettua l\'associazione in Impostazioni-Bluetooth)"</string>
-    <string name="unit_cadence">rpm</string>
+    <string name="unit_cadence">ppm</string>
     <string name="remind_target_riding_km_title_format">Completati %1$d km</string>
     <string name="indoor_riding_time_too_short">Il tempo dell\'esercizio e troppo breve per salvare. Sicuro di fermare?</string>
     <string name="outdoor_climb_down_altitude">Differenza altimetrica</string>
@@ -191,10 +191,11 @@
     <string name="waiting_gps_gps_unavailable_button_text">Continua</string>
     <string name="title_activity_gpswaiting">In attesa del GPS</string>
     <string name="hello_world">Ciao mondo!</string>
-    <string name="no_gps_title">FIX GPS assente</string>
+    <string name="no_gps_title">Fix GPS assente</string>
     <string name="no_gps_content">"Impossibile registrare il percorso, assicurati di essere all\'aperto."</string>
     <string name="no_gps_button_text">Contiua</string>
     <string name="settings_item_title_km_remind">Promemoria giro</string>
+    <string name="settings_item_title_mi_remind">Promemoria giro</string>
     <string name="settings_item_title_km_voice_remind">Promemoria vocale</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Allerta soglia FC aerobica</string>
     <string name="settings_item_title_safe_heartrate_remind">Allerta FC</string>
@@ -202,6 +203,7 @@
     <string name="settings_item_title_target_use_time_remind">Tempo previsto</string>
     <string name="settings_item_title_target_distance_remind">Distanza prevista</string>
     <string name="settings_item_title_pace_remind">Allerta ritmo</string>
+    <string name="settings_item_title_Leqi_remind">Allerta cadenza</string>
     <string name="settings_item_value_open">On</string>
     <string name="settings_item_value_closed">Off</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
@@ -245,6 +247,11 @@
     <string name="sport_medal_desc_total_50_km">Allenati su una distanza totale di 50 km</string>
     <string name="sport_medal_desc_total_300_km">Allenati su una distanza totale di 300 km</string>
     <string name="sport_medal_desc_total_1000_km">Allenati su una distanza totale di 1000 km</string>
+    <string name="sport_medal_desc_one_5_mi">Allenati su una distanza totale 3.1 mi</string>
+    <string name="sport_medal_desc_one_10_mi">Allenati su una distanza totale 6.2 mi</string>
+    <string name="sport_medal_desc_total_50_mi">Allenati su una distanza totale 31 mi</string>
+    <string name="sport_medal_desc_total_300_mi">Allenati su una distanza totale 186 mi</string>
+    <string name="sport_medal_desc_total_1000_mi">Allenati su una distanza totale 621 mi</string>
     <string name="sport_medal_desc_half_marathon">Completa la metà di una maratona</string>
     <string name="sport_medal_desc_marathon">Completa una maratona</string>
     <string name="sport_medal_desc_continuous_7_days_sport">7 giorni consecutivi di corsa</string>
@@ -292,7 +299,7 @@
     <string name="history_detail_walking_cost_time">Tempo in movimento</string>
     <string name="settings_sport_slpt_second_brush">aggiora statistiche /s</string>
     <string name="settings_sport_music_Watercress">Sports FM</string>
-    <string name="settings_sport_music_play_settings">Opzioni Musica</string>
+    <string name="settings_sport_music_play_settings">Impostazioni Musica</string>
     <string name="settings_sport_lock_screen">Riquadri dati</string>
     <string name="settings_sport_four_data">4 riquadri</string>
     <string name="settings_sport_six_data">6 riquadri</string>
@@ -348,7 +355,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">FC non Rilevata</string>
+    <string name="no_heartrate_data_hint">FC non rilevata</string>
     <string name="no_altitude_hint">Dati barometrici non rilevati</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>

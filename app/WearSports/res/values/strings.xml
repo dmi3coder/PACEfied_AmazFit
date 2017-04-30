@@ -353,6 +353,10 @@
     <string name="current_altitude">Cur alt</string>
     <string name="decision_no">No</string>
     <string name="decision_yes">Yes</string>
+    <string name="dialog_remind_to_look_route">Look at the track</string>
+    <string name="gpx_alreay_offset">Off-track</string>
+    <string name="gpx_back_route">Back on track</string>
+    <string name="gpx_offset_route">Track offset</string>
     <string name="gpx_currnet_is_selected">selected</string>
     <string name="gpx_details_use">Usage</string>
     <string name="gpx_details_view">Selected</string>

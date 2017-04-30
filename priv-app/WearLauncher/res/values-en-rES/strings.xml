@@ -53,7 +53,7 @@
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"%d dias desde la carga"</string>
     <string name="quick_settings_battery_charging_intervalDayLess">"%d horas desde la carga"</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Menos de 1 hora desde el carga"</string>
-    <string name="quick_settings_battery_sportString">"Duración de la batería en con GPS"</string>
+    <string name="quick_settings_battery_sportString">"Batería con GPS activo."</string>
     <string name="quick_settings_battery_sporttime_hour_unit">"hora"</string>
     <string name="quick_settings_battery_sporttime_KM_unit">"km"</string>
     <string name="quick_settings_battery_level_unit">"%"</string>
@@ -61,7 +61,7 @@
     <string name="health_def_value">""</string>
     <string name="health_def_hint">""</string>
     <string name="health_title_def_value">"Hoy has caminado"</string>
-    <string name="splash_hint">"Iniciando ..."</string>
+    <string name="splash_hint">"Iniciando..."</string>
     <string name="header_incomming_call_name">""</string>
     <string name="header_incomming_call_hint">"Llamada entrante"</string>
     <string name="header_incomming_call_mobilephone">"Teléfono"</string>
@@ -92,7 +92,7 @@
     <string name="activity_not_found">"Hubo un problema para completar la acción solicitada."</string>
     <string name="data_checkfail_match">"No coincide los campos de tiempo"</string>
     <string name="data_checkfail_temp">"Temperatura por debajo de los límites"</string>
-    <string name="data_checkfail_type">"No se puede reconocer el tipo meteorológica"</string>
+    <string name="data_checkfail_type">"No se puede reconocer el estado meteorológica"</string>
     <string name="notification_block_message">"Ya no recibirá notificaciones de aplicaciones"</string>
     <string name="launcher_app_name">"Lanzador"</string>
     <string name="hm_watch_sports_notification_km">"Kilometros"</string>
@@ -594,9 +594,9 @@
     <string name="forecast_tomorrow">"Mañana"</string>
     <string name="moisture">"Humedad"</string>
     <string name="no_aqi">"No se puede obtener la calidad del aire"</string>
-    <string name="no_outdoor_info">"No se puede obtener el índice de movimiento"</string>
-    <string name="outdoor_info_notsuit">"No es adecuado para los deportes al aire libre"</string>
-    <string name="outdoor_info_suit">"Deportes al aire libre adecuados"</string>
+    <string name="no_outdoor_info">Sin datos meteorológicos para practicar deporte</string>
+    <string name="outdoor_info_notsuit">Meteorología inadecuada para practicar deporte</string>
+    <string name="outdoor_info_suit">Meteorología óptima para practicar deporte</string>
     <string name="uv">"Rayos UVA"</string>
     <string name="weather">"Pronóstico del tiempo"</string>
     <string name="weather_warning">"Pre-Aviso"</string>

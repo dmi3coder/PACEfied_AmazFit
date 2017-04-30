@@ -2,26 +2,26 @@
 <resources>
     <string name="backup_confirm_title">Backup completo</string>
     <string name="restore_confirm_title">Ripristino completo</string>
-    <string name="backup_confirm_text">"Il computer collegato ha richiesto il backup completo dei dati. Vuoi procedere?
+    <string name="backup_confirm_text">"E' stato richiesto un backup completo dei dati su un computer collegato. Autorizzi?
 
-Se non hai richiesto il backup, rifiuta l'autorizzazione."</string>
-    <string name="allow_backup_button_label">Esegui backup</string>
-    <string name="deny_backup_button_label">Non eseguire il backup</string>
-    <string name="restore_confirm_text">"Il computer collegato ha richiesto il ripristino completo dei dati. Vuoi procedere?
+Se non è stato da te richiesto, non autorizzare."</string>
+    <string name="allow_backup_button_label">Copia i miei dati</string>
+    <string name="deny_backup_button_label">Non copiare</string>
+    <string name="restore_confirm_text">"E' stato richiesto un ripristino completo dei dati da un computer collegato. Autorizzi?
 
-Se non hai richiesto il ripristino, rifiuta l'autorizzazione. Questo sostituirà tutti i dati presenti sul dispositivo!"</string>
-    <string name="allow_restore_button_label">Ripristina dati</string>
+Se non è stato da te richiesto, non autorizzare. Questo sostituirà tutti i dati!"</string>
+    <string name="allow_restore_button_label">Ripristina i miei dati</string>
     <string name="deny_restore_button_label">Non ripristinare</string>
-    <string name="current_password_text">Inserisci la password del tuo backup:</string>
-    <string name="device_encryption_restore_text">Inserisci la password crittografica del dispositivo.</string>
-    <string name="device_encryption_backup_text">"Inserisci la password crittografica del dispositivo. Questa sarà usata anche per il backup."</string>
-    <string name="backup_enc_password_text">Inserisci una password da utilizzare per la crittografia dei dati di backup. Altrimenti verrà utilizzata la password corrente:</string>
-    <string name="backup_enc_password_optional">Se vuoi criptare i dati del backup, inserisci una password:</string>
-    <string name="backup_enc_password_required">Poiché il dispositivo è crittografato, devi crittografare il backup. Si prega di inserire una password:</string>
-    <string name="restore_enc_password_text">Se i dati di ripristino sono crittografati, inserisci la password:</string>
-    <string name="toast_backup_started">Inizio backup...</string>
-    <string name="toast_backup_ended">Backup terminato</string>
-    <string name="toast_restore_started">Inizio ripristino...</string>
+    <string name="current_password_text">Inserire la password di backup sotto:</string>
+    <string name="device_encryption_restore_text">Inserire la password di crittografia sotto.</string>
+    <string name="device_encryption_backup_text">Inserire la password di crittografia sotto. Verrà usata anche per criptare l\'archivio di backup.</string>
+    <string name="backup_enc_password_text">Prego inserire una password per criptare tutti i dati di backup. Se lasciato vuoto, verrà usata la password corrente:</string>
+    <string name="backup_enc_password_optional">Se desideri criptare tutti i dati di backup, inserire una password sotto:</string>
+    <string name="backup_enc_password_required">Visto che il dispositivo è criptato, devi criptare il backup.Prego inserire una password sotto:</string>
+    <string name="restore_enc_password_text">Se i dati di ripristino sono criptati, prego inserire la password sotto:</string>
+    <string name="toast_backup_started">Backup avviato...</string>
+    <string name="toast_backup_ended">Backup finito</string>
+    <string name="toast_restore_started">Ripristino avviato...</string>
     <string name="toast_restore_ended">Ripristino terminato</string>
-    <string name="toast_timeout">Time out operazione</string>
+    <string name="toast_timeout">Operazione interrotta</string>
 </resources>

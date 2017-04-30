@@ -258,24 +258,27 @@
     <public type="string" name="sport_music_settings" id="0x7f080008" />
     <public type="string" name="app_name" id="0x7f080010" />
     <public type="string" name="notice_text_success_top" id="0x7f080011" />
-    <public type="string" name="notice_text_failed_top" id="0x7f080012" />
-    <public type="string" name="notice_text_success_bottom" id="0x7f080013" />
-    <public type="string" name="date" id="0x7f080014" />
-    <public type="string" name="date_" id="0x7f080015" />
-    <public type="string" name="date_m" id="0x7f080016" />
-    <public type="string" name="percent_sign" id="0x7f080017" />
-    <public type="string" name="please_keep_wifi_connected" id="0x7f080018" />
-    <public type="string" name="init_wifi" id="0x7f080019" />
-    <public type="string" name="cannot_acess_server" id="0x7f08001a" />
-    <public type="string" name="init_user" id="0x7f08001b" />
+    <public type="string" name="notice_text_success_bottom" id="0x7f080012" />
+    <public type="string" name="notice_text_failed_top" id="0x7f080013" />
+    <public type="string" name="net_failed" id="0x7f080014" />
+    <public type="string" name="date" id="0x7f080015" />
+    <public type="string" name="am" id="0x7f080016" />
+    <public type="string" name="pm" id="0x7f080017" />
+    <public type="string" name="date_" id="0x7f080018" />
+    <public type="string" name="date_m" id="0x7f080019" />
+    <public type="string" name="see_after_connect_app_token_faield" id="0x7f08001a" />
+    <public type="string" name="cannot_acess_server" id="0x7f08001b" />
     <public type="string" name="cannot_upload_user" id="0x7f08001c" />
     <public type="string" name="please_upload_assist_version" id="0x7f08001d" />
-    <public type="string" name="init_app" id="0x7f08001e" />
-    <public type="string" name="init_update_user" id="0x7f08001f" />
-    <public type="string" name="see_after_connect_app_token_faield" id="0x7f080020" />
-    <public type="string" name="upload_failed_full" id="0x7f080021" />
-    <public type="string" name="zero" id="0x7f080022" />
-    <public type="string" name="net_failed" id="0x7f080023" />
+    <public type="string" name="did_not_connect_assist" id="0x7f08001e" />
+    <public type="string" name="upload_failed_full" id="0x7f08001f" />
+    <public type="string" name="percent_sign" id="0x7f080020" />
+    <public type="string" name="please_keep_wifi_connected" id="0x7f080021" />
+    <public type="string" name="init_wifi" id="0x7f080022" />
+    <public type="string" name="init_user" id="0x7f080023" />
+    <public type="string" name="init_app" id="0x7f080024" />
+    <public type="string" name="init_update_user" id="0x7f080025" />
+    <public type="string" name="zero" id="0x7f080026" />
     <public type="string" name="widget_currentstep_title" id="0x7f080009" />
     <public type="string" name="widget_currentstep_activities" id="0x7f08000a" />
     <public type="string" name="widget_currentstep_sleep_hour" id="0x7f08000b" />
@@ -283,7 +286,6 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f08000d" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f08000e" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f08000f" />
-    <public type="string" name="did_not_connect_assist" id="0x7f080024" />
     <public type="style" name="PromptDialog" id="0x7f090000" />
     <public type="style" name="HMProgressBar" id="0x7f090001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f090002" />

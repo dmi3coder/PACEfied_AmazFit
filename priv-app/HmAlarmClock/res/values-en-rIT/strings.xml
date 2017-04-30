@@ -28,7 +28,7 @@
     <string name="minute_unit">Minuti</string>
     <string name="snooze_button">Ritarda</string>
     <string name="dimiss_button">Spegni</string>
-    <string name="stop_watch_left_button_positive">Giri</string>
+    <string name="stop_watch_left_button_positive">Giro</string>
     <string name="stop_watch_left_button_negative">Reset</string>
     <string name="stop_watch_right_button_positive">Start</string>
     <string name="stop_watch_start_button">Start</string>
@@ -52,4 +52,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">Centro dati</string>
+    <string name="widget_currentstep_activities">Passi oggi</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Dormito la scorsa notte</string>
+    <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
+    <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
 </resources>

@@ -8,13 +8,13 @@
     <string name="disconnect">Odpojit</string>
     <string name="link_connected">Odkaz připojen</string>
     <string name="link_disconnected">Odkaz odpojen</string>
-    <string name="send_success">Odesláno úspěšně</string>
-    <string name="send_fail">Odesláno neúspěšně</string>
+    <string name="send_success">Odeslání úspěšné</string>
+    <string name="send_fail">Odeslání selhalo</string>
     <string name="recv_success">Přijato úspěšně</string>
-    <string name="recv_fail">Přijato úspěšně</string>
+    <string name="recv_fail">Přijetí selhalo</string>
     <string name="data_channel_available">Datový kanál je k dispozici</string>
     <string name="data_channel_unavailable">Datový kanál není dispozici</string>
-    <string name="connect_again">Opakovat připojení</string>
+    <string name="connect_again">Opakuj připojení</string>
     <string name="consume_time">Čas vypršel</string>
     <string name="clear_log">Vymazat Log</string>
     <string name="file_transfer">Přenos souboru</string>
@@ -23,8 +23,8 @@
     <string name="confirm">Potvrdit</string>
     <string name="cancel">Zrušit</string>
     <string name="unable_to_send">Nemožnost odeslání</string>
-    <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
-    <string name="simplified_chinese">中文(简体)</string>
+    <string name="install_companion_tip">Prosím, nainstalujte aplikaci Amazfit na telefonu</string>
+    <string name="simplified_chinese">Chinese (Simplified)</string>
     <string name="english_usa">English(US)</string>
     <string name="low_battery">Nízká úroveň nabití</string>
     <string name="scan_to_bind">Pro připojení naskenujte</string>
@@ -59,11 +59,11 @@
     <string name="rest_time">Test: Čas na sport</string>
     <string name="take_a_rest">Sedíte příliš dlouho, udělejte si krátkou procházku.</string>
     <string name="reach_goal">Test: Denní cíl počtu kroků</string>
-    <string name="reach_goal_content">"Dosáhli jste denního cíle 8000 kroků."</string>
+    <string name="reach_goal_content">Dosáhli jste denního cíle 8000 kroků.</string>
     <string name="get_medal">Test：Odemknout nový odznak</string>
-    <string name="get_medal_firstly">"Gratulujeme k dosažení Vašeho cíle. Dnes jste odemkl nový odznak."</string>
+    <string name="get_medal_firstly">Gratulujeme k dosažení Vašeho cíle. Dnes jste odemkl nový odznak.</string>
     <string name="schedule_reminder">Test：Připomínka v kalendáři</string>
     <string name="schedule_birthday_party">Přijď dnes večer na moji narozeninovou oslavu.</string>
-    <string name="daily_weather">"Test：Dnešní počasí"</string>
+    <string name="daily_weather">Test：Dnešní počasí</string>
     <string name="daily_weather_cloudy_to_sunny">Částečně zataženo 25/28°</string>
 </resources>

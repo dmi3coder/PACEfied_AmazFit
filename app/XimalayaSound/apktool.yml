@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: XimalayaSound.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '21'
+  maxSdkVersion: '21'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.17
+version: 2.2.2
+versionInfo:
+  versionCode: '22'
+  versionName: 5.1-164
