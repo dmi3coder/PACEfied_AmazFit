@@ -29,7 +29,7 @@
     <string name="auto_nodisturb">Aut.Tr.cichy</string>
     <string name="double_click_wakeup">Dot.by obudź.</string>
     <string name="vibration_intensity">Wibracje</string>
-	<string name="flight_mode">Tryb samolot.</string>
+    <string name="flight_mode">Tryb samolot.</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Powiązania</string>
     <string name="amazfit_app">Aplik.Amazfit</string>
@@ -43,6 +43,7 @@
     <string name="auto_airplane">Aut.Tr.samol.</string>
     <string name="wifi_upload">Prześlij</string>
     <string name="replace_watchface">Zmień WatchF.</string>
+    <string name="wifi_auto_upload_switch">Autom.przesył.</string>
     <string name="nothing">Pusty</string>
     <string name="about_title">O</string>
     <string name="model">Model</string>
@@ -74,6 +75,8 @@ Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.try
     <string name="auto_nodisturb_start_time_string">Czas rozpoczęcia</string>
     <string name="auto_nodisturb_end_time_string">Czas końca</string>
     <string name="time_to">" i "</string>
+    <string name="auto_wifi_trans_on_string">Wł.</string>
+    <string name="auto_wifi_trans_off_string">Wył.</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Wyszukiwanie...</string>
     <string name="blt_bound_stat_bonded">Sparowany</string>
@@ -99,7 +102,8 @@ Połączony?"</string>
     <string name="bluetooth_pairing_error_message">Parowanie nie powiodło się</string>
     <string name="bluetooth_connecting">Podłączanie...</string>
     <string name="bluetooth_disconnecting">Rozłączanie...</string>
-    <string name="blt_hint_paring">"%1s  sparować?"</string>
+    <string name="blt_hint_paring">"%1s  
+sparować?"</string>
     <string name="blt_paring_fail_hint">"Upewnij się, że urządz.jest 
 wł. i jest w zasięgu"</string>
     <string name="blt_hint_disconnect_device">Odłączony</string>
@@ -160,6 +164,8 @@ kg"</string>
     <string name="time_hms">Czas(H/M/S)</string>
     <string name="time_format">Format Czasu</string>
     <string name="hour_system">%s-hour system</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="strong">silne</string>
     <string name="mid">średnie</string>
     <string name="weak">słabe</string>
@@ -168,7 +174,8 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
 	<string name="unknown">Nieznane urządz.</string>
-    <string name="bind_tips_title">Powiąż n aby chronić swoje dane bardziej bezp.</string>
+    <string name="bind_tips_title">"Powiąż aby
+chronić swoje dane bardziej bezp."</string>
     <string name="upgrade_checking">Sprawdz.aktual...</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
