@@ -9,13 +9,6 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="widget_currentstep_title">Centrum danych</string>
-    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
-    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
-    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="locale_title">Wybierz Język</string>
     <string name="music_name">Radio FM</string>
@@ -40,8 +33,8 @@
     <string name="start_all_download_task">Kontyn.pobieranie</string>
     <string name="delete_all_download_task">Usuń pobranie</string>
     <string name="delete_all_task_toast">Naprawdę przestać ściągać?</string>
-    <string name="waiting_download">Czekanie/</string>
     <string name="download_completed">Zakoń.pobieranie</string>
+    <string name="waiting_download">Czekanie/</string>
     <string name="music_list_title">Ust.odtwarzania</string>
     <string name="music_volumn_control">Głośność</string>
     <string name="music_douban_offline">Radio FM offline</string>
@@ -89,6 +82,7 @@
     <string name="skip_next">Przejdź do następ.</string>
     <string name="skip_prev">Przejdź do poprze.</string>
     <string name="home_title">Home</string>
+    <string name="related_content_header">Może Ci się spodobać</string>
     <string name="action_listen">Słuchaj</string>
     <string name="open_content_drawer">Otwórz menu główne</string>
     <string name="close_content_drawer">Zamknij menu główne</string>
@@ -110,4 +104,14 @@
     <string name="label_play">Graj</string>
     <string name="label_previous">Poprzedni</string>
     <string name="label_next">Następny</string>
+    <!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
+<!--END of missed texts by Huami-->
+
 </resources>
