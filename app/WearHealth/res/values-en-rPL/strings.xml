@@ -245,8 +245,8 @@
     <string name="widget_err_step_shown">ERR:(-1)</string>
     <string name="widget_heart_gauged_err">Nie udało się uzyskać wyniku</string>
     <string name="widget_heart_gauged_err_tips">Noś zegarek powyżej nadgarstka.</string>
-	<string name="widget_weeklysports_heartrate_unit">bpm</string>
-	<string name="widget_sleep_conment">Sleep this week is very good, keep it on!</string>
+    <string name="widget_weeklysports_heartrate_unit">bpm</string>
+	<string name="widget_sleep_conment">Spałeś w tym tyg.bardzo dobrze, zachowaj to!</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zarwierdź</string>
