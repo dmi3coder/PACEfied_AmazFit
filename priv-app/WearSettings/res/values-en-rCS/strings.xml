@@ -50,6 +50,7 @@
     <string name="auto_airplane">Auto mód letadlo</string>
     <string name="wifi_upload">Nahrát</string>
     <string name="replace_watchface">Změnit pozadí</string>
+    <string name="wifi_auto_upload_switch">Auto.nahrání</string>
     <string name="nothing">Prázdné</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
@@ -70,8 +71,8 @@
     <string name="legal">Zkontrolujte v Amazfit</string>
     <string name="legal2">Watch App</string>
     <string name="lab">Lab</string>
-    <string name="opened">Zapnout</string>
-    <string name="closed">Vypnout</string>
+    <string name="opened">Lab zapnuta</string>
+    <string name="closed">Lab vypnuta</string>
     <string name="air_plane_mode_note">"Režim Letadlo 
 Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila energie. Pokud potřebujete používat funkce, které vyžadují BT / WiFi, vypněte režim Letadlo v Nastavení systému."</string>
     <string name="nodisturb_open_string">Zapnuto</string>
@@ -81,6 +82,8 @@ Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila
     <string name="auto_nodisturb_start_time_string">Čas začátku</string>
     <string name="auto_nodisturb_end_time_string">Čas ukončení</string>
     <string name="time_to">" do "</string>
+    <string name="auto_wifi_trans_on_string">Zapnout</string>
+    <string name="auto_wifi_trans_off_string">Vypnout</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Vyhledávám...</string>
     <string name="blt_bound_stat_bonded">Spárováno</string>

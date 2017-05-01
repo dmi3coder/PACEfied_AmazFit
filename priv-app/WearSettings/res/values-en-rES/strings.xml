@@ -9,6 +9,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Configuración</string>
     <string name="sport_music_settings">Musica deportiva</string>
+    <string name="widget_currentstep_title">Centro de Datos</string>
+    <string name="widget_currentstep_activities">Pasos de Hoy</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sueño noche anterior</string>
+    <string name="widget_currentstep_sleep_no">Sin Datos de Sueño</string>
+    <string name="widget_currentstep_activity_no">Sin ejercicio hoy?</string>
     <string name="double_click_wakeup_open">Activado</string>
     <string name="double_click_wakeup_close">Desactivado</string>
     <string name="dlg_confirm">Confirmar</string>
@@ -31,7 +38,10 @@
     <string name="vibration_intensity">Vibración</string>
     <string name="flight_mode">Modo Avión</string>
     <string name="hm_lab">Huami Lab</string>
-    <string name="about_title">Acerca de</string>
+    <string name="bind_app">Enlazar</string>
+    <string name="amazfit_app">Amazfit Watch App</string>
+    <string name="personal_info">Información Personal</string>
+    <string name="time_zone_clock">Ajustes de Z.Horaria</string>									 
     <string name="setting_time_format">Formato de Hora</string>
     <string name="connect">Conexión</string>
     <string name="common">Generales</string>
@@ -40,17 +50,19 @@
     <string name="auto_airplane">A. Modo Avión</string>
     <string name="wifi_upload">Cargar WiFi</string>
     <string name="replace_watchface">Camb. Esfera</string>
+    <string name="wifi_auto_upload_switch">Subida Auto</string>												   
     <string name="nothing">Vacío</string>
+    <string name="about_title">Acerca de</string>
     <string name="model">Modelo</string>
     <string name="dev_name">Nombre</string>
     <string name="dev_desc">Reloj Deportivo Amazfit</string>
     <string name="ard_version">Android version</string>
-    <string name="rom_version">Versión ROM</string>										   
+    <string name="rom_version">Versión ROM</string>
     <string name="rom_hint_dev">ROM (Edicion)</string>
     <string name="flash_capacity">Capacidad</string>
     <string name="flash_free_capacity">Espacio disponible</string>
     <string name="blt_mac_addr">MAC Bluetooth</string>
-    <string name="wlan_addr">Dirección WLAN</string>	
+    <string name="wlan_addr">Dirección WLAN</string>
     <string name="serial_no">N. Serie</string>
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">Aviso legal</string>
@@ -61,7 +73,7 @@
     <string name="lab">Lab</string>
     <string name="opened">Activado</string>
     <string name="closed">Desactivado</string>
-    <string name="air_plane_mode_note">"Modo Avión: Esta función desactivará Bluetooth, WiFi, Alipay y otras funciones del Reloj. Para utilizarlas, apague el modo de avión en la configuración del sistema."</string>
+    <string name="air_plane_mode_note">Modo Avión: Esta función desactivará Bluetooth, WiFi, Alipay y otras funciones del Reloj. Para utilizarlas, apague el modo de avión en la configuración del sistema.</string>
     <string name="nodisturb_open_string">Activado</string>
     <string name="nodisturb_close_string">Desactivado</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -69,6 +81,8 @@
     <string name="auto_nodisturb_start_time_string">Hora inicio</string>
     <string name="auto_nodisturb_end_time_string">Hora fin</string>
     <string name="time_to">" a "</string>
+    <string name="auto_wifi_trans_on_string">Encender</string>
+    <string name="auto_wifi_trans_off_string">Apagar</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Buscando...</string>
     <string name="blt_bound_stat_bonded">Emparejado</string>
@@ -77,8 +91,8 @@
     <string name="blt_bound_stat_bonding">Emparejando...</string>
     <string name="blt_bound_stat_none">Disponible</string>
     <string name="blt_default_name">Dispositivo</string>
-    <string name="blt_hint_disconnect">"¿Desconectar %1s ?"</string>
-    <string name="blt_hint_connect">"¿Conectar %1s ?"</string>
+    <string name="blt_hint_disconnect">¿Desconectar %1s ?</string>
+    <string name="blt_hint_connect">¿Conectar %1s ?</string>
     <string name="blt_hint_connect_fail">Error en la conexión. Vuelve a conectar.</string>
     <string name="blt_type_ear">Auriculares</string>
     <string name="blt_speaker">Audio</string>
@@ -92,8 +106,8 @@
     <string name="bluetooth_pairing_error_message">No se ha emparejado con %1$s.</string>
     <string name="bluetooth_connecting">Conectando...</string>
     <string name="bluetooth_disconnecting">Desconectando...</string>
-    <string name="blt_hint_paring">"¿Emparejar %1s ?"</string>
-    <string name="blt_paring_fail_hint">"Asegúrate que esté encendido y esté cerca"</string>
+    <string name="blt_hint_paring">¿Emparejar %1s ?</string>
+    <string name="blt_paring_fail_hint">Asegúrate que esté encendido y esté cerca</string>
     <string name="blt_hint_disconnect_device">Desconectar</string>
     <string name="blt_hint_ignore_device">Ignorar</string>
     <string name="blt_hint_connect_device">Conectar</string>
@@ -118,7 +132,7 @@
     <string name="lab_wifi_test_tip_testing">Comprobando…</string>
     <string name="lab_wifi_test_tip_pass">Aprobado!!</string>
     <string name="lab_wifi_test_tip_fail">Fallido!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">Abriendo WIFI</string>																  										
+    <string name="lab_wifi_test_tip_open_wifi">Abriendo WIFI</string>
     <string name="light_off">Desactivado</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Luz activa</string>
@@ -129,7 +143,7 @@
     <string name="zh_cn">Chino (Simplificado)</string>
     <string name="en">Ingles(US)</string>
     <string name="zh_tw">Chino (Tradicional)</string>
-    <string name="confirm_change_locale">"¿Cambiar idioma a %1$s?"</string>
+    <string name="confirm_change_locale">¿Cambiar idioma a %1$s?</string>
     <string name="gender">Género</string>
     <string name="birth_year">Fecha Nacim.</string>
     <string name="height">Altura</string>
@@ -137,9 +151,9 @@
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Fecha Nacim."</string>
-    <string name="height_unit">"Altura cm"</string>
-    <string name="weight_unit">"Peso kg"</string>
+    <string name="birth_year_unit">Fecha Nacim.</string>
+    <string name="height_unit">Altura cm</string>
+    <string name="weight_unit">Peso kg</string>
     <string name="reset_factory_hint">Restab. Ajustes Fabr.?</string>
     <string name="time_zone">Zona Horaria</string>
     <string name="date">Fecha</string>
@@ -158,27 +172,8 @@
     <string name="title_activity_long_sitting_time">Demasiado tiempo sentado</string>
     <string name="lab_desc">Recopilar parte de las herramientas de depuración</string>
     <string name="unknown">Dispositivo desconocido</string>
-    <string name="bind_tips_title">Por favor, vincule n para proteger sus datos de forma más segura</string>
+    <string name="bind_tips_title">Por favor, enlace para proteger sus datos de forma más segura</string>
     <string name="upgrade_checking">Comprobación de actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
-<!--START of missed texts by Huami-->
-    <string name="widget_currentstep_title">Centro de Datos</string>
-    <string name="widget_currentstep_activities">Pasos de Hoy</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sueño noche anterior</string>
-    <string name="widget_currentstep_sleep_no">Sin Datos de Sueño</string>
-    <string name="widget_currentstep_activity_no">Sin ejercicio hoy?</string>
-<!--END of missed texts by Huami-->
-
-
-
-
-
-
-
-
-
-
 </resources>
