@@ -33,4 +33,13 @@
     <string name="init_app">Connected App</string>
     <string name="init_update_user">Update user</string>
     <string name="zero">0</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Data Center</string>
+    <string name="widget_currentstep_activities">Steps today</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sleep last night</string>
+    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_activity_no">No exercise today?</string>
+<!--END of missed texts by Huami-->
 </resources>

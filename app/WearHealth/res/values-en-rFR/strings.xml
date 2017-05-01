@@ -31,18 +31,18 @@
     <string name="weeklysports_running">Course</string>
     <string name="weeklysports_walking">Marche</string>
     <string name="weeklysports_riding">Vélo</string>
-    <string name="weekly_step_attained_rate">Jours pour atteindre l'objectif</string>
+    <string name="weekly_step_attained_rate">Jours pour atteindre l\'objectif</string>
     <string name="weekly_sports_notification_content">Le résumé des activités de la semaine dernière est prêt</string>
     <string name="weeklysports_date_format">aaaa-MM-jj</string>
     
     
     <string name="widget_currentstep_title">Centre de données</string>
-    <string name="widget_currentstep_activities">Nombre de pas aujourd'hui</string>
+    <string name="widget_currentstep_activities">Nombre de pas aujourd\'hui</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Durée du sommeil</string>
     <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
-    <string name="widget_currentstep_activity_no">Pas d'exercice aujourd'hui?</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\'hui?</string>
     <string name="currentstep_detail_activity">Activité</string>
     <string name="currentstep_detail_running">Courir</string>
     <string name="currentstep_detail_walking">Marcher</string>
@@ -72,7 +72,7 @@
     <string name="currentstep_detail_distance_unit_zh">km</string>
     <string name="currentstep_detail_distance_unit_en">mi</string>
     <string name="step_value">%1$s / %2$s</string>
-    <string name="detail_date">%1$s Profil d'activité</string>
+    <string name="detail_date">%1$s Profil d\'activité</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min fréquence cardiaque</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max fréquence cardiaque</string>
     <string name="widget_weeklyreports_heart_rate_title">Rythme cardiaque</string>
