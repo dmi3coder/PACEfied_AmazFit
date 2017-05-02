@@ -8,7 +8,14 @@
     <string name="no_altitude_hint">Nadmorská výška nedostupná</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavenia</string>
-    <string name="sport_music_settings">Sports music</string>
+    <string name="sport_music_settings">Športová hudba</string>
+    <string name="widget_currentstep_title">Centrum dat</string>
+    <string name="widget_currentstep_activities">Kroky dnes</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
+    <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes bez cvičeni?</string>
     <string name="double_click_wakeup_open">Zapnuté</string>
     <string name="double_click_wakeup_close">Vypnuté</string>
     <string name="dlg_confirm">Potvrdiť</string>
@@ -29,6 +36,21 @@
     <string name="auto_nodisturb">Časovač ztíšenia</string>
     <string name="double_click_wakeup">Preb. dotykom</string>
     <string name="vibration_intensity">Vibrácie</string>
+    <string name="flight_mode">Mód lietadlo</string>
+    <string name="hm_lab">Huami Lab</string>
+    <string name="bind_app">Bind</string>
+    <string name="amazfit_app">Amazfit Watch App</string>
+    <string name="personal_info">Perzonální údaje</string>
+    <string name="time_zone_clock">Nastavení času</string>
+    <string name="setting_time_format">Formát času</string>
+    <string name="connect">Spojenie</string>
+    <string name="common">Ostatné nastavenia</string>
+    <string name="device">Zariadenie</string>
+    <string name="nodisturb">Nerušiť</string>
+    <string name="auto_airplane">Auto mód lietadlo</string>
+    <string name="wifi_upload">Nahrať</string>
+    <string name="replace_watchface">Zmeniť pozadie</string>
+    <string name="wifi_auto_upload_switch">Auto.nahranie</string>
     <string name="nothing">Prázdne</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
@@ -49,6 +71,10 @@
     <string name="legal">Skontrolujte v Amazfit</string>
     <string name="legal2">Watch App</string>
     <string name="lab">Lab</string>
+    <string name="opened">Lab zapnuta</string>
+    <string name="closed">Lab vypnuta</string>
+    <string name="air_plane_mode_note">"Režim Lietadlo 
+Režim Lietadlo vypne Bluetooth a Wi-Fi pripojenie k internetu, aby sa šetrila energia. Ak potrebujete používať funkcie, které vyžadujú BT / WiFi, vypnete režim Lietadlo v Nastaveniach systému."</string>
     <string name="nodisturb_open_string">Zapnuté</string>
     <string name="nodisturb_close_string">Vypnuté</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -56,6 +82,8 @@
     <string name="auto_nodisturb_start_time_string">Čas začiatku</string>
     <string name="auto_nodisturb_end_time_string">Čas konca</string>
     <string name="time_to">" do "</string>
+    <string name="auto_wifi_trans_on_string">Zapnúť</string>
+    <string name="auto_wifi_trans_off_string">Vypnúť</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Vyhľadávam...</string>
     <string name="blt_bound_stat_bonded">Spárované</string>
@@ -105,7 +133,29 @@ zapnuté a v dosahu"</string>
     <string name="zh_tw">Čínština (Tradičná)</string>
     <string name="confirm_change_locale">"Zmeniť jazyk na
 %1$s?"</string>
+    <string name="gender">Pohlavie</string>
+    <string name="birth_year">Rok narodenia</string>
+    <string name="height">Výška</string>
+    <string name="weight">Hmotnosť</string>
+    <string name="male">Muž</string>
+    <string name="female">Žena</string>
+    <string name="centimeter">cm</string>
+    <string name="birth_year_unit">"Rok 
+narození"</string>
+    <string name="height_unit">"Výška 
+cm"</string>
+    <string name="weight_unit">"Hmotnosť 
+kg"</string>
     <string name="reset_factory_hint">Obnoviť výrobné nastavenia?</string>
+    <string name="time_zone">Časová zóna</string>
+    <string name="date">Dátum</string>
+    <string name="time">Čas</string>
+    <string name="date_ymd">Dátum(R/M/D)</string>
+    <string name="time_hms">Čas(H/M/S)</string>
+    <string name="time_format">Formát času</string>
+    <string name="hour_system">%s-hodinový systém</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="strong">silné</string>
     <string name="mid">stredné</string>
     <string name="weak">slabé</string>
@@ -113,6 +163,8 @@ zapnuté a v dosahu"</string>
     <string name="app_name">Nastavenie hodiniek</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
+    <string name="unknown">Neznámé zařízení</string>
+    <string name="bind_tips_title">Please bind n to protect your data more securely</string>
     <string name="upgrade_checking">Vyhľadávam aktualizácie...</string>
     <string name="left_hand">Na ľavej</string>
     <string name="right_hand">Na pravej</string>
