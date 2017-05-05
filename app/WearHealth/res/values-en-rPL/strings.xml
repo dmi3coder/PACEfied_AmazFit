@@ -53,6 +53,7 @@
     <string name="currentstep_detail_activity_chart">Profil ruchu</string>
     <string name="currentstep_detail_activity_chart_unit">(Jedn: godz.)</string>
     <string name="currentstep_detail_activity_step_done">Osiągn.poziom</string>
+    <string name="currentstep_detail_activity_step_notdo">Nie osiągnięty</string>
     <string name="currentstep_detail_activity_run_rate_av">Śr.pręd.</string>
     <string name="currentstep_detail_activity_run_rate_ma">Max pręd.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Śr.pręd.</string>
@@ -79,6 +80,7 @@
     <string name="widget_weeklyreports_totalcalory_title">Zużycie kal.</string>
     <string name="widget_weeklyreports_sports_title">Ruch</string>
     <string name="widget_weeklyreports_reports_title">Całotygodn.</string>
+    <string name="widget_weeklyreports_reports_review">Przegląd tygodniowy</string>
     <string name="widget_sleep_title">Sen</string>
     <string name="widget_sleep_late">Późny sen</string>
     <string name="widget_sleep_deep_leak">Krótki, głęb.sen</string>
@@ -226,6 +228,12 @@
     <string name="open_xiaom_app_failed_content">Zainstal.aplikację Xiaomi ponownie</string>
     <string name="stretch_notification_subtitle">Zbyt długo</string>
     <string name="stretch_notification_content">Odpowiednie ćwiczenia zmniejszą ból pleców</string>
+    <string name="heart_name">Serce</string>
+    <string name="step_name">Krok</string>
+    <string name="sleep_name">Sen</string>
+    <string name="floor_description">注：“一层楼”约海拔升高3米</string>
+    <string name="climbed_floors">累计爬楼</string>
+    <string name="floor_unit">Warstwa</string>
     <string name="widget_label_step">Dzisiaj</string>
     <string name="widget_heart_analysis">Analizowanie</string>
     <string name="widget_step_target_txt">Cel:  <liff>%d</liff></string>
@@ -256,8 +264,4 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-<!--START of missed texts by Huami-->
-    <string name="currentstep_detail_activity_step_notdo">Nie osiągnięty</string>
-    <string name="widget_weeklyreports_reports_review">Przegląd tygodniowy</string>
-<!--END of missed texts by Huami-->
-</resources>
+    </resources>
