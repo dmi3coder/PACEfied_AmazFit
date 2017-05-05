@@ -80,7 +80,7 @@
     <string name="widget_weeklyreports_totalcalory_title">Spáleno</string>
     <string name="widget_weeklyreports_sports_title">Pohyb</string>
     <string name="widget_weeklyreports_reports_title">Týdenní</string>
-    <string name="widget_weeklyreports_reports_review">Týdenní přehled</string>
+    <string name="widget_weeklyreports_reports_review">Vyb.týden</string>
     <string name="widget_sleep_title">Spánek</string>
     <string name="widget_sleep_late">Pozdní spánek</string>
     <string name="widget_sleep_deep_leak">Krátký hluboký sp.</string>

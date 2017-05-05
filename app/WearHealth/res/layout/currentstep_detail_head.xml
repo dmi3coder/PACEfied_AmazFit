@@ -9,6 +9,12 @@
 <ImageView android:id="@id/detail_step_done_ig" android:background="@drawable/training_icon_completed" android:layout_width="wrap_content" android:layout_height="wrap_content" />
             <TextView android:textSize="@dimen/report_widget_size_unit_font" android:textColor="@color/widget_step_title_color" android:id="@id/detail_step_done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.299988dip" />
         </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/floor_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.6999817dip" android:layout_marginBottom="6.6999817dip" android:layout_below="@id/detail_step_value">
+            <TextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/climbing_floor" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/climbed_floors" />
+            <com.huami.watch.reports.widget.DataTextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/floor_number" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/floor_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/floor_unit" />
+        </LinearLayout>
+        <TextView android:textSize="10.0sp" android:id="@id/climbed_toast" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/floor_description" android:layout_below="@id/floor_container" />
     </RelativeLayout> //跑步
 <RelativeLayout android:id="@id/detail_activity_run_parent" android:background="@drawable/shape_bg" android:paddingLeft="@dimen/report_widget_size_parent_paddingleft" android:paddingTop="@dimen/report_widget_size_parent_paddingtop" android:paddingBottom="@dimen/report_widget_size_parent_paddingbottom" android:layout_width="fill_parent" android:layout_height="wrap_content"> //跑步标题
 <TextView android:textSize="@dimen/report_widget_size_title_value" android:textColor="@color/widget_step_title_color" android:id="@id/detail_run_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/currentstep_detail_running" android:drawableLeft="@drawable/sport_history_icon_running" android:drawablePadding="8.0dip" /> //跑步总里程数值

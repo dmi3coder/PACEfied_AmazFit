@@ -6,14 +6,14 @@
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
-        <item>[prim]WearLogger</item>
-        <item>[sum]Key grip log ^_^</item>
+        <item>[prim]Log nošení</item>
+        <item>[sum]Záznam logu</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[prim]Self-test</item>
-        <item>[sum]Testovat vlastnosti </item>
+        <item>[sum]Testovat vlastnosti</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">

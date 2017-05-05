@@ -99,6 +99,8 @@
     <string name="music_download_cancel">Song downloading has been stopped</string>
     <string name="storage_space_g">Storage %sG</string>
     <string name="storage_space_mb">Storage %sMB</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
     <string name="stop_casting">Stop Casting</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>
@@ -113,5 +115,4 @@
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No exercise today?</string>
 <!--END of missed texts by Huami-->
-
 </resources>

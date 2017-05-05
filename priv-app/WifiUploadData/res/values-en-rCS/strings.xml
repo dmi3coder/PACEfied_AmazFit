@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Průměr</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrď</string>
+    <string name="picker_default_nagetive_text">Zruš</string>
+    <string name="no_heartrate_data_hint">Data tepu nedetekována</string>
+    <string name="no_altitude_hint">Data výšky nedetekována</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Sportovní hudba</string>
+    <string name="app_name">WifiUploadData</string>
+    <string name="notice_text_success_top">Nahrání dat úspěšné</string>
+    <string name="notice_text_success_bottom">Prosím podívejte se na mi sport</string>
+    <string name="notice_text_failed_top">Nahrání dat neúspěšné</string>
+    <string name="net_failed">Zkontroluj připojení a opakuj</string>
+    <string name="date">Data:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">připojení selhalo.</string>
+    <string name="cannot_acess_server">Server nenalezen</string>
+    <string name="cannot_upload_user">Nemůžu aktualizovat data</string>
+    <string name="please_upload_assist_version">Prosím aktualizujte verzi asistenta</string>
+    <string name="did_not_connect_assist">Připojte Amazfit aplikaci. Po ověření připojení mohou být informace automaticky aktualizovány, můžete získat přístup k serveru.</string>
+    <string name="upload_failed_full">Nahrání nebude možné, pokud teď zastavíte?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Prosím nechte hodinky připojené k WiFi"</string>
+    <string name="init_wifi">Připojeno k Wi-Fi</string>
+    <string name="init_user">Kontrola uživatele</string>
+    <string name="init_app">Připojení aplikace</string>
+    <string name="init_update_user">Aktualizace uživatele</string>
+    <string name="zero">0</string>
+</resources>

@@ -36,13 +36,14 @@
     <string name="stop_watch_lap_text">%d okruh(ov)</string>
     <string name="stop_watch_default_lap">Stopky</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
-    <string name="stop_watch_lap_list_title_text">%d Okruh(ov)</string>
+    <string name="stop_watch_lap_list_title_text">%d Okruh(ů)</string>
     <string name="title_activity_stopwatch">StopwatchActivity</string>
     <string name="hello_world">Ahoj světe!</string>
     <string name="action_settings">Nastavení</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Výběr jazyka</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdit</string>
     <string name="picker_default_nagetive_text">Vypnutý</string>
@@ -50,5 +51,12 @@
     <string name="no_altitude_hint">Nadmorská výška nedostupná</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavení</string>
-    <string name="sport_music_settings">Sports music</string>
+    <string name="sport_music_settings">SSportovní hudba</string>
+    <string name="widget_currentstep_title">Centrum dat</string>
+    <string name="widget_currentstep_activities">Kroky dnes</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+    <string name="widget_currentstep_sleep_no">Bez dat o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
 </resources>

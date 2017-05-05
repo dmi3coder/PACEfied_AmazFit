@@ -4,13 +4,13 @@
         <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Neď</item>
-        <item>Pon</item>
-        <item>Úte</item>
-        <item>Stř</item>
-        <item>Čtv</item>
-        <item>Pát</item>
-        <item>Sob</item>
+        <item>Nedě</item>
+        <item>Ponď</item>
+        <item>Úter</item>
+        <item>Stře</item>
+        <item>Čtvr</item>
+        <item>Páte</item>
+        <item>Sobo</item>
         <item>Dnes</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
@@ -28,30 +28,30 @@
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Slunečno</item>
-        <item>Oblačno</item>
-        <item>Zataženo</item>
-        <item>Mlha</item>
-        <item>Smog</item>
-        <item>Déšť</item>
-        <item>Déšť a blesky</item>
-        <item>Mrholení</item>
-        <item>Mírný déšť</item>
-        <item>Déšť</item>
-        <item>Bouřka</item>
-        <item>Přívalový déšť</item>
-        <item>Déšť ze sněhem</item>
-        <item>Mrznoucí déšť</item>
-        <item>Krupy</item>
-        <item>Slabé sněžení</item>
-        <item>Mírné sněžení</item>
-        <item>Silné sněžení</item>
-        <item>Sněhová bouře</item>
-        <item>Sněžení</item>
-        <item>Prach</item>
-        <item>Lehký písek</item>
-        <item>Písečná bouře</item>
-        <item>Silná písečná bouře</item>
+        <item>slunečno</item>
+        <item>oblačno</item>
+        <item>zataženo</item>
+        <item>mlha</item>
+        <item>smog</item>
+        <item>déšť</item>
+        <item>déšť a blesky</item>
+        <item>mrholení</item>
+        <item>mírný déšť</item>
+        <item>déšť</item>
+        <item>bouřka</item>
+        <item>přívalový déšť</item>
+        <item>déšť se sněhem</item>
+        <item>mrznoucí déšť</item>
+        <item>krupy</item>
+        <item>slabé sněžení</item>
+        <item>mírné sněžení</item>
+        <item>silné sněžení</item>
+        <item>sněhová bouře</item>
+        <item>sněžení</item>
+        <item>prach</item>
+        <item>lehký písek</item>
+        <item>písečná bouře</item>
+        <item>silná písečná bouře</item>
         <item>Žádná data</item>
     </string-array>
 </resources>
