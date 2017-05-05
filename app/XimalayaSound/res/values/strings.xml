@@ -63,7 +63,7 @@
     <string name="play_mode_ordered">顺序播放</string>
     <string name="play_mode_random">随机播放</string>
     <string name="play_mode_album_loop">专辑内循环</string>
-    <string name="app_name">XimalayaSound</string>
+    <string name="app_name">喜马拉雅</string>
     <string name="hello">Hello</string>
     <string name="favorite">Favorite</string>
     <string name="error_no_metadata">Unable to retrieve metadata.</string>
@@ -99,6 +99,8 @@
     <string name="music_download_cancel">Song downloading has been stopped</string>
     <string name="storage_space_g">手表剩余容量%sG</string>
     <string name="storage_space_mb">手表剩余容量%sMB</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
     <string name="stop_casting">Stop Casting</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>

@@ -49,6 +49,7 @@
     <string name="play_mode_ordered">顺序播放</string>
     <string name="play_mode_random">随机播放</string>
     <string name="play_mode_album_loop">专辑内循环</string>
+    <string name="app_name">喜马拉雅</string>
     <string name="confirm_exit">"歌单未完全下载,
 是否退出?"</string>
     <string name="music_download_cancel">歌曲下载已被停止</string>

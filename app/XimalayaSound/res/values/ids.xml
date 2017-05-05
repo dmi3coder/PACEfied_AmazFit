@@ -42,8 +42,13 @@
     <item type="id" name="album_name">false</item>
     <item type="id" name="album_episode">false</item>
     <item type="id" name="album_author">false</item>
+    <item type="id" name="downloading_container">false</item>
     <item type="id" name="downloaded_music_list">false</item>
+    <item type="id" name="edit_container">false</item>
+    <item type="id" name="edit_cancel">false</item>
+    <item type="id" name="edit_delete">false</item>
     <item type="id" name="downloaded_album_title">false</item>
+    <item type="id" name="delete_checkbox">false</item>
     <item type="id" name="music_title">false</item>
     <item type="id" name="music_duration">false</item>
     <item type="id" name="music_size">false</item>
