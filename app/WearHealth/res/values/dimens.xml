@@ -110,7 +110,7 @@
     <dimen name="widget_size_error_font">16.0sp</dimen>
     <dimen name="widget_size_image_worn_margin_top">40.0dip</dimen>
     <dimen name="widget_size_title_value">18.699982sp</dimen>
-    <dimen name="widget_size_title_margin_top">23.299988dip</dimen>
+    <dimen name="widget_size_title_margin_top">40.0dip</dimen>
     <dimen name="widget_size_step_value_size">36.0sp</dimen>
     <dimen name="widget_size_sleep_value_size">20.0sp</dimen>
     <dimen name="widget_size_classifychart_width">168.69998dip</dimen>

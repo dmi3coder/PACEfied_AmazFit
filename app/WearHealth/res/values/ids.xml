@@ -157,6 +157,11 @@
     <item type="id" name="detail_step_done_par">false</item>
     <item type="id" name="detail_step_done_ig">false</item>
     <item type="id" name="detail_step_done">false</item>
+    <item type="id" name="floor_container">false</item>
+    <item type="id" name="climbing_floor">false</item>
+    <item type="id" name="floor_number">false</item>
+    <item type="id" name="floor_unit">false</item>
+    <item type="id" name="climbed_toast">false</item>
     <item type="id" name="detail_activity_run_parent">false</item>
     <item type="id" name="detail_run_title">false</item>
     <item type="id" name="detail_run_mileage">false</item>
@@ -226,10 +231,9 @@
     <item type="id" name="current_step_parent">false</item>
     <item type="id" name="current_step_value">false</item>
     <item type="id" name="current_step_unit">false</item>
+    <item type="id" name="climbed_floor_container">false</item>
     <item type="id" name="sport_container">false</item>
     <item type="id" name="current_activities_notitle">false</item>
-    <item type="id" name="current_activities_ll">false</item>
-    <item type="id" name="current_activities_title">false</item>
     <item type="id" name="current_activities">false</item>
     <item type="id" name="current_sleep_notitle">false</item>
     <item type="id" name="current_sleep_container">false</item>

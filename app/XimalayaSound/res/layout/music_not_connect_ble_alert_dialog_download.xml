@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.huami.watch.ximalayasound.widget.view.HmMusicLayout android:id="@id/parentPanel" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+<RelativeLayout android:gravity="center_horizontal" android:id="@id/parentPanel" android:background="@android:color/black" android:paddingTop="27.299988dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <RelativeLayout android:gravity="center_horizontal" android:paddingTop="27.299988dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/buttonPanel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.5dip" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:showDividers="beginning" android:dividerPadding="0.0dip">
-            <RelativeLayout android:gravity="center_vertical" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:layoutDirection="locale" android:layout_marginStart="33.0dip" android:layout_marginEnd="33.0dip" style="?android:attr/buttonBarStyle">
-                <com.huami.watch.ximalayasound.ui.HmMusicHaloImageView android:id="@id/no_con_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/alter_dialog_button3" android:minHeight="@dimen/alert_dialog_button_bar_height" />
-                <com.huami.watch.ximalayasound.ui.HmMusicHaloImageView android:id="@id/no_con_confirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/alter_dialog_button1" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_alignParentRight="true" />
-            </RelativeLayout>
-        </LinearLayout>
-        <LinearLayout android:orientation="horizontal" android:id="@id/contentPanel" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/buttonPanel">
-            <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/no_conn_message" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="18.0dip" android:text="@string/music_start_tips" android:lineSpacingExtra="8.0dip" android:paddingStart="30.0dip" android:paddingEnd="30.0dip" style="?android:attr/textAppearanceMedium" />
-        </LinearLayout>
-    </RelativeLayout>
-</com.huami.watch.ximalayasound.widget.view.HmMusicLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/buttonPanel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.5dip" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:showDividers="beginning" android:dividerPadding="0.0dip">
+        <RelativeLayout android:gravity="center_vertical" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:layoutDirection="locale" android:layout_marginStart="33.0dip" android:layout_marginEnd="33.0dip" style="?android:attr/buttonBarStyle">
+            <com.huami.watch.ximalayasound.ui.HmMusicHaloImageView android:id="@id/no_con_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/alter_dialog_button3" android:minHeight="@dimen/alert_dialog_button_bar_height" />
+            <com.huami.watch.ximalayasound.ui.HmMusicHaloImageView android:id="@id/no_con_confirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/alter_dialog_button1" android:minHeight="@dimen/alert_dialog_button_bar_height" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/contentPanel" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/buttonPanel">
+        <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/no_conn_message" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="18.0dip" android:text="@string/music_start_tips" android:lineSpacingExtra="8.0dip" android:paddingStart="30.0dip" android:paddingEnd="30.0dip" style="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+</RelativeLayout>

@@ -19,5 +19,11 @@
     <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
         <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
     </style>
-    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault" />
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:buttonStyle">@style/button_style</item>
+    </style>
+    <style name="button_style">
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+    </style>
 </resources>
