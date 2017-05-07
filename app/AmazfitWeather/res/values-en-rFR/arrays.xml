@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Aujourd'hui</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Excellent air</item>
+        <item>Bon air</item>
+        <item>Pollution légère</item>
+        <item>Pollution modérée</item>
+        <item>Pollution forte</item>
+        <item>Pollution importante</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Convient pour le sport</item>
+        <item>Ne convient pas pour le sport</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Ensoleillé</item>
+        <item>Nuageux</item>
+        <item>Couvert</item>
+        <item>Brume</item>
+        <item>Bouillard</item>
+        <item>Pluie</item>
+        <item>Averse orageuse</item>
+        <item>Pluie légère</item>
+        <item>Pluie modérée</item>
+        <item>Forte pluie</item>
+        <item>Pluie battante</item>
+        <item>Pluie torrentielle</item>
+        <item>Neige fondue</item>
+        <item>PLuie verglaçcante</item>
+        <item>Grêle</item>
+        <item>Neige légère</item>
+        <item>Neige modérée</item>
+        <item>Neige abondante</item>
+        <item>Tempête de neige</item>
+        <item>Averse de neige</item>
+        <item>Poussièreux</item>
+        <item>Tempête de sable</item>
+        <item>Tempête de sable</item>
+        <item>Forte tempête de sable</item>
+        <item>Pas de données</item>
+    </string-array>
+</resources>
