@@ -147,7 +147,7 @@
     <string name="label_quiet_slow_any">Recommendations have been given that you should keep your heart rate within: 60-100 bpm. Moderate exercise, and a healthy lifestyle and mind state facilitate a normal heart rate.</string>
     <string name="label_step_unit">Pas</string>
     <string name="label_subject_active">Actif</string>
-    <string name="label_subject_ratio_today">Rapport d'activité</string>
+    <string name="label_subject_ratio_today">Rapport d\'activité</string>
     <string name="label_subject_sit">Assis</string>
     <string name="label_when_quiet">Repos</string>
     <string name="label_when_active">Pendant/Après l\'exercice</string>
@@ -158,7 +158,7 @@
     <string name="notif_target_half_reach_title">Continuez comme ça</string>
     <string name="notif_target_reach_desc">Vous avez atteint votre objectif quotidien!</string>
     <string name="notif_target_reach_title">Objectif quotidien atteint</string>
-    <string name="notif_target_set">Modifier l'objectif</string>
+    <string name="notif_target_set">Modifier l\'objectif</string>
     <string name="settings_long_sit_reminder">Alerte mouvement</string>
     <string name="settings_off">Off</string>
     <string name="settings_on">On</string>

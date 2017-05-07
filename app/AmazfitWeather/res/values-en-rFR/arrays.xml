@@ -11,7 +11,7 @@
         <item>Jeu</item>
         <item>Ven</item>
         <item>Sam</item>
-        <item>Aujourd'hui</item>
+        <item>Aujourd\'hui</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>Excellent air</item>

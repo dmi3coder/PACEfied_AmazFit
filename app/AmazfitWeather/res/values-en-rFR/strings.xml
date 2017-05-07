@@ -4,7 +4,7 @@
     <string name="action_settings">Paramètres</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
-    <string name="forecast_today">Aujourd'hui</string>
+    <string name="forecast_today">Aujourd\'hui</string>
     <string name="forecast_tomorrow">Demain</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
@@ -14,8 +14,8 @@
     <string name="type_to"> à </string>
     <string name="not_avalible_type">Pas de donnée</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Qualité de l'air</string>
-    <string name="weather_title">Météo d'aujourd'hui</string>
+    <string name="air_quality">Qualité de l\'air</string>
+    <string name="weather_title">Météo d\'aujourd\'hui</string>
     <string name="dot"> </string>
     <string name="weather_warning">Alerte</string>
     <string name="weather_warning_level_blue">Bleue</string>
@@ -39,14 +39,14 @@
     <string name="weather_warning_smog">Brouillard</string>
     <string name="weather_warning_ice">Glace</string>
     <string name="weather_warning_snowstorm">Tempête de neige</string>
-    <string name="no_aqi">Impossible d'obtenir la qualité de l'air</string>
+    <string name="no_aqi">Impossible d\'obtenir la qualité de l\'air</string>
     <string name="air_perfect">Excellent air</string>
     <string name="air_good">Bon air</string>
     <string name="air_lightly_polluted">Pollution légère</string>
     <string name="air_moderate_polluted">Pollution modérée</string>
     <string name="air_heavily_polluted">Pollution forte</string>
     <string name="air_severely_polluted">Pollution importante</string>
-    <string name="no_outdoor_info">Impossible d'obtenir l'indice de sortie</string>
+    <string name="no_outdoor_info">Impossible d\'obtenir l\'indice de sortie</string>
     <string name="outdoor_info_notsuit">Ne convient pas pour le sport en plein air</string>
     <string name="outdoor_info_suit">Convient pour le sport en plein air</string>
     <string name="wind_strength">Vent</string>
@@ -57,12 +57,12 @@
     <string name="fetch_failed">Echoué</string>
     <string name="unknown">Inconnu</string>
     <string name="fetch_failed_title">Impossible de se connecter au service météo</string>
-    <string name="fetch_failed_msg">Assurez vous d'avoir bien connecté la montre à l'application Amazfit et d'avoir une location valide de séléctionné.</string>
+    <string name="fetch_failed_msg">Assurez vous d\'avoir bien connecté la montre à l\'application Amazfit et d\'avoir une location valide de séléctionné.</string>
     <string name="date_time_format">MM-dd</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ ERREUR！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Type d'enregistrement inconnu</string>
+    <string name="data_checkfail_type">Type d\'enregistrement inconnu</string>
     <string name="data_checkfail_temp">Température inconnue</string>
-    <string name="data_checkfail_match">Les champs d'enregistrements ne correspondent pas</string>
+    <string name="data_checkfail_match">Les champs d\'enregistrements ne correspondent pas</string>
     <string name="data_checkfail_json">Erreur de format JSON</string>
 	<string name="detailed">Météo détaillée</string>
 </resources>
