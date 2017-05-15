@@ -33,9 +33,7 @@
     <string name="weeklysports_riding">Vélo</string>
     <string name="weekly_step_attained_rate">Jours pour atteindre l\'objectif</string>
     <string name="weekly_sports_notification_content">Le résumé des activités de la semaine dernière est prêt</string>
-    <string name="weeklysports_date_format">aaaa-MM-jj</string>
-    
-    
+    <string name="weeklysports_date_format">yyyy MM/dd</string>
     <string name="widget_currentstep_title">Centre de données</string>
     <string name="widget_currentstep_activities">Nombre de pas aujourd\'hui</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -55,6 +53,7 @@
     <string name="currentstep_detail_activity_chart">Profil</string>
     <string name="currentstep_detail_activity_chart_unit">(Unité: heures)</string>
     <string name="currentstep_detail_activity_step_done">Objectif atteint</string>
+	   <string name="currentstep_detail_activity_step_notdo">Pas atteint</string>
     <string name="currentstep_detail_activity_run_rate_av">Vitesse moy</string>
     <string name="currentstep_detail_activity_run_rate_ma">Vitesse max</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Vitesse moyenne</string>
@@ -81,6 +80,7 @@
     <string name="widget_weeklyreports_totalcalory_title">Consommation</string>
     <string name="widget_weeklyreports_sports_title">Activité</string>
     <string name="widget_weeklyreports_reports_title">Hebdomadaire</string>
+	<string name="widget_weeklyreports_reports_review">Revue hebdomadaire</string>
     <string name="widget_sleep_title">Sommeil</string>
     <string name="widget_sleep_late">Sommeil tardif</string>
     <string name="widget_sleep_deep_leak">Sommeil profond cours</string>
@@ -228,10 +228,16 @@
     <string name="open_xiaom_app_failed_content">Essayez d\'installer l\'application millet sports.</string>
     <string name="stretch_notification_subtitle">Assis depuis trop longtemps</string>
     <string name="stretch_notification_content">Reasonable activities can ease the sedentary back stiff</string>
-    <string name="widget_label_step">Aujourd\'hui</string>
+   	<string name="heart_name">Cardiaque</string>
+    <string name="step_name">Pas</string>
+    <string name="sleep_name">Sommeil</string>
+    <string name="floor_description">Note: "uné étape" signifie 3 mètres</string>
+    <string name="climbed_floors">Etape:\u0020</string>
+    <string name="floor_unit">\u0020 étape(s)</string>
+	<string name="widget_label_step">Aujourd\'hui</string>
     <string name="widget_heart_analysis">Analyze</string>
     <string name="widget_step_target_txt">Objectif:  <liff>%d</liff></string>
-    <string name="widget_step_target_complete">Objectif atteint</string>
+	<string name="widget_step_target_complete">Objectif atteint</string>
     <string name="widget_step_target_second_tips"><liff>%d</liff> secondes écoulées</string>
     <string name="widget_step_target_min_tips"><liff>%d</liff> minutes écoulées</string>
     <string name="widget_step_target_hour_tips"><liff>%d</liff> heures écoulées</string>
@@ -252,14 +258,10 @@
     <string name="average_text">Moy</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>
-    <string name="picker_default_nagetive_text">AnnulerOff</string>
+    <string name="picker_default_nagetive_text">Annuler</string>
     <string name="no_heartrate_data_hint">Données fréquence cardiaque non détectées</string>
     <string name="no_altitude_hint">Données altitude non détectées</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Paramètres</string>
     <string name="sport_music_settings">Musique sport</string>
-<!--START of missed texts by Huami-->
-    <string name="currentstep_detail_activity_step_notdo">Non atteint</string>
-    <string name="widget_weeklyreports_reports_review">Compte rendu hebdomadaire</string>
-<!--END of missed texts by Huami-->
 </resources>
