@@ -36,23 +36,23 @@
     <item type="id" name="right_btn">false</item>
     <item type="id" name="leftTextView">false</item>
     <item type="id" name="rightTextView">false</item>
-    <item type="id" name="downloaded_album_list">false</item>
-    <item type="id" name="watch_storage_space">false</item>
-    <item type="id" name="divider">false</item>
-    <item type="id" name="album_name">false</item>
-    <item type="id" name="album_episode">false</item>
-    <item type="id" name="album_author">false</item>
     <item type="id" name="downloading_container">false</item>
-    <item type="id" name="downloaded_music_list">false</item>
+    <item type="id" name="downloaded_album_list">false</item>
     <item type="id" name="edit_container">false</item>
     <item type="id" name="edit_cancel">false</item>
     <item type="id" name="edit_delete">false</item>
-    <item type="id" name="downloaded_album_title">false</item>
+    <item type="id" name="watch_storage_space">false</item>
+    <item type="id" name="divider">false</item>
     <item type="id" name="delete_checkbox">false</item>
+    <item type="id" name="album_name">false</item>
+    <item type="id" name="album_episode">false</item>
+    <item type="id" name="album_author">false</item>
+    <item type="id" name="music_play_controller">false</item>
+    <item type="id" name="downloaded_music_list">false</item>
+    <item type="id" name="downloaded_album_title">false</item>
     <item type="id" name="music_title">false</item>
     <item type="id" name="music_duration">false</item>
     <item type="id" name="music_size">false</item>
-    <item type="id" name="music_play_controller">false</item>
     <item type="id" name="downloading_list">false</item>
     <item type="id" name="center_anchor">false</item>
     <item type="id" name="pause_start_all_task">false</item>
