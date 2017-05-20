@@ -37,6 +37,7 @@
     <dimen name="sub_title_label_adj">-16.0dip</dimen>
     <dimen name="sub_title_label_adj_bottom">-59.0dip</dimen>
     <dimen name="blt_info_margin_top">9.0dip</dimen>
+    <dimen name="blt_info_margin_top2">20.0dip</dimen>
     <dimen name="add_blt_info_margin_top">17.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>

@@ -84,9 +84,10 @@
     <public type="dimen" name="sub_title_label_adj" id="0x7f070022" />
     <public type="dimen" name="sub_title_label_adj_bottom" id="0x7f070023" />
     <public type="dimen" name="blt_info_margin_top" id="0x7f070024" />
-    <public type="dimen" name="add_blt_info_margin_top" id="0x7f070025" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070026" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070027" />
+    <public type="dimen" name="blt_info_margin_top2" id="0x7f070025" />
+    <public type="dimen" name="add_blt_info_margin_top" id="0x7f070026" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070027" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070028" />
     <public type="id" name="main_setting_list" id="0x7f080000" />
     <public type="id" name="update_online" id="0x7f080001" />
     <public type="id" name="update_local" id="0x7f080002" />
