@@ -319,6 +319,7 @@
     <item type="id" name="remind_type_text_desc">false</item>
     <item type="id" name="second_remind_type_text_tint">false</item>
     <item type="id" name="second_remind_value">false</item>
+    <item type="id" name="heart_region_text">false</item>
     <item type="id" name="remind_type_text_unit">false</item>
     <item type="id" name="root_id">false</item>
     <item type="id" name="medal_bg">false</item>

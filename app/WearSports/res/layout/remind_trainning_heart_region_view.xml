@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/sport_running_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmImageView android:id="@id/remind_icon" android:layout_width="@dimen/reminder_image_size" android:layout_height="@dimen/reminder_image_size" android:layout_marginTop="@dimen/reminder_heart_region_img_margin_top" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/reminder_title_text_size" android:gravity="center" android:id="@id/remind_type_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" style="@style/sport_main_text_style" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/reminder_title_text_size" android:gravity="center" android:id="@id/heart_region_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" style="@style/sport_main_text_style" />
+    <com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:layout_gravity="center_vertical" android:id="@id/remind_type_text_tint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/remind_current_heart" style="@style/sport_main_text_style" />
+        <com.huami.watch.sport.ui.view.NumberTextView android:textSize="48.0sp" android:textColor="@color/pace_txt_color" android:layout_gravity="center_vertical" android:id="@id/remind_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="7.0dip" android:layout_marginEnd="7.0dip" style="@style/sport_main_text_style" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:layout_gravity="center_vertical" android:id="@id/remind_type_text_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/remind_target_time_pace_unit" style="@style/sport_main_text_style" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</LinearLayout>

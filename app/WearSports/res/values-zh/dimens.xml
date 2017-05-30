@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="route_select_close_txt_size">25.0sp</dimen>
     <dimen name="medal_padding_left_right">0.0dip</dimen>
     <dimen name="setting_title_txt_size">18.699982sp</dimen>
     <dimen name="setting_content_txt_size">14.0dip</dimen>
@@ -23,5 +24,4 @@
     <dimen name="widget_settings_label_rx">106.0dip</dimen>
     <dimen name="widget_common_txt_size">18.699982sp</dimen>
     <dimen name="widget_line_chart_offset">21.0dip</dimen>
-    <dimen name="route_select_close_txt_size">25.0sp</dimen>
 </resources>
