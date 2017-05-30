@@ -1,0 +1,19 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: AdvertiseManager.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '22'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.21c
+version: 2.2.2
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
