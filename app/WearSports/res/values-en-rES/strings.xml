@@ -60,10 +60,6 @@
     <string name="gpx_details_view">Sel.Ruta</string>
     <string name="gpx_details_use">Usar</string>
     <string name="gpx_route_loading">Por favor espere a que se cargue la ruta</string>
-    <string name="dialog_remind_to_look_route">Mire la ruta</string>
-    <string name="gpx_offset_route">Se ha desviado de la ruta</string>
-    <string name="gpx_back_route">Vuelva a la ruta</string>
-    <string name="gpx_alreay_offset">Fuera de ruta</string>
     <string name="indoor_run_progressing">Carrera Indoor</string>
     <string name="music_title">Música</string>
     <string name="music_local_title">Música deportiva</string>
