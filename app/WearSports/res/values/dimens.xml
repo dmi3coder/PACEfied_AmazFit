@@ -204,5 +204,4 @@
     <dimen name="card_content_padding_rect_top">4.0dip</dimen>
     <dimen name="close_button_diameter">104.0dip</dimen>
     <dimen name="dismiss_padding">16.0dip</dimen>
-    <dimen name="route_select_close_txt_size">25.0sp</dimen>
 </resources>
