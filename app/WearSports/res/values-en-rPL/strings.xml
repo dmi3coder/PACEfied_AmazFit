@@ -43,7 +43,7 @@
     <string name="experience_title">Ustaw dane osobowe. W przeciwnym wypadku dane będą niewłaś.</string>
 	<string name="sport_setting_gpx_route_selected">Wybierz trasę</string>
     <string name="sport_setting_gpx_route_selectd_remind">Funkcja sportów na świeżym powietrzu będzie korzystać z tej trajektorii aby poruszać się po trasie, jeśli nie ma nawigacji, wybierz Nie aby ją zamknąć.</string>
-    <string name="confirm">Ok</string>
+    <string name="confirm">Zatwierdź</string>
     <string name="decision_yes">Tak</string>
     <string name="decision_no">Nie</string>
     <string name="use_sport_route_remind">Użyć %1$s trasę?</string>
@@ -60,6 +60,10 @@
     <string name="gpx_details_view">Wybrano</string>
     <string name="gpx_details_use">Użycie</string>
     <string name="gpx_route_loading">Poczekaj na załadowanie trasy</string>
+    <string name="dialog_remind_to_look_route">Ślad zegarka</string>
+    <string name="gpx_offset_route">Odchylenie trajektori</string>
+    <string name="gpx_back_route">Wróciłeś na tor</string>
+    <string name="gpx_alreay_offset">Odchylenie</string>
     <string name="indoor_run_progressing">Bieganie</string>
     <string name="music_title">Muzyka</string>
     <string name="music_local_title">Sports music</string>
@@ -303,6 +307,7 @@
     <string name="settings_sport_lock_screen">Ekran blokady</string>
     <string name="settings_sport_four_data">4 Pola danych</string>
     <string name="settings_sport_six_data">6 Pól danych</string>
+    <string name="settting_sport_gpx_route">Szlak sportowy</string>
     <string name="delete_sport_summary">Usuń</string>
     <string name="give_up_sport_record">Odrzuć</string>
     <string name="give_up_sport_record_tips">Odrzucić tę aktywność?</string>
@@ -315,7 +320,20 @@
     <string name="waling_steps">kroki</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-	<string name="settting_sport_gpx_route">Trajektoria</string>
+    <string name="setting_sport_remind_region">Alarm regionu</string>
+    <string name="setting_sport_heart_region_remind">Alarm pracy serca</string>
+    <string name="settings_item_title_safe_heartrate_safe_remind">Alarm bezp. tętna</string>
+    <string name="settings_item_title_safe_heartrate_region_remind">Alarm pracy serca</string>
+    <string name="setting_sport_heart_region_fat_burning">Spalanie tłuszczu</string>
+    <string name="setting_sport_heart_region_aerobic">Straefa Aerobiku</string>
+    <string name="setting_sport_heart_region_high＿intensity_exercise">Obszar wysokiej intensywności</string>
+    <string name="setting_sport_heart_region_custom">Obszar standard.</string>
+    <string name="setting_sport_heart_region_text_fat_burning">Spalanie tłuszczu</string>
+    <string name="setting_sport_heart_region_text_aerobic">Aerobik</string>
+    <string name="setting_sport_heart_region_text_high＿intensity_exercise">Wysoka intensywność ćwiczeń</string>
+    <string name="setting_sport_heart_region_text_custom">Standardowy</string>
+    <string name="remind_heart_rate_region_over">Tętno jest za wysokie</string>
+    <string name="remind_heart_rate_region_less">Tętno jest za niskie</string>
     <string name="complete_training_project">Program trningu został zakoń.</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Bieg %1sKm</string>
@@ -360,11 +378,4 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-	<string name="widget_currentstep_title">Centrum danych</string>
-    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
-    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
-    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
 </resources>
