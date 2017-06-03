@@ -14,7 +14,7 @@
     <string name="type_to"> e </string>
     <string name="not_avalible_type">Nessun dato</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">"Qualità dell\’aria "</string>
+    <string name="air_quality">"Qualità dell\'aria "</string>
     <string name="weather_title">Meteo oggi</string>
     <string name="dot"> </string>
     <string name="weather_warning">Attenzione!!!</string>
@@ -37,19 +37,19 @@
     <string name="weather_warning_frost">Gelo</string>
     <string name="weather_warning_fog">Nebbia</string>
     <string name="weather_warning_smog">Smog</string>
-    <string name="weather_warning_ice">Gelo</string>
+    <string name="weather_warning_ice">Ghiaccio</string>
     <string name="weather_warning_snowstorm">Tempesta di neve</string>
-    <string name="no_aqi">"Qualità dell\’aria N/D"</string>
+    <string name="no_aqi">"Qualità dell\'aria N/D"</string>
     <string name="air_perfect">Aria perfetta</string>
-    <string name="air_good">Aria Buona</string>
+    <string name="air_good">Aria buona</string>
     <string name="air_lightly_polluted">Aria lievemente inquinata</string>
     <string name="air_moderate_polluted">Aria leggermente inquinata</string>
     <string name="air_heavily_polluted">Aria molto inquinata</string>
     <string name="air_severely_polluted">Aria gravemente inquinata</string>
     <string name="no_outdoor_info">Info attività all\'aria aperta N/D</string>
-    <string name="outdoor_info_notsuit">"Non adatto per gli sport all\’aria aperta"</string>
-    <string name="outdoor_info_suit">"Adatto per gli sport all\’aria aperta"</string>
-    <string name="wind_strength">Forza del vento</string>
+    <string name="outdoor_info_notsuit">"KO per sport all\'aria aperta"</string>
+    <string name="outdoor_info_suit">"OK per sport all\'aria aperta"</string>
+    <string name="wind_strength">Vento</string>
     <string name="moisture">Umidità</string>
     <string name="uv">Raggi UV</string>
     <string name="forecast">Previsioni Meteo</string>
@@ -60,7 +60,7 @@
     <string name="fetch_failed_msg">"L\'orologio deve essere collegato all\'app Amazfit dove selezionare una posizione valida."</string>
     <string name="date_time_format">dd-MM</string>
     <string name="data_check_log" formatted="false">+ ------------------------ + ▂▃▄▅▆▇█▉Errore convalida dati meteo! % %1$s ▉█▇ ▆▅▄▃▂ + ------------------------ +</string>
-    <string name="data_checkfail_type">Tipo Tempo ND</string>
+    <string name="data_checkfail_type">Tipo tempo ND</string>
     <string name="data_checkfail_temp">Temperatura fuori range</string>
     <string name="data_checkfail_match">Tipo meteo ND</string>
     <string name="data_checkfail_json">Errore formato JSON</string>
