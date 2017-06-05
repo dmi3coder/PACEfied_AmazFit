@@ -65,6 +65,11 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="quick_settings_date_yeareve">除夕</string>
+    <string name="quick_settings_status_month">月</string>
+    <string name="quick_settings_status_leaf">闰</string>
+    <string name="quick_settings_date_chinese">yyyy年MM月dd日</string>
+    <string name="quick_settings_date_format">1900年1月31日</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>
