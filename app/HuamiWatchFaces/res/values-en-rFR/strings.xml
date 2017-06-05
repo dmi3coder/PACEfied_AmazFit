@@ -78,6 +78,6 @@
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">nuit dernière</string>
     <string name="widget_currentstep_sleep_no">Pas de données</string>
-    <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\hui?</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\'hui?</string>
 <!--END of missed texts by Huami-->
 </resources>
