@@ -35,7 +35,7 @@
     <string name="train_finish">End my plan</string>
     <string name="train_finished">Current plan ended</string>
     <string name="today">Today</string>
-    <string name="train_complete_rate">Percent complete</string>
+    <string name="train_complete_rate">Rate</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Subscribed</string>
     <string name="notification_title">Training plan</string>

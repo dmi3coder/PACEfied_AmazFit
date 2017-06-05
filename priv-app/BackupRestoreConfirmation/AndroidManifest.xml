@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.backupconfirm" platformBuildVersionCode="22" platformBuildVersionName="5.1-180">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.backupconfirm" platformBuildVersionCode="22" platformBuildVersionName="5.1-182">
     <uses-permission android:name="android.permission.BACKUP"/>
     <uses-permission android:name="android.permission.CRYPT_KEEPER"/>
     <application android:allowBackup="false" android:allowClearUserData="false" android:permission="android.permission.CONFIRM_FULL_BACKUP">
