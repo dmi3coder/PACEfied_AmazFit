@@ -10,7 +10,7 @@
     <string name="custom_none_selected">Please select</string>
     <string name="custom_selected_confirm">Confirmer</string>
     <string name="custom_exit_delete">Exit delete</string>
-    <string name="custom_none_custom_background_title">Pas d'\image</string>
+    <string name="custom_none_custom_background_title">Pas d\'image</string>
     <string name="custom_none_custom_background_content">Please add background images from the Amazfit Watch app.</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
     <string name="custom_title_bg">Background</string>
@@ -57,7 +57,7 @@
     <string name="watch_label_thirteen">2017</string>
     <string name="watch_label_fourteen">Eternal Moment</string>
     <string name="watch_label_fifteen">Golden Rooster</string>
-    <string name="watch_today_step">Pas aujourd'\hui</string>
+    <string name="watch_today_step">Pas aujourd\'hui</string>
     <string name="sport_step">pas</string>
     <string name="everyminute_times">bpm</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
@@ -72,12 +72,12 @@
     <string name="title_settings">Paramètres</string>
     <string name="sport_music_settings">Sports musique</string>
 <!--START of missed texts by Huami-->
-    <string name="widget_currentstep_title">Centre d'\activité</string>
-    <string name="widget_currentstep_activities">Pas aujourd'\hui</string>
+    <string name="widget_currentstep_title">Centre d\'activité</string>
+    <string name="widget_currentstep_activities">Pas aujourd\'hui</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">nuit dernière</string>
     <string name="widget_currentstep_sleep_no">Pas de données</string>
-    <string name="widget_currentstep_activity_no">Pas d'\exercice aujourd\hui?</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\hui?</string>
 <!--END of missed texts by Huami-->
 </resources>
