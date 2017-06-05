@@ -320,7 +320,6 @@
     <string name="waling_steps">pasos</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-    <string name="settting_sport_gpx_route">Rutas</string>
     <string name="setting_sport_heart_region_remind">Alerta de límite de RC</string>
     <string name="settings_item_title_safe_heartrate_safe_remind">Alerta de RC seguro</string>
     <string name="settings_item_title_safe_heartrate_region_remind">Alerta de región de RC</string>
@@ -386,29 +385,5 @@
     <string name="widget_currentstep_sleep_title">Sueño noche anterior</string>
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿Sin ejercicio hoy?</string>
-    <string name="confirm">Ok</string>
-    <string name="cumulative_climb">Desnivel acumulado</string>
-    <string name="current_altitude">Altitud</string>
-    <string name="decision_no">No</string>
-    <string name="decision_yes">Si</string>
-    <string name="dialog_remind_to_look_route">Mire hacia la ruta</string>
-    <string name="gpx_alreay_offset">Fuera de ruta</string>
-    <string name="gpx_back_route">Vuelva a la ruta</string>
-    <string name="gpx_offset_route">Fuera de ruta</string>
-    <string name="gpx_currnet_is_selected">seleccionada</string>
-    <string name="gpx_details_use">En uso</string>
-    <string name="gpx_details_view">Seleccionado</string>
-    <string name="gpx_route_loading">Por favor espere a que se cargue la ruta</string>
-    <string name="gpx_select_closed">Cerrado</string>
-    <string name="gpx_select_empty" />
-    <string name="please_become_bigger">Alargar</string>
-    <string name="please_become_smaller">Encoger</string>
-    <string name="please_start_sport_from_route_start">Para garantizar la exactitud de la navegación por la ruta, comience el ejercicio en la posición geográfica real del punto de partida de la pista</string>
-    <string name="settting_sport_gpx_route">Ruta</string>
-    <string name="sport_back_to_route">Vueva a la ruta</string>
-    <string name="sport_route_out_of">Desviado de la ruta</string>
-    <string name="sport_setting_gpx_route_selectd_remind">Los deportes al aire libre utilizarán esta ruta y la seguiran, selecciona desactivarla para cerrar la navegación por esta ruta</string>
-    <string name="sport_setting_gpx_route_selected">Ruta seleccionada</string>
-    <string name="use_sport_route_remind">¿ Utilizar la ruta %1$s ?</string>
 <!--END of missed texts by Huami-->									  
 </resources>
