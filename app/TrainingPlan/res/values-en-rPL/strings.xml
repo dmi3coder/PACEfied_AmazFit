@@ -35,7 +35,7 @@
     <string name="train_finish">Kończ.Treningu</string>
     <string name="train_finished">Trening zakoń.</string>
     <string name="today">Dzisiaj</string>
-    <string name="train_complete_rate">Stopień ukoń.</string>
+    <string name="train_complete_rate">Ocena</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Przydzielony</string>
     <string name="notification_title">Training Central</string>
