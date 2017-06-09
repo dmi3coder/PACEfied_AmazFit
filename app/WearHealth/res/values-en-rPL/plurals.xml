@@ -8,4 +8,8 @@
         <item quantity="other">Kroki</item>
         <item quantity="one">Krok</item>
     </plurals>
+    <plurals name="floor_unit">
+        <item quantity="othes">Warstwy</item>
+        <item quantity="one">Warstwa</item>
+    </plurals>
 </resources>
