@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="activity_main">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="state">false</item>
+    <item type="id" name="xiaoice_say">false</item>
+    <item type="id" name="responseMsg">false</item>
+    <item type="id" name="activity_query">false</item>
+    <item type="id" name="query_listview">false</item>
+    <item type="id" name="flash_help">false</item>
+    <item type="id" name="query_button">false</item>
+    <item type="id" name="query_button_par">false</item>
+    <item type="id" name="query_button_ig">false</item>
+    <item type="id" name="handling_progress">false</item>
+    <item type="id" name="voice_animator">false</item>
+    <item type="id" name="query_button_tv">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
+    <item type="id" name="query_state">false</item>
+    <item type="id" name="space_view">false</item>
+    <item type="id" name="query_help">false</item>
+    <item type="id" name="query">false</item>
+    <item type="id" name="result">false</item>
+    <item type="id" name="space">false</item>
+    <item type="id" name="weather_title">false</item>
+    <item type="id" name="weather_image">false</item>
+    <item type="id" name="weather_text">false</item>
+    <item type="id" name="voice_2_text">false</item>
+    <item type="id" name="divider">false</item>
+</resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-182">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-185">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
@@ -40,6 +40,7 @@
                 <action android:name="android.intent.action.TIME_SET"/>
                 <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
                 <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="com.huami.watch.deskclock.action.SET_ALARM"/>
             </intent-filter>
         </receiver>
         <activity android:label="@string/title_activity_stopwatch" android:name=".stopwatch.StopwatchActivity"/>

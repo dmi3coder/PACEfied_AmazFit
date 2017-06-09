@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/voice_2_text" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/query_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/button_record" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    <View android:id="@id/divider" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="0.33000004dip" android:layout_above="@id/query_button" />
+    <ListView android:id="@id/query_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:layout_above="@id/divider" />
+    <TextView android:id="@id/flash_help" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/help" android:layout_centerInParent="true" />
+</RelativeLayout>

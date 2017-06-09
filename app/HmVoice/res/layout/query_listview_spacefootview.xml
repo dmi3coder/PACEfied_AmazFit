@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/activity_query" android:background="@android:color/holo_red_light" android:layout_width="fill_parent" android:layout_height="60.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/space" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</RelativeLayout>
