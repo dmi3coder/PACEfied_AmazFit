@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Course</runType>
+            <trainContent>Jogging</trainContent>
+            <copyWrite>800m de jogging facile + 200m à pied puis répéter. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Course</runType>
+            <trainContent>Course de récupération</trainContent>
+            <copyWrite>Jogging facile. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Course</runType>
+            <trainContent>Course d\'échauffement</trainContent>
+            <copyWrite>Jogging facile. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Course</runType>
+            <trainContent>Course de progression</trainContent>
+            <copyWrite>Commencez à un rythme lent et confortable, puis augmentez progressivement votre rythme de course. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Course</runType>
+            <trainContent>Course alternée</trainContent>
+            <copyWrite>Une course de base qui mélange un rythme lent et rapide. Cardio recommandée: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Course</runType>
+            <trainContent>Course en montée</trainContent>
+            <copyWrite>Courir en montée à un gradient stable et modéré de 4 à 6%. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Course</runType>
+            <trainContent>Course stable</trainContent>
+            <copyWrite>Dirigez-vous à un rythme stable et régulier. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Course</runType>
+            <trainContent>Course fractionnée</trainContent>
+            <copyWrite>800m de course rapide + 800m à pied, puis répéter. Cardio recommandée: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Course</runType>
+            <trainContent>Course longue fractionnée</trainContent>
+            <copyWrite>2.4km jogging + 800m à pied puis à répéter. Cardio recommandée: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Repos</runType>
+            <trainContent></trainContent>
+            <copyWrite>Repos aujourd\'hui.%1$d jour(s) jusqu\'au prochain entraînement</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Natation</runType>
+            <trainContent></trainContent>
+            <copyWrite>La natation aide à la récupération. N\'oubliez pas de marquer aujourd\'hui comme complet après la nage.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Vélo</runType>
+            <trainContent></trainContent>
+            <copyWrite>Le vélo améliore les performances et aide à la récupération. Cardio recommandée:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

@@ -22,8 +22,8 @@
     <string name="notification_alipay_default_pattern">支付宝</string>
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
-    <string name="delete_all_notifications">Supprimer toutes les notifications</string>
-    <string name="delete_all_notifications_confrim_content">Suppression de toutes les notifications. Continuer ?</string>
+    <string name="delete_all_notifications">Supprimer les notifications</string>
+    <string name="delete_all_notifications_confrim_content">Suppression des notifications. Continuer ?</string>
     <string name="quick_settings_airplane_mode">Avion: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silence: %1$s</string>
     <string name="quick_settings_auto_light_mode">Eclairage: %1$s</string>
@@ -50,11 +50,11 @@ Les nouvelles notifications ne s\'afficheront pas."</string>
     <string name="quick_settings_battery_charging_full">Chargé</string>
     <string name="quick_settings_battery_is_charging">En charge...</string>
     <string name="quick_settings_battery_hasnot_charged">Pas chargé</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d j %2$d h depuis la dernière charge</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d j depuis la dernière charge</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">%d depuis la dernière charge</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Moins d\'1 h de charge"</string>
-    <string name="quick_settings_battery_sportString">Autonomie de la baterie en mode Sport</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d j %2$d h (dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d j (dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d j (dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"1 h (dernière charge)"</string>
+    <string name="quick_settings_battery_sportString">Autonomie en mode Sport</string>
     <string name="quick_settings_battery_sporttime_hour_unit">heure</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -214,9 +214,9 @@ day"</string>
     <string name="cal_no_title">(No title)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
-    <string name="checking_for_updates">Checking for updates…</string>
-    <string name="just_a_sec">Just a minute…</string>
-    <string name="paired">Paired!</string>
+    <string name="checking_for_updates">Recherche des updates…</string>
+    <string name="just_a_sec">Juste une minute…</string>
+    <string name="paired">Jumelé!</string>
     <string name="tutorial_activity_text">You can also swipe to dismiss when in an app</string>
     <string name="troubleshoot_somethings_wrong">"Can't connect to the Internet. Swipe for some tips."</string>
     <string name="troubleshoot_somethings_wrong_paired">"Can't connect to the Android Wear app on your phone. Swipe for some tips."</string>
@@ -227,12 +227,12 @@ day"</string>
 %s
 "</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
-    <string name="retry_action">Retry</string>
-    <string name="restart_action">Restart</string>
+    <string name="retry_action">Essayer</string>
+    <string name="restart_action">Redémarrage</string>
     <string name="reset_action">Reset device</string>
-    <string name="arrive_title">Arrive</string>
-    <string name="depart_title">Depart</string>
-    <string name="flight_reservation_number">Reservation #</string>
+    <string name="arrive_title">Arrivé</string>
+    <string name="depart_title">Départ</string>
+    <string name="flight_reservation_number">Réservation #</string>
     <string name="flight_information">%1$s %2$s</string>
     <string name="operating_airline_info">Operated by %1$s</string>
     <string name="skip_activity">SKIP_ACTIVITY</string>
@@ -404,16 +404,16 @@ Sorry, Google can't help you with that"</string>
     <string name="search_when_is_end_evening">and ends in the evening of</string>
     <string name="search_call">Call</string>
     <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
-    <string name="local_closed">Closed</string>
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="search_flight_departure_location">Depart %s</string>
-    <string name="search_flight_arrival_location">Arrive %s</string>
+    <string name="local_closed">Fermé</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="search_flight_departure_location">Départ %s</string>
+    <string name="search_flight_arrival_location">Arrivé %s</string>
     <string name="search_flight_originally_scheduled_time">(Scheduled %s)</string>
     <string name="search_flight_terminal_gate">Terminal %1$s, Gate %2$s</string>
     <string name="search_flight_name">%1$s %2$s</string>
@@ -453,16 +453,16 @@ Sorry, Google can't help you with that"</string>
     <string name="watchface_picker_more">More</string>
     <string name="watchface_picker_recent">Recent</string>
     <string name="watchface_picker_all">All</string>
-    <string name="airplane_mode">"Airplane mode
+    <string name="airplane_mode">"Mode Avion 
 On"</string>
-    <string name="airplane_mode_cue_card">Airplane mode</string>
-    <string name="disconnected">Disconnected</string>
+    <string name="airplane_mode_cue_card">Mode Avion</string>
+    <string name="disconnected">Déconnecté</string>
     <string name="timed_out_state">Timed out</string>
     <string name="offline_state">Offline</string>
-    <string name="no_items">No items.</string>
+    <string name="no_items">Pas de contenu.</string>
     <string name="disambiguate_action">Disambiguate action</string>
     <string name="status_bar_date_format">MMM d</string>
-    <string name="battery_is_at">Battery is at</string>
+    <string name="battery_is_at">Batterie est à</string>
     <string name="battery_saver_enabled">Battery saver is on</string>
     <string name="battery_saver_disabled">Battery saver is off</string>
     <string name="disable_battery_saver">Turn off battery saver</string>
@@ -581,10 +581,10 @@ On"</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> to </string>
-    <string name="not_avalible_type">No Data</string>
+    <string name="not_avalible_type">Pas de données</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Air quality </string>
-    <string name="weather_title">Weather Today</string>
+    <string name="air_quality">Qualité de l\'air </string>
+    <string name="weather_title">Météo du jour</string>
     <string name="dot"> </string>
     <string name="air_good">Good air quality</string>
     <string name="air_perfect">Superior air quality</string>
@@ -602,9 +602,9 @@ On"</string>
     <string name="forecast_tomorrow">Tomorrow</string>
     <string name="moisture">Humidity</string>
     <string name="no_aqi">Unable to obtain air quality</string>
-    <string name="no_outdoor_info">No Data</string>
-    <string name="outdoor_info_notsuit">Unsuitable for sports</string>
-    <string name="outdoor_info_suit">Suitable for sports</string>
+    <string name="no_outdoor_info">Pas de données</string>
+    <string name="outdoor_info_notsuit">Inapproprié pour le sport</string>
+    <string name="outdoor_info_suit">Convient pour le sport/string>
     <string name="uv">UV rays</string>
     <string name="weather">Weather</string>
     <string name="weather_warning">Prewarning</string>
@@ -635,13 +635,13 @@ On"</string>
     <string name="data_checkfail_json">JSON format error</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_positive_text">Confirmer</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">Heart rate data not detected</string>
     <string name="no_altitude_hint">Altitude data not detected</string>
     <string name="ui_lib_name">Hm_UILib</string>
-    <string name="title_settings">Settings</string>
-    <string name="sport_music_settings">Sports music</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Musique Sport</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centre d\'activité</string>
     <string name="widget_currentstep_activities">Pas aujourd\'hui</string>

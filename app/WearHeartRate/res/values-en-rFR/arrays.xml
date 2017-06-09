@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spring_depend" />
+    <string-array name="hour_select_labels">
+        <item>0</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="weekday_names">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
+    </string-array>
+    <string-array name="subject_typenfreqs">
+        <item>Aujourd\'hui</item>
+        <item>Cette semaine</item>
+        <item>Aujourd\'hui</item>
+        <item>Cette semaine</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Débutant</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Convient pour la première course. Cette formation peut vous aider étape par étape.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Convient aux coureurs débutants. Cette formation peut vous aider à améliorer les mouvements.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Convient pour les coureurs avancés. Cette formation contribue à améliorer votre forme physique et votre force musculaire.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Half marathon</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Convient pour la coureurs expérimentés. Cette formation aide à améliorer votre capacité à courir pendant une longue période.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Marathon</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Convient pour toutes les courses. Cette formation peut vous aider à prédire votre performance et à vous aider à planifier votre propre rythme.</copyWrite>
+        </trainplan>
+</trainplans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Temps</item>
+        <item quantity="one">Temps</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Pas</item>
+        <item quantity="one">Pas</item>
+    </plurals>
+    <plurals name="weeklysports_day">
+        <item quantity="other">Jours</item>
+        <item quantity="one">Jour</item>
+    </plurals>
+</resources>

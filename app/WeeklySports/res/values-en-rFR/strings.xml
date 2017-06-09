@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Non</string>
+    <string name="no_heartrate_data_hint">Données Cardio non détectée</string>
+    <string name="no_altitude_hint">Données Altitude non détectée</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Musique Sport</string>
+    <string name="app_name">WeeklySports</string>
+    <string name="weeklysports_title">Activité hebdomadaire</string>
+    <string name="weeklysports_totalnumber_front">Total exercice</string>
+    <string name="weeklysports_totalstep_front">Total pas</string>
+    <string name="weeklysports_totaltime">Total temps écoulé</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Total calories</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">total distance</string>
+    <string name="weeklysports_totalmileage_unit_zh">km</string>
+    <string name="weeklysports_totalmileage_unit_en">mi</string>
+    <string name="weeklysports_averageheart">Cardio</string>
+    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_runerrate">Rythme course</string>
+    <string name="weeklysports_outdoorrunrate">Rythme course ext</string>
+    <string name="weeklysports_insiderunrate">Rythme course int</string>
+    <string name="weeklysports_crossrunrate">Rythme cross-country</string>
+    <string name="weeklysports_runerrate_unit_zh">/km</string>
+    <string name="weeklysports_runerrate_unit_en">/mi</string>
+    <string name="weeklysports_ridingrate">Vitesse vélo</string>
+    <string name="weeklysports_outdoorriding_average">Vitesse vélo int</string>
+    <string name="weeklysports_outdoorriding_max">Vitesse max vélo</string>
+    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_activity">Activité</string>
+    <string name="weeklysports_running">Course</string>
+    <string name="weeklysports_walking">Marche</string>
+    <string name="weeklysports_riding">Vélo</string>
+    <string name="weekly_step_attained_rate">Jours pour atteindre l\'objectif</string>
+    <string name="weekly_sports_notification_content">Le résumé d\'activité de la semaine dernière est prêt.</string>
+</resources>
