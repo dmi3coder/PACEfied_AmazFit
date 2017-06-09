@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="huami_voice_name">HuamiVoice</string>
+    <string name="app_name">LibHuamiVoice</string>
+    <string name="xiaoice_response">Huami Voice:</string>
+    <string name="button_record">录音</string>
+    <string name="button_send_to_xiaoice">录音</string>
+    <string name="button_stop_record">停止录音</string>
+    <string name="xiaoice_response_test">我是Huami Voice:</string>
+    <string name="state_ready">点击按钮，开始录音</string>
+    <string name="state_recording">正在录音..</string>
+    <string name="state_record_finish">录音完毕.</string>
+    <string name="state_sending">正在发送...</string>
+    <string name="state_sending_to_xiaoice">正在发送...</string>
+    <string name="state_send">等待回复...</string>
+    <string name="state_receiving">正在接收回复...</string>
+    <string name="state_received">收到回复</string>
+    <string name="net_work_error">出问题了!</string>
+    <string name="no_bluetooth_headset">收到声音回复，但是没有连接蓝牙耳机</string>
+    <string name="state_uploading_record">正在发送录音文件...</string>
+    <string name="help">请问有什么可以帮您?</string>
+    <string name="listening">\"我在听...\"</string>
+    <string name="handling">\"正在处理...\"</string>
+    <string name="temperature_unit">℃</string>
+    <string name="temperature_to">~</string>
+    <string name="button_begin">点击开始</string>
+    <string name="button_end">点击结束</string>
+    <string name="none" />
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Settings</string>
+    <string name="sport_music_settings">Sports music</string>
+</resources>

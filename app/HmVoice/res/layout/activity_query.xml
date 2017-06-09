@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/activity_query" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/query_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    <TextView android:textSize="@dimen/size_title_help" android:textColor="@color/color_title_help" android:id="@id/flash_help" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/help" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/query_button" android:background="@drawable/lan_voice_input_bg" android:paddingLeft="40.0dip" android:paddingRight="40.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:elevation="5.0dip">
+        <FrameLayout android:id="@id/query_button_par" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <ImageView android:id="@id/query_button_ig" android:background="@drawable/lan_voice_input_animation_02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="5.0dip" />
+            <ProgressBar android:id="@id/handling_progress" android:layout_width="47.0dip" android:layout_height="47.0dip" android:elevation="5.0dip" style="@style/handlingProgress" />
+            <com.huami.watch.hmice.widget.VoiceAnimator android:id="@id/voice_animator" android:visibility="gone" android:layout_width="133.29999dip" android:layout_height="33.299988dip" android:layout_marginTop="40.0dip" android:elevation="5.0dip" />
+        </FrameLayout>
+        <TextView android:textSize="@dimen/size_button_state" android:textColor="@color/color_button_state" android:id="@id/query_button_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:layout_below="@id/query_button_par" android:layout_centerHorizontal="true" android:elevation="5.0dip" />
+    </RelativeLayout>
+</RelativeLayout>

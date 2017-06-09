@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout android:background="@color/quciksettings_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center" android:id="@id/status_text_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:includeFontPadding="false" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
-    <LinearLayout android:gravity="center" android:id="@id/status_weather_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.299988dip" android:layout_below="@id/status_text_date" android:layout_centerHorizontal="true">
+    <RelativeLayout android:id="@id/status_battery" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_centerHorizontal="true">
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:drawablePadding="4.0dip" />
+        <ImageView android:id="@id/status_battery_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_level_icon" android:layout_toRightOf="@id/status_text_connect" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_battery_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/not_avalible_temp" android:layout_toRightOf="@id/status_battery_img" />
+    </RelativeLayout>
+    <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center" android:id="@id/status_text_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:includeFontPadding="false" android:layout_below="@id/status_battery" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/status_weather_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:layout_below="@id/status_text_date" android:layout_centerHorizontal="true">
         <ImageView android:id="@id/status_img_weather" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/lan_weather_cloudy" />
-        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="4.6999817dip">
-            <RelativeLayout android:gravity="center" android:id="@id/status_temp_view" android:layout_width="wrap_content" android:layout_height="wrap_content">
-                <TextView android:textSize="24.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/status_text_temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
-                <ImageView android:id="@id/status_img_unit" android:paddingTop="1.0dip" android:layout_width="17.299988dip" android:layout_height="wrap_content" android:layout_marginStart="1.0dip" android:layout_toEndOf="@id/status_text_temp" />
-            </RelativeLayout>
-            <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_text_outdoor_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/status_weather_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip">
+            <com.huami.watch.reports.widget.DataTextView android:textSize="24.0sp" android:textColor="#ffffffff" android:id="@id/status_text_temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            <ImageView android:id="@id/status_img_unit" android:paddingTop="1.0dip" android:visibility="gone" android:layout_width="17.299988dip" android:layout_height="wrap_content" />
         </LinearLayout>
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_text_outdoor_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.2999878dip" android:includeFontPadding="false" />
     </LinearLayout>
-    <LinearLayout android:orientation="horizontal" android:id="@id/status_settings_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_below="@id/status_weather_view" android:layout_marginStart="14.699982dip" android:layout_marginEnd="14.699982dip">
-        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/status_settings_airplane" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/icon_status_airplane_on" />
-        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/status_settings_nodisturb" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/icon_status_nodisturb_on" android:layout_marginStart="8.0dip" />
-        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/status_settings_light" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/icon_status_light_on" android:layout_marginStart="8.0dip" />
-        <com.huami.watch.common.widget.HmHaloImageView android:id="@id/status_settings" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/icon_status_settings" android:layout_marginStart="8.0dip" />
-    </LinearLayout>
-    <View android:background="#4dffffff" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="15.299988dip" android:layout_below="@id/status_settings_view" />
-    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="55.0dip" android:layout_alignParentBottom="true">
-        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:drawablePadding="4.0dip" android:layout_marginStart="48.0dip" />
-        <ImageView android:id="@id/status_battery_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_level_icon" android:layout_marginStart="23.299988dip" />
-        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_battery_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:text="@string/not_avalible_temp" android:layout_marginStart="4.0dip" />
-    </LinearLayout>
+    <ViewStub android:id="@id/all_buttons_odd" android:layout="@layout/quick_settings_buttons_odd" android:inflatedId="@id/status_settings_view_odd" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/all_buttons_even" android:layout="@layout/quick_settings_buttons_even" android:inflatedId="@id/status_settings_view_even" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     <include android:id="@id/weather_no_data_dialog" android:visibility="gone" layout="@layout/weather_no_data_alert_dialog" />
 </RelativeLayout>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.otawatch" platformBuildVersionCode="22" platformBuildVersionName="5.1-182">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.otawatch" platformBuildVersionCode="22" platformBuildVersionName="5.1-185">
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
@@ -26,7 +26,7 @@
         </activity>
         <activity android:name=".DownloadActivity" android:theme="@style/DisableSwipeToDismiss"/>
         <activity android:name=".LowBatteryActivity"/>
-        <activity android:exported="true" android:launchMode="singleTask" android:name=".wifi.WifiListActivity">
+        <activity android:exported="true" android:launchMode="singleTask" android:name=".wifi.WifiListActivity" android:taskAffinity="com.huami.watch.otawatch">
             <intent-filter>
                 <action android:name="com.huami.watch.otawatch.wifi.WifiListActivity"/>
                 <category android:name="android.intent.category.DEFAULT"/>

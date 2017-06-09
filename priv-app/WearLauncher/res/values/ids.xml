@@ -462,6 +462,7 @@
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="status_settings_ai">false</item>
     <item type="id" name="batterySportImage">false</item>
     <item type="id" name="batterySport">false</item>
     <item type="id" name="powerSlash">false</item>
@@ -474,6 +475,11 @@
     <item type="id" name="batteryLevel">false</item>
     <item type="id" name="batteryCharging">false</item>
     <item type="id" name="batteryChargeStatusTwo">false</item>
+    <item type="id" name="status_battery">false</item>
+    <item type="id" name="all_buttons_odd">false</item>
+    <item type="id" name="status_settings_view_odd">false</item>
+    <item type="id" name="all_buttons_even">false</item>
+    <item type="id" name="status_settings_view_even">false</item>
     <item type="id" name="weather_no_data_dialog">false</item>
     <item type="id" name="tvTitleToast">false</item>
     <item type="id" name="reply_title">false</item>

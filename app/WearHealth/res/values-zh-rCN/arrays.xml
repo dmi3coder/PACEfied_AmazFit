@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="chart_x_titles">
-        <item>一</item>
-        <item>二</item>
-        <item>三</item>
-        <item>四</item>
-        <item>五</item>
-        <item>六</item>
-        <item>日</item>
-    </string-array>
     <string-array name="hour_select_labels">
         <item>0</item>
         <item>6</item>
@@ -30,5 +21,14 @@
         <item>本周步数</item>
         <item>今日消耗</item>
         <item>本周消耗</item>
+    </string-array>
+    <string-array name="chart_x_titles">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
     </string-array>
 </resources>
