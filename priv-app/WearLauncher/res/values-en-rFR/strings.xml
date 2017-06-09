@@ -604,7 +604,7 @@ On"</string>
     <string name="no_aqi">Unable to obtain air quality</string>
     <string name="no_outdoor_info">Pas de données</string>
     <string name="outdoor_info_notsuit">Inapproprié pour le sport</string>
-    <string name="outdoor_info_suit">Convient pour le sport/string>
+    <string name="outdoor_info_suit">Convient pour le sport</string>
     <string name="uv">UV rays</string>
     <string name="weather">Weather</string>
     <string name="weather_warning">Prewarning</string>

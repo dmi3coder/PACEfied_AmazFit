@@ -38,7 +38,7 @@
     <string name="train_complete_rate">Taux</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Accepté</string>
-    <string name="notification_title">Planning d\'activité<</string>
+    <string name="notification_title">Planning d\'activité</string>
     <string name="notificaiton_train_content">"L\'entraînement n\'est pas encore terminé. Continuez!"</string>
     <string name="this_train_record_finish">Cette session est terminée</string>
     <string name="train_finish_reason">Terminé</string>
