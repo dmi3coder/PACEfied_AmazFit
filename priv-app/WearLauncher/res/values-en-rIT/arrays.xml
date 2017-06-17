@@ -28,13 +28,13 @@
         <item>Equinozio di primavera</item>
         <item>Pioggia grano</item>
         <item>Germogli di grano</item>
-        <item>Solstizio d'estate</item>
+        <item>Solstizio d\'estate</item>
         <item>Caldissimo</item>
         <item>Fine del caldo</item>
-        <item>Equinozio d'autunno</item>
+        <item>Equinozio d\'autunno</item>
         <item>Cadute brina</item>
         <item>Neve leggera</item>
-        <item>Solstizio d'inverno</item>
+        <item>Solstizio d\'inverno</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Lieve freddo</item>
@@ -47,7 +47,7 @@
         <item>Autunno inizia</item>
         <item>Rugiade bianchi</item>
         <item>Rugiade freddo</item>
-        <item>Inizia l'inverno</item>
+        <item>Inizia l\'inverno</item>
         <item>Forte nevicata</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">

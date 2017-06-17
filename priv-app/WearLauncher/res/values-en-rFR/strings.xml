@@ -489,7 +489,7 @@ Activé"</string>
     <string name="tutorial_say_what_time">Dire, \"A quelle heure est le coucher du soleil?\"</string>
     <string name="tutorial_touch_clock_what_time">Touchez n\'importe où sur l\'horloge et dites quelque chose comme, \"Montrez-moi mes pas\"</string>
     <string name="tutorial_one_last_thing">Une dernière chose…</string>
-    <string name="tutorial_dim_lights">Pour réduire l'écran, recouvrez-le avec votre paume.</string>
+    <string name="tutorial_dim_lights">Pour réduire l\'écran, recouvrez-le avec votre paume.</string>
     <string name="tutorial_tap_to_read_more">Appuyez pour lire plus</string>
     <string name="tutorial_dismiss_sync">Les cartes rejetées ici sont également rejetées sur votre téléphone</string>
     <string name="reminder_trigger_occasionally">Parfois</string>

@@ -9,7 +9,7 @@
     <string name="custom_exit">Zurück</string>
     <string name="custom_none_selected">Bitte wählen</string>
     <string name="custom_selected_confirm">Bestätige</string>
-    <string name="custom_exit_delete">Zurück & löschen</string>
+    <string name="custom_exit_delete">Zurück und löschen</string>
     <string name="custom_none_custom_background_title">Kein Bild</string>
     <string name="custom_none_custom_background_content">Bitte füge Hintergrundbilder über die Amazfit App hinzu.</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
