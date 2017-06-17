@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="huami_voice_name">HuamiVoice</string>
+    <string name="app_name">LibHuamiVoice</string>
+    <string name="xiaoice_response">Huami Voice:</string>
+    <string name="button_record">nagranie</string>
+    <string name="button_send_to_xiaoice">nagranie</string>
+    <string name="button_stop_record">Zatrzymaj nagrywanie</string>
+    <string name="xiaoice_response_test">Jestem Huami Voice:</string>
+    <string name="state_ready">Kliknij przycisk, aby rozpocząć nagrywanie</string>
+    <string name="state_recording">NAGRYWANIE ..</string>
+    <string name="state_record_finish">Zakończenie nagrywania.</string>
+    <string name="state_sending">Przesyłanie ...</string>
+    <string name="state_sending_to_xiaoice">Przesyłanie ...</string>
+    <string name="state_send">Oczekuje na odpowiedź...</string>
+    <string name="state_receiving">Odbieranie odpowiedzi ...</string>
+    <string name="state_received">Odbierano odpowiedź</string>
+    <string name="net_work_error">Problem!</string>
+    <string name="no_bluetooth_headset">Odbieranie odpowiedzi głosowej, ale nie jest podłączony zestaw słuchawkowy Bluetooth</string>
+    <string name="state_uploading_record">Wysyłanie pliku audio ...</string>
+    <string name="help">W czym mogę pomóc?</string>
+    <string name="listening">\"Słucham...\"</string>
+    <string name="handling">\"Przetwarzanie ...\"</string>
+    <string name="temperature_unit">℃</string>
+    <string name="temperature_to">~</string>
+    <string name="button_begin">Kliknij Start</string>
+    <string name="button_end">Kliknij przycisk Zakończ</string>
+    <string name="none" />
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Zatwierdź</string>
+    <string name="picker_default_nagetive_text">Wył.</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna.</string>
+    <string name="no_altitude_hint">Brak danych wysokości</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
+</resources>
