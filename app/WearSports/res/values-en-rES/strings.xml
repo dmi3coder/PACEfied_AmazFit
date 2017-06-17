@@ -304,10 +304,10 @@
     <string name="settings_sport_slpt_second_brush">Actualización de estadisticas por segundo</string>
     <string name="settings_sport_music_Watercress">Radio China FM</string>
     <string name="settings_sport_music_play_settings">Ajustes de música</string>
-    <string name="settings_sport_lock_screen">Pantallas de datos</string>
+    <string name="settings_sport_lock_screen">Pantalla de datos</string>
     <string name="settings_sport_four_data">4 Campos de datos</string>
     <string name="settings_sport_six_data">6 Campos de datos</string>
-    <string name="settting_sport_gpx_route">Deporte Trail</string>																
+    <string name="settting_sport_gpx_route">Rutas</string>																
     <string name="delete_sport_summary">Borrar</string>
     <string name="give_up_sport_record">Descartar</string>
     <string name="give_up_sport_record_tips">¿Descartar esta actividad?</string>
@@ -320,9 +320,9 @@
     <string name="waling_steps">pasos</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-    <string name="setting_sport_heart_region_remind">Alerta de límite de RC</string>
-    <string name="settings_item_title_safe_heartrate_safe_remind">Alerta de RC seguro</string>
-    <string name="settings_item_title_safe_heartrate_region_remind">Alerta de región de RC</string>
+    <string name="setting_sport_heart_region_remind">Alerta límite de RC</string>
+    <string name="settings_item_title_safe_heartrate_safe_remind">Alerta RC seguro</string>
+    <string name="settings_item_title_safe_heartrate_region_remind">Alerta región RC</string>
     <string name="setting_sport_heart_region_fat_burning">Región de de Quema-Grasa</string>
     <string name="setting_sport_heart_region_aerobic">Región de zona aeróbica</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Región de alta intensidad</string>

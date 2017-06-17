@@ -2,12 +2,12 @@
 <resources>
     <string name="app_name">Brújula</string>
     <string name="action_settings">Ajustes</string>
-    <string name="north_latitude">Latitud Norte</string>
-    <string name="south_latitude">Latitud Sur</string>
-    <string name="east_longitude">Latitud Este</string>
-    <string name="west_longitude">Latitud Oeste</string>
+    <string name="north_latitude">Lat. Norte</string>
+    <string name="south_latitude">Lat. Sur</string>
+    <string name="east_longitude">Lat. Este</string>
+    <string name="west_longitude">Lat. Oeste</string>
     <string name="altitude">Altitud (m)</string>
-    <string name="atmospheric_pressure">Presión del aire</string>
+    <string name="atmospheric_pressure">P.Atmosférica</string>
     <string name="ori_north">N</string>
     <string name="ori_northeast">NE</string>
     <string name="ori_east">E</string>
