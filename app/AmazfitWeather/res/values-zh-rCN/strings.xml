@@ -2,6 +2,7 @@
 <resources>
     <string name="forecast_today">今天</string>
     <string name="forecast_tomorrow">明天</string>
+    <string name="widget_title">天气</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>

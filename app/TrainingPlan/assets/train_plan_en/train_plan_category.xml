@@ -30,7 +30,7 @@
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for half racing. This training helps to improve your ability to run for a long time.</copyWrite>
+            <copyWrite>Suitable for half racing.Helps to improve your ability to run a long.</copyWrite>
         </trainplan>
         <trainplan id="5">
             <title>Marathon</title>
@@ -38,6 +38,6 @@
             <orderId>5</orderId>
             <totalLength>436.0</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for all races. This training can help you predict your performance and help you plan your own pace and match strategy.</copyWrite>
+            <copyWrite>Suitable for all races.Help you predict performance and plan your pace and match strategy.</copyWrite>
         </trainplan>
 </trainplans>

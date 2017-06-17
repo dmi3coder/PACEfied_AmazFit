@@ -218,7 +218,7 @@
     <string name="currentstep_detail_sleep_deep">Deep Sleep</string>
     <string name="currentstep_detail_title">Details</string>
     <string name="currentstep_detail_activity_step_done">Goal achieved</string>
-    <string name="currentstep_detail_activity_step_notdo">Goal unmet?</string>
+    <string name="currentstep_detail_activity_step_notdo">Goal unmet</string>
     <string name="currentstep_detail_activity_run_rate_av">Average pace</string>
     <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Average pace</string>

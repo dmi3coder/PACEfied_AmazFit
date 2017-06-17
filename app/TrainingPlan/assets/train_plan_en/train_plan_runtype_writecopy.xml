@@ -3,12 +3,12 @@
         <runremind id="0">
             <runType>Run</runType>
             <trainContent>Jog</trainContent>
-            <copyWrite>800m easy jogging + 200m walking then repeat. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m easy jogging + 200m walking. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="1">
             <runType>Run</runType>
             <trainContent>Recovery Run</trainContent>
-            <copyWrite>Easy joggying. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Easy jogging. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Run</runType>
@@ -18,17 +18,17 @@
         <runremind id="3">
             <runType>Run</runType>
             <trainContent>Progression Run</trainContent>
-            <copyWrite>Start at a slow and comfortable pace then gradually increase your normal running pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Start slowly and gradually increase pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
             <runType>Run</runType>
             <trainContent>Fartlek</trainContent>
-            <copyWrite>A base run that mixes in intervals of varying duration or distance. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>Freely switching training strength. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Run</runType>
             <trainContent>Hill Repeats</trainContent>
-            <copyWrite>Run on a uphill at a steady, moderate gradient of 4 to 6 percent.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Run on a uphill at a steady.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
             <runType>Run</runType>
@@ -53,12 +53,12 @@
         <runremind id="10">
             <runType>Swim</runType>
             <trainContent></trainContent>
-            <copyWrite>Swimming helps recovery from speedwork. Remember to mark today as complete after swim.</copyWrite>
+            <copyWrite>Swimming to recovery speedwork. Remember to mark today as complete after swim.</copyWrite>
         </runremind>
         <runremind id="11">
             <runType>Bike</runType>
             <trainContent></trainContent>
-            <copyWrite>Cross-training improves performance and helps recovery from intense speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Recovery speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
 </runreminds>
 

@@ -9,7 +9,7 @@
     <string name="heart_rate_collection_on">On</string>
     <string name="heart_rate_collection_off">Off</string>
     <string name="saving_data">Saving data</string>
-    <string name="upload_data">Uploading</string>
+    <string name="upload_data">Upload</string>
     <string name="upload_success">Completed</string>
     <string name="upload_failed">Failed to upload, please retry</string>
     <string name="air_mode_alert_title">Can not connect</string>

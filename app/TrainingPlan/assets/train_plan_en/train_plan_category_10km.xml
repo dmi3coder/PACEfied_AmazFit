@@ -267,7 +267,7 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="24">
-            <desc>骑行20-30 minute</desc>
+            <desc>Ride 20-30 minute</desc>
             <stageDesc>Base building</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>

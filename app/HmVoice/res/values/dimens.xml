@@ -6,6 +6,14 @@
     <dimen name="size_title_help">16.0sp</dimen>
     <dimen name="size_query_state">14.0sp</dimen>
     <dimen name="size_query_result">14.0sp</dimen>
+    <dimen name="size_weather_current">32.0sp</dimen>
+    <dimen name="size_weather_icon">40.0dip</dimen>
+    <dimen name="size_weather_icon_othersday">32.0dip</dimen>
+    <dimen name="size_weather_icon_padding">5.0dip</dimen>
+    <dimen name="size_weather_divide_width">147.0dip</dimen>
+    <dimen name="size_weather_divide_height">1.2999878dip</dimen>
+    <dimen name="size_connect_error_title">16.0sp</dimen>
+    <dimen name="size_connect_error_content">14.0sp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20.0dip</dimen>
     <dimen name="bench_xaxis_text_size">10.0sp</dimen>
     <dimen name="xaxis_offset">3.0dip</dimen>
