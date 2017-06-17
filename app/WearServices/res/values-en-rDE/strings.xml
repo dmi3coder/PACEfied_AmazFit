@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appid_messages">Mitteilungen</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">Kontakte</string>
+    <string name="appid_camera">Kamera</string>
+    <string name="appid_videos">Videos</string>
+    <string name="appid_maps">Karten</string>
+    <string name="appid_calculator">Rechner</string>
+    <string name="appid_photos">Fotos</string>
+    <string name="appid_fmf1">Finde Freunde</string>
+    <string name="appid_fmip1">Finde iPhone</string>
+    <string name="appid_preferences">Einstellungen</string>
+    <string name="appid_tips">Tipps</string>
+    <string name="appid_mobiletimer">Uhr</string>
+    <string name="appid_compass">Kompass</string>
+    <string name="appid_mobilenotes">Notizen</string>
+    <string name="appid_music">Musik</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">Sprachaufzeichnungen</string>
+    <string name="appid_health">Gesundheit</string>
+    <string name="appid_bridge">Uhr</string>
+    <string name="appid_mobilestore">iTunes Store</string>
+    <string name="appid_itunesu">iTunes U</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">Aktienkurse</string>
+    <string name="appid_weather">Wetter</string>
+    <string name="appid_reminders">Erinnerungen</string>
+    <string name="appid_news">News</string>
+    <string name="appid_gamecenter">Game Center</string>
+    <string name="appid_passbook">Wallet</string>
+    <string name="appid_mobilecal">Kalender</string>
+    <string name="appid_appstore">App Store</string>
+    <string name="appid_mobilemail">Mail</string>
+</resources>

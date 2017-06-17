@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="divider">#45ffffff</color>
+    <color name="air_good">#ff00ff00</color>
+    <color name="air_lightly_polluted">#ffffa520</color>
+    <color name="air_heavily_polluted">#ffff0000</color>
+    <color name="notification_title_color">#cfffffff</color>
+    <color name="notification_content_color">#ffffffff</color>
+    <color name="notification_alert_red">#fffc4000</color>
+    <color name="notification_alert_yellow">#ffffc300</color>
+    <color name="notification_alert_blue">#ff00abff</color>
+    <color name="notification_alert_orange">#ffff7900</color>
+    <color name="notification_alert_def">#ffaf7cff</color>
+    <color name="notification_alert_white">#ffffffff</color>
+    <color name="notification_alert_black">#44000000</color>
+</resources>

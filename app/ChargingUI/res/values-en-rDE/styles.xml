@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimation</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="charging_text_style">
+        <item name="android:shadowColor">#5c000000</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="charging_level_text_style" parent="@style/charging_text_style">
+        <item name="android:shadowColor">#5c000000</item>
+        <item name="android:shadowDy">3.0</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="WindowAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/grow_fade_in_center</item>
+        <item name="android:windowExitAnimation">@anim/shrink_fade_out_center</item>
+    </style>
+</resources>

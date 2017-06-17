@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstallationsHelfer</string>
+    <string name="locale_title">Sprache wählen</string>
+    <string name="lang_zh_cn">中文(简体)</string>
+    <string name="lang_en_us">English(US)</string>
+    <string name="tip_install_wear_companion">Bitte installiere \"Amazfit Watch\" App auf deinem Smartphone</string>
+    <string name="tip_low_battery">Weniger als 5% Batterie, zum weitermachen Netzteil anschließen</string>
+    <string name="pair_scan_qr">Scanne den QR Code mit der \"Amazfit Watch\" App</string>
+    <string name="pair_skip">Überspringen</string>
+    <string name="tip_pair_skip">Einige Funktionen werden abgeschaltet, weitermachen?</string>
+    <string name="tip_restoring">Wiederherstellung</string>
+    <string name="tip_binding_failed">Pairing fehlgeschlagen</string>
+    <string name="tip_binding_failed_restart">Verbindung getrennt, bitte erneut versuchen</string>
+    <string name="tip_no_bluetooth_adapter">Bluetooth Fehler</string>
+    <string name="tip_wear_hand">An welchem Arm trägst Du die Uhr?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="lang_zh_cn">false</item>
+    <item type="id" name="lang_en_us">false</item>
+    <item type="id" name="qr_code">false</item>
+    <item type="id" name="get_storeage_button">false</item>
+    <item type="id" name="get_locale_button">false</item>
+    <item type="id" name="get_battery_level_button">false</item>
+    <item type="id" name="quit">false</item>
+    <item type="id" name="file_start">false</item>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
+    <string name="agreement_title">24/7 PPG capturing</string>
+    <string name="message">In order to improve your experience, we’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. Turn on this feature will adversely impact the battery life.</string>
+    <string name="allow">Erlauben</string>
+    <string name="exit">Abbruch</string>
+    <string name="heart_rate_collection_on">An</string>
+    <string name="heart_rate_collection_off">Aus</string>
+    <string name="saving_data">Speichere Daten</string>
+    <string name="upload_data">Uploading</string>
+    <string name="upload_success">Komplett</string>
+    <string name="upload_failed">Upload fehlgeschlagen, bitte erneut versuchen</string>
+    <string name="air_mode_alert_title">Verbindung nicht möglich</string>
+    <string name="air_mode_alert_message">Bitte schalte den Flugzeug-Modus aus und versuche es erneut</string>
+    <string name="average_text">Durchschnitt</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Bestätige</string>
+    <string name="picker_default_nagetive_text">Aus</string>
+    <string name="no_heartrate_data_hint">Pulswerte nicht gefunden</string>
+    <string name="no_altitude_hint">Höhenwerte nicht gefunden</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Einstellungen</string>
+    <string name="sport_music_settings">Sport Musik</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Sprache wählen</string>
+</resources>

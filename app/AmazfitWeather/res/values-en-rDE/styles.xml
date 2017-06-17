@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="AppTheme.NoAnimation" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@style/Animation.NoAnimation</item>
+    </style>
+    <style name="Animation.NoAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@anim/no_anim_out</item>
+        <item name="android:taskOpenEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperCloseEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@anim/no_anim_out</item>
+        <item name="android:wallpaperIntraCloseEnterAnimation">@anim/no_anim_in</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+    </style>
+</resources>

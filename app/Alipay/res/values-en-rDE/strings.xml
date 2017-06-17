@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">O.K. um die Verbindung zu trennen</string>
+    <string name="unbind_warning">Nach aufheben der Verbindung steht Alipay nicht mehr zur Verfügung</string>
+    <string name="bind_my_watch">Meine Uhr verbinden</string>
+    <string name="user_hint">Öffne auf dem Smartphone Alipay (9.3 oder höher) und gehe zu:"My avatar> Settings> Security settings> Smart watch" </string>
+    <string name="bind_im">Sofort verbinden</string>
+    <string name="bind_from_qr">Alipay Verbindungs-Scan</string>
+    <string name="bind_qr_code">Mit dem 2D-Code verbinden</string>
+    <string name="user_hint_title">Benutzertipps</string>
+    <string name="loading">Alipay lädt</string>
+    <string name="title">Uhr Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">In der Alipay (9.3 und höher) auf dem Smartphone: "I - set - security center - security tools - smart watches"</string>
+    <string name="ios_unsupport_tips">（iOs wird nicht unterstützt, die Verbindung wird beendet）</string>
+    <string name="button_start_bind">Starte Verbindung</string>
+    <string name="bind_usage">Nutze den Alipay Verbindungsscan</string>
+    <string name="bar_code_tip">The cashier swept away the payment</string>
+    <string name="qr_code_tip">Transferscan oder Freund hinzufügen</string>
+    <string name="bind_success_title">Verbindung erfolgreich</string>
+    <string name="unbind_tip">Wenn Du die Verbindung aufheben möchtest, bitte auf dem Smartphone weiter machen</string>
+    <string name="button_ok">OK</string>
+    <string name="confirm_unbind_title">Verbindung aufheben</string>
+    <string name="unbind_alert_message">Nach aufheben der Verbindung, stehen Alipay Funktionen nicht mehr zur Verfügung, weitermachen?</string>
+    <string name="not_available">Diese Funktion ist vorübergehend nicht erreichbar</string>
+    <string name="airplane_mode_tips">Um Alipay zu verwenden, beende bitte den Flugmodus</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

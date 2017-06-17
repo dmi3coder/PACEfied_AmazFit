@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_activityShortDur">150</integer>
+    <integer name="config_activityDefaultDur">220</integer>
+    <integer name="notification_content_max_num">500</integer>
+    <integer name="notification_title_max_ems">15</integer>
+    <integer name="google_play_services_version">6759000</integer>
+    <integer name="home_screen_off_time">5000</integer>
+    <integer name="home_screen_off_time_after_activity">10000</integer>
+    <integer name="battery_level_1">30</integer>
+    <integer name="battery_level_2">50</integer>
+    <integer name="battery_level_3">90</integer>
+    <integer name="battery_level_4">100</integer>
+    <integer name="theater_mode_ambient_timeout_ms">5000</integer>
+    <integer name="action_text_faded_alpha">40</integer>
+    <integer name="companion_minimum_version_code">500000000</integer>
+    <integer name="slide_anim_duration">300</integer>
+</resources>

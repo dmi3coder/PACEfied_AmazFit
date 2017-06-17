@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="sport_summary_info_item_title">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_disable_swipe_to_dismiss">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="count_down_tint_style">
+        <item name="android:textSize">@dimen/sport_count_down_text_size</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="sport_info_item_value" parent="@style/sport_num_text_style">
+        <item name="android:textSize">40.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginStart">6.0dip</item>
+    </style>
+    <style name="sport_info_item_desc" parent="@style/sport_text_style">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_info_item_unit" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_main_text_style" parent="@style/sport_text_style">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_no_gps_text_style" parent="@style/sport_text_style">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_history_root_style">
+        <item name="android:background">@drawable/sport_running_bg</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+    <style name="sport_root_text_style">
+        <item name="android:shadowColor">#44000000</item>
+        <item name="android:shadowDy">4.0</item>
+    </style>
+    <style name="sport_num_text_style" parent="@style/sport_root_text_style">
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="sport_history_list_item_value" parent="@style/sport_num_text_style">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="sport_history_list_item_unit" parent="@style/sport_num_text_style">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="sport_history_list_item_date" parent="@style/sport_num_text_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="sport_count_down_num_text_style" parent="@style/sport_num_text_style">
+        <item name="android:textColor">@color/default_font_color</item>
+    </style>
+    <style name="sport_text_style" parent="@style/sport_root_text_style">
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="sport_control_paused_text_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff00df58</item>
+    </style>
+    <style name="sport_control_paused_time_style" parent="@style/sport_num_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="sport_history_list_head_total_distance_title" parent="@style/sport_text_style">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_history_list_head_total_distance_value" parent="@style/sport_text_style">
+        <item name="android:textSize">52.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+    </style>
+    <style name="sport_history_list_head_total_distance_unit" parent="@style/sport_text_style">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_history_list_head_total_subtitle" parent="@style/sport_text_style">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_history_list_head_total_subtitle_value" parent="@style/sport_text_style">
+        <item name="android:textSize">40.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+    </style>
+    <style name="sport_history_item_title" parent="@style/sport_num_text_style">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_history_item_unit" parent="@style/sport_num_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_history_item_value" parent="@style/sport_text_style">
+        <item name="android:textSize">40.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="sport_distance_text_style" parent="@style/sport_num_text_style">
+        <item name="android:textSize">52.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+    </style>
+    <style name="sport_remind_target_desc_style" parent="@style/sport_text_style">
+        <item name="android:textSize">21.299988sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_remind_target_complete_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_remind_target_bottom_title_style" parent="@style/sport_text_style">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_remind_target_bottom_value_style" parent="@style/sport_text_style">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+    </style>
+    <style name="sport_remind_target_bottom_unit_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_remind_target_bottom_heart_rate_desc_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_route_data_style" parent="@style/sport_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="sport_route_data_title_style" parent="@style/sport_text_style">
+        <item name="android:textSize">9.299988sp</item>
+        <item name="android:textColor">#b3ffffff</item>
+    </style>
+    <style name="sport_route_num_style" parent="@style/sport_num_text_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="sport_remind_bottom_style" parent="@style/sport_text_style">
+        <item name="android:layout_marginTop">10.0dip</item>
+    </style>
+    <style name="sport_remind_target_bottom_heart_rate_style" parent="@style/sport_text_style">
+        <item name="android:textSize">32.0sp</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+    <style name="sport_remind_target_bottom_line_layout_style" />
+    <style name="Theme.Sport" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="Theme.Sport.NoTransition" parent="@style/Theme.Sport">
+        <item name="android:windowAnimationStyle">@style/Animation.NoAnimation</item>
+    </style>
+    <style name="Theme.Sport.WarkingCustom" parent="@style/Theme.Sport">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="Animation.NoAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:taskOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:wallpaperOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:wallpaperCloseEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:wallpaperIntraCloseEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+    </style>
+    <style name="sport_history_detail_heart_rate_graph">
+        <item name="android:paddingLeft">48.0dip</item>
+        <item name="android:paddingRight">30.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">116.0dip</item>
+        <item name="android:layout_marginTop">11.0dip</item>
+        <item name="android:layout_marginBottom">32.0dip</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="base_white_font">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="base_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@color/default_background_black</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="PromptDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowMinWidthMajor">100.0%</item>
+        <item name="android:windowMinWidthMinor">100.0%</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="HMProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium_material</item>
+    </style>
+    <style name="HMProgressBar.Large" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/progress_large_material</item>
+    </style>
+    <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+</resources>

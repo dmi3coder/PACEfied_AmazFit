@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Komplettes Backup</string>
+    <string name="restore_confirm_title">Komplette Wiederherstellung</string>
+    <string name="backup_confirm_text">"Ein vollständiges Backup aller Daten wurde vom angeschlossenen PC angefordert. Möchtest Du dies erlauben? Falls Du dieses Backup nicht angefordert hast, solltest Du nicht fortfahren!."</string>
+    <string name="allow_backup_button_label">Sichere meine Daten</string>
+    <string name="deny_backup_button_label">Meine Daten nicht sichern</string>
+    <string name="restore_confirm_text">"Eine vollständige Wiederherstellung aller Daten wurde vom angeschlossenen PC angefordert. Möchtest Du dies erlauben? Falls Du dieses Backup nicht angefordert hast, solltest Du nicht fortfahren!. Dies wird alle auf der Uhr befindlichen Daten ersetzen!"</string>
+    <string name="allow_restore_button_label">Stelle die Daten wieder her</string>
+    <string name="deny_restore_button_label">Stelle die Date nicht wieder her</string>
+    <string name="current_password_text">Bitte gebe Dein Backup Passwort ein:</string>
+    <string name="device_encryption_restore_text">Bitte gebe dein Verschlüsselungspasswort ein.</string>
+    <string name="device_encryption_backup_text">Bitte gebe dein Verschlüsselungspasswort ein. Dies wird außerdem benötigt um das Backup Archiv zu entschlüsseln.</string>
+    <string name="backup_enc_password_text">Bitte gebe dein Verschlüsselungspasswort ein. Wenn Du dies leer lässt wird Dein aktuelles Backup Passwort genutzt:</string>
+    <string name="backup_enc_password_optional">Wenn Du die kompletten Backup Daten entschlüsseln möchtest, gib Dein Passwort ein:</string>
+    <string name="backup_enc_password_required">Seit Deine Uhr entschlüsselt wurde, benötigt ein Backup eine Entschlüsselung. Bitte gib Dein Passwort ein:</string>
+    <string name="restore_enc_password_text">Wenn Deine Wiederherstellungsdaten entschlüsselt sind, gib bitte Dein Passwort ein:</string>
+    <string name="toast_backup_started">Backup startet...</string>
+    <string name="toast_backup_ended">Backup abgeschlossen</string>
+    <string name="toast_restore_started">Wiederherstellung startet...</string>
+    <string name="toast_restore_ended">Wiederherstellung beendet</string>
+    <string name="toast_timeout">Operation Zeit Überschreitung</string>
+</resources>

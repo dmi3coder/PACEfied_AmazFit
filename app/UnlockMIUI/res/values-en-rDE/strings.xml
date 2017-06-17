@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnlockMIUI</string>
+    <string name="unlock_tips">Der Uhr erlauben das Smartphone zu entsperren</string>
+</resources>

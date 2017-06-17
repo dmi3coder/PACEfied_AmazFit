@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorDaten</string>
+    <string name="hello_world">Gewählt:ACC PPG</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_sensor_list">SensorListAktivität</string>
+    <string name="title_activity_view_list">ZeigeListAktivität</string>
+    <string name="title_activity_graph_list">GraphListAktivität</string>
+    <string name="completed">Abgeschlossen %1$s</string>
+    <string name="upload_failed">Upload fehgeschlagen!</string>
+    <string name="upload_success">Upload erfolgreich!</string>
+    <string name="uploading">Uploading!</string>
+    <string name="no_uploaded_files">Keine Daten hochgeladen!</string>
+    <string name="open_wifi_failed">Wifi öffnen fehlgeschlagen!</string>
+    <string name="connect_APP">Bitte App verbinden!</string>
+</resources>

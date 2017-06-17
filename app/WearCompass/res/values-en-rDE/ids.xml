@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="compass_container">false</item>
+    <item type="id" name="compass_main">false</item>
+    <item type="id" name="scale_view">false</item>
+    <item type="id" name="center_point">false</item>
+    <item type="id" name="degree">false</item>
+    <item type="id" name="currentDirection">false</item>
+    <item type="id" name="arrow">false</item>
+    <item type="id" name="correcting_view">false</item>
+    <item type="id" name="circle_view">false</item>
+    <item type="id" name="circle_dot_view">false</item>
+    <item type="id" name="roll_tip">false</item>
+    <item type="id" name="loading_bg">false</item>
+    <item type="id" name="loading_title">false</item>
+    <item type="id" name="correcting_tip">false</item>
+    <item type="id" name="correcting_title">false</item>
+    <item type="id" name="correcting_content1">false</item>
+    <item type="id" name="correcting_content2">false</item>
+    <item type="id" name="loading_red_dot">false</item>
+    <item type="id" name="splash">false</item>
+    <item type="id" name="view">false</item>
+    <item type="id" name="latitude_title">false</item>
+    <item type="id" name="north_latitude_text">false</item>
+    <item type="id" name="altitude_tip_text">false</item>
+    <item type="id" name="altitude_text">false</item>
+    <item type="id" name="longitude_title">false</item>
+    <item type="id" name="east_longitude_text">false</item>
+    <item type="id" name="atmospheric_pressure_text">false</item>
+</resources>

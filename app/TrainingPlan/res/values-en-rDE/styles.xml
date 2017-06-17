@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="sport_history_list_item_unit">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="train_center_font_color">
+        <item name="android:textColor">@color/default_font_color_white</item>
+    </style>
+    <style name="mytrain_trainplan_title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="train_record_detail_title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="mytrain_trainplan_stage">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="mytrain_trainplan_list_item" parent="@style/train_center_font_color">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="train_small_remide_green">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="remind_fist_time_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_init_title">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_status_detail_title">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_status_detail_stag">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_detail_rich_text_title">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_detail_green_remind">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+    <style name="train_detail_bottom">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingTop">5.0dip</item>
+    </style>
+    <style name="train_widget_remind_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="base_white_line">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="base_white_font">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="base_white_font_24">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="base_white_font_14">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="base_gray_line">
+        <item name="android:textColor">@color/gray_color</item>
+        <item name="android:background">@color/gray_color</item>
+    </style>
+    <style name="text_layout_center">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="train_record_detail_number">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/train_plan_detail_train_number</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">7.5dip</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">@color/default_background_black</item>
+    </style>
+    <style name="base_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@color/default_background_black</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="train_plan_detail_train_title">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="train_plan_detail_train_number">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:textColor">@color/train_plan_detail_train_number</item>
+        <item name="android:layout_marginTop">6.5dip</item>
+    </style>
+    <style name="train_record_detail_margin">
+        <item name="android:layout_marginLeft">25.0dip</item>
+        <item name="android:layout_marginRight">25.0dip</item>
+    </style>
+    <style name="train_center_theme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="PromptDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowMinWidthMajor">100.0%</item>
+        <item name="android:windowMinWidthMinor">100.0%</item>
+        <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="HMProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium_material</item>
+    </style>
+    <style name="HMProgressBar.Large" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/progress_large_material</item>
+    </style>
+    <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+</resources>

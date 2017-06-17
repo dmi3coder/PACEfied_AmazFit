@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Durchschnitt</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Bestätige</string>
+    <string name="picker_default_nagetive_text">Aus</string>
+    <string name="no_heartrate_data_hint">Pulswerte nicht gefunden</string>
+    <string name="no_altitude_hint">Höhendaten nicht gefunden</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Einstellungen</string>
+    <string name="sport_music_settings">Sport Musik</string>
+    <string name="app_name">SportWoche</string>
+    <string name="weeklysports_title">Wöchentliche Aktivitäts Zusammenfassung</string>
+    <string name="weeklysports_totalnumber_front">Gesamtes Training</string>
+    <string name="weeklysports_totalstep_front">Gegangen</string>
+    <string name="weeklysports_totaltime">Gesamte verstrichene Zeit</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Gesamte Kalorien</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">Gesamte Distanz</string>
+    <string name="weeklysports_totalmileage_unit_zh">km</string>
+    <string name="weeklysports_totalmileage_unit_en">mi</string>
+    <string name="weeklysports_averageheart">Durchschnittlicher Puls</string>
+    <string name="weeklysports_averageheart_unit">HF p.Min.</string>
+    <string name="weeklysports_runerrate">Laufgeschwindigkeit</string>
+    <string name="weeklysports_outdoorrunrate">Durchschnittliche Outdoor-Geschwindigkeit</string>
+    <string name="weeklysports_insiderunrate">Durchschnittliche Indoor-Geschwindigkeit</string>
+    <string name="weeklysports_crossrunrate">Durchschnittliche Querfeldein Geschwindigkeit</string>
+    <string name="weeklysports_runerrate_unit_zh">/km</string>
+    <string name="weeklysports_runerrate_unit_en">/mi</string>
+    <string name="weeklysports_ridingrate">Fahrrad Geschwindigkeit</string>
+    <string name="weeklysports_outdoorriding_average">Durchschnittliche Outdoor-Fahrrad-Geschwindigkeit</string>
+    <string name="weeklysports_outdoorriding_max">Maximale Fahrrad-Geschwindigkeit</string>
+    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_activity">Bewegt</string>
+    <string name="weeklysports_running">Laufen</string>
+    <string name="weeklysports_walking">Gehen</string>
+    <string name="weeklysports_riding">Radfahren</string>
+    <string name="weekly_step_attained_rate">Tage bis zum erreichen des Etappenziels</string>
+    <string name="weekly_sports_notification_content">Aktivitäten-Zusammenfassung für die letzte Woche ist fertig.</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zertifikat Installer</string>
+    <string name="pick_file_title">Wähle ein Zertifikat</string>
+    <string name="pkcs12_password_dialog_title">Extrahiere Zertifikat</string>
+    <string name="extracting_pkcs12">Extrahiere…</string>
+    <string name="pkcs12_file_password_dialog_title">Extrahiere von %s</string>
+    <string name="name_credential_dialog_title">Name des Zertifikats</string>
+    <string name="credential_name">Zertifikat Name:</string>
+    <string name="credential_password">Bitte Passwort des Zertifikats eingeben.</string>
+    <string name="credential_info">Das Paket enthält:</string>
+    <string name="p12_description">Zertifikate im PKCS12-Keystore.</string>
+    <string name="one_userkey">Ein Benutzerschlüssel</string>
+    <string name="one_usercrt">Ein Benutzerzertifikat</string>
+    <string name="one_cacrt">Ein CA-Zertifikat</string>
+    <string name="n_cacrts">%d CA-Zertifikat</string>
+    <string name="password_error">Bitte gib das korrekte Passwort ein.</string>
+    <string name="password_empty_error">Passwort eingeben.</string>
+    <string name="name_empty_error">Gib einen Namen ein.</string>
+    <string name="name_char_error">Verwende einen Namen der nur Buchstaben und Zahlen enthält.</string>
+    <string name="storage_error">"Konnte das Zertifikat nicht speichern. Drücke OK und versuche es erneut."</string>
+    <string name="unable_to_save_cert">"Konnte das Zertifikat nicht speichern. Der Anmeldespeicher ist nicht aktiviert oder ordnungsgemäß initialisiert."</string>
+    <string name="cert_not_saved">Das Zertifikat ist nicht installiert.</string>
+    <string name="no_cert_to_saved">Kein Zertifikat installiert.</string>
+    <string name="invalid_cert">Das Zertifikat ist ungültig.</string>
+    <string name="cert_is_added">%s ist installiert.</string>
+    <string name="cert_too_large_error">"Konnte das Zertifikat nicht installieren, da die Zertifikatgröße zu groß ist."</string>
+    <string name="cert_missing_error">"Konnte das Zertifikat nicht installieren, da ich die Zertifikat-Datei nicht lokalisieren kann."</string>
+    <string name="cert_read_error">"Konnte das Zertifikat nicht installieren, da die Zertifikat-Datei nicht gelesen werden kann."</string>
+    <string name="no_cert_file_found">Keine Zertifikat-Datei gefunden auf der SD-Karte.</string>
+    <string name="sdcard_not_present">"Keine SD-Karte vorhanden."</string>
+    <string name="only_primary_user_allowed">Nur der Besitzer dieses Gerätes darf Zertifikate installieren.</string>
+    <string name="credential_usage_label">Anmeldung nutzen:</string>
+</resources>

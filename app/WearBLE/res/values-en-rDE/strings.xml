@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLE Verbindung</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="heart_rate">Puls</string>
+    <string name="hello_world">Puls Simulator.</string>
+    <string name="install_companion_tip">Bitte installiere zuerst die Amazfit App auf deinem Smartphone zuerst</string>
+    <string name="simplified_chinese">中文(简体)</string>
+    <string name="english_usa">English(US)</string>
+    <string name="low_battery">Wenn die Batterieleistung unter 5% ist，schließe bitte das Netzteil an um fortzufahren.</string>
+    <string name="battery_low_title">Schwache Batterie!</string>
+    <string name="battery_low_plz_charge">Schwache Batterie, bitte schließe ein Netzteil an.</string>
+    <string name="scan_to_bind">QR-Verbindungs-Code</string>
+    <string name="function_unavailable_tip">Einige Funktionen sind nicht verfügbar, überspringen?</string>
+    <string name="cancel_bind">Abbruch</string>
+    <string name="skip_bind">Überspringen</string>
+    <string name="permission_read_user_info">permission_read_user_info</string>
+    <string name="permission_write_user_info">permission_read_user_info</string>
+</resources>

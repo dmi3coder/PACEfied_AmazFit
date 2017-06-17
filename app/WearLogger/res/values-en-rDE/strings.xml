@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">Upload</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Log Path:</string>
+    <string name="preparing">Report generating...</string>
+    <string name="collecting">Report generating...</string>
+    <string name="uploading">Uploading...</string>
+    <string name="compressing">Report generating...</string>
+    <string name="upload_finish">Log Upload komplett</string>
+    <string name="upload_failed">"Upload fehlgeschlagen, bitte versuche es erneut"</string>
+    <string name="open_wifi_hint">Öffne WLAN...</string>
+    <string name="please_keep_wifi_connected">"Bitte die Uhr mit dem WLAN verbunden halten"</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Es gibt noch nicht hochgeladene Berichte, mit dem Upload fortfahren?</string>
+    <string name="upload_failed_token_title">Upload fehlgeschlagen</string>
+    <string name="upload_failed_token_message">Kann Fehlerberichte nicht hochladen. Bitte mit der Amazfit App verbinden und erneut versuchen</string>
+    <string name="re_collecting">Re-generate</string>
+    <string name="continue_upload">Upload fortsetzen</string>
+    <string name="alllog">抓取全部log</string>
+    <string name="moreoptions">更多选项</string>
+    <string name="allupload">全部上传</string>
+    <string name="pleass_upload">Log未上传</string>
+    <string name="start_collection">开始搜集</string>
+    <string name="close_wifi_hint">Wi-Fi已经关闭</string>
+    <string name="open_wifi_before_upload">上传前请先连接Wi-Fi</string>
+    <string name="packed_path">本地打包路径：</string>
+    <string name="c_bugreport">抓取bugreport</string>
+    <string name="upload_timeout">上传超时，请重试</string>
+    <string name="uploading_wait">正在上传，稍等...</string>
+    <string name="collect_logcat">正在搜集logcat信息</string>
+    <string name="collect_dropbox">正在搜集dropbox信息</string>
+    <string name="collect_anr">正在搜集ANR信息</string>
+    <string name="collect_dumpsys">正在搜集dumpsys信息</string>
+    <string name="collect_bugreport">正在搜集bugreport信息</string>
+    <string name="next_upload_message">错误报告已生产，请上传。</string>
+    <string name="please_upload">错误已成功抓取，请上传。</string>
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="watch_ota">Uhr Update</string>
+    <string name="wifi_disconnect">请先连接手表助手</string>
+    <string name="connect_phone_wifi">请先让手机联网</string>
+    <string name="please_update_rom">"系统有新版本
+请升级"</string>
+    <string name="connect_phone_input_wifi">"请连接手表助手,帮助
+手表输入Wi-Fi密码"</string>
+    <string name="checking_rom">正在检查新版本</string>
+    <string name="checking_rom_failed">网络连接超时,请重试</string>
+    <string name="current_is_new">已是最新版本</string>
+    <string name="has_new_rom">"检测到新版本
+是否升级?"</string>
+    <string name="input_passwor_on_mobile">"%1$s
+请在手机上输入密码"</string>
+    <string name="processbar_downloading_rom">下载中</string>
+    <string name="please_keep_wifi_connect">请保持Wi-Fi连接</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"下载升级包失败,
+请重试"</string>
+    <string name="download_rom_success">"ROM下载成功,请
+安装"</string>
+    <string name="low_battery_message">"升级包已下载到本地，电
+量需在50%以上才可安装"</string>
+    <string name="low_battery_title">请先充电</string>
+    <string name="progressbar_tips">正在检查...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"升级所需容量不足
+还需%1$sM,请先清理"</string>
+    <string name="update_network_error">"检查升级失败，请
+稍后重试"</string>
+    <string name="cancel_download">"升级包下载中,
+是否取消？"</string>
+    <string name="new_rom_please_install">"系统有新版本
+请升级"</string>
+    <string name="btn_install_later">下次提醒</string>
+    <string name="btn_install_now">现在安装</string>
+    <string name="wifi_no_password">未加密</string>
+    <string name="wifi_has_password">已加密</string>
+    <string name="wifi_password_error">密码错误</string>
+    <string name="wifi_connecting">连接中...</string>
+    <string name="wifi_auth">验证密码...</string>
+    <string name="wifi_get_ip">获取ip地址...</string>
+    <string name="wifi_link_fail">连接失败...</string>
+    <string name="wifi_connected">已连接</string>
+    <string name="wifi_title">连接Wi-Fi</string>
+    <string name="wifi_wait_password">等待密码输入...</string>
+    <string name="toast_please_update_first">请先升级</string>
+    <string name="wifi_turnon_going">正在打开Wi-Fi</string>
+    <string name="system_update_title">升级成功</string>
+    <string name="system_update_content">系统已升级到%1$s版本</string>
+    <string name="password_error">"%1$s密码不正确,
+请重新输入"</string>
+    <string name="wifi_connect_fail">"Wi-Fi连接失败，请
+重新连接"</string>
+    <string name="searching">正在搜索...</string>
+    <string name="hasNewUpdateTitle">系统有更新</string>
+    <string name="hasNewUpdateContent">%1$s版本已可以安装,是否现在安装？</string>
+</resources>

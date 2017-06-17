@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pakete Installation</string>
+    <string name="next">Nächstes</string>
+    <string name="install">Installiere</string>
+    <string name="done">Fertig</string>
+    <string name="security_settings_desc">Erlaube dieser App::</string>
+    <string name="cancel">Abbruch</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="installing">Installiere…</string>
+    <string name="install_done">App installiert.</string>
+    <string name="install_confirm_question">Möchtest Du diese App installieren? Sie erhält Zugriff auf:</string>
+    <string name="install_confirm_question_no_perms">Möchtest Du diese App installieren? Sie benötigt keinen speziellen Zugriff.</string>
+    <string name="install_confirm_question_update">Möchtest Du ein Update dieser App installieren? Deine vorhandenen Daten gehen nicht verloren. Die aktualisierte Anwendung erhält Zugang zu:</string>
+    <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Deine vorhandenen Daten gehen nicht verloren. Die aktualisierte Anwendung erhält Zugang zu:</string>
+    <string name="install_confirm_question_update_no_perms">Möchtest Du ein Update dieser vorhandenen App installieren? Deine vorhandenen Daten gehen nicht verloren. Sie benötigt keine speziellen Zugang.</string>
+    <string name="install_confirm_question_update_system_no_perms">Möchtest Du ein Update dieser integrierten App installieren? Deine vorhandenen Daten gehen nicht verloren. Sie benötigt keine speziellen Zugang.</string>
+    <string name="install_failed">App wurde nicht installiert.</string>
+    <string name="install_failed_invalid_apk">Der Paketinhalt ist beschädigt</string>
+    <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
+    <string name="install_failed_older_sdk">Dieses Paket funktioniert nur mit neueren Android Versionen.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Diese App ist mit Deinem Tablet nicht kompatibel."</string>
+    <string name="install_failed_file_not_found">Das angegebene Paket wurde gelöscht, bevor die Installation abgeschlossen werden konnte.</string>
+    <string name="install_failed_verify_failed">Das Paket konnte nicht bestätigt werden und konnte deshalb nicht installiert werden.</string>
+    <string name="install_failed_verify_timeout">Zeitüberschreitung beim Versuch dieses Paket zu verifizieren. Versuch es später noch mal zu installieren.</string>
+    <string name="install_failed_msg">"%1$s kann auf Deinem Tablet nicht installiert werden."</string>
+    <string name="launch">Offen</string>
+    <string name="unknown_apps_dlg_title">Installation gesperrt</string>
+    <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen ist Dein Tablet so eingestellt keine Apps von unbekannten Quellen zu installieren.</string>
+    <string name="unknown_apps_admin_dlg_text">"Dein Administrator lässt keine App installationen von unbekannten Quellen zu."</string>
+    <string name="ok">OK</string>
+    <string name="settings">Einstellungen</string>
+    <string name="allow_source_dlg_title">Neue Quelle für Apps</string>
+    <string name="allow_source_dlg_text">"%1$s möchte andere Apps installieren.
+
+In Zukunft zulassen?"</string>
+    <string name="manage_applications">Apps verwalten</string>
+    <string name="dlg_app_replacement_title">App ersetzen?</string>
+    <string name="dlg_app_replacement_statement">"Die App die Du installierst, wird eine andere App ersetzen.
+
+Alle Deine vorherigen Benutzerdaten sind geschützt."</string>
+    <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-App.
+
+Alle Deine vorherigen Benutzerdaten sind geschützt."</string>
+    <string name="out_of_space_dlg_title">Speicher voll</string>
+    <string name="out_of_space_dlg_text">"%1$s konnte nicht installiert werden, mache etwas Speicher frei und versuche es erneut."</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">App nicht gefunden</string>
+    <string name="app_not_found_dlg_text">"Die App wurde nicht in der Liste der installierten Apps gefunden."</string>
+    <string name="uninstall_application_title">App deinstallieren</string>
+    <string name="uninstall_update_title">Update deinstallieren</string>
+    <string name="uninstall_activity_text">%1$s ist Teil der folgenden App:</string>
+    <string name="uninstall_application_text">Möchtest Du diese App deinstallieren?</string>
+    <string name="uninstall_application_text_all_users">Möchtest Du diese App für <b>alle</b> Benutzer deinstallieren? Die App und ihre Daten werden von <b>allen</b> Benutzern dieses Geräts eintfernt.</string>
+    <string name="uninstall_application_text_user">Möchtest du diese App deinstallieren für Benutzer %1$s?</string>
+    <string name="uninstall_update_text">Möchtest Du diese App mit der von Werk installierten Version austauschen?</string>
+    <string name="uninstalling">Deinstalliere…</string>
+    <string name="uninstall_done">Deinstallation abgeschlossen.</string>
+    <string name="uninstall_failed">Deinstallation nicht erfolgreich.</string>
+    <string name="uninstall_failed_device_policy_manager">"Kann dieses Paket nicht deinstallieren, da es ein aktives administratives Gerät ist."</string>
+    <string name="uninstall_blocked_profile_owner">"Diese app wird für Dein %1$s Profil verwendet und kann nicht deinstalliert werden."</string>
+    <string name="uninstall_blocked_device_owner">"Diese App wird von Ihrem Geräteadministrator benötigt und kann nicht deinstalliert werden."</string>
+    <string name="manage_device_administrators">Geräte Administratoren verwalten</string>
+    <string name="uninstall_failed_msg">"%1$s kann nicht deinstalliert werden."</string>
+    <string name="Parse_error_dlg_title">Fehler beim entpacken error</string>
+    <string name="Parse_error_dlg_text">Es gab ein Problem beim entpacken des Paketes.</string>
+    <string name="newPerms">Neu</string>
+    <string name="allPerms">Alle</string>
+    <string name="privacyPerms">Datenschutz</string>
+    <string name="devicePerms">Gerät Zugriff</string>
+    <string name="no_new_perms">Dieses Update benötigt keine neue Berechtigung.</string>
+    <string name="grant_confirm_question">Möchtest Du die folgende Berechtigung zulassen? Sie wird Zugriff erhalten auf:</string>
+</resources>
