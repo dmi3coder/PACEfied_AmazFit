@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="uid_label">Media</string>
-    <string name="app_label">archiviazione Media</string>
+    <string name="app_label">Archiviazione Media</string>
     <string name="upgrade_msg">Aggiorno elenco Media.</string>
     <string name="artist_label">Artista</string>
     <string name="ringtone_default">Suoneria predefinita</string>

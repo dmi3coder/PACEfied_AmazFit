@@ -2,11 +2,11 @@
 <resources>
     <string name="app_label">Input Devices</string>
     <string name="keyboard_layouts_label">Tstiera Android</string>
-    <string name="keyboard_layout_english_uk_label">English (UK)</string>
-    <string name="keyboard_layout_english_us_label">English (US)</string>
-    <string name="keyboard_layout_english_us_intl">English (US), International style</string>
-    <string name="keyboard_layout_english_us_colemak_label">English (US), Colemak style</string>
-    <string name="keyboard_layout_english_us_dvorak_label">English (US), Dvorak style</string>
+    <string name="keyboard_layout_english_uk_label">Inglese (UK)</string>
+    <string name="keyboard_layout_english_us_label">Inglese (US)</string>
+    <string name="keyboard_layout_english_us_intl">Inglese (US), stile International</string>
+    <string name="keyboard_layout_english_us_colemak_label">Inglese (US), stile Colemak</string>
+    <string name="keyboard_layout_english_us_dvorak_label">Inglese (US), stile Dvorak</string>
     <string name="keyboard_layout_german_label">Tedesco</string>
     <string name="keyboard_layout_french_label">Francese</string>
     <string name="keyboard_layout_french_ca_label">Francese (Canada)</string>
@@ -33,10 +33,10 @@
     <string name="keyboard_layout_slovenian">Sloveno</string>
     <string name="keyboard_layout_turkish">Turco</string>
     <string name="keyboard_layout_ukrainian">Ucraino</string>
-    <string name="keyboard_layout_arabic">Arabio</string>
+    <string name="keyboard_layout_arabic">Arabo</string>
     <string name="keyboard_layout_greek">Greco</string>
     <string name="keyboard_layout_hebrew">Ebraico</string>
     <string name="keyboard_layout_lithuanian">Lituano</string>
     <string name="keyboard_layout_spanish_latin">Spagnolo (Latino)</string>
-    <string name="keyboard_layout_latvian">Lituano</string>
+    <string name="keyboard_layout_latvian">Lettone</string>
 </resources>

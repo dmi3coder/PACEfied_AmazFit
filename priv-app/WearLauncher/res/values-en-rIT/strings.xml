@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Scegliere la lingua</string>
+    <string name="locale_title">Imposta lingua</string>
     <string name="generic_notification_more">%s ancora</string>
     <string name="notification_unread_num">%s non lette</string>
     <string name="notification_click_upgrade">Clicca su installa</string>

@@ -26,28 +26,28 @@
         <item>Freddissimo</item>
         <item>Pioggia</item>
         <item>Equinozio di primavera</item>
-        <item>”Pioggia grano</item>
-        <item>”Germogli di grano</item>
-        <item>"Solstizio d'estate"</item>
+        <item>Pioggia grano</item>
+        <item>Germogli di grano</item>
+        <item>Solstizio d'estate</item>
         <item>Caldissimo</item>
         <item>Fine del caldo</item>
-        <item>"Equinozio d'autunno"</item>
-        <item>”Cadute brina</item>
+        <item>Equinozio d'autunno</item>
+        <item>Cadute brina</item>
         <item>Neve leggera</item>
-        <item>"Solstizio d'inverno"</item>
+        <item>Solstizio d'inverno</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Lieve freddo</item>
-        <item>”Inizia la primavera</item>
-        <item>”Risveglio insetti</item>
+        <item>Inizia la primavera</item>
+        <item>Risveglio insetti</item>
         <item>Chiaro e luminoso</item>
         <item>Inizio estate</item>
         <item>Grain in Ear</item>
-        <item>Un leggero riscaldamento</item>
+        <item>Un leggero caldo</item>
         <item>Autunno inizia</item>
-        <item>”Rugiade bianchi</item>
-        <item>”Rugiade freddo</item>
-        <item>"”Inizia l'inverno"</item>
+        <item>Rugiade bianchi</item>
+        <item>Rugiade freddo</item>
+        <item>Inizia l'inverno</item>
         <item>Forte nevicata</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
@@ -104,7 +104,7 @@
         <item>Coperto</item>
         <item>Nebbia</item>
         <item>Smog</item>
-        <item>”Acquazzone</item>
+        <item>Acquazzone</item>
         <item>Pioggia e fulmini</item>
         <item>Pioggia debole</item>
         <item>Pioggia leggera</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HmDeskClock</string>
-    <string name="every_day">Tutti i gioni</string>
+    <string name="every_day">Tutti i giorni</string>
     <string name="never">Mai</string>
     <string name="day_concat">/</string>
     <string name="default_label">Sveglia</string>
@@ -20,43 +20,45 @@
     <string name="alarm_repeat">Ripeti</string>
     <string name="alarm_off">Off</string>
     <string name="alarm_open">On</string>
-    <string name="alarm_delete">Cancella</string>
+    <string name="alarm_delete">Elimina</string>
     <string name="alarm_repeat_setting">Ripetizioni</string>
-    <string name="once_time">Una sola volta</string>
+    <string name="once_time">Una volta</string>
     <string name="work_days">Giorni lavorativi</string>
     <string name="hour_unit">Ore</string>
     <string name="minute_unit">Minuti</string>
-    <string name="snooze_button">Ritarda</string>
+    <string name="snooze_button">Posticipa</string>
     <string name="dimiss_button">Spegni</string>
     <string name="stop_watch_left_button_positive">Giro</string>
     <string name="stop_watch_left_button_negative">Reset</string>
-    <string name="stop_watch_right_button_positive">Start</string>
-    <string name="stop_watch_start_button">Start</string>
+    <string name="stop_watch_right_button_positive">Avvia</string>
+    <string name="stop_watch_start_button">Avvia</string>
     <string name="stop_watch_right_button_negative">Stop</string>
     <string name="stop_watch_lap_text">%d giro(i)</string>
     <string name="stop_watch_default_lap">Cronometro</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
-    <string name="stop_watch_lap_list_title_text">%d Lap(s)</string>
+    <string name="stop_watch_lap_list_title_text">%d giro(i)</string>
     <string name="title_activity_stopwatch">Attività Cronometro</string>
     <string name="hello_world">Ciao mondo!</string>
     <string name="action_settings">Impostazioni</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Seleziona lingua</string>
+    <string name="locale_title">Imposta lingua</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">FC non rilevata</string>
+    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
+<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro dati</string>
-    <string name="widget_currentstep_activities">Passi oggi</string>
+    <string name="widget_currentstep_activities">Passi odierni</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Dormito la scorsa notte</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+<!--END of missed texts by Huami-->
 </resources>

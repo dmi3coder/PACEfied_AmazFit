@@ -3,6 +3,6 @@
     <string name="app_label">Shell</string>
     <string name="bugreport_finished_title">Bug report catturato</string>
     <string name="bugreport_finished_text">Tocca per condividere il tuo bug report</string>
-    <string name="bugreport_confirm">I Bug report contengono dei dati dei log di sistema, inclusi dati privati e informazioni personali. Condividi i bug report solo con app e persone di cui ti fidi.</string>
+    <string name="bugreport_confirm">I bug report contengono dati dei log di sistema, inclusi dati privati e informazioni personali. Condividi i bug report solo con app e persone di cui ti fidi.</string>
     <string name="bugreport_confirm_repeat">Mostra questo messaggio la prossima volta</string>
 </resources>

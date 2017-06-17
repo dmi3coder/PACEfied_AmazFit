@@ -4,30 +4,42 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Fc non rilevata</string>
+    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
     <string name="app_name">WifiUploadData</string>
-    <string name="notice_text_success_top">caricamento dati riuscito</string>
-    <string name="notice_text_failed_top">caricamento dati fallito</string>
+    <string name="notice_text_success_top">Caricamento dati riuscito</string>
     <string name="notice_text_success_bottom">Guarda Mi Sport</string>
+    <string name="notice_text_failed_top">Caricamento dati fallito</string>
+    <string name="net_failed">Controlla connessione e riprova</string>
     <string name="date">Data:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">Token assistenza scaduto.</string>
+    <string name="cannot_acess_server">Server non disponibile</string>
+    <string name="cannot_upload_user">Impossibile aggiornare i dati</string>
+    <string name="please_upload_assist_version">Aggiorna la versione di assistenza</string>
+    <string name="did_not_connect_assist">Collega all\'app Amazfit. Dopo l\'aggiornamento automatico delle info di autenticazione, sarà possibile accedere al server.</string>
+    <string name="upload_failed_full">Il caricamento non può essere completato, arrestare?</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Tenere l\'orologio 
  connesso al WiFi"</string>
-    <string name="init_wifi">Connesso al Wi-Fi</string>
-    <string name="cannot_acess_server">无法访问服务器</string>
+    <string name="init_wifi">Connesso al WiFi</string>
     <string name="init_user">Controllo utente</string>
-    <string name="cannot_upload_user">Non posso aggiornare i dati</string>
-    <string name="please_upload_assist_version">Prego aggiornare la versione assist</string>
     <string name="init_app">App connessa</string>
     <string name="init_update_user">Aggiorna utente</string>
-    <string name="see_after_connect_app_token_faield">assist token failed.</string>
-    <string name="upload_failed_full">Il caricamento per questa volta non riesce,se vuoi fermare?</string>
     <string name="zero">0</string>
-    <string name="net_failed">Controllare la connessione e riprovare</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centro dati</string>
+    <string name="widget_currentstep_activities">Passi odierni</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sonno la scorsa notte</string>
+    <string name="widget_currentstep_sleep_no">Dati sonno non disponibili</string>
+    <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+<!--END of missed texts by Huami-->
 </resources>
