@@ -15,6 +15,10 @@
     <item type="id" name="handling_progress">false</item>
     <item type="id" name="voice_animator">false</item>
     <item type="id" name="query_button_tv">false</item>
+    <item type="id" name="error_parent">false</item>
+    <item type="id" name="error_title">false</item>
+    <item type="id" name="error_image">false</item>
+    <item type="id" name="error_content">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
@@ -24,9 +28,45 @@
     <item type="id" name="query">false</item>
     <item type="id" name="result">false</item>
     <item type="id" name="space">false</item>
-    <item type="id" name="weather_title">false</item>
-    <item type="id" name="weather_image">false</item>
-    <item type="id" name="weather_text">false</item>
+    <item type="id" name="uncomplete_result">false</item>
+    <item type="id" name="single_weather_par">false</item>
+    <item type="id" name="single_weather_result">false</item>
+    <item type="id" name="single_weather_title">false</item>
+    <item type="id" name="single_weather_district">false</item>
+    <item type="id" name="single_weather_current_temperature">false</item>
+    <item type="id" name="single_weather_today_temperature">false</item>
+    <item type="id" name="single_weather_today_humidity">false</item>
+    <item type="id" name="single_weather_today_wind">false</item>
+    <item type="id" name="single_weather_today_icon">false</item>
+    <item type="id" name="single_weather_today_weathertype">false</item>
+    <item type="id" name="multiple_weather_par">false</item>
+    <item type="id" name="multiple_weather_index">false</item>
+    <item type="id" name="multiple_weather_current">false</item>
+    <item type="id" name="multiple_weather_today_title">false</item>
+    <item type="id" name="multiple_weather_today_current_temperature">false</item>
+    <item type="id" name="multiple_weather_today_temperature">false</item>
+    <item type="id" name="multiple_weather_today_icon">false</item>
+    <item type="id" name="multiple_weather_today_weathertype">false</item>
+    <item type="id" name="multiple_weather_second">false</item>
+    <item type="id" name="multiple_weather_second_divide">false</item>
+    <item type="id" name="multiple_weather_second_icon">false</item>
+    <item type="id" name="multiple_weather_second_week">false</item>
+    <item type="id" name="multiple_weather_second_temperature">false</item>
+    <item type="id" name="multiple_weather_third">false</item>
+    <item type="id" name="multiple_weather_third_divide">false</item>
+    <item type="id" name="multiple_weather_third_icon">false</item>
+    <item type="id" name="multiple_weather_third_week">false</item>
+    <item type="id" name="multiple_weather_third_temperature">false</item>
+    <item type="id" name="multiple_weather_forth">false</item>
+    <item type="id" name="multiple_weather_forth_divide">false</item>
+    <item type="id" name="multiple_weather_forth_icon">false</item>
+    <item type="id" name="multiple_weather_forth_week">false</item>
+    <item type="id" name="multiple_weather_forth_temperature">false</item>
+    <item type="id" name="multiple_weather_fifth">false</item>
+    <item type="id" name="multiple_weather_fifth_divide">false</item>
+    <item type="id" name="multiple_weather_fifth_icon">false</item>
+    <item type="id" name="multiple_weather_fifth_week">false</item>
+    <item type="id" name="multiple_weather_fifth_temperature">false</item>
     <item type="id" name="voice_2_text">false</item>
     <item type="id" name="divider">false</item>
 </resources>

@@ -113,6 +113,8 @@
     <string name="route_scale_narrow">Narrow</string>
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_climb_up_value">%1dm</string>
+    <string name="route_cur_altitude_imperial_value">%1dft</string>
+    <string name="route_climb_up_imperial_value">%1dft</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Run</string>
     <string name="sport_widget_title_walk">Walk</string>

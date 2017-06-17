@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.hmwatchmanager" platformBuildVersionCode="22" platformBuildVersionName="5.1-185">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.hmwatchmanager" platformBuildVersionCode="22" platformBuildVersionName="5.1-188">
     <permission android:description="@string/permission_read_user_info" android:label="permission_read_user_info" android:name="com.huami.watch.permission.READ_USER_SETTINGS" android:protectionLevel="signature"/>
     <permission android:description="@string/permission_write_user_info" android:label="permission_write_user_info" android:name="com.huami.watch.permission.WRITE_USER_SETTINGS" android:protectionLevel="signature"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>

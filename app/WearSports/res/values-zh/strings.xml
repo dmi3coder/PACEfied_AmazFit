@@ -111,6 +111,8 @@
     <string name="route_scale_narrow">缩小</string>
     <string name="route_cur_altitude_value">%1d米</string>
     <string name="route_climb_up_value">%1d米</string>
+    <string name="route_cur_altitude_imperial_value">%1d英尺</string>
+    <string name="route_climb_up_imperial_value">%1d英尺</string>
     <string name="sport_widget_title">运 动</string>
     <string name="sport_widget_title_run">跑 步</string>
     <string name="sport_widget_title_walk">健 走</string>
