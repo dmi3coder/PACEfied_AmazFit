@@ -80,5 +80,10 @@
     <string name="widget_currentstep_sleep_title">Sleep last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No exercise today?</string>
+    <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
+    <string name="quick_settings_date_format">1900-1-31</string>
+    <string name="quick_settings_date_yeareve">New Year Eve</string>
+    <string name="quick_settings_status_month">-</string>
+    <string name="quick_settings_status_leaf">Leap</string>
 <!--END of missed texts by Huami-->
 </resources>
