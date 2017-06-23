@@ -37,9 +37,14 @@
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>
-    <dimen name="hmdialog_text_padding">10.0dip</dimen>
+    <dimen name="button_width">70.0dip</dimen>
+    <dimen name="hmdialog_text_padding">15.0dip</dimen>
+    <dimen name="hmdialog_text_padding_bottme">25.0dip</dimen>
     <dimen name="hmdialog_text_size">17.0sp</dimen>
-    <dimen name="hmdialog_text_size_time">14.0sp</dimen>
-    <dimen name="hmdialog_text_size_small">15.0sp</dimen>
+    <dimen name="hmdialog_text_size_time">13.0sp</dimen>
+    <dimen name="hmdialog_text_size_small">12.0sp</dimen>
     <dimen name="hmdialog_text_lineSpacingExtra">3.0dip</dimen>
+    <dimen name="please_keep_wifi_dimen">11.5sp</dimen>
+    <dimen name="wifi_connect_notice">12.5sp</dimen>
+    <dimen name="hmdialog_title_marge_top">25.0dip</dimen>
 </resources>

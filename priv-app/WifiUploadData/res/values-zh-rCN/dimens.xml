@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hmdialog_text_padding">10.0dip</dimen>
+    <dimen name="hmdialog_text_padding_bottme">10.0dip</dimen>
+    <dimen name="hmdialog_text_size_time">14.0sp</dimen>
+    <dimen name="hmdialog_text_size_small">13.0sp</dimen>
+    <dimen name="hmdialog_text_lineSpacingExtra">3.0dip</dimen>
+    <dimen name="wifi_connect_notice">14.0sp</dimen>
+    <dimen name="hmdialog_title_marge_top">0.0dip</dimen>
+</resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:sharedUserId="android.uid.system" android:versionCode="1" android:versionName="1.0" package="com.huami.advertise" platformBuildVersionCode="22" platformBuildVersionName="5.1-188"
+<manifest android:sharedUserId="android.uid.system" android:versionCode="1" android:versionName="1.0" package="com.huami.advertise" platformBuildVersionCode="22" platformBuildVersionName="5.1-210"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />

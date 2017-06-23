@@ -208,4 +208,14 @@
         <item>+13 Fiji</item>
         <item>+13 Tongatapu</item>
     </string-array>
+    <string-array name="light_mode_subtitle">
+        <item>Brightness: close</item>
+        <item>Brightness: auto</item>
+        <item>Brightness: 2</item>
+        <item>Brightness: 2</item>
+        <item>Brightness: 1</item>
+        <item>Brightness: 3</item>
+        <item>Brightness: 4</item>
+        <item>Brightness: 5</item>
+    </string-array>
 </resources>

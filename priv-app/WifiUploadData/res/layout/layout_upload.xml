@@ -7,7 +7,7 @@
     <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="100.0dip">
         <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
             <ImageView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/wifi_icon" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@mipmap/lan_quicksettings_icon_wifi_small" android:layout_weight="1.0" />
-            <TextView android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center|top" android:id="@id/please_keep_wifi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/please_keep_wifi_connected" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/wifi_connect_notice" android:textColor="@color/white" android:gravity="center|top" android:id="@id/please_keep_wifi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/please_keep_wifi_connected" android:layout_weight="1.0" />
         </LinearLayout>
     </LinearLayout>
 </RelativeLayout>
