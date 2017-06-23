@@ -214,7 +214,7 @@
     <string name="currentstep_detail_sleep_deep">Głęb.sen</string>
     <string name="currentstep_detail_title">Szczeg.danych</string>
     <string name="currentstep_detail_activity_step_done">Osiągn.poziom</string>
-    <string name="currentstep_detail_activity_step_notdo">Nie osiągnięty</string>
+    <string name="currentstep_detail_activity_step_notdo">Cel nie osiągnięty</string>
     <string name="currentstep_detail_activity_run_rate_av">Śr.pręd.</string>
     <string name="currentstep_detail_activity_run_rate_ma">Max pręd.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Śr.pręd.</string>

@@ -113,6 +113,8 @@
     <string name="route_scale_narrow">Wąska</string>
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_climb_up_value">%1dm</string>
+    <string name="route_cur_altitude_imperial_value">%1dft</string>
+    <string name="route_climb_up_imperial_value">%1dft</string>
     <string name="sport_widget_title">Sporty</string>
     <string name="sport_widget_title_run">Bieg</string>
     <string name="sport_widget_title_walk">Chód</string>
