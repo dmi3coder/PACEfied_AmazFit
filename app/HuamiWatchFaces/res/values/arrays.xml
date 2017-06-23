@@ -9,4 +9,68 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>大寒</item>
+        <item>雨水</item>
+        <item>春分</item>
+        <item>谷雨</item>
+        <item>小满</item>
+        <item>夏至</item>
+        <item>大暑</item>
+        <item>处暑</item>
+        <item>秋分</item>
+        <item>霜降</item>
+        <item>小雪</item>
+        <item>冬至</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>小寒</item>
+        <item>立春</item>
+        <item>惊蛰</item>
+        <item>清明</item>
+        <item>立夏</item>
+        <item>芒种</item>
+        <item>小暑</item>
+        <item>立秋</item>
+        <item>白露</item>
+        <item>寒露</item>
+        <item>立冬</item>
+        <item>大雪</item>
+    </string-array>
+    <String-array name = "quick_settings_status_chineseTen">
+         <Item> </ item>
+         <Item> 1 </ item>
+         <Item> 2 </ item>
+         <Item> 3 </ item>
+     </ String-array>
+     <String-array name = "quick_settings_status_chineseNumber">
+         <Item> 1 </ item>
+         <Item> 2 </ item>
+         <Item> 3 </ item>
+         <Item> 4 </ item>
+         <Item> 5 </ item>
+         <Item> 6 </ item>
+         <Item> 7 </ item>
+         <Item> 8 </ item>
+         <Item> 9 </ item>
+         <Item> 10 </ item>
+         <Item> 11 </ item>
+         <Item> 12 </ item>
+     </ String-array>
+     <String-array name = "quick_settings_status_chineseMonthNumber">
+         <Item> 1 </ item>
+         <Item> 2 </ item>
+         <Item> 3 </ item>
+         <Item> 4 </ item>
+         <Item> 5 </ item>
+         <Item> 6 </ item>
+         <Item> 7 </ item>
+         <Item> 8 </ item>
+         <Item> 9 </ item>
+         <Item> 10 </ item>
+         <Item> 11 </ item>
+         <Item> 12 </ item>
+     </ String-array>
+
+
 </resources>
