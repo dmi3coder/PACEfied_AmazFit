@@ -8,4 +8,8 @@
         <item quantity="other">Kroků</item>
         <item quantity="one">Kork</item>
     </plurals>
+	<plurals name="floor_unit">
+        <item quantity="other">. poschodí</item>
+        <item quantity="one">. poschodí</item>
+    </plurals>
 </resources>

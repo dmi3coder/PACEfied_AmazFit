@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WatchFace version="1.0">
+	<WatchFaceItem type="datawidget" dataType="1" model="1" />
+	<WatchFaceItem type="datawidget" dataType="2" model="1" />
+	<WatchFaceItem type="datawidget" dataType="3" model="1" />
+	<WatchFaceItem type="datawidget" dataType="10" model="1" />
+	<WatchFaceItem type="datawidget" dataType="5" model="1" />
+	<WatchFaceItem type="datawidget" dataType="4" model="1" />
+	<WatchFaceItem type="datawidget" dataType="0" model="0" />
+</WatchFace>

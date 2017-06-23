@@ -6,6 +6,7 @@
     <string name="fahrenheit">°F</string>
     <string name="forecast_today">Dnes</string>
     <string name="forecast_tomorrow">Zítra</string>
+    <string name="widget_title">Počasí</string>
     <string name="temp_unit_centigrade">°C</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
@@ -65,4 +66,4 @@
     <string name="data_checkfail_match">Počasí se neschoduje s daty v telefonu</string>
     <string name="data_checkfail_json">Chyba formátu JSON</string>
     <string name="detailed">Detail počasí</string>
-	</resources>
+</resources>

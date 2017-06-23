@@ -30,6 +30,7 @@
     <string name="custom_data_widget_title_battery">Baterie</string>
     <string name="custom_data_widget_title_msg">Zprávy</string>
     <string name="custom_data_widget_title_date">Datum</string>
+    <string name="custom_data_widget_title_floor">Podlaží</string>
     <string name="custom_data_widget_date_2">datawidget/date_2/cs/week_%d.png</string>
     <string name="cube_month">.</string>
     <string name="cube_day">.</string>
@@ -38,6 +39,11 @@
     <string name="digital_sport_eight_week_path">guard/shiguanglicheng/cs/watchface_slpt_number_week_%d.png</string>
     <string name="digital_sport_one_week_path">guard/malasong/cs/week_%d.png</string>
     <string name="digital_sport_twelve_week_path">guard/huanyingMC/cs/week_%d.png</string>
+    <string name="quick_settings_date_yeareve">Silvestr</string>
+    <string name="quick_settings_status_month">-</string>
+    <string name="quick_settings_status_leaf">Přestupný</string>
+    <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
+    <string name="quick_settings_date_format">31-1-1900</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon life</string>
     <string name="watch_label_sport_two">I’m Runner</string>
@@ -59,7 +65,7 @@
     <string name="watch_label_fifteen">Golden Rooster</string>
     <string name="watch_today_step">Dnešní kroky</string>
     <string name="sport_step">krok</string>
-    <string name="everyminute_times">beat/min</string>
+    <string name="everyminute_times">Úderů/min</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Výběr jazyka</string>
     <string name="average_text">Průměr</string>

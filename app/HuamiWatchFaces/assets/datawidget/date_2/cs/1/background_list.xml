@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WatchFace version="1.0">
+	<WatchFaceItem type="background" config="@wfz/background/01.png" />
+	<WatchFaceItem type="background" config="@wfz/background/02.png" />
+	<WatchFaceItem type="background" config="@wfz/background/03.png" />
+	<WatchFaceItem type="background" config="@wfz/background/04.png" />
+	
+</WatchFace>
