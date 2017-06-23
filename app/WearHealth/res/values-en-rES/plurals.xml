@@ -6,6 +6,10 @@
     </plurals>
     <plurals name="weeklysports_step">
         <item quantity="other">Pasos</item>
-        <item quantity="one">Paso</item>
+        <item quantity="one">Pasos</item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">Pisos</item>
+        <item quantity="one">Pisos</item>
     </plurals>
 </resources>
