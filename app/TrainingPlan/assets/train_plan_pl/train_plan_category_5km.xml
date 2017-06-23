@@ -97,7 +97,7 @@
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>8</offsetTotal>
-            <runremindId>1</runremindId>
+            <runremindId>2</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>

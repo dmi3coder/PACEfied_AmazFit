@@ -267,7 +267,7 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="24">
-            <desc>Jazda rowerem 20-30 min</desc>
+            <desc>Jazda 20-30 min</desc>
             <stageDesc>Trening</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>

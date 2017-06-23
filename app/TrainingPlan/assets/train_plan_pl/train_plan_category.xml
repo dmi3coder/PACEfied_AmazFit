@@ -30,7 +30,7 @@
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Trening do półmaratonu. Służy do poprawy Twojej wytrzymałości biegowej.  </copyWrite>
+            <copyWrite>Trening do półmaratonu. Pomaga zwiększyć zdolność do długiego treningu.  </copyWrite>
         </trainplan>
         <trainplan id="5">
             <title>Maraton</title>
@@ -38,7 +38,7 @@
             <orderId>5</orderId>
             <totalLength>436.0</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Trening do maratonu. Pomóż przewidzieć Twój czas i zaplanować strategię biegu.</copyWrite>
+            <copyWrite>Trening do maratonu. Pomóże Ci przewidzieć przewidzieć skuteczność i zaplanować tempo i dopasować strategię.</copyWrite>
         </trainplan>
 </trainplans>
 
