@@ -242,11 +242,16 @@
     <public type="dimen" name="blt_info_margin_top" id="0x7f070022" />
     <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070023" />
     <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070024" />
-    <public type="dimen" name="hmdialog_text_padding" id="0x7f070025" />
-    <public type="dimen" name="hmdialog_text_size" id="0x7f070026" />
-    <public type="dimen" name="hmdialog_text_size_time" id="0x7f070027" />
-    <public type="dimen" name="hmdialog_text_size_small" id="0x7f070028" />
-    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f070029" />
+    <public type="dimen" name="button_width" id="0x7f070025" />
+    <public type="dimen" name="hmdialog_text_padding" id="0x7f070026" />
+    <public type="dimen" name="hmdialog_text_padding_bottme" id="0x7f070027" />
+    <public type="dimen" name="hmdialog_text_size" id="0x7f070028" />
+    <public type="dimen" name="hmdialog_text_size_time" id="0x7f070029" />
+    <public type="dimen" name="hmdialog_text_size_small" id="0x7f07002a" />
+    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f07002b" />
+    <public type="dimen" name="please_keep_wifi_dimen" id="0x7f07002c" />
+    <public type="dimen" name="wifi_connect_notice" id="0x7f07002d" />
+    <public type="dimen" name="hmdialog_title_marge_top" id="0x7f07002e" />
     <public type="string" name="average_text" id="0x7f080000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f080001" />
     <public type="string" name="picker_default_positive_text" id="0x7f080002" />

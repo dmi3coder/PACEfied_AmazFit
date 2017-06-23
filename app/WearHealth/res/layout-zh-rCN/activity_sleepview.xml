@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.reports.widget.SleepView android:gravity="center_horizontal" android:background="@drawable/shape_bg" android:paddingTop="20.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:background="@drawable/data_weekly_sleep_title_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="@dimen/widget_view_title_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/widget_sleep_title" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="40.0dip">
+        <FrameLayout android:id="@id/sleep_chart_container" android:background="@drawable/data_weekly_sleep_img_1" android:paddingTop="14.699982dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:layout_gravity="center" android:id="@id/sleep_chart_bg" android:padding="14.0dip" android:layout_width="@dimen/widget_sleep_width" android:layout_height="@dimen/widget_sleep_width" />
+            <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip">
+                <com.huami.watch.reports.widget.DataTextView android:textSize="53.299988sp" android:textColor="#ffffffff" android:id="@id/sleep_percent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+                <ImageView android:id="@id/sleep_comparison" android:visibility="invisible" android:layout_width="@dimen/widget_sleep_ig_width" android:layout_height="@dimen/widget_sleep_ig_width" android:layout_marginLeft="14.0dip" android:src="@mipmap/sport_weekly_up" android:layout_toRightOf="@id/sleep_percent" />
+                <TextView android:textSize="12.0sp" android:textColor="@color/weeklyWhite" android:id="@id/weeklysports_sleep_score" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="@string/widget_sleep_attained_unit" android:layout_toRightOf="@id/sleep_percent" android:layout_alignBottom="@id/sleep_percent" />
+            </RelativeLayout>
+            <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="bottom|center" android:id="@id/weeklysports_sleep_totaltime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" />
+        </FrameLayout>
+        <com.huami.watch.common.widget.HmClassifyBarChart android:layout_gravity="center_horizontal" android:id="@id/detail_sleep_classifyChart" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="170.0dip" android:layout_height="92.0dip" android:layout_marginTop="20.0dip" />
+        <View android:layout_gravity="center_horizontal" android:id="@id/current_divideline" android:background="@color/color_detail_half_white" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="19.299988dip" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/weeklysports_sleep_value_par" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_sleep_late" />
+                    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                        <com.huami.watch.reports.widget.DataTextView android:textSize="@dimen/widget_sleep_view_value_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="center_horizontal" android:id="@id/weeklysports_sleep_late_value" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/weeklysports_day" />
+                    </LinearLayout>
+                    <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.699982dip" android:text="@string/widget_sleep_deep_leak" />
+                    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                        <com.huami.watch.reports.widget.DataTextView android:textSize="@dimen/widget_sleep_view_value_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="center_horizontal" android:id="@id/weeklysports_sleep_deep_leak_value" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/weeklysports_day" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="34.0dip">
+                    <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_sleep_leak" />
+                    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                        <com.huami.watch.reports.widget.DataTextView android:textSize="@dimen/widget_sleep_view_value_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="center_horizontal" android:id="@id/weeklysports_sleep_leak_value" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:id="@id/weeklysports_totalmileage_unit_tx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/weeklysports_day" />
+                    </LinearLayout>>
+<TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.699982dip" android:text="@string/widget_sleep_easyawake" />
+                    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                        <com.huami.watch.reports.widget.DataTextView android:textSize="@dimen/widget_sleep_view_value_size" android:textColor="@color/widget_value_color_white" android:layout_gravity="center_horizontal" android:id="@id/weeklysports_sleep_easyawake_value" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:textColor="@color/widget_title_color_70white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/weeklysports_day" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/weeklysports_sleep_well_par" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/weeklysports_sleep_well_ig" android:background="@drawable/sport_history_sleep_standard" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:layout_width="90.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/widget_sleep_conment" android:lines="2" android:layout_toRightOf="@id/weeklysports_sleep_well_ig" android:layout_centerVertical="true" android:lineSpacingExtra="6.0dip" />
+            </RelativeLayout>
+        </FrameLayout>
+        <View android:background="@color/color_detail_half_white" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="21.0dip" />
+    </LinearLayout>
+</com.huami.watch.reports.widget.SleepView>

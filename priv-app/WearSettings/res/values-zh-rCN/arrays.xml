@@ -123,4 +123,14 @@
         <item>+13 斐济</item>
         <item>+13 东加塔布</item>
     </string-array>
+    <string-array name="light_mode_subtitle">
+        <item>亮度：关闭</item>
+        <item>亮度：自动</item>
+        <item>亮度：2</item>
+        <item>亮度：2</item>
+        <item>亮度：1</item>
+        <item>亮度：3</item>
+        <item>亮度：4</item>
+        <item>亮度：5</item>
+    </string-array>
 </resources>

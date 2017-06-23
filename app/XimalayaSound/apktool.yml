@@ -16,8 +16,8 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: 1.2.24
+  tag: 1.2.25
 version: 2.2.2
 versionInfo:
   versionCode: '22'
-  versionName: 5.1-188
+  versionName: 5.1-210

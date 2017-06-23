@@ -17,6 +17,7 @@
     <string name="wear_habit">佩戴习惯</string>
     <string name="bugreport">报告错误</string>
     <string name="light_change">背 光</string>
+    <string name="wrist_up">抬腕亮屏</string>
     <string name="auto_nodisturb">自动勿扰</string>
     <string name="double_click_wakeup">双击屏幕解锁</string>
     <string name="vibration_intensity">震动强度</string>
@@ -127,6 +128,8 @@
     <string name="light_on">常亮模式</string>
     <string name="rise_no_bl_under_slpt">唤醒模式</string>
     <string name="subtitle_of_raise_hand_no_bl">唤醒模式</string>
+    <string name="rise_with_bl_under_slpt">开启</string>
+    <string name="rise_without_bl_under_slpt">关闭</string>
     <string name="locale_title">系统语言</string>
     <string name="locale_applying">正在设置语言</string>
     <string name="zh_cn">中文(简体)</string>
