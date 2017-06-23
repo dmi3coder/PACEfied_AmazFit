@@ -3,8 +3,8 @@
     <string name="app_name">Key Chain</string>
     <string name="title_no_certs">Nessun certificato trovato</string>
     <string name="title_select_cert">Seleziona certificato</string>
-    <string name="requesting_application">"L\'applicazione %s richiede un certificato. La scelta di un certificato permette all\'applicazione di utilizzare la tua identita'."</string>
-    <string name="requesting_server">"L\'applicazione ha rilevato una richiesta dal server %s, devi autorizzare l\'accesso."</string>
+    <string name="requesting_application">"L\'app %s richiede un certificato. La scelta di un certificato permette all\'app di utilizzare la tua identità."</string>
+    <string name="requesting_server">"L\'app ha rilevato una richiesta dal server %s, autorizzare l\'accesso."</string>
     <string name="install_new_cert_message">Puoi installare il certificato da PKCS#12 oppure da %1$s o %2$s situato nella memoria esterna.</string>
     <string name="install_new_cert_button_label">Installazione</string>
     <string name="allow_button">Consenti</string>

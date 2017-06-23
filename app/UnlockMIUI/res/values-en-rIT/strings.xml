@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UnlockMIUI</string>
-    <string name="unlock_tips">Consentire a questo smartwatch di sbloccare il telefono?</string>
+    <string name="unlock_tips">Consentire a questo orologio di sbloccare il telefono?</string>
 </resources>

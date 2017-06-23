@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Laboratorio</string>
-    <string name="main_title">Laboratorio</string>
-    <string name="agreement_title">FC sempre attivo</string>
-    <string name="message">"Per migliorare i servizi offerti le misurazioni FC saranno archiviate e trasmesse.I dati saranno utilizzati solo a scopo di ricerca.Il consumo eneregetico potrebbe aumentare"</string>
-    <string name="allow">Permetti</string>
-    <string name="exit">Esci</string>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
+    <string name="agreement_title">Freq.card. sempre attiva</string>
+    <string name="message">Per migliorare i servizi offerti le misurazioni della freq. card. saranno archiviate e inviate ai nostri lab. I dati saranno utilizzati solo a scopo di ricerca. Il consumo batteria aumentarà</string>
+    <string name="allow">Autorizza</string>
+    <string name="exit">Annulla</string>
     <string name="heart_rate_collection_on">On</string>
     <string name="heart_rate_collection_off">Off</string>
     <string name="saving_data">Salvo i dati</string>
     <string name="upload_data">Invio i dati</string>
     <string name="upload_success">Invio completato</string>
-    <string name="upload_failed">Invio fallito, riprovare</string>
+    <string name="upload_failed">Invio fallito, riprova</string>
     <string name="air_mode_alert_title">Connessione fallita</string>
-    <string name="air_mode_alert_message">Ritenta il collegamento. Disattiva la modalità aereo</string>
+    <string name="air_mode_alert_message">Disattiva la modalità aereo e riprova</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">FC non rilevata</string>
+    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Imposta lingua</string>
+<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro Dati</string>
     <string name="widget_currentstep_activities">Passi oggi</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -30,6 +33,5 @@
     <string name="widget_currentstep_sleep_title">Dormito la scorsa notte</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Scegli lingua</string>
+<!--END of missed texts by Huami-->
 </resources>

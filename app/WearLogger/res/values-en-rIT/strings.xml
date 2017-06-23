@@ -5,12 +5,12 @@
     <string name="logcat">logcat</string>
     <string name="anr_trance">anrtrance</string>
     <string name="dumpsys">dumpsys</string>
-    <string name="battery">Info Batteria</string>
-    <string name="bugreport">Report Bug</string>
-    <string name="upload">Caricamento</string>
-    <string name="dump_sensor">DumpSensoreHm</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">Invia</string>
+    <string name="dump_sensor">DumpHmSensor</string>
     <string name="dump">DumpSys</string>
-    <string name="log_path">Log Path:</string>
+    <string name="log_path">Percorso log:</string>
     <string name="preparing">Creazione report...</string>
     <string name="collecting">Creazione report...</string>
     <string name="uploading">Caricamento...</string>
@@ -18,23 +18,23 @@
     <string name="upload_finish">Caricamento log completato</string>
     <string name="upload_failed">Caricamento fallito, 
 riprova</string>
-    <string name="open_wifi_hint">Attivazione Wi-Fi...</string>
+    <string name="open_wifi_hint">Attivazione WiFi...</string>
     <string name="please_keep_wifi_connected">Mantieni lo smartwatch 
 collegato al WiFi</string>
     <string name="percent_sign">%</string>
     <string name="zero">0</string>
-    <string name="has_log_file_message">Errore nel caricamento del report: vuoi continuare?</string>
+    <string name="has_log_file_message">Errore nel caricamento del report: continuare?</string>
     <string name="upload_failed_token_title">Caricamento fallito</string>
-    <string name="upload_failed_token_message">Impossibile caricare il report degli errori. Si prega di connettersi tramite app e riprovare</string>
-    <string name="re_collecting">Ricreo</string>
-    <string name="continue_upload">Continua Upload</string>
+    <string name="upload_failed_token_message">Impossibile caricare il report degli errori. Connettersi tramite app e riprovare</string>
+    <string name="re_collecting">Ricarica</string>
+    <string name="continue_upload">Continua invio</string>
     <string name="alllog">Tutti i log</string>
     <string name="moreoptions">Altre opzioni</string>
     <string name="allupload">Carica tutto</string>
     <string name="pleass_upload">Log non caricato</string>
     <string name="start_collection">Inizia il caricamento</string>
-    <string name="close_wifi_hint">Wi-Fi disattivato</string>
-    <string name="open_wifi_before_upload">Attiva il Wi-Fi prima di caricare</string>
+    <string name="close_wifi_hint">WiFi disattivato</string>
+    <string name="open_wifi_before_upload">Attiva il WiFi prima di caricare</string>
     <string name="packed_path">Percorso locale：</string>
     <string name="c_bugreport">Report bug</string>
     <string name="upload_timeout">Tempo scaduto: riprova</string>
@@ -43,19 +43,19 @@ collegato al WiFi</string>
     <string name="collect_dropbox">Caricamento dropbox</string>
     <string name="collect_anr">Caricamento ANR</string>
     <string name="collect_dumpsys">Caricamento dumpsys</string>
-    <string name="collect_bugreport">aricamento bug report</string>
+    <string name="collect_bugreport">Caricamento bug report</string>
     <string name="next_upload_message">Segnalazione errori creata, si prega di caricarla.</string>
     <string name="please_upload">Carica gli errori.</string>
     <string name="app_name">Logger</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Impostazioni</string>
     <string name="watch_ota">Aggiorna orologio</string>
-    <string name="wifi_disconnect">Wi-fi Disconnesso</string>
-    <string name="connect_phone_wifi">Collegamento wi-fi in corso</string>
+    <string name="wifi_disconnect">WiFi disconnesso</string>
+    <string name="connect_phone_wifi">Collegamento WiFi in corso</string>
     <string name="please_update_rom">Trovato nuovo 
-aggioramento</string>
+aggiornamento</string>
     <string name="connect_phone_input_wifi">Collegamento in corso,
-inserire password Wi-Fi</string>
+inserire password WiFi</string>
     <string name="checking_rom">Verifica nuovo aggiornamento</string>
     <string name="checking_rom_failed">Verifica nuovo aggiornamento fallito</string>
     <string name="current_is_new">AmazFit aggiornato</string>
@@ -82,7 +82,7 @@ liberare spazio</string>
 riuscito</string>
     <string name="cancel_download">Annullare il download?</string>
     <string name="new_rom_please_install">Trovata nuova versione firmware</string>
-    <string name="btn_install_later">"Installa piu' tardi"</string>
+    <string name="btn_install_later">"Installa più tardi"</string>
     <string name="btn_install_now">Installa ora</string>
     <string name="wifi_no_password">Rete libera</string>
     <string name="wifi_has_password">Rete criptata</string>
@@ -92,14 +92,14 @@ riuscito</string>
     <string name="wifi_get_ip">Ottengo indirizzo ip...</string>
     <string name="wifi_link_fail">Connessione non riuscita...</string>
     <string name="wifi_connected">Connesso</string>
-    <string name="wifi_title">Wi-Fi connesso</string>
+    <string name="wifi_title">WiFi connesso</string>
     <string name="wifi_wait_password">Inserire password...</string>
     <string name="toast_please_update_first">Si prega di aggiornare</string>
-    <string name="wifi_turnon_going">Attivazione Wi-Fi</string>
+    <string name="wifi_turnon_going">Attivazione WiFi</string>
     <string name="system_update_title">Aggiornamento riuscito</string>
     <string name="system_update_content">Sistema aggiornato a%1$srelease</string>
-    <string name="password_error">%1$sPassword errata,reinseriscila</string>
-    <string name="wifi_connect_fail">Connessione wi-fi non riuscita, riprovare</string>
+    <string name="password_error">%1$sPassword errata, riprova</string>
+    <string name="wifi_connect_fail">Connessione WiFi non riuscita, riprova</string>
     <string name="searching">Ricerca...</string>
     <string name="hasNewUpdateTitle">Trovati aggiornamenti di sistema</string>
     <string name="hasNewUpdateContent">%1$sTrovata nuova versione, installare?</string>

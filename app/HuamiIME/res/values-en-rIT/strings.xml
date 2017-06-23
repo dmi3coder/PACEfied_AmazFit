@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HuamiIME</string>
-    <string name="connect_phone">Prego connettere Amazfit app</string>
-    <string name="input_by_phone">Prego inserire in  Amazfit app</string>
+    <string name="connect_phone">Connettere Amazfit app</string>
+    <string name="input_by_phone">Inserire in Amazfit app</string>
 </resources>

@@ -6,9 +6,9 @@
     <string name="appid_facetime">FaceTime</string>
     <string name="appid_contacts">Contatti</string>
     <string name="appid_camera">Camera</string>
-    <string name="appid_videos">Videos</string>
-    <string name="appid_maps">Maps</string>
-    <string name="appid_calculator">Calcalatrice</string>
+    <string name="appid_videos">Video</string>
+    <string name="appid_maps">Mappe</string>
+    <string name="appid_calculator">Calcolatrice</string>
     <string name="appid_photos">Foto</string>
     <string name="appid_fmf1">Trova amici</string>
     <string name="appid_fmip1">Trova iPhone</string>
@@ -29,7 +29,7 @@
     <string name="appid_weather">Meteo</string>
     <string name="appid_reminders">Promemoria</string>
     <string name="appid_news">Notizie</string>
-    <string name="appid_gamecenter">Game Center</string>
+    <string name="appid_gamecenter">Centro giochi</string>
     <string name="appid_passbook">Portafoglio</string>
     <string name="appid_mobilecal">Calendario</string>
     <string name="appid_appstore">App Store</string>

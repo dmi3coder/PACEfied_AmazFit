@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SetupWizard</string>
-    <string name="locale_title">Seleziona lingua</string>
+    <string name="locale_title">Imposta lingua</string>
     <string name="lang_zh_cn">中文(简体)</string>
     <string name="lang_en_us">English(US)</string>
-    <string name="tip_install_wear_companion">Devi installare \"Amazfit Watch\" App nel tuo telefono</string>
-    <string name="tip_low_battery">Livello batteria inferiore al 5% , collega il caricabatterie per continuare</string>
+    <string name="tip_install_wear_companion">Devi installare l\'app \"Amazfit Watch\" sul tuo telefono</string>
+    <string name="tip_low_battery">Batteria inferiore al 5%, metti in carica per continuare</string>
     <string name="pair_scan_qr">Leggi il codice QR con \"Amazfit Watch App\"</string>
     <string name="pair_skip">Salta</string>
     <string name="tip_pair_skip">Alcune funzioni saranno disabilitate: continuare?</string>
     <string name="tip_restoring">Ripristino</string>
-    <string name="tip_binding_failed">Associazione fallita</string>
+    <string name="tip_binding_failed">Accoppiamento fallito</string>
     <string name="tip_binding_failed_restart">Disconnesso, riprova</string>
-    <string name="tip_no_bluetooth_adapter">Errore Bluetooth</string>
-    <string name="tip_wear_hand">"Su quale polso porterai l\'orologio?"</string>
+    <string name="tip_no_bluetooth_adapter">Errore bluetooth</string>
+    <string name="tip_wear_hand">Su quale polso indosserai l\'orologio?</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
 </resources>

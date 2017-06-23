@@ -14,7 +14,7 @@
     <string name="type_to"> e </string>
     <string name="not_avalible_type">Nessun dato</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">"Qualità dell\'aria "</string>
+    <string name="air_quality">Qualità dell\'aria</string>
     <string name="weather_title">Meteo oggi</string>
     <string name="dot"> </string>
     <string name="weather_warning">Attenzione!!!</string>
@@ -47,12 +47,12 @@
     <string name="air_heavily_polluted">Aria molto inquinata</string>
     <string name="air_severely_polluted">Aria gravemente inquinata</string>
     <string name="no_outdoor_info">Info attività all\'aria aperta N/D</string>
-    <string name="outdoor_info_notsuit">"KO per sport all\'aria aperta"</string>
-    <string name="outdoor_info_suit">"OK per sport all\'aria aperta"</string>
+    <string name="outdoor_info_notsuit">"KO per sport all\'aperto"</string>
+    <string name="outdoor_info_suit">"OK per sport all\'aperto"</string>
     <string name="wind_strength">Vento</string>
     <string name="moisture">Umidità</string>
     <string name="uv">Raggi UV</string>
-    <string name="forecast">Previsioni Meteo</string>
+    <string name="forecast">Meteo</string>
     <string name="fetching">Caricamento in corso</string>
     <string name="fetch_failed">Download non riuscito</string>
     <string name="unknown">Sconosciuto</string>

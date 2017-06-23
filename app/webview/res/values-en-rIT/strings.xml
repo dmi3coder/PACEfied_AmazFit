@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="private_browsing_warning">Questa funzionalità non è supportata in questa versione di Android.</string>
+    <string name="private_browsing_warning">Funzione non supportata in questa versione Android.</string>
     <string name="actionbar_share">Condividi</string>
     <string name="actionbar_web_search">Ricerca Web</string>
     <string name="accessibility_content_view">Web View</string>
-    <string name="media_player_error_title">Non posso riprodurre il video</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Il video non è disponibile per lo streaming su questo apparato.</string>
+    <string name="media_player_error_title">Impossibile riprodurre il video</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Il video non è disponibile per lo streaming su questo dispositivo.</string>
     <string name="media_player_error_text_unknown">Il video non può essere riprodotto.</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_loading_video">Caricamento video</string>
     <string name="profiler_started_toast">Profiler avviato</string>
     <string name="profiler_stopped_toast">Profiler terminato. Risultati in %1$s.</string>
-    <string name="profiler_no_storage_toast">Non posso lanciare il profiler perchè la memoria esterna non è pronta</string>
+    <string name="profiler_no_storage_toast">Non posso lanciare il profiler perché la memoria esterna non è pronta</string>
     <string name="profiler_error_toast">Avvio profiler fallito</string>
-    <string name="low_memory_error">Non riesco a completare il comando per la poca memoria</string>
-    <string name="opening_file_error">"Errore nell\'apertura del file"</string>
+    <string name="low_memory_error">Non riesco a completare il comando per mancanza memoria</string>
+    <string name="opening_file_error">Errore nell\'apertura del file</string>
     <string name="color_picker_button_more">Altri</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
     <string name="color_picker_value">Valore</string>
     <string name="color_picker_button_set">Imposta</string>
-    <string name="color_picker_button_cancel">Cancela</string>
-    <string name="color_picker_dialog_title">Scegli colore</string>
+    <string name="color_picker_button_cancel">Annulla</string>
+    <string name="color_picker_dialog_title">Imposta colore</string>
     <string name="color_picker_button_red">Rosso</string>
     <string name="color_picker_button_cyan">Ciano</string>
     <string name="color_picker_button_blue">Blu</string>
@@ -30,17 +30,17 @@
     <string name="color_picker_button_yellow">Giallo</string>
     <string name="color_picker_button_black">Nero</string>
     <string name="color_picker_button_white">Bianco</string>
-    <string name="copy_to_clipboard_failure_message">Errore nel copiare in clipboard</string>
+    <string name="copy_to_clipboard_failure_message">Errore nel copiare negli appunti</string>
     <string name="accessibility_date_picker_month">Mese</string>
     <string name="accessibility_date_picker_year">Anno</string>
     <string name="date_picker_dialog_set">Imposta</string>
     <string name="month_picker_dialog_title">Imposta mese</string>
     <string name="accessibility_date_picker_week">Settimana</string>
-    <string name="week_picker_dialog_title">Imposta Settimana</string>
+    <string name="week_picker_dialog_title">Imposta settimana</string>
     <string name="time_picker_dialog_am">AM</string>
     <string name="time_picker_dialog_pm">PM</string>
     <string name="time_picker_dialog_title">Imposta Ora</string>
-    <string name="accessibility_time_picker_hour">Ore</string>
+    <string name="accessibility_time_picker_hour">Ora</string>
     <string name="accessibility_time_picker_minute">Minuti</string>
     <string name="accessibility_time_picker_second">Secondi</string>
     <string name="accessibility_time_picker_milli">Millisecondi</string>
@@ -53,6 +53,6 @@
     <string name="accessibility_datetime_picker_time">Ora</string>
     <string name="date_picker_dialog_other_button_label">Altro</string>
     <string name="date_picker_dialog_title">Imposta data</string>
-    <string name="date_picker_dialog_clear">Cancella</string>
-    <string name="webviewchromium_private_browsing_warning">Questa funzionalità non è supportata in questa versione di Android.</string>
+    <string name="date_picker_dialog_clear">Annulla</string>
+    <string name="webviewchromium_private_browsing_warning">Funzione non supportata in questa versione Android.</string>
 </resources>

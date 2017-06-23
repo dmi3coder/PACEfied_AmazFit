@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Alipay</string>
-    <string name="confirm_unbind">Scollegato</string>
+    <string name="confirm_unbind">Scollega</string>
     <string name="unbind_warning">Scollegando il dispositivo le funzioni Alipay non saranno disponibili!</string>
     <string name="bind_my_watch">Collega il tuo orologio</string>
-    <string name="user_hint">"Apri l\'app Alipay (9.3 e superiori), recati in Profilo personale> Impostazioni> Impostazioni di protezione> smartwhatches."</string>
+    <string name="user_hint">"Nell\'app Alipay (>9.3), in Profilo personale> Impostazioni> Impostazioni di protezione> smartwhatches."</string>
     <string name="bind_im">Ora legale</string>
     <string name="bind_from_qr">Associazione QR</string>
     <string name="bind_qr_code">Collega tramite QR</string>
@@ -12,7 +12,7 @@
     <string name="loading">Caricamento</string>
     <string name="title">Alipay</string>
     <string name="widget_title">Alipay</string>
-    <string name="tip">"Apri l\'app Alipay (9.3 e superiori), recati in Profilo personale> Impostazioni> Impostazioni di protezione> smartwhatches."</string>
+    <string name="tip">"Nell\'app Alipay (>9.3), in Profilo personale> Impostazioni> Impostazioni di protezione> smartwhatches."</string>
     <string name="ios_unsupport_tips">（Alipay non è supportato da iOS）</string>
     <string name="button_start_bind">Collega</string>
     <string name="bind_usage">Scansiona QR</string>

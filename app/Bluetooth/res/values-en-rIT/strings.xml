@@ -7,8 +7,8 @@
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Dispositivo sconosciuto</string>
     <string name="unknownNumber">Numero sconosciuto</string>
-    <string name="airplane_error_title">"Modalità aereo"</string>
-    <string name="airplane_error_msg">Stai cercando di usare il bluetooth in modalità aereo.</string>
+    <string name="airplane_error_title">"Modo aereo"</string>
+    <string name="airplane_error_msg">Stai cercando di usare il bluetooth in modo aereo.</string>
     <string name="bt_enable_title" />
     <string name="bt_enable_line1">Per usare il bluetooth prima devi attivarlo.</string>
     <string name="bt_enable_line2">Attivare il bluetooth ora?</string>

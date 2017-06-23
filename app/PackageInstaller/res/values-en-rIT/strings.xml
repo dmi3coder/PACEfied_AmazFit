@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Installazione applicazioni</string>
+    <string name="app_name">Installazione apps</string>
     <string name="next">Avanti</string>
     <string name="install">Installa</string>
     <string name="done">Fatto</string>
-    <string name="security_settings_desc">Impostazioni sicurezza:</string>
-    <string name="cancel">Cancella</string>
+    <string name="security_settings_desc">Autorizza app a:</string>
+    <string name="cancel">Annulla</string>
     <string name="unknown">Sconosciuto</string>
     <string name="installing">Installazione…</string>
     <string name="install_done">App installata.</string>
-    <string name="install_confirm_question">"Vuoi installare questo apk? L\'app otterrà l\'accesso a:"</string>
-    <string name="install_confirm_question_no_perms">"Vuoi installare questo apk? L\'app otterrà l\'accesso a:"</string>
-    <string name="install_confirm_question_update">"Vuoi aggiornare questo apk? Non perderai nessun dato. L\'app otterrà l\'accesso a:"</string>
-    <string name="install_confirm_question_update_system">"Vuoi aggiornare questo apk built-in? Non perderai nessun dato. L\'app otterrà l\'accesso a:"</string>
-    <string name="install_confirm_question_update_no_perms">"Vuoi aggiornare questo apk? Non perderai nessun dato. L\'app non richiede alcun accesso speciale."</string>
-    <string name="install_confirm_question_update_system_no_perms">"Vuoi aggiornare questo apk? built-in? Non perderai nessun dato. L\'app non richiede alcun accesso speciale."</string>
+    <string name="install_confirm_question">Vuoi installare questo app? L\'app otterrà l\'accesso a:</string>
+    <string name="install_confirm_question_no_perms">Vuoi installare questo app? Non richiede nessun permesso</string>
+    <string name="install_confirm_question_update">Vuoi aggiornare questa app? Non perderai nessun dato. L\'app otterrà l\'accesso a:</string>
+    <string name="install_confirm_question_update_system">Vuoi aggiornare questo app built-in? Non perderai nessun dato. L\'app otterrà l\'accesso a:</string>
+    <string name="install_confirm_question_update_no_perms">Vuoi aggiornare questa app? Non perderai nessun dato. L\'app non richiede nessun permesso.</string>
+    <string name="install_confirm_question_update_system_no_perms">Vuoi aggiornare questa app? Non perderai nessun dato. L\'app non richiede nessun permesso.</string>
     <string name="install_failed">App non installata.</string>
-    <string name="install_failed_invalid_apk">"Il file è danneggiato."</string>
-    <string name="install_failed_inconsistent_certificates">"Un\'altra app con lo stesso nome è già installata."</string>
-    <string name="install_failed_older_sdk">"L\'app funziona solo con versioni di Android più recenti."</string>
+    <string name="install_failed_invalid_apk">Il file è danneggiato.</string>
+    <string name="install_failed_inconsistent_certificates">"Un\'altra app con lo stesso nome e diversa firma è già installata."</string>
+    <string name="install_failed_older_sdk">"L\'app funziona solo con versioni Android più recenti."</string>
     <string name="install_failed_cpu_abi_incompatible">Questa app è incompatibile.</string>
-    <string name="install_failed_file_not_found">Apk non trovato.</string>
+    <string name="install_failed_file_not_found">App non trovata.</string>
     <string name="install_failed_verify_failed">Certificato non valido: impossibile installare.</string>
-    <string name="install_failed_verify_timeout">"Timeout nella verifica del apk, riprova più tardi"</string>
-    <string name="install_failed_msg">%1$s Non compatibile con questa versione di Android.</string>
+    <string name="install_failed_verify_timeout">"Timeout nella verifica dell\'app, riprova più tardi"</string>
+    <string name="install_failed_msg">%1$s non compatibile con questa versione Android.</string>
     <string name="launch">Apri</string>
     <string name="unknown_apps_dlg_title">Installazione bloccata</string>
     <string name="unknown_apps_dlg_text">Abilita origini sconosciute da impostazioni.</string>
-    <string name="unknown_apps_admin_dlg_text">>Non hai il permesso per installare app, abilita origini sconosciute.</string>
+    <string name="unknown_apps_admin_dlg_text">>Non hai il permesso per installare questa app, abilita origini sconosciute.</string>
     <string name="ok">Ok</string>
     <string name="settings">Impostazioni</string>
     <string name="allow_source_dlg_title">Consentire installazione app</string>
-    <string name="allow_source_dlg_text">%1$s Vuole installare altre applicazioni. 
+    <string name="allow_source_dlg_text">%1$s vuole installare altre apps. 
 
 Consenti ora ed in futuro?</string>
     <string name="manage_applications">Gestione applicazioni</string>
@@ -42,14 +42,14 @@ Non perderai nessun dato."</string>
     <string name="dlg_sys_app_replacement_statement">"Questa è un'app di sistema.
     
 Non perderai nessun dato."</string>
-    <string name="out_of_space_dlg_title">Menoria pieno</string>
+    <string name="out_of_space_dlg_title">Memoria piena</string>
     <string name="out_of_space_dlg_text">%1$s Spazio pieno. Libera spazio e riprova</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">App non trovata</string>
-    <string name="app_not_found_dlg_text">Applicazione non trovata nella lista delle app installate.</string>
+    <string name="app_not_found_dlg_text">App non trovata nella lista delle app installate.</string>
     <string name="uninstall_application_title">Disinstalla app</string>
     <string name="uninstall_update_title">Disinstalla aggiornamento</string>
-    <string name="uninstall_activity_text">%1$s Fa parte di questa app:</string>
+    <string name="uninstall_activity_text">%1$s fa parte di questa app:</string>
     <string name="uninstall_application_text">Sei sicuro di rimuovere questa app?</string>
     <string name="uninstall_application_text_all_users">Vuoi disinstallare questa app per <b>tutti</b> gli utenti? Verranno rimossi i dati di <b>tutti</b> gli utenti.</string>
     <string name="uninstall_application_text_user">"Vuoi rimuovere questa app per l\'utente %1$s?"</string>
@@ -57,17 +57,17 @@ Non perderai nessun dato."</string>
     <string name="uninstalling">Disinstallazione…</string>
     <string name="uninstall_done">Disinstallazione terminata.</string>
     <string name="uninstall_failed">Errore nella disinstallazione.</string>
-    <string name="uninstall_failed_device_policy_manager">"Non puoi rimuovere questa app perchè attiva."</string>
+    <string name="uninstall_failed_device_policy_manager">"Non puoi rimuovere questa app perché attiva."</string>
     <string name="uninstall_blocked_profile_owner">"Questa app è necessaria  per il tuo %1$s profilo, non puoi rimuoverla."</string>
     <string name="uninstall_blocked_device_owner">Per rimuovere questa app servono i permessi di amministratore.</string>
     <string name="manage_device_administrators">Gestione amministratore dispositivo</string>
     <string name="uninstall_failed_msg">%1$s Impossibile disinstallare.</string>
     <string name="Parse_error_dlg_title">Verifica errata</string>
-    <string name="Parse_error_dlg_text">"Problemi nella verifica dell\'apk."</string>
+    <string name="Parse_error_dlg_text">Problemi nella verifica dell\'app.</string>
     <string name="newPerms">Nuovo</string>
     <string name="allPerms">Tutti</string>
     <string name="privacyPerms">Privacy</string>
     <string name="devicePerms">Accesso dispositivo</string>
-    <string name="no_new_perms">Questo aggiornaemnto non richiede autorizzazioni.</string>
-    <string name="grant_confirm_question">"Vuoi concedere le seguenti autorizzazioni? Darai l\'accesso a :"</string>
+    <string name="no_new_perms">Questo aggiornamento non richiede autorizzazioni.</string>
+    <string name="grant_confirm_question">Vuoi concedere le seguenti autorizzazioni? Darai l\'accesso a :</string>
 </resources>

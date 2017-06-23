@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AccessoAlPortale</string>
+    <string name="app_name">CaptivePortalLogin</string>
     <string name="action_use_network">Vuoi utilizzare questa rete?</string>
-    <string name="action_do_not_use_network">Non puoi usare questa rete</string>
-    <string name="action_bar_label">Accesso alla rete</string>
+    <string name="action_do_not_use_network">Non usare questa rete</string>
+    <string name="action_bar_label">Accedi alla rete</string>
 </resources>
