@@ -16,8 +16,8 @@
     <string name="ios_unsupport_tips">（暂不支持iOS端支付宝绑定）</string>
     <string name="button_start_bind">开始绑定</string>
     <string name="bind_usage">使用支付宝扫描绑定</string>
-    <string name="bar_code_tip">收银员扫一扫完成付款</string>
-    <string name="qr_code_tip">扫描转账或加我朋友</string>
+    <string name="bar_code_tip">该码用于向商家当面付款</string>
+    <string name="qr_code_tip">该码用于向商家当面付款</string>
     <string name="bind_success_title">绑定成功</string>
     <string name="unbind_tip">如需解绑，请在手机支付宝进行操作。</string>
     <string name="button_ok">确定</string>

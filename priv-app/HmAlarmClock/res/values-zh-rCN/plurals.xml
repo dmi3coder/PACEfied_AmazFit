@@ -4,4 +4,10 @@
         <item quantity="other">暂停%d分钟。</item>
         <item quantity="one">暂停1分钟。</item>
     </plurals>
+    <plurals name="plurals_hours">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+    <plurals name="plurals_minutes">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
 </resources>

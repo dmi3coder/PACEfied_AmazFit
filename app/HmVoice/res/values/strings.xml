@@ -27,7 +27,7 @@
     <string name="handling">\"Processing...\"</string>
     <string name="temperature_unit">°</string>
     <string name="string_seperate">~</string>
-    <string name="wind_unit">level</string>
+    <string name="string_seperate_comma">,</string>
     <string name="string_to">-</string>
     <string name="temperature_tab">/</string>
     <string name="button_begin">Start</string>
@@ -80,6 +80,16 @@
     <string name="weather_unknown">no</string>
     <string name="weather_rain">Rain</string>
     <string name="weather_none">Unknown</string>
+    <string name="weather_wind_unit">level</string>
+    <string name="weather_wind_strengh">Wind strength</string>
+    <string name="weather_wind_direction_northeast">Wind NE</string>
+    <string name="weather_wind_direction_east">Wind E</string>
+    <string name="weather_wind_direction_sourtheast">Wind SE</string>
+    <string name="weather_wind_direction_sourth">Wind S</string>
+    <string name="weather_wind_direction_sourthwest">Wind SW</string>
+    <string name="weather_wind_direction_west">Wind W</string>
+    <string name="weather_wind_direction_northwest">Wind NW</string>
+    <string name="weather_wind_direction_north">Wind N</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.smarthome" platformBuildVersionCode="22" platformBuildVersionName="5.1-215">
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <application android:allowBackup="true" android:label="@string/app_name" android:largeHeap="true" android:name="com.huami.smarthome.SmartHomeApplication" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <service android:name="com.xiaomi.smarthome.mibtservice.library.MiBTService"/>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.smarthome.server.SmartHomeService">
+            <intent-filter>
+                <action android:name="com.huami.intent.action.SMART_HOME_SERVICE"/>
+            </intent-filter>
+        </service>
+        <activity android:label="@string/mihome_widget_title" android:launchMode="singleInstance" android:name="com.huami.smarthome.server.SmartHomeDeviceListActivity">
+            <intent-filter>
+                <action android:name="com.huami.intent.action.SMART_HOME_DEVICE_LIST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/mihome_widget_title" android:launchMode="singleInstance" android:name="com.huami.smarthome.server.SmartHomeDeviceControlActivity">
+            <intent-filter>
+                <action android:name="com.huami.intent.action.SMART_HOME_DEVICE_CONTROL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

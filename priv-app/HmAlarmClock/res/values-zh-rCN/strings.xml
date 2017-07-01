@@ -37,4 +37,14 @@
     <string name="stop_watch_default_lap">秒表</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
     <string name="stop_watch_lap_list_title_text">已计%d次</string>
+    <string name="count_down_title">计时器</string>
+    <string name="count_down_default_new">新的计时</string>
+    <string name="count_down_end">计时结束</string>
+    <string name="count_down_btn_end">结束</string>
+    <string name="count_down_btn_pause">暂停</string>
+    <string name="count_down_btn_continue">继续</string>
+    <string name="count_down_btn_stop">停止</string>
+    <string name="count_down_picker_min">分</string>
+    <string name="count_down_picker_hour">时</string>
+    <string name="count_down_wrong_time_tips">请设置有效的计时时间</string>
 </resources>

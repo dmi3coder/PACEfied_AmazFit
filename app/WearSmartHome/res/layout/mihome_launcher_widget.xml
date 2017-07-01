@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/mihome_widget_header" android:visibility="invisible" layout="@layout/mihome_widget_header" />
+    <View android:layout_gravity="center_horizontal" android:id="@id/mihome_device_multi_bg" android:background="@drawable/mihome_weight_contact_bg_s" android:visibility="invisible" android:layout_width="266.0px" android:layout_height="37.0px" android:layout_marginTop="240.0px" />
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/mihome_device_info" android:background="@drawable/mihome_weight_contact_bg" android:paddingLeft="12.0px" android:paddingRight="12.0px" android:visibility="invisible" android:layout_width="300.0px" android:layout_height="170.0px" android:layout_marginTop="85.0px" />
+    <FrameLayout android:id="@id/mihome_init" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/mihome_init_icon" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/mihome_widget_init_icon_margin_top_unbind" android:src="@drawable/mihome_weight_logo" />
+        <TextView android:textSize="@dimen/mihome_widget_init_info_text_size_unbind" android:textColor="#ffffffff" android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/mihome_init_title" android:layout_width="80.0px" android:layout_height="wrap_content" android:layout_marginTop="94.0px" android:text="@string/mihome_widget_title" />
+        <TextView android:textSize="@dimen/mihome_widget_init_info_text_size_unbind" android:textColor="#ffffffff" android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/mihome_init_text" android:visibility="invisible" android:layout_width="@dimen/mihome_widget_init_info_width" android:layout_height="@dimen/mihome_widget_init_info_height" android:layout_marginTop="@dimen/mihome_widget_init_info_margin_top_unbind" android:text="@string/mihome_widget_info_unbind" android:lineSpacingExtra="5.0px" />
+        <View android:layout_gravity="center" android:id="@id/mihome_init_loading" android:visibility="invisible" android:layout_width="@dimen/mihome_widget_init_loading_size" android:layout_height="@dimen/mihome_widget_init_loading_size" />
+    </FrameLayout>
+</FrameLayout>

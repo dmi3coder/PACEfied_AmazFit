@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/label_text_size" android:gravity="center" android:layout_width="fill_parent" android:layout_height="@dimen/desk_clock_header_height" android:layout_marginTop="@dimen/add_desk_cloc_header_margintop" android:text="@string/count_down_title" />
+    <TextView android:textSize="@dimen/new_alarm_text_size" android:gravity="center" android:layout_gravity="center" android:id="@id/bottom_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip" android:text="@string/count_down_default_new" android:layout_alignParentBottom="true" />
+    <ImageView android:gravity="center_horizontal" android:id="@id/add_countdown" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/countdown_weight_icon" android:scaleType="centerInside" android:layout_centerInParent="true" />
+</RelativeLayout>

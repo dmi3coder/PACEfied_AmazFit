@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/mihome_widget_header_text_size" android:textColor="#ffffffff" android:gravity="bottom|center" android:paddingBottom="17.0px" android:layout_width="fill_parent" android:layout_height="90.0px" android:text="@string/mihome_widget_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

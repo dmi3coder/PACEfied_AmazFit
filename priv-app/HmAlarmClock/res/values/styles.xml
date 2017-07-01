@@ -5,6 +5,11 @@
     <style name="AlarmActivityTheme">
         <item name="android:windowSwipeToDismiss">false</item>
     </style>
+    <style name="CountdownActivityTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
     <style name="SecondaryLabelTextAppearance">
         <item name="android:textSize">@dimen/stop_watch_lap_list_num_text_size</item>
         <item name="android:textColor">@color/time_text_color</item>

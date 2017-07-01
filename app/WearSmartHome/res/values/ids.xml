@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="prop_value_0">false</item>
+    <item type="id" name="prop_name_0">false</item>
+    <item type="id" name="prop_unit_0">false</item>
+    <item type="id" name="prop_name_1">false</item>
+    <item type="id" name="prop_value_1">false</item>
+    <item type="id" name="prop_unit_1">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="device_icon">false</item>
+    <item type="id" name="op_switch">false</item>
+    <item type="id" name="op_desc">false</item>
+    <item type="id" name="op_value">false</item>
+    <item type="id" name="op_btn_plus">false</item>
+    <item type="id" name="op_btn_minus">false</item>
+    <item type="id" name="mode_list">false</item>
+    <item type="id" name="payload_icon">false</item>
+    <item type="id" name="payload_desc">false</item>
+    <item type="id" name="devices_list">false</item>
+    <item type="id" name="devices_control_list">false</item>
+    <item type="id" name="mihome_widget_header">false</item>
+    <item type="id" name="mihome_device_multi_bg">false</item>
+    <item type="id" name="mihome_device_info">false</item>
+    <item type="id" name="mihome_init">false</item>
+    <item type="id" name="mihome_init_icon">false</item>
+    <item type="id" name="mihome_init_title">false</item>
+    <item type="id" name="mihome_init_text">false</item>
+    <item type="id" name="mihome_init_loading">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
+</resources>
