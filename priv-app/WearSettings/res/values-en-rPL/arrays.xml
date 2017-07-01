@@ -32,6 +32,12 @@
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
+    <string-array name="lab_item_wifi_signal_intensity">
+        <item>[prim]Signal strength</item>
+        <item>[sum]Signal strength test</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
+    </string-array>
     <string-array name="time_zone_ids">
         <item>Pacific/Midway</item>
         <item>Pacific/Honolulu</item>
@@ -201,5 +207,15 @@
         <item>+13 Auckland</item>
         <item>+13 Fiji</item>
         <item>+13 Tongatapu</item>
+    </string-array>
+    <string-array name="light_mode_subtitle">
+        <item>Jasność: wył.</item>
+        <item>Jasność: auto</item>
+        <item>Jasność: 0</item>
+        <item>Jasność: 1</item>
+        <item>Jasność: 2</item>
+        <item>Jasność: 3</item>
+        <item>Jasność: 4</item>
+        <item>Jasność: 5</item>
     </string-array>
 </resources>

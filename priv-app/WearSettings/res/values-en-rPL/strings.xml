@@ -26,6 +26,7 @@
     <string name="wear_habit">Wybór ręki</string>
     <string name="bugreport">Report Błędów</string>
     <string name="light_change">Podświetlenie</string>
+    <string name="wrist_up">Unieś nadgarstek</string>
     <string name="auto_nodisturb">Aut.Tr.cichy</string>
     <string name="double_click_wakeup">Dot.by obudź.</string>
     <string name="vibration_intensity">Wibracje</string>
@@ -42,7 +43,7 @@
     <string name="nodisturb">Tryb Cichy</string>
     <string name="auto_airplane">Aut.Tr.samol.</string>
     <string name="wifi_upload">Prześlij</string>
-    <string name="replace_watchface">Zmień WatchF.</string>
+    <string name="replace_watchface">WatchFace</string>
     <string name="wifi_auto_upload_switch">Autom.przesył.</string>
     <string name="nothing">Pusty</string>
     <string name="about_title">O</string>
@@ -136,9 +137,11 @@ wł. i jest w zasięgu"</string>
     <string name="light_on">Zawsze wł</string>
     <string name="rise_no_bl_under_slpt">Tylko odblok.</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto po odblok.</string>
+    <string name="rise_with_bl_under_slpt">Wł.</string>
+    <string name="rise_without_bl_under_slpt">Wył.</string>
     <string name="locale_title">Język</string>
     <string name="locale_applying">Zazstosuj język</string>
-    <string name="zh_cn">Chiński (Simplified)</string>
+    <string name="zh_cn">Chiński (Uproszczony)</string>
     <string name="en">Angielski(US)</string>
     <string name="zh_tw">Chiński (Traditional)</string>
     <string name="confirm_change_locale">"Zmień język na 
