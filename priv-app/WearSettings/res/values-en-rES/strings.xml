@@ -33,6 +33,7 @@
     <string name="wear_habit">Colocar Reloj</string>
     <string name="bugreport">Reportar Error</string>
     <string name="light_change">Brillo</string>
+    <string name="wrist_up">Levante la muñeca</string>
     <string name="auto_nodisturb">No molestar</string>
     <string name="double_click_wakeup">Activa 2 toq.</string>
     <string name="vibration_intensity">Vibración</string>
@@ -138,6 +139,8 @@
     <string name="light_on">Luz activa</string>
     <string name="rise_no_bl_under_slpt">Sólo desbloqueado</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto en desbloqueo</string>
+    <string name="rise_with_bl_under_slpt">Encendido</string>
+    <string name="rise_without_bl_under_slpt">Apagado</string>
     <string name="locale_title">Idioma</string>
     <string name="locale_applying">Idioma que aplica</string>
     <string name="zh_cn">Chino (Simplificado)</string>

@@ -595,8 +595,8 @@
     <string name="moisture">"Humedad"</string>
     <string name="no_aqi">"Sin datos de la calidad del aire"</string>
     <string name="no_outdoor_info">Sin datos</string>
-    <string name="outdoor_info_notsuit">No apto para el deporte</string>
-    <string name="outdoor_info_suit">Apto para el deporte deporte</string>
+    <string name="outdoor_info_notsuit">No apto</string>
+    <string name="outdoor_info_suit">Apto</string>
     <string name="uv">"Rayos UVA"</string>
     <string name="weather">"Pronóstico del tiempo"</string>
     <string name="weather_warning">"Pre-Aviso"</string>
