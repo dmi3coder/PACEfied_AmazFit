@@ -206,6 +206,8 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">Aerobic HR Alert</string>
     <string name="settings_item_title_safe_heartrate_remind">HR Alert</string>
     <string name="settings_item_title_auto_pause">Auto pause</string>
+    <string name="settings_item_title_running_auto_pause">Run auto pause</string>
+    <string name="settings_item_title_riding_auto_pause">Riding auto pause</string>
     <string name="settings_item_title_target_use_time_remind">Target Time</string>
     <string name="settings_item_title_target_distance_remind">Target Distance</string>
     <string name="settings_item_title_pace_remind">Pace Alert</string>

@@ -1,0 +1,22 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: WearSmartHome.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '25'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.26a
+version: 2.2.2
+versionInfo:
+  versionCode: '15'
+  versionName: '1.5'

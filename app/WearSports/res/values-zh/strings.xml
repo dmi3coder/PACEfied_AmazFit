@@ -193,6 +193,8 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">燃脂心率提醒</string>
     <string name="settings_item_title_safe_heartrate_remind">心率提醒</string>
     <string name="settings_item_title_auto_pause">自动暂停</string>
+    <string name="settings_item_title_running_auto_pause">跑步自动暂停</string>
+    <string name="settings_item_title_riding_auto_pause">骑行自动暂停</string>
     <string name="settings_item_title_target_use_time_remind">目标用时</string>
     <string name="settings_item_title_target_distance_remind">目标里程</string>
     <string name="settings_item_title_pace_remind">配速提醒</string>

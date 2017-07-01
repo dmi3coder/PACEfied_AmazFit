@@ -8,6 +8,8 @@
     <item type="id" name="add_clock_description">false</item>
     <item type="id" name="more_alrams">false</item>
     <item type="id" name="add_deskclock">false</item>
+    <item type="id" name="bottom_view">false</item>
+    <item type="id" name="add_countdown">false</item>
     <item type="id" name="alarm_header">false</item>
     <item type="id" name="am_pm">false</item>
     <item type="id" name="current_time">false</item>
@@ -33,6 +35,27 @@
     <item type="id" name="action_success">false</item>
     <item type="id" name="animation">false</item>
     <item type="id" name="message">false</item>
+    <item type="id" name="countdown_container">false</item>
+    <item type="id" name="count_down_view">false</item>
+    <item type="id" name="count_down_list">false</item>
+    <item type="id" name="count_down_listview">false</item>
+    <item type="id" name="count_down_default">false</item>
+    <item type="id" name="countdown_set_container">false</item>
+    <item type="id" name="picker">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="count_down_sport_view">false</item>
+    <item type="id" name="count_down_sport_img">false</item>
+    <item type="id" name="count_down_stop">false</item>
+    <item type="id" name="count_down_normal_view">false</item>
+    <item type="id" name="countdown_progress">false</item>
+    <item type="id" name="countdown_title">false</item>
+    <item type="id" name="countdown_clock">false</item>
+    <item type="id" name="bottom_button_layout">false</item>
+    <item type="id" name="stop_button">false</item>
+    <item type="id" name="countdown_bottom_left_button_layout">false</item>
+    <item type="id" name="left_button">false</item>
+    <item type="id" name="countdown_bottom_right_button_layout">false</item>
+    <item type="id" name="right_button">false</item>
     <item type="id" name="header">false</item>
     <item type="id" name="add_alarmclock">false</item>
     <item type="id" name="recent_alarmclock">false</item>
@@ -56,12 +79,9 @@
     <item type="id" name="stopwatch_lapnumber">false</item>
     <item type="id" name="stopwatch_laptime">false</item>
     <item type="id" name="stopwatch_clock">false</item>
-    <item type="id" name="bottom_button_layout">false</item>
     <item type="id" name="start_button">false</item>
     <item type="id" name="stop_watch_bottom_left_button_layout">false</item>
-    <item type="id" name="left_button">false</item>
     <item type="id" name="stop_watch_bottom_right_button_layout">false</item>
-    <item type="id" name="right_button">false</item>
     <item type="id" name="stopwatch_lap_list_view">false</item>
     <item type="id" name="picker_ampm">false</item>
     <item type="id" name="picker1">false</item>

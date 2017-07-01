@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">米家</string>
+    <string name="average_text">平均</string>
+    <string name="picker_default_positive_text">确定</string>
+    <string name="picker_default_nagetive_text">关闭</string>
+    <string name="no_heartrate_data_hint">未检测到心率数据</string>
+    <string name="no_altitude_hint">未检测到海拔数据</string>
+    <string name="title_settings">设 置</string>
+    <string name="sport_music_settings">运动音乐</string>
+    <string name="mihome_widget_title">米家</string>
+    <string name="mihome_widget_info_unbind">此手表绑定米家App后可控制其他米家设备, 绑定时请不要离开此页面</string>
+    <string name="mihome_widget_info_no_devices">在米家App里添加想要此手表控制的米家设备</string>
+    <string name="mihome_activity_title_disconnected">未连接</string>
+    <string name="mihome_activity_info_disconnected">请先连接手机米家App或蓝牙网关</string>
+    <string name="mihome_activity_btn_disconnected">请先连接手机米家App或蓝牙网关</string>
+    <string name="mihome_device_card_2_offline">[离线]</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+</resources>

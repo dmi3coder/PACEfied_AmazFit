@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-210">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.deskclock" platformBuildVersionCode="22" platformBuildVersionName="5.1-215">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
@@ -12,6 +12,7 @@
         <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
         <provider android:authorities="com.huami.watch.deskclock" android:exported="true" android:name="com.huami.watch.deskclock.provider.ClockProvider"/>
         <provider android:authorities="com.huami.watch.deskclock.stopwatch" android:exported="true" android:name="com.huami.watch.deskclock.stopwatch.provider.StopWatchProvider"/>
+        <provider android:authorities="com.huami.watch.deskclock.countdown" android:exported="true" android:name="com.huami.watch.deskclock.countdown.provider.CountdownProvider"/>
         <activity android:label="@string/app_name" android:name=".AlarmClockActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -35,7 +36,7 @@
         <service android:exported="true" android:name="com.huami.watch.deskclock.ClockService"/>
         <service android:exported="true" android:name=".stopwatch.StopwatchService"/>
         <receiver android:name="com.huami.watch.deskclock.AlarmInitReceiver">
-            <intent-filter>
+            <intent-filter android:priority="1000">
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
                 <action android:name="android.intent.action.TIME_SET"/>
                 <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
@@ -45,5 +46,14 @@
         </receiver>
         <activity android:label="@string/title_activity_stopwatch" android:name=".stopwatch.StopwatchActivity"/>
         <activity android:label="@string/title_activity_stop_watch_lap_list" android:name="com.huami.watch.deskclock.stopwatch.StopWatchLapListActivity"/>
+        <activity android:name="com.huami.watch.deskclock.countdown.CountdownTimePickerActivity"/>
+        <activity android:name="com.huami.watch.deskclock.countdown.CountdownListActivity"/>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.deskclock.countdown.CountdownActivity" android:theme="@style/CountdownActivityTheme"/>
+        <receiver android:name="com.huami.watch.deskclock.countdown.CountdownAlarmReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.intent.action.countdown.overtime"/>
+                <action android:name="com.huami.watch.action.voice.countdown"/>
+            </intent-filter>
+        </receiver>
     </application>
 </manifest>

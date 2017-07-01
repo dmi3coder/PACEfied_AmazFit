@@ -41,6 +41,16 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
+    <string name="count_down_title">Timer</string>
+    <string name="count_down_default_new">New Timer</string>
+    <string name="count_down_end">Time is over</string>
+    <string name="count_down_btn_end">Stop</string>
+    <string name="count_down_btn_pause">Pause</string>
+    <string name="count_down_btn_continue">Start</string>
+    <string name="count_down_btn_stop">Stop</string>
+    <string name="count_down_picker_min">m</string>
+    <string name="count_down_picker_hour">h</string>
+    <string name="count_down_wrong_time_tips">Please set a valid timer time</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Select Language</string>
     <string name="average_text">Avg</string>

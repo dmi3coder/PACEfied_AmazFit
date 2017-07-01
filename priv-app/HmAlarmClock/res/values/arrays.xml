@@ -12,6 +12,7 @@
     <string-array name="spring_depend">
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Alarm set for less than 1 minute from now.</item>

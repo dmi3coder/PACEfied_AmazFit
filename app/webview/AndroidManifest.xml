@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.webview" platformBuildVersionCode="22" platformBuildVersionName="5.1-210">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.webview" platformBuildVersionCode="22" platformBuildVersionName="5.1-215">
     <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
     <application android:icon="@drawable/icon_webview" android:label="Android System WebView" android:multiArch="true"/>
 </manifest>

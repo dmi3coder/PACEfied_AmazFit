@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Settings</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">此手表绑定米家App后可控制其他米家设备, 绑定时请不要离开此页面</string>
+    <string name="mihome_widget_info_no_devices">在米家App里添加想要此手表控制的米家设备</string>
+    <string name="mihome_activity_title_disconnected">未连接</string>
+    <string name="mihome_activity_info_disconnected">请先连接手机米家App或蓝牙网关</string>
+    <string name="mihome_activity_btn_disconnected">请先连接手机米家App或蓝牙网关</string>
+    <string name="mihome_device_card_2_offline">[离线]</string>
+</resources>

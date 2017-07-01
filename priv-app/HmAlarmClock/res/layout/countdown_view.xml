@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.deskclock.countdown.CountdownView android:gravity="center_horizontal" android:orientation="vertical" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/count_down_sport_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/count_down_sport_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="29.299988dip" android:src="@drawable/countdown_details_top_end_img" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="21.299988sp" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/count_down_end" android:layout_below="@id/count_down_sport_img" android:layout_centerInParent="true" />
+        <Button android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/count_down_stop" android:background="@drawable/count_down_stop_button_bg" android:layout_width="106.69998dip" android:layout_height="32.0dip" android:layout_marginBottom="12.0dip" android:text="@string/count_down_btn_stop" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/count_down_normal_view" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/countdown_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="23.299988dip" android:src="@drawable/countdown_details_top_an" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="16.699982dip">
+            <TextView android:textSize="12.0sp" android:textColor="#ff00ff55" android:gravity="center_horizontal" android:id="@id/countdown_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/count_down_end" android:layout_centerHorizontal="true" />
+            <com.huami.watch.deskclock.stopwatch.CountingTimerView android:id="@id/countdown_clock" android:layout_width="188.0dip" android:layout_height="42.69998dip" android:layout_marginTop="9.299988dip" android:layout_below="@id/countdown_title" android:layout_centerHorizontal="true" />
+            <RelativeLayout android:gravity="center_horizontal" android:id="@id/bottom_button_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:layout_alignParentBottom="true">
+                <Button android:textSize="14.0sp" android:id="@id/stop_button" android:background="@drawable/count_down_stop_button_bg" android:visibility="gone" android:layout_width="106.69998dip" android:layout_height="32.0dip" android:text="@string/count_down_btn_stop" />
+                <RelativeLayout android:id="@id/countdown_bottom_left_button_layout" android:layout_width="wrap_content" android:layout_height="32.0dip" android:layout_marginEnd="1.2999878dip">
+                    <Button android:textSize="14.0sp" android:textColor="@color/stop_watch_left_button_font_color_positive" android:id="@id/left_button" android:background="@drawable/count_down_left_button_bg" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/count_down_btn_end" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+                </RelativeLayout>
+                <LinearLayout android:id="@id/countdown_bottom_right_button_layout" android:clickable="true" android:layout_width="wrap_content" android:layout_height="32.0dip" android:layout_toEndOf="@id/countdown_bottom_left_button_layout">
+                    <Button android:textSize="14.0sp" android:textColor="@color/stop_watch_left_button_font_color_positive" android:id="@id/right_button" android:background="@drawable/count_down_right_button_bg" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/count_down_btn_pause" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</com.huami.watch.deskclock.countdown.CountdownView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="150.0px"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/device_icon" android:layout_width="@dimen/mihome_card_2_icon_size" android:layout_height="@dimen/mihome_card_2_icon_size" android:layout_marginTop="30.0px" />
+    <TextView android:textSize="14.0sp" android:textColor="#ff00ffe0" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="106.0px" android:singleLine="true" />
+</FrameLayout>
