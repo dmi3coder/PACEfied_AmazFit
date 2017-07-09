@@ -41,9 +41,19 @@
     <string name="hello_world">Witaj świecie!</string>
     <string name="action_settings">Ustawienia</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
+    <string name="count_down_title">Timer</string>
+    <string name="count_down_default_new">Nowy Timer</string>
+    <string name="count_down_end">Czas się skończył</string>
+    <string name="count_down_btn_end">Stop</string>
+    <string name="count_down_btn_pause">Pauza</string>
+    <string name="count_down_btn_continue">Start</string>
+    <string name="count_down_btn_stop">Stop</string>
+    <string name="count_down_picker_min">min</string>
+    <string name="count_down_picker_hour">h</string>
+    <string name="count_down_wrong_time_tips">Proszę ustawić prawidłowy czas timera</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Wybierz język</string>
-    <string name="average_text">Średni</string>
+    <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potwierdź</string>
     <string name="picker_default_nagetive_text">Wył.</string>
@@ -52,8 +62,8 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports Musics</string>
-    <!--START of missed texts by Huami-->
-    <string name="widget_currentstep_title">Centrum danych</string>
+<!--START of missed texts by Huami-->
+	<string name="widget_currentstep_title">Centrum danych</string>
     <string name="widget_currentstep_activities">Kroki dzisiaj</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>

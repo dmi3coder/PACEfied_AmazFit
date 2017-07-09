@@ -5,15 +5,23 @@
         <item quantity="one">Drzemka na 1 minutę.</item>
     </plurals>
     <plurals name="Nhours_description">
-        <item quantity="other">%d godziny</item>
-        <item quantity="one">1 godzinę</item>
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">1 godz.</item>
     </plurals>
     <plurals name="Nminutes_description">
-        <item quantity="other">%d minuty</item>
-        <item quantity="one">1 minutę</item>
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
     </plurals>
     <plurals name="Nseconds_description">
-        <item quantity="other">%d sekundy</item>
-        <item quantity="one">1 sekundę</item>
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">1 sek.</item>
+    </plurals>
+    <plurals name="plurals_hours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="plurals_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
     </plurals>
 </resources>
