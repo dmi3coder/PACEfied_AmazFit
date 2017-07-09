@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Dati freq. card. ND</string>
+    <string name="no_altitude_hint">Dati altitudine ND</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Questo orologio, accoppiato con l'app MI Home, può controllare altri dispositivi compatibili, non uscire durante l'accoppiamento</string>
+    <string name="mihome_widget_info_no_devices">In the meter home App want to add this watch control of the meter home equipment</string>
+    <string name="mihome_activity_title_disconnected">Scollegato</string>
+    <string name="mihome_activity_info_disconnected">Collegare all\'app MI Home sul telefono tramite la porta Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Collegare all\'app MI Home sul telefono tramite la porta Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[Offline]</string>
+</resources>
