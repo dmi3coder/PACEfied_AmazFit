@@ -94,8 +94,8 @@
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Nadaje się do uprawiania sportu</item>
-        <item>Nie nadaje się do uprawiania sportu</item>
+        <item>Upraw. sportu zalecane</item>
+        <item>Upraw. sportu niewskazane</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
