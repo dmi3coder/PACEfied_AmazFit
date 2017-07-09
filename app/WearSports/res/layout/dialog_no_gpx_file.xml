@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:orientation="vertical" android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmImageView android:layout_gravity="center_horizontal" android:id="@id/title_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.699982dip" android:src="@drawable/sport_file_gpx" android:layout_centerHorizontal="true" />
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/dialog_titile" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:text="@string/gpx_no_find_route" android:layout_below="@id/title_img" style="@style/base_white_font" />
+    <LinearLayout android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/dialog_titile">
+        <com.huami.watch.common.widget.HmTextView android:id="@id/train_plan_markd_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="23.0dip" android:layout_marginRight="20.0dip" android:text="@string/gpx_no_route_guide" android:lineSpacingExtra="2.0dip" style="@style/base_white_font_14sp" />
+    </LinearLayout>
+    <View android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_centerInParent="true" />
+    <View android:visibility="invisible" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+</com.huami.watch.common.widget.HmRelativeLayout>

@@ -66,6 +66,7 @@
     <item type="id" name="dialog_titile">false</item>
     <item type="id" name="train_plan_markd_desc">false</item>
     <item type="id" name="txt_confirm">false</item>
+    <item type="id" name="title_img">false</item>
     <item type="id" name="icon_notify_complete">false</item>
     <item type="id" name="route_status_remind">false</item>
     <item type="id" name="line_separate">false</item>

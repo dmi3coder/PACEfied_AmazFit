@@ -46,8 +46,14 @@
     <string name="alarm_timer_error">抱歉,服务器出现一点儿问题.请重说一遍.</string>
     <string name="alarm_alarm_outofbound">抱歉,不能设置时限超过明天的闹钟.</string>
     <string name="alarm_timer_watchtimer_guide">请打开手表计时器应用进行操作.</string>
-    <string name="miot_guide_success">已经为您打开以下设备.</string>
-    <string name="miot_guide_fail">您想要打开下列那个设备.</string>
+    <string name="miot_guide_success_completed">好的,没问题.</string>
+    <string name="miot_guide_fail_completed">好的,请告诉我您想要控制第几个设备.</string>
+    <string name="miot_guide_success_completed_todo">您想要执行什么操作.</string>
+    <string name="miot_button_dot">%1$s.</string>
+    <string name="miot_action_guide">您可以选择打开,关闭,设置模式等操作.</string>
+    <string name="miot_open">调节成</string>
+    <string name="miot_mode">模式</string>
+    <string name="miot_sorry">对不起,暂时只支持空气净化器的设备控制.</string>
     <string name="weather_sunny">晴</string>
     <string name="weather_cloudy">多云</string>
     <string name="weather_overcast">阴</string>
