@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.hmice.widget.MiotDeviceWidget android:id="@id/activity_query" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/size_query_result" android:textColor="@color/resultcolor" android:id="@id/miotdevice_index" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="35.0dip" android:layout_marginTop="8.0dip" android:layout_alignParentLeft="true" />
+    <TextView android:textSize="@dimen/size_miot_name" android:textColor="@color/color_miotdevice_name" android:id="@id/miotdevice_name" android:background="@drawable/lan_voice_btn_bg" android:paddingLeft="14.699982dip" android:paddingTop="9.0dip" android:paddingRight="14.699982dip" android:paddingBottom="9.0dip" android:layout_width="113.29999dip" android:layout_height="wrap_content" android:layout_marginLeft="9.5dip" android:layout_toRightOf="@id/miotdevice_index" />
+</com.huami.watch.hmice.widget.MiotDeviceWidget>

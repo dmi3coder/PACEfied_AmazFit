@@ -19,6 +19,8 @@
     <item type="id" name="error_title">false</item>
     <item type="id" name="error_image">false</item>
     <item type="id" name="error_content">false</item>
+    <item type="id" name="miotdevice_index">false</item>
+    <item type="id" name="miotdevice_name">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
@@ -27,6 +29,7 @@
     <item type="id" name="query_help">false</item>
     <item type="id" name="query">false</item>
     <item type="id" name="result">false</item>
+    <item type="id" name="miot_linear">false</item>
     <item type="id" name="space">false</item>
     <item type="id" name="uncomplete_result">false</item>
     <item type="id" name="single_weather_par">false</item>

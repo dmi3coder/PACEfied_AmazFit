@@ -11,6 +11,7 @@
     <color name="color_query_state">#ffd8d8d8</color>
     <color name="color_weather_divide">#50ffffff</color>
     <color name="color_text_error">#ffffffff</color>
+    <color name="color_miotdevice_name">#ffb0fffa</color>
     <color name="bench_green_color">#ff32ff00</color>
     <color name="bench_yellow_color">#ffffa100</color>
     <color name="bench_red_color">#ffff2000</color>

@@ -355,6 +355,8 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="gpx_no_find_route">未找到可用轨迹</string>
+    <string name="gpx_no_route_guide">请在手表连接到电脑，并将GPX文件拷贝到\"gpxdata\"文件夹后重试</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>
