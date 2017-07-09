@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sab</item>
+        <item>Hoje</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Ar excelente</item>
+        <item>Ar bom</item>
+        <item>Poluição Baixa</item>
+        <item>Poluição Média</item>
+        <item>Poluição Alta</item>
+        <item>Poluição Elevada</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Adequado para o desporto</item>
+        <item>Inadequado para o desporto</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Sol</item>
+        <item>Incoberto</item>
+        <item>Nublado</item>
+        <item>Nevoeiro</item>
+        <item>Neblina tóxica</item>
+        <item>Chuva</item>
+        <item>Trovoada</item>
+        <item>Chuviscos</item>
+        <item>Chuva moderada</item>
+        <item>Chuva forte</item>
+        <item>Relampagos</item>
+        <item>Chuva torrencial</item>
+        <item>Saraivada</item>
+        <item>Chuva Gelada</item>
+        <item>Granizo</item>
+        <item>Neve ligeira</item>
+        <item>Neve moderada</item>
+        <item>Nevão</item>
+        <item>Tempestade de neve</item>
+        <item>Chuva e neve</item>
+        <item>Nuvem de Pó</item>
+        <item>Ventania de poeiras</item>
+        <item>Tempestade de areia</item>
+        <item>Forte tempestade de areia</item>
+        <item>Sem Dados</item>
+    </string-array>
+</resources>
