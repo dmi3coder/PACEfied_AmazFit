@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Données cardio non détectées</string>
+    <string name="no_altitude_hint">Données d\'altitude non détectées</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Sports musique</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Cette montre, couplée à l\'app MI Home, peut contrôler d\'autres équipements compatibles, ne fonctionne pas pendant l\'accouplement</string>
+    <string name="mihome_widget_info_no_devices">Si vous souhaitez contrôler d\'autres équipements, veuillez ajouter la montre dans l\'app MI Home</string>
+    <string name="mihome_activity_title_disconnected">Hors ligne</string>
+    <string name="mihome_activity_info_disconnected">Connecter l\'app MI Home sur le téléphone par Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Connecter l\'app MI Home sur le téléphone par Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[Hors Ligne]</string>
+</resources>

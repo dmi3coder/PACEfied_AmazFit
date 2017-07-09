@@ -41,17 +41,27 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Paramètres</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
+    <string name="count_down_title">Timer</string>
+    <string name="count_down_default_new">Nouveau Timer</string>
+    <string name="count_down_end">Temps écoulé</string>
+    <string name="count_down_btn_end">Stop</string>
+    <string name="count_down_btn_pause">Pause</string>
+    <string name="count_down_btn_continue">Démarrer</string>
+    <string name="count_down_btn_stop">Stop</string>
+    <string name="count_down_picker_min">m</string>
+    <string name="count_down_picker_hour">h</string>
+    <string name="count_down_wrong_time_tips">Configurer un temps de timer valide</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">Selection Langue</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="no_heartrate_data_hint">Données cardio non détectées</string>
+    <string name="no_altitude_hint">Données d\'altitude non détectées</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Paramètres</string>
-    <string name="sport_music_settings">Sports musique</string>
+    <string name="sport_music_settings">Musique Sport</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centre d\'activité</string>
     <string name="widget_currentstep_activities">Pas aujourd\'hui</string>
