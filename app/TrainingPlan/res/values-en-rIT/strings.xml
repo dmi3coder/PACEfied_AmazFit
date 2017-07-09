@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Seleziona lingua</string>
+    <string name="locale_title">Imposta lingua</string>
     <string name="app_name">Centro Allenamento</string>
     <string name="app_train_center">Piano allenamento</string>
     <string name="my_train">Il mio allenamento</string>
@@ -22,25 +22,25 @@ migliorare le tue prestazioni, iniziamo!</string>
     <string name="train_record_complete_percent">Completato</string>
     <string name="day_train_record_status_finish">Completato</string>
     <string name="day_train_record_statis_un_finish">Non completato</string>
-    <string name="dialog_day_train_plan_is_complete">"Segnare i progressi di oggi come completati?"</string>
+    <string name="dialog_day_train_plan_is_complete">"Registrare i progressi di oggi come completati?"</string>
     <string name="dialog_delete_history_record">Se elimini questa registrazione, non potrà essere recuperata.</string>
-    <string name="dialog_train_plan_is_complete">Terminando non verrà considerato tra i tuoi obbiettivi, continuare?</string>
+    <string name="dialog_train_plan_is_complete">Terminando ora non verrà considerato tra i tuoi obiettivi, continuare?</string>
     <string name="last_day_rest_remind">L\’allenamento verrà sospeso per un giorno! Aiuta ricominciare dall\’ultimo esercizio</string>
-    <string name="cancel">Cancella</string>
-    <string name="dialog_delete">Annulla</string>
-    <string name="day_train_plan_record_marked">Segna</string>
+    <string name="cancel">Annulla</string>
+    <string name="dialog_delete">Elimina</string>
+    <string name="day_train_plan_record_marked">Registra</string>
     <string name="train_plan_recode_finished">Finito</string>
     <string name="train_mileage">Distanza totale (km)</string>
-    <string name="train_mileage_mils">Distanza totale (miles)</string>
+    <string name="train_mileage_mils">Distanza totale (miglia)</string>
     <string name="train_days">Giorni allenamento</string>
-    <string name="train_finish">Cocludi programma</string>
+    <string name="train_finish">Concludi programma</string>
     <string name="train_finished">Programma ultimato</string>
     <string name="today">Oggi</string>
     <string name="train_complete_rate">Percentuale completamento</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Assegnato</string>
     <string name="notification_title">Programma allenamento</string>
-    <string name="notificaiton_train_content">"Oggi non hai completato l\’allenamento.Forza!”</string>
+    <string name="notificaiton_train_content">"Oggi non hai completato l\’allenamento. Forza!”</string>
     <string name="this_train_record_finish">Programma già completato!</string>
     <string name="train_finish_reason">Causa del termine</string>
     <string name="length_unit_km">km</string>
