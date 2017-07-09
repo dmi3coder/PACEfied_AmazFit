@@ -27,7 +27,7 @@
     <string name="handling">\"Zpracovávám...\"</string>
     <string name="temperature_unit">°</string>
     <string name="string_seperate">-</string>
-    <string name="wind_unit">úrověň</string>
+    <string name="weather_wind_unit">úrověň</string>
     <string name="string_to">-</string>
     <string name="temperature_tab">/</string>
     <string name="button_begin">Klepnni na start</string>
