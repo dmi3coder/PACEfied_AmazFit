@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Krát</item>
+        <item quantity="one">Krát</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Krokov</item>
+        <item quantity="one">Krok</item>
+    </plurals>
+    <plurals name="weeklysports_day">
+        <item quantity="other">Dní</item>
+        <item quantity="one">Deň</item>
+    </plurals>
+</resources>

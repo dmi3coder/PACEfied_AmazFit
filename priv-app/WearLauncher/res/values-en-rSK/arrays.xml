@@ -13,13 +13,13 @@
         <item>@drawable/sport_start_loading</item>
     </array>
     <string-array name="quick_settings_status_week">
+        <item>Neď</item>
         <item>Pon</item>
-        <item>Ut</item>
+        <item>Uto</item>
         <item>Str</item>
         <item>Štv</item>
         <item>Pia</item>
         <item>Sob</item>
-        <item>Ned</item>
         <item>Dnes</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">

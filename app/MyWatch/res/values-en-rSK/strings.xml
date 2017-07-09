@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyWatch</string>
     <string name="iterations_count">Počet iterácií</string>
@@ -22,7 +22,7 @@
     <string name="file_size">Veľkosť súboru</string>
     <string name="confirm">Potvrdiť</string>
     <string name="cancel">Zrušiť</string>
-    <string name="unable_to_send">Nemôžem odoslať</string>
+    <string name="unable_to_send">Nemožno odoslať</string>
     <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
     <string name="simplified_chinese">中文(简体)</string>
     <string name="english_usa">Angličtina(US)</string>
@@ -44,7 +44,7 @@
     <string name="quit">odísť</string>
     <string name="start">štart</string>
     <string name="delete">Zmazať</string>
-    <string name="desc_all_day">%s(All day)</string>
+    <string name="desc_all_day">%s(Celý deň)</string>
     <string name="desc_time_period">%1$s(%2$s - %3$s)</string>
     <string name="delete_successful">Udalosť bola zmazaná</string>
     <string name="delete_unsuccessful">Nemožno zmazať udalosť</string>

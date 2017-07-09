@@ -40,16 +40,16 @@
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Bind</string>
     <string name="amazfit_app">Amazfit Watch App</string>
-    <string name="personal_info">Perzonální údaje</string>
-    <string name="time_zone_clock">Nastavení času</string>
+    <string name="personal_info">Osobné údaje</string>
+    <string name="time_zone_clock">Nastaveníe času</string>
     <string name="setting_time_format">Formát času</string>
-    <string name="connect">Spojenie</string>
-    <string name="common">Ostatné nastavenia</string>
+    <string name="connect">Pripojenie</string>
+    <string name="common">Nastavenia</string>
     <string name="device">Zariadenie</string>
     <string name="nodisturb">Nerušiť</string>
     <string name="auto_airplane">Auto mód lietadlo</string>
     <string name="wifi_upload">Nahrať</string>
-    <string name="replace_watchface">Zmeniť pozadie</string>
+    <string name="replace_watchface">Zmeniť vzhľad</string>
     <string name="wifi_auto_upload_switch">Auto.nahranie</string>
     <string name="nothing">Prázdne</string>
     <string name="about_title">Info</string>
@@ -71,8 +71,8 @@
     <string name="legal">Skontrolujte v Amazfit</string>
     <string name="legal2">Watch App</string>
     <string name="lab">Lab</string>
-    <string name="opened">Lab zapnuta</string>
-    <string name="closed">Lab vypnuta</string>
+    <string name="opened">Zap.</string>
+    <string name="closed">Vyp.</string>
     <string name="air_plane_mode_note">"Režim Lietadlo 
 Režim Lietadlo vypne Bluetooth a Wi-Fi pripojenie k internetu, aby sa šetrila energia. Ak potrebujete používať funkcie, které vyžadujú BT / WiFi, vypnete režim Lietadlo v Nastaveniach systému."</string>
     <string name="nodisturb_open_string">Zapnuté</string>
@@ -106,7 +106,7 @@ Pripojiť?"</string>
     <string name="button_enter">OK</string>
     <string name="button_cancel">Zrušiť</string>
     <string name="blt_cancel_paring">Párovanie zrušené</string>
-    <string name="bluetooth_pairing_error_message">Párovanie zlyhalo</string>
+    <string name="bluetooth_pairing_error_message">Párovanie s %1$s zlyhalo</string>
     <string name="bluetooth_connecting">Pripájam...</string>
     <string name="bluetooth_disconnecting">Odpájam...</string>
     <string name="blt_hint_paring">"%1s
@@ -116,11 +116,28 @@ zapnuté a v dosahu"</string>
     <string name="blt_hint_disconnect_device">Odpojiť</string>
     <string name="blt_hint_ignore_device">Ignorovať</string>
     <string name="blt_hint_connect_device">Pripojiť</string>
+    <string name="bluetooth_connected">Pripojené</string>
+    <string name="bluetooth_disconnected">Odpojené</string>
+    <string name="bluetooth_connecting_error_message">"Nepodarilo sa pripojť na %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Nepodarilo sa spárovať s %1$s kvôli nesprávnemu PIN alebo kľúču."</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Nepodarilá sa komunikácia s %1$s."</string>
+    <string name="bluetooth_pairing_rejected_error_message">Párovanie bolo odmietnute %1$s.</string>
+    <string name="bluetooth_turning_on">Zapínanie Bluetooth…</string>
+    <string name="bluetooth_turning_off">Vypínanie Bluetooth…</string>
+    <string name="bluetooth_enabled">Bluetooth je ON</string>
+    <string name="bluetooth_disabled">Bluetooth je OFF</string>
+    <string name="bluetooth_unknown">Neznámy stav</string>
     <string name="blt_confirm_ignore">Ste si istý, že chcete ignorovať toto zariadenie?</string>
-    <string name="phone_finding">Lokalizujem telefón...</string>
+    <string name="phone_finding">Vyhľadávanie telefónu...</string>
     <string name="phone_found">Telefón nájdený</string>
-    <string name="phone_not_connected">Telefón nepripojený</string>
-    <string name="phone_not_found">Telefón nenájdený</string>
+    <string name="phone_not_connected">Telefón nie je pripojený</string>
+    <string name="phone_not_found">Telefón sa nenašiel</string>
+    <string name="start_testing">Štart</string>
+    <string name="lab_wifi_test_tip_retry">Prosím opakujte!!</string>
+    <string name="lab_wifi_test_tip_testing">Testovanie…</string>
+    <string name="lab_wifi_test_tip_pass">Úspešne!!</string>
+    <string name="lab_wifi_test_tip_fail">Zlyhalo!!</string>
+    <string name="lab_wifi_test_tip_open_wifi">Otváranie WIFI</string>
     <string name="light_off">Vypnuté</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Vždy zapnuté</string>
@@ -141,7 +158,7 @@ zapnuté a v dosahu"</string>
     <string name="female">Žena</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Rok 
-narození"</string>
+narodenia"</string>
     <string name="height_unit">"Výška 
 cm"</string>
     <string name="weight_unit">"Hmotnosť 
@@ -164,7 +181,8 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Neznámé zařízení</string>
-    <string name="bind_tips_title">Please bind n to protect your data more securely</string>
+    <string name="bind_tips_title">Please bind 
+ to protect your data more securely</string>
     <string name="upgrade_checking">Vyhľadávam aktualizácie...</string>
     <string name="left_hand">Na ľavej</string>
     <string name="right_hand">Na pravej</string>

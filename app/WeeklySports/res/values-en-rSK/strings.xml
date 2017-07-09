@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Priem.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrď</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Dáto o tep. frek. neboli zistené</string>
+    <string name="no_altitude_hint">Výškové dáta neboli zistené</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavenia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="app_name">WeeklySports</string>
+    <string name="weeklysports_title">Týždenný sumár aktivít</string>
+    <string name="weeklysports_totalnumber_front">Celkovo cvičení</string>
+    <string name="weeklysports_totalstep_front">Prejdené</string>
+    <string name="weeklysports_totaltime">Celkový uplynulý čas</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Celkovo kalórií</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalmileage">Celková vzdialenosť</string>
+    <string name="weeklysports_totalmileage_unit_zh">km</string>
+    <string name="weeklysports_totalmileage_unit_en">mi</string>
+    <string name="weeklysports_averageheart">Priem. TF</string>
+    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_runerrate">Bežecké tempo</string>
+    <string name="weeklysports_outdoorrunrate">Outdoor run ave pace</string>
+    <string name="weeklysports_runerrate_unit_zh">/km</string>
+    <string name="weeklysports_runerrate_unit_en">/mi</string>
+    <string name="weeklysports_ridingrate">Rýchlosť bicyklovania</string>
+    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_activity">Pohyb</string>
+    <string name="weeklysports_running">Beh</string>
+    <string name="weeklysports_walking">Chôdza</string>
+    <string name="weeklysports_riding">Bicykel</string>
+    <string name="weekly_sports_notification_content">Sumár aktivít z minulého týždňa je pripravený.</string>
+</resources>

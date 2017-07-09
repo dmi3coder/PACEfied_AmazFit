@@ -6,6 +6,7 @@
     <string name="fahrenheit">℉</string>
     <string name="forecast_today">Dnes</string>
     <string name="forecast_tomorrow">Zajtra</string>
+    <string name="widget_title">Počasie</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
@@ -14,9 +15,9 @@
     <string name="type_to"> až </string>
     <string name="not_avalible_type">Žiadne dáta</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Kvalita ovzdušia </string>
+    <string name="air_quality">Kvalita ovzdušia</string>
     <string name="weather_title">Počasie dnes</string>
-    <string name="dot"> </string>
+    <string name="dot">.</string>
     <string name="weather_warning">Upozornenie</string>
     <string name="weather_warning_level_blue">Modrá</string>
     <string name="weather_warning_level_orange">Oranžová</string>
@@ -29,7 +30,7 @@
     <string name="weather_warning_rainstorm">Búrka</string>
     <string name="weather_warning_cold">Zima</string>
     <string name="weather_warning_gale">Víchrica</string>
-    <string name="weather_warning_sandstorm">Snehová búrka</string>
+    <string name="weather_warning_sandstorm">Piesočná búrka</string>
     <string name="weather_warning_temperature">Vysoké teploty</string>
     <string name="weather_warning_drought">Sucho</string>
     <string name="weather_warning_thunder">Hrom</string>
@@ -59,9 +60,10 @@
     <string name="fetch_failed_title">Údaje o počasí nedostupné</string>
     <string name="fetch_failed_msg">Uistite sa, že hodinky sú pripojené k aplikácii Amazfit a v aplikácii je správne nastavená lokácia.</string>
     <string name="date_time_format">MM-dd</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">天气类型无法识别</string>
-    <string name="data_checkfail_temp">天气温度超出范围</string>
-    <string name="data_checkfail_match">天气类型字段不匹配</string>
-    <string name="data_checkfail_json">JSON格式错误</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Chyba údajov predovedi！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Neznáme počasie</string>
+    <string name="data_checkfail_temp">Teplota nezistená</string>
+    <string name="data_checkfail_match">Počasie sa nezhoduje s dátami v telefóne</string>
+    <string name="data_checkfail_json">Chyba formátu JSON</string>
+    <string name="detailed">Detail počasia</string>
 </resources>
