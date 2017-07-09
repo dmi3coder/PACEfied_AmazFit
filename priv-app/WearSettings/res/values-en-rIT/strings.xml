@@ -4,8 +4,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
-    <string name="no_altitude_hint">Dati altitudine non rilevati</string>
+    <string name="no_heartrate_data_hint">Freq. card. ND</string>
+    <string name="no_altitude_hint">Dati altitudine ND</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sport Music</string>
@@ -26,6 +26,7 @@
     <string name="wear_habit">Polso</string>
     <string name="bugreport">Segnala Errore</string>
     <string name="light_change">Luminosità</string>
+    <string name="wrist_up">Ruota il polso</string>
     <string name="auto_nodisturb">Silenz. auto</string>
     <string name="double_click_wakeup">Sblocco 2 tap</string>
     <string name="vibration_intensity">Vibrazione</string>
@@ -41,9 +42,9 @@
     <string name="device">Dispositivo</string>
     <string name="nodisturb">Silenzioso</string>
     <string name="auto_airplane">Aereo auto</string>
-    <string name="wifi_upload">Carica</string>
+    <string name="wifi_upload">Upload</string>
     <string name="replace_watchface">WatchFaces</string>
-    <string name="wifi_auto_upload_switch">Carica auto</string>
+    <string name="wifi_auto_upload_switch">Upload auto</string>
     <string name="nothing">Vuoto</string>
     <string name="about_title">Info</string>
     <string name="model">Modello</string>
@@ -67,7 +68,7 @@
     <string name="opened">On</string>
     <string name="closed">Off</string>
     <string name="air_plane_mode_note">"Modo aereo
-Questa modalità disattiverà bluetooth, WiFi, Alipay e altre funzioni sull\'orologio. Per tornare ad utilizzare queste funzioni, disattivare il modo aereo in Impostazioni."</string>
+Questa modalità disattiverà bluetooth, WiFi, Alipay e altre funzioni sull\'orologio. Per tornare ad utilizzare queste funzioni, disattivare il modo aereo da Impostazioni."</string>
     <string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Off</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -136,6 +137,8 @@ sia acceso e nelle vicinanze"</string>
     <string name="light_on">Sempre attiva</string>
     <string name="rise_no_bl_under_slpt">Solo sbloccato</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto se sbloccato</string>
+    <string name="rise_with_bl_under_slpt">On</string>
+    <string name="rise_without_bl_under_slpt">Off</string>
     <string name="locale_title">Lingua</string>
     <string name="locale_applying">Applico lingua</string>
     <string name="zh_cn">Cinese (Semplificato)</string>
@@ -163,7 +166,7 @@ kg"</string>
     <string name="date_ymd">Data(A/M/G)</string>
     <string name="time_hms">Ora(H/M/S)</string>
     <string name="time_format">Formato ora</string>
-    <string name="hour_system">Sistema %s ore</string>
+    <string name="hour_system">%s ore</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="strong">Forte</string>
@@ -177,8 +180,8 @@ kg"</string>
     <string name="bind_tips_title">Prego accoppiare
 per proteggere i tuoi dati</string>
     <string name="upgrade_checking">Cerco aggiornamento...</string>
-    <string name="left_hand">Sinistra</string>
-    <string name="right_hand">Destra</string>
+    <string name="left_hand">Sinistro</string>
+    <string name="right_hand">Destro</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro dati</string>
     <string name="widget_currentstep_activities">Passi oggi</string>
