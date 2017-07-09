@@ -206,6 +206,8 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">Alarm Aerobik HR</string>
     <string name="settings_item_title_safe_heartrate_remind">HR Alarm</string>
     <string name="settings_item_title_auto_pause">Auto pauza</string>
+    <string name="settings_item_title_running_auto_pause">Uruchom autom.pauzę</string>
+    <string name="settings_item_title_riding_auto_pause">Jedź z auto pauzą</string>
     <string name="settings_item_title_target_use_time_remind">Czas docelowy</string>
     <string name="settings_item_title_target_distance_remind">Docelowa odległ.</string>
     <string name="settings_item_title_pace_remind">Alarm Tempa</string>

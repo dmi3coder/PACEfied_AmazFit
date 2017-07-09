@@ -16,8 +16,8 @@
     <string name="ios_unsupport_tips">（IOS nie obsługuje Alipay）</string>
     <string name="button_start_bind">Rozp.podłącz.</string>
     <string name="bind_usage">Skan. QR</string>
-    <string name="bar_code_tip">Pełna wypłata</string>
-    <string name="qr_code_tip">Skan. transferu</string>
+    <string name="bar_code_tip">Kod jest używany do zapłaty, płatność osobista</string>
+    <string name="qr_code_tip">Kod jest używany do zapłaty, płatność osobista</string>
     <string name="bind_success_title">Połączony</string>
     <string name="unbind_tip">Rozłącz się aby przestać korzystać z telefonu</string>
     <string name="button_ok">OK</string>

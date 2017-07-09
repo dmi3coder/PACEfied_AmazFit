@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potwierdź</string>
+    <string name="picker_default_nagetive_text">Wył.</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna</string>
+    <string name="no_altitude_hint">Brak danych o wysokości</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Zegarek może kontr.inne urządz.połącz.z aplik.MiHome</string>
+    <string name="mihome_widget_info_no_devices">Dodaj w aplik.MiHome urządz.aby móc je kontr. za pomocą zegarka</string>
+    <string name="mihome_activity_title_disconnected">Nie połączony</string>
+    <string name="mihome_activity_info_disconnected">Proszę podłączyć telefon do aplikacji Mi za pomocą BT lub sieci</string>
+    <string name="mihome_activity_btn_disconnected">Proszę podłączyć telefon do aplikacji Mi za pomocą BT lub sieci</string>
+    <string name="mihome_device_card_2_offline">[Offline]</string>
+</resources>
