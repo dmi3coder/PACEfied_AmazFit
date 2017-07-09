@@ -203,8 +203,10 @@
     <string name="settings_item_title_km_voice_remind">Aviso por voz</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerta aeróbica Rc</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerta de Rc</string>
+    <string name="settings_item_title_running_auto_pause">Autopausa corriendo</string>
+    <string name="settings_item_title_riding_auto_pause">Autopausa en ciclismo</string>															 
     <string name="settings_item_title_auto_pause">Pausa automática</string>
-    <string name="settings_item_title_target_use_time_remind">Meta de tiempo</string>
+    <string name="settings_item_title_target_use_time_remind">Meta de tiempo</string>													  
     <string name="settings_item_title_target_distance_remind">Meta de distancia</string>
     <string name="settings_item_title_pace_remind">Alerta de ritmo</string>
     <string name="settings_item_title_Leqi_remind">Alerta de cadencia</string>
