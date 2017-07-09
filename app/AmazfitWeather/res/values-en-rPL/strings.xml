@@ -33,7 +33,7 @@
     <string name="weather_warning_sandstorm">Burza pias.</string>
     <string name="weather_warning_temperature">Wysoka temp.</string>
     <string name="weather_warning_drought">Susza</string>
-    <string name="weather_warning_thunder">Grzmot i bysk.</string>
+    <string name="weather_warning_thunder">Grzmot</string>
     <string name="weather_warning_hail">Grad</string>
     <string name="weather_warning_frost">Mróz</string>
     <string name="weather_warning_fog">Gęsta mgła</string>
