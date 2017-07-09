@@ -33,11 +33,11 @@
     <string name="stop_watch_right_button_positive">Avvia</string>
     <string name="stop_watch_start_button">Avvia</string>
     <string name="stop_watch_right_button_negative">Stop</string>
-    <string name="stop_watch_lap_text">%d giro(i)</string>
+    <string name="stop_watch_lap_text">%d giro/i</string>
     <string name="stop_watch_default_lap">Cronometro</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
     <string name="stop_watch_lap_list_title_text">%d giro(i)</string>
-    <string name="title_activity_stopwatch">Attività Cronometro</string>
+    <string name="title_activity_stopwatch">Attività cronometro</string>
     <string name="hello_world">Ciao mondo!</string>
     <string name="action_settings">Impostazioni</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
