@@ -27,7 +27,6 @@
     <string name="handling">\"Przetwarzanie ...\"</string>
     <string name="temperature_unit">°</string>
 	<string name="string_seperate">~</string>
-    <string name="weather_wind_unit">poziom</string>
     <string name="string_to">-</string>
     <string name="temperature_tab">/</string>
     <string name="button_begin">Start</string>
