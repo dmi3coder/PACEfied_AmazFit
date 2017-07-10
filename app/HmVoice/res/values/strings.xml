@@ -46,8 +46,16 @@
     <string name="alarm_timer_error">Sorry, the server has a little problem. Please repeat it again.</string>
     <string name="alarm_alarm_outofbound">Sorry, you can not set the time limit beyond tomorrow\'s alarm clock.</string>
     <string name="alarm_timer_watchtimer_guide">Please turn on the watch timer application to operate.</string>
+    <string name="miot_guide_success_completed">Ok, no problem</string>
+    <string name="miot_guide_fail_completed">Ok, please tell me that you want to control the first few devices.</string>
     <string name="miot_guide_success">The following device has been opened for you..</string>
     <string name="miot_guide_fail">You want to open the following device.</string>
+    <string name="miot_guide_success_completed_todo">What you want to do.</string>
+    <string name="miot_button_dot">%1$s.</string>
+    <string name="miot_action_guide">You can choose to open, close, set the mode and other operations.</string>
+    <string name="miot_open">Adjusted to</string>
+    <string name="miot_mode">Mode</string>
+    <string name="miot_sorry">Sorry, only the equipment control of the air purifier is only supported.</string>
     <string name="weather_index">Weather for %1$s future %2$s</string>
     <string name="weather_sunny">Sunny</string>
     <string name="weather_cloudy">Cloudy</string>
