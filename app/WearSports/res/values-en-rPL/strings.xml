@@ -382,4 +382,15 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
+    <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
+<!--START of missed texts by Huami-->
+	<string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
+<!--END of missed texts by Huami-->
 </resources>
