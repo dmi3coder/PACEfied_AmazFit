@@ -10,11 +10,18 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música Deportiva</string>
-    <string name="mihome_widget_title">Mi Casa</string>
-    <string name="mihome_widget_info_unbind">此手表绑定米家App后可控制其他米家设备, 绑定时请不要离开此页面</string>
-    <string name="mihome_widget_info_no_devices">在米家App里添加想要此手表控制的米家设备</string>
-    <string name="mihome_activity_title_disconnected">未连接</string>
-    <string name="mihome_activity_info_disconnected">请先连接手机米家App或蓝牙网关</string>
-    <string name="mihome_activity_btn_disconnected">请先连接手机米家App或蓝牙网关</string>
-    <string name="mihome_device_card_2_offline">[离线]</string>
+    <string name="mihome_widget_title">MiHome</string>
+    <string name="mihome_widget_info_unbind">Este reloj puede ser usado para controlar otros equipos en MiHome despues de enlazarlo a la app MiHome, por favor no abandone esta página mientras este enlazando</string>
+    <string name="mihome_widget_info_no_devices">Agregar otros dispositivos en la app MiHome para que el reloj los pueda controlar</string>
+    <string name="mihome_activity_title_disconnected">No conectado</string>
+    <string name="mihome_activity_info_disconnected">Primero conecte el telefono a MiHome o al gateway Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Primero conecte el telefono a MiHome o al gateway Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[fuera de linea]</string>
+    <string name="widget_currentstep_title">Data Center</string>
+    <string name="widget_currentstep_activities">Pasos hoy</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sueño anoche</string>
+    <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
+    <string name="widget_currentstep_activity_no">¿No ejercito hoy?</string>
 </resources>
