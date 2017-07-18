@@ -9,7 +9,7 @@
         <item quantity="one">Step</item>
     </plurals>
     <plurals name="floor_unit">
-        <item quantity="other">Floors</item>
-        <item quantity="one">Floor</item>
+        <item quantity="other"> Floors</item>
+        <item quantity="one"> Floor</item>
     </plurals>
 </resources>
