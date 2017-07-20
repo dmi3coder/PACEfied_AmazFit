@@ -121,7 +121,7 @@
     <string name="heart_rate_distribution">Zóna Tepové frekvence</string>
     <string name="heart_rate_history">Předcházející průměr TF</string>
     <string name="label_all_day_heartrate_waring">Průběžné měření TF spotřebuje více baterie, pokračovat?</string>
-    <string name="measure_heartrate_button_text">Zkontrolovat nyní</string>
+    <string name="measure_heartrate_button_text">Měřit nyní</string>
     <string name="burning_fat_heart_rate">Spalování tuku</string>
     <string name="aerobic_heart_rate">Aerobic</string>
     <string name="high_strength_heart_rate">Anaerobic</string>
