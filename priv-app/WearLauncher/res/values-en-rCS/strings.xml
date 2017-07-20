@@ -51,8 +51,8 @@
     <string name="quick_settings_battery_is_charging">Nabíjí se...</string>
     <string name="quick_settings_battery_hasnot_charged">Bateria není nabita</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d dní %2$d hodin od nabití</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">Poslední nabití %dday</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">Poslední nabití %dhour</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">Poslední nabití %d dní</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">Poslední nabití %d hodin</string>
     <string name="quick_settings_battery_charging_intervalLessHour">Od posleního nabití uplynula méně než hodina</string>
     <string name="quick_settings_battery_sportString">Životnost baterie v módu GPS</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hodin</string>
