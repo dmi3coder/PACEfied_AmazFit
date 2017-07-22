@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout android:padding="7.5dip" android:layout_width="148.0dip" android:layout_height="148.0dip"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
     <TextView android:textSize="21.0px" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="bottom" android:id="@id/settings" android:background="@drawable/watchface_custom_btn_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/watchface_custom_btn_title" />
 </FrameLayout>
