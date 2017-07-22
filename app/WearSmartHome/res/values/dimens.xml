@@ -48,6 +48,7 @@
     <dimen name="mihome_widget_init_info_text_size_unbind">14.0sp</dimen>
     <dimen name="mihome_widget_init_info_text_size_nodevice">12.0sp</dimen>
     <dimen name="mihome_widget_init_loading_size">100.0px</dimen>
+    <dimen name="mihome_widget_init_loading_margin_top">134.0px</dimen>
     <dimen name="mihome_card_width">280.0px</dimen>
     <dimen name="mihome_card_height">120.0px</dimen>
     <dimen name="mihome_card_2_height">148.0px</dimen>

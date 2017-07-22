@@ -16,8 +16,8 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: 1.2.27
+  tag: 1.2.29
 version: 2.2.2
 versionInfo:
   versionCode: '300004'
-  versionName: 39 (217-mips)
+  versionName: 39 (223-mips)
