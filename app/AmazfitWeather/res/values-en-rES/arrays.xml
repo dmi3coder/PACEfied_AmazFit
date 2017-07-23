@@ -16,10 +16,10 @@
     <string-array name="weather_card_aqilevel">
         <item>Aire excelente</item>
         <item>Aire bueno</item>
-        <item>Polución +</item>
-        <item>Polución ++</item>
-        <item>Polución ++++</item>
-        <item>Polución +++++</item>
+        <item>Polución Ligera</item>
+        <item>Polución Moderada</item>
+        <item>Polución Fuerte</item>
+        <item>Polución Severa</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
@@ -41,14 +41,14 @@
         <item>Tormenta Eléctrica</item>
         <item>Lluvia torrencial</item>
         <item>Aguanieve</item>
-        <item>Granizo</item>
+        <item>Lluvia helada</item>
         <item>Granizo</item>
         <item>Nevadas ligeras</item>
         <item>Nieve moderada</item>
         <item>Fuertes nevadas</item>
         <item>Nevada</item>
         <item>Agua nieve</item>
-        <item>Nube tóxica</item>
+        <item>Polvareda</item>
         <item>Ventisca de arena</item>
         <item>Tormenta de arena</item>
         <item>Fuerte tormenta de arena</item>
