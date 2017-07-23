@@ -9,11 +9,6 @@
         <item>6</item>
         <item>7</item>
     </integer-array>
-    <string-array name="spring_depend">
-        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
-        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
-        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Alarme réglée pour 1min à partir de maintenant</item>
         <item>Alarme réglée pour %1$s à partir de maintenant</item>
