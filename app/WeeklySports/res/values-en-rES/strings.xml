@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Deporte Semanal</string>
+    <string name="average_text">Prom</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_negative_text">Cancelar</string>
+    <string name="no_heartrate_data_hint">No se detecto datos de Ritmo Cardiaco</string>
+    <string name="no_altitude_hint">No se detecto datos de Altitud</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="sport_music_settings">Música deportiva</string>
     <string name="weeklysports_title">Historial de Deporte Semanal</string>
     <string name="weeklysports_totalnumber_front">Entrenamientos Totales</string>
     <string name="weeklysports_totalstep_front">Andando</string>
@@ -9,8 +18,8 @@
     <string name="weeklysports_totalcalories">Calorias Totales</string>
     <string name="weeklysports_totalcalories_unit">kCal</string>
     <string name="weeklysports_totalmileage">Distancia Total</string>
-    <string name="weeklysports_averageheart">Promedio R.Cardiaco</string>
-    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_averageheart">Prom. Ritmo Cardiaco</string>
+    <string name="weeklysports_averageheart_unit">lpm</string>
     <string name="weeklysports_runerrate">Ritmo de carrera</string>
     <string name="weeklysports_outdoorrunrate">Carrera al aire libre</string>
     <string name="weeklysports_insiderunrate">Carrera en cinta</string>
