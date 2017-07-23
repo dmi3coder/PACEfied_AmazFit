@@ -11,11 +11,11 @@
     <string name="title_settings">Settings</string>
     <string name="sport_music_settings">Sports music</string>
     <string name="mihome_widget_title">Mi Home</string>
-    <string name="mihome_widget_info_unbind">This watch binding m home App can control other m home equipment, please do not leave this page when binding</string>
-    <string name="mihome_widget_info_no_devices">In the meter home App want to add this watch control of the meter home equipment</string>
-    <string name="mihome_activity_title_disconnected">not connected</string>
-    <string name="mihome_activity_info_disconnected">Please connect the mobile phone home or Bluetooth gateway</string>
-    <string name="mihome_activity_btn_disconnected">Please connect the mobile phone home or Bluetooth gateway</string>
+    <string name="mihome_widget_info_unbind">Paried with Mi Home App, This watch can control compatible Mi devices; do not exit when pairing</string>
+    <string name="mihome_widget_info_no_devices">In Mi home App, add Mi devices you want to control with this watch </string>
+    <string name="mihome_activity_title_disconnected">Not Connected</string>
+    <string name="mihome_activity_info_disconnected">Connect to Mi Home App on your phone via Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Connect to Mi Home App on your phone via Bluetooth</string>
     <string name="mihome_device_card_2_offline">[Offline]</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Data Center</string>
