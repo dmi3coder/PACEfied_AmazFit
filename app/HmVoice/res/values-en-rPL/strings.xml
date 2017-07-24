@@ -47,7 +47,7 @@
     <string name="alarm_alarm_outofbound">Niestety, nie możemy ustawić budzika na więcej niż jutro.</string>
     <string name="alarm_timer_watchtimer_guide">Otwórz aplikację do obsługi timera zegarek.</string>
     <string name="miot_guide_success_completed">Jasne, nie ma problemu.</string>
-    <string name="miot_guide_fail_completed">Powiedziedz mi, chcesz kontrolować pierwszez kilku urządzeń.</string>
+    <string name="miot_guide_fail_completed">Powiedziedz mi, chcesz kontrolować pierwsze z kilku urządzeń.</string>
     <string name="miot_guide_success_completed_todo">Chcesz, to zrobić.</string>
     <string name="miot_guide_nodevice">Niestety, nie mogę znaleźć urządz, które chcesz kontrolować.</string>
     <string name="miot_button_dot">%1$s.</string>
